@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <basic-transcription>
 <head>
-<meta-information><project-name>MEZZANINE</project-name><transcription-name>Rog-Art-N-G5082-P600080</transcription-name><referenced-file url="../AVD/Rog-Art-N-G5082-P600080.wav"/><ud-meta-information><ud-information attribute-name="ID posnetka">Artur-N-G5082-P600080</ud-information><ud-information attribute-name="Komentar"></ud-information><ud-information attribute-name="Vrsta govornega dogodka">Nejavni govor</ud-information><ud-information attribute-name="Opis govornega dogodka">Prosti dialog med dvema sogovornikoma</ud-information><ud-information attribute-name="Občina snemanja">Maribor</ud-information><ud-information attribute-name="Prostor snemanja">Stanovanje/pisarna</ud-information><ud-information attribute-name="Velikost prostora">Do 20 m2</ud-information><ud-information attribute-name="Vir">Lastni posnetek</ud-information><ud-information attribute-name="TEXT-ID">Artur-N-G5082-P600080</ud-information><ud-information attribute-name="SUBCORPUS">Artur-N</ud-information><ud-information attribute-name="TITLE">Pogovor o pisanju magistrske naloge</ud-information><ud-information attribute-name="DATE">2021-07</ud-information><ud-information attribute-name="SOURCE">lastni posnetek</ud-information><ud-information attribute-name="URL">-</ud-information><ud-information attribute-name="TEXT-REGION">Maribor</ud-information><ud-information attribute-name="DOMAIN">prosti dialog med dvema sogovornikoma</ud-information><ud-information attribute-name="TYPE">zasebni</ud-information><ud-information attribute-name="CHANNEL">osebni stik</ud-information></ud-meta-information><comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:05:07.912719 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.081127  2024-10-18T10:26:55.979106+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal.</comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="Artur-N-G5082">
+<meta-information><project-name>MEZZANINE</project-name><transcription-name>Rog-Art-N-G5082-P600080</transcription-name><referenced-file url="../AVD/Rog-Art-N-G5082-P600080.wav"/><ud-meta-information><ud-information attribute-name="Velikost prostora">Do 20 m2</ud-information><ud-information attribute-name="SUBCORPUS">Artur-N</ud-information><ud-information attribute-name="TITLE">Pogovor o pisanju magistrske naloge</ud-information><ud-information attribute-name="DATE">2021-07</ud-information><ud-information attribute-name="SOURCE">lastni posnetek</ud-information><ud-information attribute-name="URL">-</ud-information><ud-information attribute-name="TEXT-REGION">Maribor</ud-information><ud-information attribute-name="DOMAIN">prosti dialog med dvema sogovornikoma</ud-information><ud-information attribute-name="TYPE">zasebni</ud-information><ud-information attribute-name="CHANNEL">osebni stik</ud-information></ud-meta-information><comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:05:07.912719 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.081127  2024-10-18T10:26:55.979106+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="Artur-N-G5082">
 <abbreviation>Artur-N-G5082</abbreviation>
 <sex value="f"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
 <ud-speaker-information>
-<ud-information attribute-name="TEXT-ID">Rog-Art-N-G5082-P600080</ud-information><ud-information attribute-name="SUBCORPUS">Artur-N</ud-information><ud-information attribute-name="PRS-ID">Artur-N-G5082</ud-information><ud-information attribute-name="SEX">ženski</ud-information><ud-information attribute-name="AGE">30 do 59 let</ud-information><ud-information attribute-name="1LANG">slovenščina</ud-information><ud-information attribute-name="DIALECT">pogovorni jezik</ud-information><ud-information attribute-name="EDUCATION">fakulteta ali več</ud-information><ud-information attribute-name="PERM-RESD">primorsko-notranjska</ud-information><ud-information attribute-name="CHILD-RESD">-</ud-information></ud-speaker-information>
+<ud-information attribute-name="PRS-ID">Artur-N-G5082</ud-information><ud-information attribute-name="SEX">ženski</ud-information><ud-information attribute-name="AGE">30 do 59 let</ud-information><ud-information attribute-name="1LANG">slovenščina</ud-information><ud-information attribute-name="DIALECT">pogovorni jezik</ud-information><ud-information attribute-name="EDUCATION">fakulteta ali več</ud-information><ud-information attribute-name="PERM-RESD">primorsko-notranjska</ud-information><ud-information attribute-name="CHILD-RESD">-</ud-information><ud-information attribute-name="SOURCE-ID">Artur-N-G5082-P600080</ud-information><ud-information attribute-name="RECORDING-ID">Artur-N-G5082-P600080.wav</ud-information></ud-speaker-information>
 <comment></comment>
 </speaker>
 </speakertable></head>
@@ -292,140 +292,140 @@
 <event start="Artur-N-G5082-P600080.t15.w11" end="Artur-N-G5082-P600080.t15.w12">Ljubljani</event>
 <event start="Artur-N-G5082-P600080.t15.w12" end="Artur-N-G5082-P600080.t15.w12_">,</event>
 <event start="Artur-N-G5082-P600080.t15.w12_" end="Artur-N-G5082-P600080.t16">ne</event>
-</tier><tier id="1" speaker="Artur-N-G5082" category="v" type="t" display-name="Artur-N-G5082 [norm]"><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">okej </event>
-<event start="Artur-N-G5082-P600080.t2.w1" end="Artur-N-G5082-P600080.t2.w1_">, </event>
-<event start="Artur-N-G5082-P600080.t2.w1_" end="Artur-N-G5082-P600080.t2.w2">eee </event>
-<event start="Artur-N-G5082-P600080.t2.w2" end="Artur-N-G5082-P600080.t2.w2_">, </event>
-<event start="Artur-N-G5082-P600080.t2.w2_" end="Artur-N-G5082-P600080.t2.w3">jaz </event>
-<event start="Artur-N-G5082-P600080.t2.w3" end="Artur-N-G5082-P600080.t2.w4">sem </event>
-<event start="Artur-N-G5082-P600080.t2.w4" end="Artur-N-G5082-P600080.t2.w5">slišala </event>
-<event start="Artur-N-G5082-P600080.t2.w5" end="Artur-N-G5082-P600080.t2.w5_">, </event>
-<event start="Artur-N-G5082-P600080.t2.w5_" end="Artur-N-G5082-P600080.t2.w6">da </event>
-<event start="Artur-N-G5082-P600080.t2.w6" end="Artur-N-G5082-P600080.t2.w7">pač </event>
-<event start="Artur-N-G5082-P600080.t2.w7" end="Artur-N-G5082-P600080.t2.w8">delaš </event>
-<event start="Artur-N-G5082-P600080.t2.w8" end="Artur-N-G5082-P600080.t2.w9">ti </event>
-<event start="Artur-N-G5082-P600080.t2.w9" end="Artur-N-G5082-P600080.t2.w10">zdaj </event>
-<event start="Artur-N-G5082-P600080.t2.w10" end="Artur-N-G5082-P600080.t2.w11">magistrsko </event>
-<event start="Artur-N-G5082-P600080.t2.w11" end="Artur-N-G5082-P600080.t2.w11_">, </event>
-<event start="Artur-N-G5082-P600080.t2.w11_" end="Artur-N-G5082-P600080.t2.w12">ne </event>
-<event start="Artur-N-G5082-P600080.t2.w12" end="Artur-N-G5082-P600080.t2.w13">pač </event>
-<event start="Artur-N-G5082-P600080.t2.w13" end="Artur-N-G5082-P600080.t2.w14">v </event>
-<event start="Artur-N-G5082-P600080.t2.w14" end="Artur-N-G5082-P600080.t2.w15">zvezi </event>
-<event start="Artur-N-G5082-P600080.t2.w15" end="Artur-N-G5082-P600080.t2.w16">s </event>
-<event start="Artur-N-G5082-P600080.t2.w16" end="Artur-N-G5082-P600080.t2.w17">s </event>
-<event start="Artur-N-G5082-P600080.t2.w17" end="Artur-N-G5082-P600080.t2.w18">Pekarno </event>
-<event start="Artur-N-G5082-P600080.t2.w18" end="Artur-N-G5082-P600080.t2.w18_">, </event>
-<event start="Artur-N-G5082-P600080.t2.w18_" end="Artur-N-G5082-P600080.t3">ne </event>
-<event start="Artur-N-G5082-P600080.t3" end="Artur-N-G5082-P600080.t3_">, </event>
-<event start="Artur-N-G5082-P600080.t3.w0" end="Artur-N-G5082-P600080.t3.w1">med </event>
-<event start="Artur-N-G5082-P600080.t3.w1" end="Artur-N-G5082-P600080.t3.w2">drugim </event>
-<event start="Artur-N-G5082-P600080.t3.w2" end="Artur-N-G5082-P600080.t3.w3">tudi </event>
-<event start="Artur-N-G5082-P600080.t3.w3" end="Artur-N-G5082-P600080.t3.w3_">, </event>
-<event start="Artur-N-G5082-P600080.t3.w3_" end="Artur-N-G5082-P600080.t3.w4">no </event>
-<event start="Artur-N-G5082-P600080.t3.w4" end="Artur-N-G5082-P600080.t3.w4_">, </event>
-<event start="Artur-N-G5082-P600080.t3.w4_" end="Artur-N-G5082-P600080.t3.w5">mislim </event>
-<event start="Artur-N-G5082-P600080.t3.w5" end="Artur-N-G5082-P600080.t3.w5_">, </event>
-<event start="Artur-N-G5082-P600080.t3.w5_" end="Artur-N-G5082-P600080.t3.w6">ja </event>
-<event start="Artur-N-G5082-P600080.t3.w6" end="Artur-N-G5082-P600080.t3.w6_">. </event>
-<event start="Artur-N-G5082-P600080.t3.w6_" end="Artur-N-G5082-P600080.t3.w7">pa </event>
-<event start="Artur-N-G5082-P600080.t3.w7" end="Artur-N-G5082-P600080.t3.w8">me </event>
-<event start="Artur-N-G5082-P600080.t3.w8" end="Artur-N-G5082-P600080.t3.w9">zanima </event>
-<event start="Artur-N-G5082-P600080.t3.w9" end="Artur-N-G5082-P600080.t3.w10">okej </event>
-<event start="Artur-N-G5082-P600080.t3.w10" end="Artur-N-G5082-P600080.t3.w10_">, </event>
-<event start="Artur-N-G5082-P600080.t3.w10_" end="Artur-N-G5082-P600080.t3.w11">če </event>
-<event start="Artur-N-G5082-P600080.t3.w11" end="Artur-N-G5082-P600080.t3.w12">mi </event>
-<event start="Artur-N-G5082-P600080.t3.w12" end="Artur-N-G5082-P600080.t3.w13">lahko </event>
-<event start="Artur-N-G5082-P600080.t3.w13" end="Artur-N-G5082-P600080.t3.w14">kaj </event>
-<event start="Artur-N-G5082-P600080.t3.w14" end="Artur-N-G5082-P600080.t3.w15">več </event>
-<event start="Artur-N-G5082-P600080.t3.w15" end="Artur-N-G5082-P600080.t3.w16">poveš </event>
-<event start="Artur-N-G5082-P600080.t3.w16" end="Artur-N-G5082-P600080.t3.w17">o </event>
-<event start="Artur-N-G5082-P600080.t3.w17" end="Artur-N-G5082-P600080.t4">tem </event>
-<event start="Artur-N-G5082-P600080.t4" end="Artur-N-G5082-P600080.t4_">. </event>
-<event start="Artur-N-G5082-P600080.t4.w0" end="Artur-N-G5082-P600080.t4.w1">pač </event>
-<event start="Artur-N-G5082-P600080.t4.w1" end="Artur-N-G5082-P600080.t4.w2">v </event>
-<event start="Artur-N-G5082-P600080.t4.w2" end="Artur-N-G5082-P600080.t4.w3">bistvu </event>
-<event start="Artur-N-G5082-P600080.t4.w3" end="Artur-N-G5082-P600080.t4.w3_">, </event>
-<event start="Artur-N-G5082-P600080.t4.w3_" end="Artur-N-G5082-P600080.t4.w4">kaj </event>
-<event start="Artur-N-G5082-P600080.t4.w4" end="Artur-N-G5082-P600080.t4.w5">raziskuješ </event>
-<event start="Artur-N-G5082-P600080.t4.w5" end="Artur-N-G5082-P600080.t4.w5_">, </event>
-<event start="Artur-N-G5082-P600080.t4.w5_" end="Artur-N-G5082-P600080.t5">ne </event>
-<event start="Artur-N-G5082-P600080.t6.w0" end="Artur-N-G5082-P600080.t7">mhm </event>
-<event start="Artur-N-G5082-P600080.t7" end="Artur-N-G5082-P600080.t7_">. </event>
-<event start="Artur-N-G5082-P600080.t7.w0" end="Artur-N-G5082-P600080.t7.w1">okej </event>
-<event start="Artur-N-G5082-P600080.t7.w1" end="Artur-N-G5082-P600080.t7.w1_">, </event>
-<event start="Artur-N-G5082-P600080.t7.w1_" end="Artur-N-G5082-P600080.t7.w2">in </event>
-<event start="Artur-N-G5082-P600080.t7.w2" end="Artur-N-G5082-P600080.t7.w3">kaj </event>
-<event start="Artur-N-G5082-P600080.t7.w3" end="Artur-N-G5082-P600080.t7.w4">so </event>
-<event start="Artur-N-G5082-P600080.t7.w4" end="Artur-N-G5082-P600080.t7.w5">te </event>
-<event start="Artur-N-G5082-P600080.t7.w5" end="Artur-N-G5082-P600080.t7.w6">razlike </event>
-<event start="Artur-N-G5082-P600080.t7.w6" end="Artur-N-G5082-P600080.t7.w7">med </event>
-<event start="Artur-N-G5082-P600080.t7.w7" end="Artur-N-G5082-P600080.t7.w8">temi </event>
-<event start="Artur-N-G5082-P600080.t7.w8" end="Artur-N-G5082-P600080.t7.w9">tremi </event>
-<event start="Artur-N-G5082-P600080.t7.w9" end="Artur-N-G5082-P600080.t7.w10">različnimi </event>
-<event start="Artur-N-G5082-P600080.t7.w10" end="Artur-N-G5082-P600080.t7.w11">kapitali </event>
-<event start="Artur-N-G5082-P600080.t7.w11" end="Artur-N-G5082-P600080.t8">pač </event>
-<event start="Artur-N-G5082-P600080.t8" end="Artur-N-G5082-P600080.t8_">, </event>
-<event start="Artur-N-G5082-P600080.t8_" end="Artur-N-G5082-P600080.t8.w0">[0.5]  </event>
-<event start="Artur-N-G5082-P600080.t8.w0" end="Artur-N-G5082-P600080.t8.w1">če </event>
-<event start="Artur-N-G5082-P600080.t8.w1" end="Artur-N-G5082-P600080.t8.w2">bi </event>
-<event start="Artur-N-G5082-P600080.t8.w2" end="Artur-N-G5082-P600080.t8.w3">lahko </event>
-<event start="Artur-N-G5082-P600080.t8.w3" end="Artur-N-G5082-P600080.t8.w4">znal </event>
-<event start="Artur-N-G5082-P600080.t8.w4" end="Artur-N-G5082-P600080.t8.w5">tako </event>
-<event start="Artur-N-G5082-P600080.t8.w5" end="Artur-N-G5082-P600080.t8.w6">mi </event>
-<event start="Artur-N-G5082-P600080.t8.w6" end="T1">malo </event>
-<event start="T1" end="Artur-N-G5082-P600080.t8.w7">[0.2]  </event>
-<event start="Artur-N-G5082-P600080.t8.w7" end="Artur-N-G5082-P600080.t8.w8">povedati </event>
-<event start="Artur-N-G5082-P600080.t8.w8" end="Artur-N-G5082-P600080.t8.w8_">, </event>
-<event start="Artur-N-G5082-P600080.t8.w8_" end="Artur-N-G5082-P600080.t8.w9">da </event>
-<event start="Artur-N-G5082-P600080.t8.w9" end="Artur-N-G5082-P600080.t8.w10">si </event>
-<event start="Artur-N-G5082-P600080.t8.w10" end="Artur-N-G5082-P600080.t8.w11">lažje </event>
-<event start="Artur-N-G5082-P600080.t8.w11" end="Artur-N-G5082-P600080.t9">predstavljam </event>
-<event start="Artur-N-G5082-P600080.t9" end="Artur-N-G5082-P600080.t9_">. </event>
-<event start="Artur-N-G5082-P600080.t10.w0" end="Artur-N-G5082-P600080.t10.w1">okej </event>
-<event start="Artur-N-G5082-P600080.t10.w1" end="Artur-N-G5082-P600080.t10.w1_">, </event>
-<event start="Artur-N-G5082-P600080.t10.w1_" end="Artur-N-G5082-P600080.t10.w2">in </event>
-<event start="Artur-N-G5082-P600080.t10.w2" end="Artur-N-G5082-P600080.t10.w3">ti </event>
-<event start="Artur-N-G5082-P600080.t10.w3" end="Artur-N-G5082-P600080.t10.w4">se </event>
-<event start="Artur-N-G5082-P600080.t10.w4" end="Artur-N-G5082-P600080.t10.w5">boš </event>
-<event start="Artur-N-G5082-P600080.t10.w5" end="Artur-N-G5082-P600080.t10.w6">osredotočil </event>
-<event start="Artur-N-G5082-P600080.t10.w6" end="Artur-N-G5082-P600080.t11">kam </event>
-<event start="Artur-N-G5082-P600080.t12.w0" end="Artur-N-G5082-P600080.t12.w1">zdaj </event>
-<event start="Artur-N-G5082-P600080.t12.w1" end="Artur-N-G5082-P600080.t12.w2">si </event>
-<event start="Artur-N-G5082-P600080.t12.w2" end="Artur-N-G5082-P600080.t12.w3">se </event>
-<event start="Artur-N-G5082-P600080.t12.w3" end="Artur-N-G5082-P600080.t12.w4">odločil </event>
-<event start="Artur-N-G5082-P600080.t12.w4" end="Artur-N-G5082-P600080.t12.w4_">, </event>
-<event start="Artur-N-G5082-P600080.t12.w4_" end="Artur-N-G5082-P600080.t12.w5">da </event>
-<event start="Artur-N-G5082-P600080.t12.w5" end="Artur-N-G5082-P600080.t12.w6">boš </event>
-<event start="Artur-N-G5082-P600080.t12.w6" end="Artur-N-G5082-P600080.t12.w7">imel </event>
-<event start="Artur-N-G5082-P600080.t12.w7" end="Artur-N-G5082-P600080.t12.w8">v </event>
-<event start="Artur-N-G5082-P600080.t12.w8" end="Artur-N-G5082-P600080.t12.w9">bistvu </event>
-<event start="Artur-N-G5082-P600080.t12.w9" end="Artur-N-G5082-P600080.t12.w10">intervjuje </event>
-<event start="Artur-N-G5082-P600080.t12.w10" end="Artur-N-G5082-P600080.t12.w11">z </event>
-<event start="Artur-N-G5082-P600080.t12.w11" end="Artur-N-G5082-P600080.t12.w12">z </event>
-<event start="Artur-N-G5082-P600080.t12.w12" end="Artur-N-G5082-P600080.t12.w13">ljudmi </event>
-<event start="Artur-N-G5082-P600080.t12.w13" end="Artur-N-G5082-P600080.t12.w13_">, </event>
-<event start="Artur-N-G5082-P600080.t12.w13_" end="Artur-N-G5082-P600080.t12.w14">ki </event>
-<event start="Artur-N-G5082-P600080.t12.w14" end="Artur-N-G5082-P600080.t12.w15">v </event>
-<event start="Artur-N-G5082-P600080.t12.w15" end="Artur-N-G5082-P600080.t12.w16">bistvu </event>
-<event start="Artur-N-G5082-P600080.t12.w16" end="Artur-N-G5082-P600080.t12.w17">nekako </event>
-<event start="Artur-N-G5082-P600080.t12.w17" end="Artur-N-G5082-P600080.t13">delajo </event>
-<event start="Artur-N-G5082-P600080.t14.w0" end="Artur-N-G5082-P600080.t15">mmm </event>
-<event start="Artur-N-G5082-P600080.t15" end="Artur-N-G5082-P600080.t15_">. </event>
-<event start="Artur-N-G5082-P600080.t15.w0" end="Artur-N-G5082-P600080.t15.w1">to </event>
-<event start="Artur-N-G5082-P600080.t15.w1" end="Artur-N-G5082-P600080.t15.w2">je </event>
-<event start="Artur-N-G5082-P600080.t15.w2" end="Artur-N-G5082-P600080.t15.w3">v </event>
-<event start="Artur-N-G5082-P600080.t15.w3" end="Artur-N-G5082-P600080.t15.w4">bistvu </event>
-<event start="Artur-N-G5082-P600080.t15.w4" end="Artur-N-G5082-P600080.t15.w5">ful </event>
-<event start="Artur-N-G5082-P600080.t15.w5" end="Artur-N-G5082-P600080.t15.w6">podobno </event>
-<event start="Artur-N-G5082-P600080.t15.w6" end="Artur-N-G5082-P600080.t15.w6_">, </event>
-<event start="Artur-N-G5082-P600080.t15.w6_" end="Artur-N-G5082-P600080.t15.w7">kot </event>
-<event start="Artur-N-G5082-P600080.t15.w7" end="Artur-N-G5082-P600080.t15.w8">na </event>
-<event start="Artur-N-G5082-P600080.t15.w8" end="Artur-N-G5082-P600080.t15.w9">primer </event>
-<event start="Artur-N-G5082-P600080.t15.w9" end="Artur-N-G5082-P600080.t15.w10">Metelkova </event>
-<event start="Artur-N-G5082-P600080.t15.w10" end="Artur-N-G5082-P600080.t15.w11">v </event>
-<event start="Artur-N-G5082-P600080.t15.w11" end="Artur-N-G5082-P600080.t15.w12">Ljubljani </event>
-<event start="Artur-N-G5082-P600080.t15.w12" end="Artur-N-G5082-P600080.t15.w12_">, </event>
-<event start="Artur-N-G5082-P600080.t15.w12_" end="Artur-N-G5082-P600080.t16">ne </event>
+</tier><tier id="1" speaker="Artur-N-G5082" category="v" type="t" display-name="Artur-N-G5082 [norm]"><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">okej  </event>
+<event start="Artur-N-G5082-P600080.t2.w1" end="Artur-N-G5082-P600080.t2.w1_">,  </event>
+<event start="Artur-N-G5082-P600080.t2.w1_" end="Artur-N-G5082-P600080.t2.w2">eee  </event>
+<event start="Artur-N-G5082-P600080.t2.w2" end="Artur-N-G5082-P600080.t2.w2_">,  </event>
+<event start="Artur-N-G5082-P600080.t2.w2_" end="Artur-N-G5082-P600080.t2.w3">jaz  </event>
+<event start="Artur-N-G5082-P600080.t2.w3" end="Artur-N-G5082-P600080.t2.w4">sem  </event>
+<event start="Artur-N-G5082-P600080.t2.w4" end="Artur-N-G5082-P600080.t2.w5">slišala  </event>
+<event start="Artur-N-G5082-P600080.t2.w5" end="Artur-N-G5082-P600080.t2.w5_">,  </event>
+<event start="Artur-N-G5082-P600080.t2.w5_" end="Artur-N-G5082-P600080.t2.w6">da  </event>
+<event start="Artur-N-G5082-P600080.t2.w6" end="Artur-N-G5082-P600080.t2.w7">pač  </event>
+<event start="Artur-N-G5082-P600080.t2.w7" end="Artur-N-G5082-P600080.t2.w8">delaš  </event>
+<event start="Artur-N-G5082-P600080.t2.w8" end="Artur-N-G5082-P600080.t2.w9">ti  </event>
+<event start="Artur-N-G5082-P600080.t2.w9" end="Artur-N-G5082-P600080.t2.w10">zdaj  </event>
+<event start="Artur-N-G5082-P600080.t2.w10" end="Artur-N-G5082-P600080.t2.w11">magistrsko  </event>
+<event start="Artur-N-G5082-P600080.t2.w11" end="Artur-N-G5082-P600080.t2.w11_">,  </event>
+<event start="Artur-N-G5082-P600080.t2.w11_" end="Artur-N-G5082-P600080.t2.w12">ne  </event>
+<event start="Artur-N-G5082-P600080.t2.w12" end="Artur-N-G5082-P600080.t2.w13">pač  </event>
+<event start="Artur-N-G5082-P600080.t2.w13" end="Artur-N-G5082-P600080.t2.w14">v  </event>
+<event start="Artur-N-G5082-P600080.t2.w14" end="Artur-N-G5082-P600080.t2.w15">zvezi  </event>
+<event start="Artur-N-G5082-P600080.t2.w15" end="Artur-N-G5082-P600080.t2.w16">s  </event>
+<event start="Artur-N-G5082-P600080.t2.w16" end="Artur-N-G5082-P600080.t2.w17">s  </event>
+<event start="Artur-N-G5082-P600080.t2.w17" end="Artur-N-G5082-P600080.t2.w18">Pekarno  </event>
+<event start="Artur-N-G5082-P600080.t2.w18" end="Artur-N-G5082-P600080.t2.w18_">,  </event>
+<event start="Artur-N-G5082-P600080.t2.w18_" end="Artur-N-G5082-P600080.t3">ne  </event>
+<event start="Artur-N-G5082-P600080.t3" end="Artur-N-G5082-P600080.t3_">,  </event>
+<event start="Artur-N-G5082-P600080.t3.w0" end="Artur-N-G5082-P600080.t3.w1">med  </event>
+<event start="Artur-N-G5082-P600080.t3.w1" end="Artur-N-G5082-P600080.t3.w2">drugim  </event>
+<event start="Artur-N-G5082-P600080.t3.w2" end="Artur-N-G5082-P600080.t3.w3">tudi  </event>
+<event start="Artur-N-G5082-P600080.t3.w3" end="Artur-N-G5082-P600080.t3.w3_">,  </event>
+<event start="Artur-N-G5082-P600080.t3.w3_" end="Artur-N-G5082-P600080.t3.w4">no  </event>
+<event start="Artur-N-G5082-P600080.t3.w4" end="Artur-N-G5082-P600080.t3.w4_">,  </event>
+<event start="Artur-N-G5082-P600080.t3.w4_" end="Artur-N-G5082-P600080.t3.w5">mislim  </event>
+<event start="Artur-N-G5082-P600080.t3.w5" end="Artur-N-G5082-P600080.t3.w5_">,  </event>
+<event start="Artur-N-G5082-P600080.t3.w5_" end="Artur-N-G5082-P600080.t3.w6">ja  </event>
+<event start="Artur-N-G5082-P600080.t3.w6" end="Artur-N-G5082-P600080.t3.w6_">.  </event>
+<event start="Artur-N-G5082-P600080.t3.w6_" end="Artur-N-G5082-P600080.t3.w7">pa  </event>
+<event start="Artur-N-G5082-P600080.t3.w7" end="Artur-N-G5082-P600080.t3.w8">me  </event>
+<event start="Artur-N-G5082-P600080.t3.w8" end="Artur-N-G5082-P600080.t3.w9">zanima  </event>
+<event start="Artur-N-G5082-P600080.t3.w9" end="Artur-N-G5082-P600080.t3.w10">okej  </event>
+<event start="Artur-N-G5082-P600080.t3.w10" end="Artur-N-G5082-P600080.t3.w10_">,  </event>
+<event start="Artur-N-G5082-P600080.t3.w10_" end="Artur-N-G5082-P600080.t3.w11">če  </event>
+<event start="Artur-N-G5082-P600080.t3.w11" end="Artur-N-G5082-P600080.t3.w12">mi  </event>
+<event start="Artur-N-G5082-P600080.t3.w12" end="Artur-N-G5082-P600080.t3.w13">lahko  </event>
+<event start="Artur-N-G5082-P600080.t3.w13" end="Artur-N-G5082-P600080.t3.w14">kaj  </event>
+<event start="Artur-N-G5082-P600080.t3.w14" end="Artur-N-G5082-P600080.t3.w15">več  </event>
+<event start="Artur-N-G5082-P600080.t3.w15" end="Artur-N-G5082-P600080.t3.w16">poveš  </event>
+<event start="Artur-N-G5082-P600080.t3.w16" end="Artur-N-G5082-P600080.t3.w17">o  </event>
+<event start="Artur-N-G5082-P600080.t3.w17" end="Artur-N-G5082-P600080.t4">tem  </event>
+<event start="Artur-N-G5082-P600080.t4" end="Artur-N-G5082-P600080.t4_">.  </event>
+<event start="Artur-N-G5082-P600080.t4.w0" end="Artur-N-G5082-P600080.t4.w1">pač  </event>
+<event start="Artur-N-G5082-P600080.t4.w1" end="Artur-N-G5082-P600080.t4.w2">v  </event>
+<event start="Artur-N-G5082-P600080.t4.w2" end="Artur-N-G5082-P600080.t4.w3">bistvu  </event>
+<event start="Artur-N-G5082-P600080.t4.w3" end="Artur-N-G5082-P600080.t4.w3_">,  </event>
+<event start="Artur-N-G5082-P600080.t4.w3_" end="Artur-N-G5082-P600080.t4.w4">kaj  </event>
+<event start="Artur-N-G5082-P600080.t4.w4" end="Artur-N-G5082-P600080.t4.w5">raziskuješ  </event>
+<event start="Artur-N-G5082-P600080.t4.w5" end="Artur-N-G5082-P600080.t4.w5_">,  </event>
+<event start="Artur-N-G5082-P600080.t4.w5_" end="Artur-N-G5082-P600080.t5">ne  </event>
+<event start="Artur-N-G5082-P600080.t6.w0" end="Artur-N-G5082-P600080.t7">mhm  </event>
+<event start="Artur-N-G5082-P600080.t7" end="Artur-N-G5082-P600080.t7_">.  </event>
+<event start="Artur-N-G5082-P600080.t7.w0" end="Artur-N-G5082-P600080.t7.w1">okej  </event>
+<event start="Artur-N-G5082-P600080.t7.w1" end="Artur-N-G5082-P600080.t7.w1_">,  </event>
+<event start="Artur-N-G5082-P600080.t7.w1_" end="Artur-N-G5082-P600080.t7.w2">in  </event>
+<event start="Artur-N-G5082-P600080.t7.w2" end="Artur-N-G5082-P600080.t7.w3">kaj  </event>
+<event start="Artur-N-G5082-P600080.t7.w3" end="Artur-N-G5082-P600080.t7.w4">so  </event>
+<event start="Artur-N-G5082-P600080.t7.w4" end="Artur-N-G5082-P600080.t7.w5">te  </event>
+<event start="Artur-N-G5082-P600080.t7.w5" end="Artur-N-G5082-P600080.t7.w6">razlike  </event>
+<event start="Artur-N-G5082-P600080.t7.w6" end="Artur-N-G5082-P600080.t7.w7">med  </event>
+<event start="Artur-N-G5082-P600080.t7.w7" end="Artur-N-G5082-P600080.t7.w8">temi  </event>
+<event start="Artur-N-G5082-P600080.t7.w8" end="Artur-N-G5082-P600080.t7.w9">tremi  </event>
+<event start="Artur-N-G5082-P600080.t7.w9" end="Artur-N-G5082-P600080.t7.w10">različnimi  </event>
+<event start="Artur-N-G5082-P600080.t7.w10" end="Artur-N-G5082-P600080.t7.w11">kapitali  </event>
+<event start="Artur-N-G5082-P600080.t7.w11" end="Artur-N-G5082-P600080.t8">pač  </event>
+<event start="Artur-N-G5082-P600080.t8" end="Artur-N-G5082-P600080.t8_">,  </event>
+<event start="Artur-N-G5082-P600080.t8_" end="Artur-N-G5082-P600080.t8.w0">[0.5]   </event>
+<event start="Artur-N-G5082-P600080.t8.w0" end="Artur-N-G5082-P600080.t8.w1">če  </event>
+<event start="Artur-N-G5082-P600080.t8.w1" end="Artur-N-G5082-P600080.t8.w2">bi  </event>
+<event start="Artur-N-G5082-P600080.t8.w2" end="Artur-N-G5082-P600080.t8.w3">lahko  </event>
+<event start="Artur-N-G5082-P600080.t8.w3" end="Artur-N-G5082-P600080.t8.w4">znal  </event>
+<event start="Artur-N-G5082-P600080.t8.w4" end="Artur-N-G5082-P600080.t8.w5">tako  </event>
+<event start="Artur-N-G5082-P600080.t8.w5" end="Artur-N-G5082-P600080.t8.w6">mi  </event>
+<event start="Artur-N-G5082-P600080.t8.w6" end="T1">malo  </event>
+<event start="T1" end="Artur-N-G5082-P600080.t8.w7">[0.2]   </event>
+<event start="Artur-N-G5082-P600080.t8.w7" end="Artur-N-G5082-P600080.t8.w8">povedati  </event>
+<event start="Artur-N-G5082-P600080.t8.w8" end="Artur-N-G5082-P600080.t8.w8_">,  </event>
+<event start="Artur-N-G5082-P600080.t8.w8_" end="Artur-N-G5082-P600080.t8.w9">da  </event>
+<event start="Artur-N-G5082-P600080.t8.w9" end="Artur-N-G5082-P600080.t8.w10">si  </event>
+<event start="Artur-N-G5082-P600080.t8.w10" end="Artur-N-G5082-P600080.t8.w11">lažje  </event>
+<event start="Artur-N-G5082-P600080.t8.w11" end="Artur-N-G5082-P600080.t9">predstavljam  </event>
+<event start="Artur-N-G5082-P600080.t9" end="Artur-N-G5082-P600080.t9_">.  </event>
+<event start="Artur-N-G5082-P600080.t10.w0" end="Artur-N-G5082-P600080.t10.w1">okej  </event>
+<event start="Artur-N-G5082-P600080.t10.w1" end="Artur-N-G5082-P600080.t10.w1_">,  </event>
+<event start="Artur-N-G5082-P600080.t10.w1_" end="Artur-N-G5082-P600080.t10.w2">in  </event>
+<event start="Artur-N-G5082-P600080.t10.w2" end="Artur-N-G5082-P600080.t10.w3">ti  </event>
+<event start="Artur-N-G5082-P600080.t10.w3" end="Artur-N-G5082-P600080.t10.w4">se  </event>
+<event start="Artur-N-G5082-P600080.t10.w4" end="Artur-N-G5082-P600080.t10.w5">boš  </event>
+<event start="Artur-N-G5082-P600080.t10.w5" end="Artur-N-G5082-P600080.t10.w6">osredotočil  </event>
+<event start="Artur-N-G5082-P600080.t10.w6" end="Artur-N-G5082-P600080.t11">kam  </event>
+<event start="Artur-N-G5082-P600080.t12.w0" end="Artur-N-G5082-P600080.t12.w1">zdaj  </event>
+<event start="Artur-N-G5082-P600080.t12.w1" end="Artur-N-G5082-P600080.t12.w2">si  </event>
+<event start="Artur-N-G5082-P600080.t12.w2" end="Artur-N-G5082-P600080.t12.w3">se  </event>
+<event start="Artur-N-G5082-P600080.t12.w3" end="Artur-N-G5082-P600080.t12.w4">odločil  </event>
+<event start="Artur-N-G5082-P600080.t12.w4" end="Artur-N-G5082-P600080.t12.w4_">,  </event>
+<event start="Artur-N-G5082-P600080.t12.w4_" end="Artur-N-G5082-P600080.t12.w5">da  </event>
+<event start="Artur-N-G5082-P600080.t12.w5" end="Artur-N-G5082-P600080.t12.w6">boš  </event>
+<event start="Artur-N-G5082-P600080.t12.w6" end="Artur-N-G5082-P600080.t12.w7">imel  </event>
+<event start="Artur-N-G5082-P600080.t12.w7" end="Artur-N-G5082-P600080.t12.w8">v  </event>
+<event start="Artur-N-G5082-P600080.t12.w8" end="Artur-N-G5082-P600080.t12.w9">bistvu  </event>
+<event start="Artur-N-G5082-P600080.t12.w9" end="Artur-N-G5082-P600080.t12.w10">intervjuje  </event>
+<event start="Artur-N-G5082-P600080.t12.w10" end="Artur-N-G5082-P600080.t12.w11">z  </event>
+<event start="Artur-N-G5082-P600080.t12.w11" end="Artur-N-G5082-P600080.t12.w12">z  </event>
+<event start="Artur-N-G5082-P600080.t12.w12" end="Artur-N-G5082-P600080.t12.w13">ljudmi  </event>
+<event start="Artur-N-G5082-P600080.t12.w13" end="Artur-N-G5082-P600080.t12.w13_">,  </event>
+<event start="Artur-N-G5082-P600080.t12.w13_" end="Artur-N-G5082-P600080.t12.w14">ki  </event>
+<event start="Artur-N-G5082-P600080.t12.w14" end="Artur-N-G5082-P600080.t12.w15">v  </event>
+<event start="Artur-N-G5082-P600080.t12.w15" end="Artur-N-G5082-P600080.t12.w16">bistvu  </event>
+<event start="Artur-N-G5082-P600080.t12.w16" end="Artur-N-G5082-P600080.t12.w17">nekako  </event>
+<event start="Artur-N-G5082-P600080.t12.w17" end="Artur-N-G5082-P600080.t13">delajo  </event>
+<event start="Artur-N-G5082-P600080.t14.w0" end="Artur-N-G5082-P600080.t15">mmm  </event>
+<event start="Artur-N-G5082-P600080.t15" end="Artur-N-G5082-P600080.t15_">.  </event>
+<event start="Artur-N-G5082-P600080.t15.w0" end="Artur-N-G5082-P600080.t15.w1">to  </event>
+<event start="Artur-N-G5082-P600080.t15.w1" end="Artur-N-G5082-P600080.t15.w2">je  </event>
+<event start="Artur-N-G5082-P600080.t15.w2" end="Artur-N-G5082-P600080.t15.w3">v  </event>
+<event start="Artur-N-G5082-P600080.t15.w3" end="Artur-N-G5082-P600080.t15.w4">bistvu  </event>
+<event start="Artur-N-G5082-P600080.t15.w4" end="Artur-N-G5082-P600080.t15.w5">ful  </event>
+<event start="Artur-N-G5082-P600080.t15.w5" end="Artur-N-G5082-P600080.t15.w6">podobno  </event>
+<event start="Artur-N-G5082-P600080.t15.w6" end="Artur-N-G5082-P600080.t15.w6_">,  </event>
+<event start="Artur-N-G5082-P600080.t15.w6_" end="Artur-N-G5082-P600080.t15.w7">kot  </event>
+<event start="Artur-N-G5082-P600080.t15.w7" end="Artur-N-G5082-P600080.t15.w8">na  </event>
+<event start="Artur-N-G5082-P600080.t15.w8" end="Artur-N-G5082-P600080.t15.w9">primer  </event>
+<event start="Artur-N-G5082-P600080.t15.w9" end="Artur-N-G5082-P600080.t15.w10">Metelkova  </event>
+<event start="Artur-N-G5082-P600080.t15.w10" end="Artur-N-G5082-P600080.t15.w11">v  </event>
+<event start="Artur-N-G5082-P600080.t15.w11" end="Artur-N-G5082-P600080.t15.w12">Ljubljani  </event>
+<event start="Artur-N-G5082-P600080.t15.w12" end="Artur-N-G5082-P600080.t15.w12_">,  </event>
+<event start="Artur-N-G5082-P600080.t15.w12_" end="Artur-N-G5082-P600080.t16">ne  </event>
 </tier><tier id="2" speaker="Artur-N-G5082" category="additional" type="a" display-name="Artur-N-G5082 [additional]"><event start="Artur-N-G5082-P600080.t4.w4" end="Artur-N-G5082-P600080.t4.w5">razisku(:)ješ </event>
 <event start="Artur-N-G5082-P600080.t8.w8_" end="Artur-N-G5082-P600080.t8.w9">da(:) </event>
 <event start="Artur-N-G5082-P600080.t12.w13_" end="Artur-N-G5082-P600080.t12.w14">ki(:) </event>
@@ -442,7 +442,7 @@
 <event start="Artur-N-G5082-P600080.t2.w16" end="Artur-N-G5082-P600080.t2.w17">repair </event>
 <event start="Artur-N-G5082-P600080.t12.w10" end="Artur-N-G5082-P600080.t12.w11">reparandum </event>
 <event start="Artur-N-G5082-P600080.t12.w11" end="Artur-N-G5082-P600080.t12.w12">repair </event>
-</tier><tier id="8" speaker="Artur-N-G5082" category="traceability" type="a" display-name="Artur-N-G5082 [traceability]"><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">Artur-N-G5082-P600080.tok1 </event>
+</tier><tier id="8" speaker="Artur-N-G5082" category="traceability" type="a" display-name="Artur-N-G5082 [traceability]"><ud-tier-information><ud-information attribute-name="exmaralda:hidden">true</ud-information></ud-tier-information><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">Artur-N-G5082-P600080.tok1 </event>
 <event start="Artur-N-G5082-P600080.t2.w1" end="Artur-N-G5082-P600080.t2.w1_">Artur-N-G5082-P600080.tok2 </event>
 <event start="Artur-N-G5082-P600080.t2.w1_" end="Artur-N-G5082-P600080.t2.w2">Artur-N-G5082-P600080.tok3 </event>
 <event start="Artur-N-G5082-P600080.t2.w2" end="Artur-N-G5082-P600080.t2.w2_">Artur-N-G5082-P600080.tok4 </event>
@@ -574,7 +574,7 @@
 <event start="Artur-N-G5082-P600080.t15.w11" end="Artur-N-G5082-P600080.t15.w12">Artur-N-G5082-P600080.tok134 </event>
 <event start="Artur-N-G5082-P600080.t15.w12" end="Artur-N-G5082-P600080.t15.w12_">Artur-N-G5082-P600080.tok135 </event>
 <event start="Artur-N-G5082-P600080.t15.w12_" end="Artur-N-G5082-P600080.t16">Artur-N-G5082-P600080.tok136 </event>
-</tier><tier id="Artur-N-G5082sentenceId" speaker="Artur-N-G5082" category="sentenceId" type="a" display-name="Artur-N-G5082 [sentenceId]"><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w12">Artur-N-G5082-P600080.s1_reseg.1333</event>
+</tier><tier id="Artur-N-G5082sentenceId" speaker="Artur-N-G5082" category="sentenceId" type="a" display-name="Artur-N-G5082 [sentenceId]"><ud-tier-information><ud-information attribute-name="exmaralda:hidden">true</ud-information></ud-tier-information><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w12">Artur-N-G5082-P600080.s1_reseg.1333</event>
 <event start="Artur-N-G5082-P600080.t2.w12" end="Artur-N-G5082-P600080.t3.w6_">Artur-N-G5082-P600080.s1-s2_reseg.1334</event>
 <event start="Artur-N-G5082-P600080.t3.w6_" end="Artur-N-G5082-P600080.t4_">Artur-N-G5082-P600080.s2_reseg.1335</event>
 <event start="Artur-N-G5082-P600080.t4.w0" end="Artur-N-G5082-P600080.t5">Artur-N-G5082-P600080.s3_reseg.1336</event>
@@ -980,7 +980,7 @@
 <event start="Artur-N-G5082-P600080.t15.w11" end="Artur-N-G5082-P600080.t15.w12">Npfsl</event>
 <event start="Artur-N-G5082-P600080.t15.w12" end="Artur-N-G5082-P600080.t15.w12_">Z</event>
 <event start="Artur-N-G5082-P600080.t15.w12_" end="Artur-N-G5082-P600080.t16">Q</event>
-</tier><tier id="Artur-N-G5082 [feats]" speaker="Artur-N-G5082" category="feats" type="a" display-name="Artur-N-G5082 [feats]"><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">{'Degree': 'Pos'}</event>
+</tier><tier id="Artur-N-G5082 [feats]" speaker="Artur-N-G5082" category="feats" type="a" display-name="Artur-N-G5082 [feats]"><ud-tier-information><ud-information attribute-name="exmaralda:hidden">true</ud-information></ud-tier-information><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">{'Degree': 'Pos'}</event>
 <event start="Artur-N-G5082-P600080.t2.w1" end="Artur-N-G5082-P600080.t2.w1_">None</event>
 <event start="Artur-N-G5082-P600080.t2.w1_" end="Artur-N-G5082-P600080.t2.w2">None</event>
 <event start="Artur-N-G5082-P600080.t2.w2" end="Artur-N-G5082-P600080.t2.w2_">None</event>
@@ -1376,138 +1376,6 @@
 <event start="Artur-N-G5082-P600080.t15.w11" end="Artur-N-G5082-P600080.t15.w12">nmod</event>
 <event start="Artur-N-G5082-P600080.t15.w12" end="Artur-N-G5082-P600080.t15.w12_">punct</event>
 <event start="Artur-N-G5082-P600080.t15.w12_" end="Artur-N-G5082-P600080.t16">discourse</event>
-</tier><tier id="Artur-N-G5082 [conllu]" speaker="Artur-N-G5082" category="conllu" type="a" display-name="Artur-N-G5082 [conllu]"><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">({'id': 1, 'form': 'okej', 'lemma': 'okej', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 7, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'okej', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok1'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w1" end="Artur-N-G5082-P600080.t2.w1_">({'id': 2, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 1, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok2'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w1_" end="Artur-N-G5082-P600080.t2.w2">({'id': 3, 'form': 'eee', 'lemma': 'eee', 'upos': 'INTJ', 'xpos': 'I', 'feats': None, 'head': 7, 'deprel': 'discourse:filler', 'deps': None, 'misc': {'pronunciation': 'eee', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok3'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w2" end="Artur-N-G5082-P600080.t2.w2_">({'id': 4, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 3, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok4'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w2_" end="Artur-N-G5082-P600080.t2.w3">({'id': 5, 'form': 'jaz', 'lemma': 'jaz', 'upos': 'PRON', 'xpos': 'Pp1-sn', 'feats': {'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}, 'head': 7, 'deprel': 'nsubj', 'deps': None, 'misc': {'pronunciation': 'jəs', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok5'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w3" end="Artur-N-G5082-P600080.t2.w4">({'id': 6, 'form': 'sem', 'lemma': 'biti', 'upos': 'AUX', 'xpos': 'Va-r1s-n', 'feats': {'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Polarity': 'Pos', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 7, 'deprel': 'aux', 'deps': None, 'misc': {'pronunciation': 'səm', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok6'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w4" end="Artur-N-G5082-P600080.t2.w5">({'id': 7, 'form': 'slišala', 'lemma': 'slišati', 'upos': 'VERB', 'xpos': 'Vmbp-sf', 'feats': {'Gender': 'Fem', 'Number': 'Sing', 'VerbForm': 'Part'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'slišala', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok7'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w5" end="Artur-N-G5082-P600080.t2.w5_">({'id': 8, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 11, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok8'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w5_" end="Artur-N-G5082-P600080.t2.w6">({'id': 9, 'form': 'da', 'lemma': 'da', 'upos': 'SCONJ', 'xpos': 'Cs', 'feats': None, 'head': 11, 'deprel': 'mark', 'deps': None, 'misc': {'pronunciation': 'da', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok9'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w6" end="Artur-N-G5082-P600080.t2.w7">({'id': 10, 'form': 'pač', 'lemma': 'pač', 'upos': 'PART', 'xpos': 'Q', 'feats': None, 'head': 11, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'pač', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok10'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w7" end="Artur-N-G5082-P600080.t2.w8">({'id': 11, 'form': 'delaš', 'lemma': 'delati', 'upos': 'VERB', 'xpos': 'Vmpr2s', 'feats': {'Aspect': 'Imp', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 7, 'deprel': 'ccomp', 'deps': None, 'misc': {'pronunciation': 'delaš', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok11'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w8" end="Artur-N-G5082-P600080.t2.w9">({'id': 12, 'form': 'ti', 'lemma': 'ti', 'upos': 'PRON', 'xpos': 'Pp2-sn', 'feats': {'Case': 'Nom', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}, 'head': 11, 'deprel': 'nsubj', 'deps': None, 'misc': {'pronunciation': 'ti', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok12'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w9" end="Artur-N-G5082-P600080.t2.w10">({'id': 13, 'form': 'zdaj', 'lemma': 'zdaj', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 11, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'zdej', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok13'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w10" end="Artur-N-G5082-P600080.t2.w11">({'id': 14, 'form': 'magistrsko', 'lemma': 'magistrski', 'upos': 'ADJ', 'xpos': 'Agpfsa', 'feats': {'Case': 'Acc', 'Degree': 'Pos', 'Gender': 'Fem', 'Number': 'Sing'}, 'head': 11, 'deprel': 'obj', 'deps': None, 'misc': {'pronunciation': 'magistrsko', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok14'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w11" end="Artur-N-G5082-P600080.t2.w11_">({'id': 15, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 16, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok15'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w11_" end="Artur-N-G5082-P600080.t2.w12">({'id': 16, 'form': 'ne', 'lemma': 'ne', 'upos': 'PART', 'xpos': 'Q', 'feats': {'Polarity': 'Neg'}, 'head': 11, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'ne', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok16'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w12" end="Artur-N-G5082-P600080.t2.w13">({'id': 1, 'form': 'pač', 'lemma': 'pač', 'upos': 'PART', 'xpos': 'Q', 'feats': None, 'head': 3, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'pač', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok18'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w13" end="Artur-N-G5082-P600080.t2.w14">({'id': 2, 'form': 'v', 'lemma': 'v', 'upos': 'ADP', 'xpos': 'Sl', 'feats': {'Case': 'Loc'}, 'head': 3, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'v', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok19'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w14" end="Artur-N-G5082-P600080.t2.w15">({'id': 3, 'form': 'zvezi', 'lemma': 'zveza', 'upos': 'NOUN', 'xpos': 'Ncfsl', 'feats': {'Case': 'Loc', 'Gender': 'Fem', 'Number': 'Sing'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'zvezi', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok20'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w15" end="Artur-N-G5082-P600080.t2.w16">({'id': 4, 'form': 's', 'lemma': 'z', 'upos': 'ADP', 'xpos': 'Si', 'feats': {'Case': 'Ins'}, 'head': 5, 'deprel': 'reparandum', 'deps': None, 'misc': {'pronunciation': 's', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok21'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w16" end="Artur-N-G5082-P600080.t2.w17">({'id': 5, 'form': 's', 'lemma': 'z', 'upos': 'ADP', 'xpos': 'Si', 'feats': {'Case': 'Ins'}, 'head': 6, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 's', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok22'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w17" end="Artur-N-G5082-P600080.t2.w18">({'id': 6, 'form': 'Pekarno', 'lemma': 'pekarna', 'upos': 'NOUN', 'xpos': 'Ncfsi', 'feats': {'Case': 'Ins', 'Gender': 'Fem', 'Number': 'Sing'}, 'head': 3, 'deprel': 'nmod', 'deps': None, 'misc': {'pronunciation': 'Pekarno', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok23'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w18" end="Artur-N-G5082-P600080.t2.w18_">({'id': 7, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 8, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok24'}},)</event>
-<event start="Artur-N-G5082-P600080.t2.w18_" end="Artur-N-G5082-P600080.t3">({'id': 8, 'form': 'ne', 'lemma': 'ne', 'upos': 'PART', 'xpos': 'Q', 'feats': {'Polarity': 'Neg'}, 'head': 3, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'ne', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok25'}},)</event>
-<event start="Artur-N-G5082-P600080.t3" end="Artur-N-G5082-P600080.t3_">({'id': 9, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 8, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s1', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok26'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w0" end="Artur-N-G5082-P600080.t3.w1">({'id': 10, 'form': 'med', 'lemma': 'med', 'upos': 'ADP', 'xpos': 'Si', 'feats': {'Case': 'Ins'}, 'head': 11, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'med', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok27'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w1" end="Artur-N-G5082-P600080.t3.w2">({'id': 11, 'form': 'drugim', 'lemma': 'drug', 'upos': 'ADJ', 'xpos': 'Mlpnsi', 'feats': {'Case': 'Ins', 'Gender': 'Neut', 'Number': 'Sing'}, 'head': 3, 'deprel': 'parataxis', 'deps': None, 'misc': {'pronunciation': 'drugim', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok28'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w2" end="Artur-N-G5082-P600080.t3.w3">({'id': 12, 'form': 'tudi', 'lemma': 'tudi', 'upos': 'PART', 'xpos': 'Q', 'feats': None, 'head': 11, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'tudi', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok29'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w3" end="Artur-N-G5082-P600080.t3.w3_">({'id': 13, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 14, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok30'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w3_" end="Artur-N-G5082-P600080.t3.w4">({'id': 14, 'form': 'no', 'lemma': 'no', 'upos': 'PART', 'xpos': 'Q', 'feats': None, 'head': 11, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'no', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok31'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w4" end="Artur-N-G5082-P600080.t3.w4_">({'id': 15, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 14, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok32'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w4_" end="Artur-N-G5082-P600080.t3.w5">({'id': 16, 'form': 'mislim', 'lemma': 'misliti', 'upos': 'VERB', 'xpos': 'Vmpr1s', 'feats': {'Aspect': 'Imp', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 11, 'deprel': 'parataxis:discourse', 'deps': None, 'misc': {'pronunciation': 'mislim', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok33'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w5" end="Artur-N-G5082-P600080.t3.w5_">({'id': 17, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 18, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok34'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w5_" end="Artur-N-G5082-P600080.t3.w6">({'id': 18, 'form': 'ja', 'lemma': 'ja', 'upos': 'PART', 'xpos': 'Q', 'feats': None, 'head': 11, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'ja', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok35'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w6" end="Artur-N-G5082-P600080.t3.w6_">({'id': 19, 'form': '.', 'lemma': '.', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 3, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': '.', 'sentence_ending': 'True', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok36'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w6_" end="Artur-N-G5082-P600080.t3.w7">({'id': 1, 'form': 'pa', 'lemma': 'pa', 'upos': 'CCONJ', 'xpos': 'Cc', 'feats': None, 'head': 3, 'deprel': 'cc', 'deps': None, 'misc': {'pronunciation': 'pa', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok37'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w7" end="Artur-N-G5082-P600080.t3.w8">({'id': 2, 'form': 'me', 'lemma': 'jaz', 'upos': 'PRON', 'xpos': 'Pp1-sa--y', 'feats': {'Case': 'Acc', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs', 'Variant': 'Short'}, 'head': 3, 'deprel': 'obj', 'deps': None, 'misc': {'pronunciation': 'me', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok38'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w8" end="Artur-N-G5082-P600080.t3.w9">({'id': 3, 'form': 'zanima', 'lemma': 'zanimati', 'upos': 'VERB', 'xpos': 'Vmpr3s', 'feats': {'Aspect': 'Imp', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'zanima', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok39'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w9" end="Artur-N-G5082-P600080.t3.w10">({'id': 4, 'form': 'okej', 'lemma': 'okej', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 3, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'okej', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok40'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w10" end="Artur-N-G5082-P600080.t3.w10_">({'id': 5, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 11, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok41'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w10_" end="Artur-N-G5082-P600080.t3.w11">({'id': 6, 'form': 'če', 'lemma': 'če', 'upos': 'SCONJ', 'xpos': 'Cs', 'feats': None, 'head': 11, 'deprel': 'mark', 'deps': None, 'misc': {'pronunciation': 'če', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok42'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w11" end="Artur-N-G5082-P600080.t3.w12">({'id': 7, 'form': 'mi', 'lemma': 'jaz', 'upos': 'PRON', 'xpos': 'Pp1-sd--y', 'feats': {'Case': 'Dat', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs', 'Variant': 'Short'}, 'head': 11, 'deprel': 'iobj', 'deps': None, 'misc': {'pronunciation': 'mi', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok43'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w12" end="Artur-N-G5082-P600080.t3.w13">({'id': 8, 'form': 'lahko', 'lemma': 'lahko', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 11, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'lahko', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok44'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w13" end="Artur-N-G5082-P600080.t3.w14">({'id': 9, 'form': 'kaj', 'lemma': 'kaj', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 10, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'kej', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok45'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w14" end="Artur-N-G5082-P600080.t3.w15">({'id': 10, 'form': 'več', 'lemma': 'več', 'upos': 'DET', 'xpos': 'Rgc', 'feats': {'PronType': 'Ind'}, 'head': 11, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'več', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok46'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w15" end="Artur-N-G5082-P600080.t3.w16">({'id': 11, 'form': 'poveš', 'lemma': 'povedati', 'upos': 'VERB', 'xpos': 'Vmer2s', 'feats': {'Aspect': 'Perf', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 3, 'deprel': 'csubj', 'deps': None, 'misc': {'pronunciation': 'poveš', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok47'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w16" end="Artur-N-G5082-P600080.t3.w17">({'id': 12, 'form': 'o', 'lemma': 'o', 'upos': 'ADP', 'xpos': 'Sl', 'feats': {'Case': 'Loc'}, 'head': 13, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'o', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok48'}},)</event>
-<event start="Artur-N-G5082-P600080.t3.w17" end="Artur-N-G5082-P600080.t4">({'id': 13, 'form': 'tem', 'lemma': 'ta', 'upos': 'DET', 'xpos': 'Pd-nsl', 'feats': {'Case': 'Loc', 'Gender': 'Neut', 'Number': 'Sing', 'PronType': 'Dem'}, 'head': 11, 'deprel': 'obl', 'deps': None, 'misc': {'pronunciation': 'tem', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok49'}},)</event>
-<event start="Artur-N-G5082-P600080.t4" end="Artur-N-G5082-P600080.t4_">({'id': 14, 'form': '.', 'lemma': '.', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 3, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': '.', 'sentence_ending': 'True', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s2', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok50'}},)</event>
-<event start="Artur-N-G5082-P600080.t4.w0" end="Artur-N-G5082-P600080.t4.w1">({'id': 1, 'form': 'pač', 'lemma': 'pač', 'upos': 'PART', 'xpos': 'Q', 'feats': None, 'head': 6, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'pač', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s3', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok51'}},)</event>
-<event start="Artur-N-G5082-P600080.t4.w1" end="Artur-N-G5082-P600080.t4.w2">({'id': 2, 'form': 'v', 'lemma': 'v', 'upos': 'ADP', 'xpos': 'Sl', 'feats': {'Case': 'Loc'}, 'head': 3, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'v', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s3', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok52'}},)</event>
-<event start="Artur-N-G5082-P600080.t4.w2" end="Artur-N-G5082-P600080.t4.w3">({'id': 3, 'form': 'bistvu', 'lemma': 'bistvo', 'upos': 'NOUN', 'xpos': 'Ncnsl', 'feats': {'Case': 'Loc', 'Gender': 'Neut', 'Number': 'Sing'}, 'head': 6, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'bistvu', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s3', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok53'}},)</event>
-<event start="Artur-N-G5082-P600080.t4.w3" end="Artur-N-G5082-P600080.t4.w3_">({'id': 4, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 3, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s3', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok54'}},)</event>
-<event start="Artur-N-G5082-P600080.t4.w3_" end="Artur-N-G5082-P600080.t4.w4">({'id': 5, 'form': 'kaj', 'lemma': 'kaj', 'upos': 'PRON', 'xpos': 'Pq-nsa', 'feats': {'Case': 'Acc', 'Gender': 'Neut', 'Number': 'Sing', 'PronType': 'Int'}, 'head': 6, 'deprel': 'obj', 'deps': None, 'misc': {'pronunciation': 'kaj', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s3', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok55'}},)</event>
-<event start="Artur-N-G5082-P600080.t4.w4" end="Artur-N-G5082-P600080.t4.w5">({'id': 6, 'form': 'raziskuješ', 'lemma': 'raziskovati', 'upos': 'VERB', 'xpos': 'Vmpr2s', 'feats': {'Aspect': 'Imp', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'raziskuješ', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s3', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok56'}},)</event>
-<event start="Artur-N-G5082-P600080.t4.w5" end="Artur-N-G5082-P600080.t4.w5_">({'id': 7, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 8, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s3', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok57'}},)</event>
-<event start="Artur-N-G5082-P600080.t4.w5_" end="Artur-N-G5082-P600080.t5">({'id': 8, 'form': 'ne', 'lemma': 'ne', 'upos': 'PART', 'xpos': 'Q', 'feats': {'Polarity': 'Neg'}, 'head': 6, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'ne', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s3', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok58'}},)</event>
-<event start="Artur-N-G5082-P600080.t6.w0" end="Artur-N-G5082-P600080.t7">({'id': 1, 'form': 'mhm', 'lemma': 'mhm', 'upos': 'INTJ', 'xpos': 'I', 'feats': None, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'mhm', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s4', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok60'}},)</event>
-<event start="Artur-N-G5082-P600080.t7" end="Artur-N-G5082-P600080.t7_">({'id': 2, 'form': '.', 'lemma': '.', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 1, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': '.', 'sentence_ending': 'True', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s4', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok61'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w0" end="Artur-N-G5082-P600080.t7.w1">({'id': 1, 'form': 'okej', 'lemma': 'okej', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 4, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'okej', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok62'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w1" end="Artur-N-G5082-P600080.t7.w1_">({'id': 2, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 1, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok63'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w1_" end="Artur-N-G5082-P600080.t7.w2">({'id': 3, 'form': 'in', 'lemma': 'in', 'upos': 'CCONJ', 'xpos': 'Cc', 'feats': None, 'head': 4, 'deprel': 'cc', 'deps': None, 'misc': {'pronunciation': 'in', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok64'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w2" end="Artur-N-G5082-P600080.t7.w3">({'id': 4, 'form': 'kaj', 'lemma': 'kaj', 'upos': 'PRON', 'xpos': 'Pq-nsn', 'feats': {'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'PronType': 'Int'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'kaj', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok65'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w3" end="Artur-N-G5082-P600080.t7.w4">({'id': 5, 'form': 'so', 'lemma': 'biti', 'upos': 'AUX', 'xpos': 'Va-r3p-n', 'feats': {'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Polarity': 'Pos', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 4, 'deprel': 'cop', 'deps': None, 'misc': {'pronunciation': 'so', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok66'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w4" end="Artur-N-G5082-P600080.t7.w5">({'id': 6, 'form': 'te', 'lemma': 'ta', 'upos': 'DET', 'xpos': 'Pd-fpn', 'feats': {'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Plur', 'PronType': 'Dem'}, 'head': 7, 'deprel': 'det', 'deps': None, 'misc': {'pronunciation': 'te', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok67'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w5" end="Artur-N-G5082-P600080.t7.w6">({'id': 7, 'form': 'razlike', 'lemma': 'razlika', 'upos': 'NOUN', 'xpos': 'Ncfpn', 'feats': {'Case': 'Nom', 'Gender': 'Fem', 'Number': 'Plur'}, 'head': 4, 'deprel': 'nsubj', 'deps': None, 'misc': {'pronunciation': 'razlike', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok68'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w6" end="Artur-N-G5082-P600080.t7.w7">({'id': 8, 'form': 'med', 'lemma': 'med', 'upos': 'ADP', 'xpos': 'Si', 'feats': {'Case': 'Ins'}, 'head': 12, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'med', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok69'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w7" end="Artur-N-G5082-P600080.t7.w8">({'id': 9, 'form': 'temi', 'lemma': 'ta', 'upos': 'DET', 'xpos': 'Pd-mpi', 'feats': {'Case': 'Ins', 'Gender': 'Masc', 'Number': 'Plur', 'PronType': 'Dem'}, 'head': 12, 'deprel': 'det', 'deps': None, 'misc': {'pronunciation': 'temi', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok70'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w8" end="Artur-N-G5082-P600080.t7.w9">({'id': 10, 'form': 'tremi', 'lemma': 'trije', 'upos': 'NUM', 'xpos': 'Mlcmpi', 'feats': {'Case': 'Ins', 'Gender': 'Masc', 'Number': 'Plur', 'NumForm': 'Word', 'NumType': 'Card'}, 'head': 12, 'deprel': 'nummod', 'deps': None, 'misc': {'pronunciation': 'tremi', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok71'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w9" end="Artur-N-G5082-P600080.t7.w10">({'id': 11, 'form': 'različnimi', 'lemma': 'različen', 'upos': 'ADJ', 'xpos': 'Agpmpi', 'feats': {'Case': 'Ins', 'Degree': 'Pos', 'Gender': 'Masc', 'Number': 'Plur'}, 'head': 12, 'deprel': 'amod', 'deps': None, 'misc': {'pronunciation': 'različnimi', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok72'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w10" end="Artur-N-G5082-P600080.t7.w11">({'id': 12, 'form': 'kapitali', 'lemma': 'kapital', 'upos': 'NOUN', 'xpos': 'Ncmpi', 'feats': {'Case': 'Ins', 'Gender': 'Masc', 'Number': 'Plur'}, 'head': 7, 'deprel': 'nmod', 'deps': None, 'misc': {'pronunciation': 'kapitali', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok73'}},)</event>
-<event start="Artur-N-G5082-P600080.t7.w11" end="Artur-N-G5082-P600080.t8">({'id': 13, 'form': 'pač', 'lemma': 'pač', 'upos': 'PART', 'xpos': 'Q', 'feats': None, 'head': 4, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'pač', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok74'}},)</event>
-<event start="Artur-N-G5082-P600080.t8" end="Artur-N-G5082-P600080.t8_">({'id': 14, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 18, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s5', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok75'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w0" end="Artur-N-G5082-P600080.t8.w1">({'id': 15, 'form': 'če', 'lemma': 'če', 'upos': 'SCONJ', 'xpos': 'Cs', 'feats': None, 'head': 18, 'deprel': 'mark', 'deps': None, 'misc': {'pronunciation': 'če', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok76'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w1" end="Artur-N-G5082-P600080.t8.w2">({'id': 16, 'form': 'bi', 'lemma': 'biti', 'upos': 'AUX', 'xpos': 'Va-c', 'feats': {'Mood': 'Cnd', 'VerbForm': 'Fin'}, 'head': 18, 'deprel': 'aux', 'deps': None, 'misc': {'pronunciation': 'bi', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok77'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w2" end="Artur-N-G5082-P600080.t8.w3">({'id': 17, 'form': 'lahko', 'lemma': 'lahko', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 18, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'lahko', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok78'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w3" end="Artur-N-G5082-P600080.t8.w4">({'id': 18, 'form': 'znal', 'lemma': 'znati', 'upos': 'VERB', 'xpos': 'Vmpp-sm', 'feats': {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'VerbForm': 'Part'}, 'head': 4, 'deprel': 'advcl', 'deps': None, 'misc': {'pronunciation': 'znal', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok79'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w4" end="Artur-N-G5082-P600080.t8.w5">({'id': 19, 'form': 'tako', 'lemma': 'tako', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 22, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'tko', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok80'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w5" end="Artur-N-G5082-P600080.t8.w6">({'id': 20, 'form': 'mi', 'lemma': 'jaz', 'upos': 'PRON', 'xpos': 'Pp1-sd--y', 'feats': {'Case': 'Dat', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs', 'Variant': 'Short'}, 'head': 22, 'deprel': 'iobj', 'deps': None, 'misc': {'pronunciation': 'mi', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok81'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w6" end="T1">({'id': 21, 'form': 'malo', 'lemma': 'malo', 'upos': 'DET', 'xpos': 'Rgp', 'feats': {'PronType': 'Ind'}, 'head': 22, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'mal', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok82'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w7" end="Artur-N-G5082-P600080.t8.w8">({'id': 22, 'form': 'povedati', 'lemma': 'povedati', 'upos': 'VERB', 'xpos': 'Vmen', 'feats': {'Aspect': 'Perf', 'VerbForm': 'Inf'}, 'head': 18, 'deprel': 'xcomp', 'deps': None, 'misc': {'pronunciation': 'povedat', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok83'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w8" end="Artur-N-G5082-P600080.t8.w8_">({'id': 23, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 27, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok84'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w8_" end="Artur-N-G5082-P600080.t8.w9">({'id': 24, 'form': 'da', 'lemma': 'da', 'upos': 'SCONJ', 'xpos': 'Cs', 'feats': None, 'head': 27, 'deprel': 'mark', 'deps': None, 'misc': {'pronunciation': 'da', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok85'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w9" end="Artur-N-G5082-P600080.t8.w10">({'id': 25, 'form': 'si', 'lemma': 'se', 'upos': 'PRON', 'xpos': 'Px---d--y', 'feats': {'Case': 'Dat', 'PronType': 'Prs', 'Reflex': 'Yes', 'Variant': 'Short'}, 'head': 27, 'deprel': 'expl', 'deps': None, 'misc': {'pronunciation': 'si', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok86'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w10" end="Artur-N-G5082-P600080.t8.w11">({'id': 26, 'form': 'lažje', 'lemma': 'lahko', 'upos': 'ADV', 'xpos': 'Rgc', 'feats': {'Degree': 'Cmp'}, 'head': 27, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'lažje', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok87'}},)</event>
-<event start="Artur-N-G5082-P600080.t8.w11" end="Artur-N-G5082-P600080.t9">({'id': 27, 'form': 'predstavljam', 'lemma': 'predstavljati', 'upos': 'VERB', 'xpos': 'Vmpr1s', 'feats': {'Aspect': 'Imp', 'Mood': 'Ind', 'Number': 'Sing', 'Person': '1', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 22, 'deprel': 'advcl', 'deps': None, 'misc': {'pronunciation': 'predstavljam', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok88'}},)</event>
-<event start="Artur-N-G5082-P600080.t9" end="Artur-N-G5082-P600080.t9_">({'id': 28, 'form': '.', 'lemma': '.', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 4, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': '.', 'sentence_ending': 'True', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s6', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok89'}},)</event>
-<event start="Artur-N-G5082-P600080.t10.w0" end="Artur-N-G5082-P600080.t10.w1">({'id': 1, 'form': 'okej', 'lemma': 'okej', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 7, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'okej', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s7', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok90'}},)</event>
-<event start="Artur-N-G5082-P600080.t10.w1" end="Artur-N-G5082-P600080.t10.w1_">({'id': 2, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 1, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s7', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok91'}},)</event>
-<event start="Artur-N-G5082-P600080.t10.w1_" end="Artur-N-G5082-P600080.t10.w2">({'id': 3, 'form': 'in', 'lemma': 'in', 'upos': 'CCONJ', 'xpos': 'Cc', 'feats': None, 'head': 7, 'deprel': 'cc', 'deps': None, 'misc': {'pronunciation': 'in', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s7', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok92'}},)</event>
-<event start="Artur-N-G5082-P600080.t10.w2" end="Artur-N-G5082-P600080.t10.w3">({'id': 4, 'form': 'ti', 'lemma': 'ti', 'upos': 'PRON', 'xpos': 'Pp2-sn', 'feats': {'Case': 'Nom', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}, 'head': 7, 'deprel': 'nsubj', 'deps': None, 'misc': {'pronunciation': 'ti', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s7', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok93'}},)</event>
-<event start="Artur-N-G5082-P600080.t10.w3" end="Artur-N-G5082-P600080.t10.w4">({'id': 5, 'form': 'se', 'lemma': 'se', 'upos': 'PRON', 'xpos': 'Px------y', 'feats': {'PronType': 'Prs', 'Reflex': 'Yes', 'Variant': 'Short'}, 'head': 7, 'deprel': 'expl', 'deps': None, 'misc': {'pronunciation': 'se', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s7', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok94'}},)</event>
-<event start="Artur-N-G5082-P600080.t10.w4" end="Artur-N-G5082-P600080.t10.w5">({'id': 6, 'form': 'boš', 'lemma': 'biti', 'upos': 'AUX', 'xpos': 'Va-f2s-n', 'feats': {'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Pos', 'Tense': 'Fut', 'VerbForm': 'Fin'}, 'head': 7, 'deprel': 'aux', 'deps': None, 'misc': {'pronunciation': 'boš', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s7', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok95'}},)</event>
-<event start="Artur-N-G5082-P600080.t10.w5" end="Artur-N-G5082-P600080.t10.w6">({'id': 7, 'form': 'osredotočil', 'lemma': 'osredotočiti', 'upos': 'VERB', 'xpos': 'Vmep-sm', 'feats': {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'VerbForm': 'Part'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'osredotoču', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s7', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok96'}},)</event>
-<event start="Artur-N-G5082-P600080.t10.w6" end="Artur-N-G5082-P600080.t11">({'id': 8, 'form': 'kam', 'lemma': 'kam', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 7, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'kam', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s7', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok97'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w0" end="Artur-N-G5082-P600080.t12.w1">({'id': 1, 'form': 'zdaj', 'lemma': 'zdaj', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 4, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'zdej', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok99'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w1" end="Artur-N-G5082-P600080.t12.w2">({'id': 2, 'form': 'si', 'lemma': 'biti', 'upos': 'AUX', 'xpos': 'Va-r2s-n', 'feats': {'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Pos', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 4, 'deprel': 'aux', 'deps': None, 'misc': {'pronunciation': 'si', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok100'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w2" end="Artur-N-G5082-P600080.t12.w3">({'id': 3, 'form': 'se', 'lemma': 'se', 'upos': 'PRON', 'xpos': 'Px------y', 'feats': {'PronType': 'Prs', 'Reflex': 'Yes', 'Variant': 'Short'}, 'head': 4, 'deprel': 'expl', 'deps': None, 'misc': {'pronunciation': 'se', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok101'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w3" end="Artur-N-G5082-P600080.t12.w4">({'id': 4, 'form': 'odločil', 'lemma': 'odločiti', 'upos': 'VERB', 'xpos': 'Vmep-sm', 'feats': {'Aspect': 'Perf', 'Gender': 'Masc', 'Number': 'Sing', 'VerbForm': 'Part'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'odloču', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok102'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w4" end="Artur-N-G5082-P600080.t12.w4_">({'id': 5, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 8, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok103'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w4_" end="Artur-N-G5082-P600080.t12.w5">({'id': 6, 'form': 'da', 'lemma': 'da', 'upos': 'SCONJ', 'xpos': 'Cs', 'feats': None, 'head': 8, 'deprel': 'mark', 'deps': None, 'misc': {'pronunciation': 'da', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok104'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w5" end="Artur-N-G5082-P600080.t12.w6">({'id': 7, 'form': 'boš', 'lemma': 'biti', 'upos': 'AUX', 'xpos': 'Va-f2s-n', 'feats': {'Mood': 'Ind', 'Number': 'Sing', 'Person': '2', 'Polarity': 'Pos', 'Tense': 'Fut', 'VerbForm': 'Fin'}, 'head': 8, 'deprel': 'aux', 'deps': None, 'misc': {'pronunciation': 'boš', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok105'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w6" end="Artur-N-G5082-P600080.t12.w7">({'id': 8, 'form': 'imel', 'lemma': 'imeti', 'upos': 'VERB', 'xpos': 'Vmpp-sm', 'feats': {'Aspect': 'Imp', 'Gender': 'Masc', 'Number': 'Sing', 'VerbForm': 'Part'}, 'head': 4, 'deprel': 'ccomp', 'deps': None, 'misc': {'pronunciation': 'meu', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok106'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w7" end="Artur-N-G5082-P600080.t12.w8">({'id': 9, 'form': 'v', 'lemma': 'v', 'upos': 'ADP', 'xpos': 'Sl', 'feats': {'Case': 'Loc'}, 'head': 10, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'v', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok107'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w8" end="Artur-N-G5082-P600080.t12.w9">({'id': 10, 'form': 'bistvu', 'lemma': 'bistvo', 'upos': 'NOUN', 'xpos': 'Ncnsl', 'feats': {'Case': 'Loc', 'Gender': 'Neut', 'Number': 'Sing'}, 'head': 8, 'deprel': 'obl', 'deps': None, 'misc': {'pronunciation': 'bistvu', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok108'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w9" end="Artur-N-G5082-P600080.t12.w10">({'id': 11, 'form': 'intervjuje', 'lemma': 'intervju', 'upos': 'NOUN', 'xpos': 'Ncmpa', 'feats': {'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Plur'}, 'head': 8, 'deprel': 'obj', 'deps': None, 'misc': {'pronunciation': 'intervjuje', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok109'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w10" end="Artur-N-G5082-P600080.t12.w11">({'id': 12, 'form': 'z', 'lemma': 'z', 'upos': 'ADP', 'xpos': 'Si', 'feats': {'Case': 'Ins'}, 'head': 13, 'deprel': 'reparandum', 'deps': None, 'misc': {'pronunciation': 'sə', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok110'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w11" end="Artur-N-G5082-P600080.t12.w12">({'id': 13, 'form': 'z', 'lemma': 'z', 'upos': 'ADP', 'xpos': 'Si', 'feats': {'Case': 'Ins'}, 'head': 14, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'sə', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok111'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w12" end="Artur-N-G5082-P600080.t12.w13">({'id': 14, 'form': 'ljudmi', 'lemma': 'človek', 'upos': 'NOUN', 'xpos': 'Ncmpi', 'feats': {'Case': 'Ins', 'Gender': 'Masc', 'Number': 'Plur'}, 'head': 11, 'deprel': 'nmod', 'deps': None, 'misc': {'pronunciation': 'ljudmi', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok112'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w13" end="Artur-N-G5082-P600080.t12.w13_">({'id': 15, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 20, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok113'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w13_" end="Artur-N-G5082-P600080.t12.w14">({'id': 16, 'form': 'ki', 'lemma': 'ki', 'upos': 'SCONJ', 'xpos': 'Cs', 'feats': None, 'head': 20, 'deprel': 'mark', 'deps': None, 'misc': {'pronunciation': 'ki', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok114'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w14" end="Artur-N-G5082-P600080.t12.w15">({'id': 17, 'form': 'v', 'lemma': 'v', 'upos': 'ADP', 'xpos': 'Sl', 'feats': {'Case': 'Loc'}, 'head': 18, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'v', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok115'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w15" end="Artur-N-G5082-P600080.t12.w16">({'id': 18, 'form': 'bistvu', 'lemma': 'bistvo', 'upos': 'NOUN', 'xpos': 'Ncnsl', 'feats': {'Case': 'Loc', 'Gender': 'Neut', 'Number': 'Sing'}, 'head': 20, 'deprel': 'obl', 'deps': None, 'misc': {'pronunciation': 'bistvu', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok116'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w16" end="Artur-N-G5082-P600080.t12.w17">({'id': 19, 'form': 'nekako', 'lemma': 'nekako', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 20, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'nekak', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok117'}},)</event>
-<event start="Artur-N-G5082-P600080.t12.w17" end="Artur-N-G5082-P600080.t13">({'id': 20, 'form': 'delajo', 'lemma': 'delati', 'upos': 'VERB', 'xpos': 'Vmpr3p', 'feats': {'Aspect': 'Imp', 'Mood': 'Ind', 'Number': 'Plur', 'Person': '3', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 14, 'deprel': 'acl', 'deps': None, 'misc': {'pronunciation': 'delajo', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s8', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok118'}},)</event>
-<event start="Artur-N-G5082-P600080.t14.w0" end="Artur-N-G5082-P600080.t15">({'id': 1, 'form': 'mmm', 'lemma': 'mmm', 'upos': 'INTJ', 'xpos': 'I', 'feats': None, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'mmm', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s9', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok120'}},)</event>
-<event start="Artur-N-G5082-P600080.t15" end="Artur-N-G5082-P600080.t15_">({'id': 2, 'form': '.', 'lemma': '.', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 1, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': '.', 'sentence_ending': 'True', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s9', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok121'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w0" end="Artur-N-G5082-P600080.t15.w1">({'id': 1, 'form': 'to', 'lemma': 'ta', 'upos': 'DET', 'xpos': 'Pd-nsn', 'feats': {'Case': 'Nom', 'Gender': 'Neut', 'Number': 'Sing', 'PronType': 'Dem'}, 'head': 6, 'deprel': 'nsubj', 'deps': None, 'misc': {'pronunciation': 'to', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok122'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w1" end="Artur-N-G5082-P600080.t15.w2">({'id': 2, 'form': 'je', 'lemma': 'biti', 'upos': 'AUX', 'xpos': 'Va-r3s-n', 'feats': {'Mood': 'Ind', 'Number': 'Sing', 'Person': '3', 'Polarity': 'Pos', 'Tense': 'Pres', 'VerbForm': 'Fin'}, 'head': 6, 'deprel': 'cop', 'deps': None, 'misc': {'pronunciation': 'je', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok123'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w2" end="Artur-N-G5082-P600080.t15.w3">({'id': 3, 'form': 'v', 'lemma': 'v', 'upos': 'ADP', 'xpos': 'Sl', 'feats': {'Case': 'Loc'}, 'head': 4, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'v', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok124'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w3" end="Artur-N-G5082-P600080.t15.w4">({'id': 4, 'form': 'bistvu', 'lemma': 'bistvo', 'upos': 'NOUN', 'xpos': 'Ncnsl', 'feats': {'Case': 'Loc', 'Gender': 'Neut', 'Number': 'Sing'}, 'head': 6, 'deprel': 'obl', 'deps': None, 'misc': {'pronunciation': 'bistvu', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok125'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w4" end="Artur-N-G5082-P600080.t15.w5">({'id': 5, 'form': 'ful', 'lemma': 'ful', 'upos': 'ADV', 'xpos': 'Rgp', 'feats': {'Degree': 'Pos'}, 'head': 6, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'ful', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok126'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w5" end="Artur-N-G5082-P600080.t15.w6">({'id': 6, 'form': 'podobno', 'lemma': 'podoben', 'upos': 'ADJ', 'xpos': 'Agpnsn', 'feats': {'Case': 'Nom', 'Degree': 'Pos', 'Gender': 'Neut', 'Number': 'Sing'}, 'head': 0, 'deprel': 'root', 'deps': None, 'misc': {'pronunciation': 'podobno', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok127'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w6" end="Artur-N-G5082-P600080.t15.w6_">({'id': 7, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 11, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok128'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w6_" end="Artur-N-G5082-P600080.t15.w7">({'id': 8, 'form': 'kot', 'lemma': 'kot', 'upos': 'SCONJ', 'xpos': 'Cs', 'feats': None, 'head': 11, 'deprel': 'mark', 'deps': None, 'misc': {'pronunciation': 'kot', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok129'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w7" end="Artur-N-G5082-P600080.t15.w8">({'id': 9, 'form': 'na', 'lemma': 'na', 'upos': 'ADP', 'xpos': 'Sa', 'feats': {'Case': 'Acc'}, 'head': 11, 'deprel': 'advmod', 'deps': None, 'misc': {'pronunciation': 'na', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok130'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w8" end="Artur-N-G5082-P600080.t15.w9">({'id': 10, 'form': 'primer', 'lemma': 'primer', 'upos': 'NOUN', 'xpos': 'Ncmsan', 'feats': {'Animacy': 'Inan', 'Case': 'Acc', 'Gender': 'Masc', 'Number': 'Sing'}, 'head': 9, 'deprel': 'fixed', 'deps': None, 'misc': {'pronunciation': 'primer', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok131'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w9" end="Artur-N-G5082-P600080.t15.w10">({'id': 11, 'form': 'Metelkova', 'lemma': 'Metelkov', 'upos': 'ADJ', 'xpos': 'Aspfsn', 'feats': {'Case': 'Nom', 'Degree': 'Pos', 'Gender': 'Fem', 'Number': 'Sing', 'Poss': 'Yes'}, 'head': 6, 'deprel': 'advcl', 'deps': None, 'misc': {'pronunciation': 'Metelkova', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok132'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w10" end="Artur-N-G5082-P600080.t15.w11">({'id': 12, 'form': 'v', 'lemma': 'v', 'upos': 'ADP', 'xpos': 'Sl', 'feats': {'Case': 'Loc'}, 'head': 13, 'deprel': 'case', 'deps': None, 'misc': {'pronunciation': 'v', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok133'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w11" end="Artur-N-G5082-P600080.t15.w12">({'id': 13, 'form': 'Ljubljani', 'lemma': 'Ljubljana', 'upos': 'PROPN', 'xpos': 'Npfsl', 'feats': {'Case': 'Loc', 'Gender': 'Fem', 'Number': 'Sing'}, 'head': 11, 'deprel': 'nmod', 'deps': None, 'misc': {'pronunciation': 'Ljubljani', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok134'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w12" end="Artur-N-G5082-P600080.t15.w12_">({'id': 14, 'form': ',', 'lemma': ',', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 15, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': ',', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok135'}},)</event>
-<event start="Artur-N-G5082-P600080.t15.w12_" end="Artur-N-G5082-P600080.t16">({'id': 15, 'form': 'ne', 'lemma': 'ne', 'upos': 'PART', 'xpos': 'Q', 'feats': {'Polarity': 'Neg'}, 'head': 6, 'deprel': 'discourse', 'deps': None, 'misc': {'pronunciation': 'ne', 'Gos2.1_seg_id': 'Artur-N-G5082-P600080.s10', 'Gos2.1_token_id': 'Artur-N-G5082-P600080.tok136'}},)</event>
 </tier><tier id="Artur-N-G5082 [prosodicUnits]" speaker="Artur-N-G5082" category="prosodicUnits" type="a" display-name="Artur-N-G5082 [prosodicUnits]"><event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">Artur-N-G5082-P600080.tok1</event>
 <event start="Artur-N-G5082-P600080.t2.w1_" end="Artur-N-G5082-P600080.t2.w2">Artur-N-G5082-P600080.tok3</event>
 <event start="Artur-N-G5082-P600080.t2.w2_" end="Artur-N-G5082-P600080.t2.w12">Artur-N-G5082-P600080.tok5Artur-N-G5082-P600080.tok6Artur-N-G5082-P600080.tok7Artur-N-G5082-P600080.tok9Artur-N-G5082-P600080.tok10Artur-N-G5082-P600080.tok11Artur-N-G5082-P600080.tok12Artur-N-G5082-P600080.tok13Artur-N-G5082-P600080.tok14Artur-N-G5082-P600080.tok16</event>
@@ -1535,7 +1403,5 @@
 <event start="Artur-N-G5082-P600080.t12.w0" end="Artur-N-G5082-P600080.t13">informationProvidingFact</event>
 <event start="Artur-N-G5082-P600080.t14.w0" end="Artur-N-G5082-P600080.t15_">metadiscourse</event>
 <event start="Artur-N-G5082-P600080.t15.w0" end="Artur-N-G5082-P600080.t16">informationSeeking</event>
-</tier><tier id="Artur-N-G5082 [dialogActsComment]" speaker="Artur-N-G5082" category="dialogActsComment" type="a" display-name="Artur-N-G5082 [dialogActsComment]"></tier><tier id="Artur-N-G5082 [dialogActsSecondary]" speaker="Artur-N-G5082" category="dialogActsSecondary" type="a" display-name="Artur-N-G5082 [dialogActsSecondary]"><event start="Artur-N-G5082-P600080.t2.w2_" end="Artur-N-G5082-P600080.t3_">informationSeeking</event>
-<event start="Artur-N-G5082-P600080.t12.w0" end="Artur-N-G5082-P600080.t13">informationSeeking</event>
 </tier></basic-body>
 </basic-transcription>
