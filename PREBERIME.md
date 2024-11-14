@@ -75,4 +75,4 @@ Za manjkajoče podatke je uporabljen minus: `-`
 
 Opisuje, v kateri podmnožici (učna, testna, razvijalna) se nahajajo posnetki. Vsebuje stolpce:
 * TEXT-ID: Identifikator posnetka
-* Split: Podmnožica (Test, Dev, Split)
+* Split: Podmnožica (Train, Dev, Test)

@@ -75,4 +75,4 @@ Minus (`-`) was used to indicate missing values.
 
 Describes composition of train, dev, and test subsets. Contains columns:
 * TEXT-ID: Recording identifier
-* Split: Subset (Test, Dev, Split)
+* Split: Subset (Train, Dev, Test)
