@@ -7,19 +7,21 @@ ROG je sestavljen iz 57 ročno označenih posnetkov iz korpusa Artur (v direktor
 
 ```
 ROG
-├── CONLLU  [344 entries]
+ROG
+├── DOCS
+│   ├── ROG-speakers.tsv
+│   └── ROG-speeches.tsv
+├── PREBERIME.md
+├── README.md
+├── ROG-TrainDevTest-split.tsv
 ├── ROG-Art
-│   ├── EXB  [57 entries]
-│   ├── EXS  [57 entries]
-│   ├── TRS  [114 entries]
-│   ├── TXT  [114 entries]
-│   ├── WAV  [57 entries]
-│   ├── ROG-Art-speakers.tsv
-│   ├── ROG-Art-speeches.tsv
-│   └── ROG-Art-TrainDevTest-split.tsv
-├── ROG-speakers.tsv
-├── ROG-speeches.tsv
-└── ROG-TrainDevTest-split.tsv
+│   ├── ROG-Art-TrainDevTest-split.tsv
+│   ├── EXB  [57 datotek]
+│   ├── EXS  [58 datotek]
+│   ├── TRS  [114 datotek]
+│   ├── TXT  [114 datotek]
+│   └── WAV  [57 datotek]
+└── ROG-UD  [344 datotek]
 ```
 
 Korpus ROG sestavljata direktorija `CONLLU` in `ROG-Art`. `CONLLU` vsebuje 344 datotek v formatu `conllu`, `ROG-Art` pa je razdeljen na direktorije po tipu datotek.
