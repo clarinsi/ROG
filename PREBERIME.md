@@ -9,11 +9,11 @@ ROG je sestavljen iz 57 ročno označenih posnetkov iz korpusa Artur (v direktor
 ROG
 ├── CONLLU  [344 entries]
 ├── ROG-Art
-│   ├── AVD  [57 entries]
 │   ├── EXB  [57 entries]
 │   ├── EXS  [57 entries]
 │   ├── TRS  [114 entries]
 │   ├── TXT  [114 entries]
+│   ├── WAV  [57 entries]
 │   ├── ROG-Art-speakers.tsv
 │   ├── ROG-Art-speeches.tsv
 │   └── ROG-Art-TrainDevTest-split.tsv
