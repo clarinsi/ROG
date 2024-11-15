@@ -21,7 +21,7 @@ ROG
 │   ├── TRS  [114 datotek]
 │   ├── TXT  [114 datotek]
 │   └── WAV  [57 datotek]
-└── ROG-UD  [344 datotek]
+└── ROG-SST  [344 datotek]
 ```
 
 Korpus ROG sestavljata direktorija `CONLLU` in `ROG-Art`. `CONLLU` vsebuje 344 datotek v formatu `conllu`, `ROG-Art` pa je razdeljen na direktorije po tipu datotek.

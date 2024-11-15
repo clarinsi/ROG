@@ -20,7 +20,7 @@ ROG
 │   ├── TRS  [114 entries]
 │   ├── TXT  [114 entries]
 │   └── WAV  [57 entries]
-└── ROG-UD  [344 entries]
+└── ROG-SST  [344 entries]
 ```
 ROG consists of two directories: `CONLLU` and `ROG-Art`. `CONLLU` directory contains 344 conllu files, while `ROG-Art` is split in subdirectories based on the file types (AVD for audio, TXT for text, ...)
 
