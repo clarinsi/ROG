@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<segmented-transcription Id="CIDID491C5E0E-AC70-9997-2A70-EDA89C794199">
+<segmented-transcription Id="CIDIDD47ABB73-411C-5416-72E1-37B43EFE787C">
   <head>
     <meta-information>
       <project-name>MEZZANINE</project-name>
       <transcription-name>Rog-Art-P-G7002-P700444</transcription-name>
-      <referenced-file url="../../AVD/Rog-Art-P-G7002-P700444.wav" />
+      <referenced-file url="../WAV/Rog-Art-P-G7002-P700444.wav" />
       <ud-meta-information>
         <ud-information attribute-name="Velikost prostora">Nad 80 m2</ud-information>
         <ud-information attribute-name="SUBCORPUS">Artur-P</ud-information>
@@ -16,7 +16,7 @@
         <ud-information attribute-name="DOMAIN">seja državnega zbora</ud-information>
         <ud-information attribute-name="TYPE">informativno-izobraževalni</ud-information>
         <ud-information attribute-name="CHANNEL">osebni stik</ud-information>
-        <ud-information attribute-name="# EXB-SOURCE">C:\Users\bernd\Dropbox\work\2023_Maribor\2024\PROCESS\3-INTERNAL\Rog-Art-P-G7002-P700444.exb.xml</ud-information>
+        <ud-information attribute-name="# EXB-SOURCE">C:\Users\bernd\Dropbox\work\2023_Maribor\2024\PROCESS\3-INTERNAL\EXB\Rog-Art-P-G7002-P700444.exb.xml</ud-information>
         <ud-information attribute-name="# GEN:w">713</ud-information>
         <ud-information attribute-name="# GEN:ip">2066</ud-information>
         <ud-information attribute-name="# e">892</ud-information>

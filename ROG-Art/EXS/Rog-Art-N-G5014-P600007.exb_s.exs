@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<segmented-transcription Id="CIDID91B252E1-71B7-949C-1468-D2BEFCEDD53E">
+<segmented-transcription Id="CIDIDBE764E92-2B14-2AF5-FFA4-95D4624994BF">
   <head>
     <meta-information>
       <project-name>MEZZANINE</project-name>
       <transcription-name>Rog-Art-N-G5014-P600007</transcription-name>
-      <referenced-file url="../../AVD/Rog-Art-N-G5014-P600007.wav" />
+      <referenced-file url="../WAV/Rog-Art-N-G5014-P600007.wav" />
       <ud-meta-information>
         <ud-information attribute-name="Velikost prostora">Do 20 m2</ud-information>
         <ud-information attribute-name="SUBCORPUS">Artur-N</ud-information>
@@ -16,7 +16,7 @@
         <ud-information attribute-name="DOMAIN">prosti dialog med dvema sogovornikoma</ud-information>
         <ud-information attribute-name="TYPE">zasebni</ud-information>
         <ud-information attribute-name="CHANNEL">osebni stik</ud-information>
-        <ud-information attribute-name="# EXB-SOURCE">C:\Users\bernd\Dropbox\work\2023_Maribor\2024\PROCESS\3-INTERNAL\Rog-Art-N-G5014-P600007.exb.xml</ud-information>
+        <ud-information attribute-name="# EXB-SOURCE">C:\Users\bernd\Dropbox\work\2023_Maribor\2024\PROCESS\3-INTERNAL\EXB\Rog-Art-N-G5014-P600007.exb.xml</ud-information>
         <ud-information attribute-name="# GEN:w">460</ud-information>
         <ud-information attribute-name="# GEN:ip">1268</ud-information>
         <ud-information attribute-name="# e">561</ud-information>
