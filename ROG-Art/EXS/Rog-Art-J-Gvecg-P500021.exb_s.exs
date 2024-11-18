@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<segmented-transcription Id="CIDID75B11EE4-52C8-793F-EEB2-DAABB524AA1A">
+<segmented-transcription Id="CIDID6FAD079E-B6AD-9909-ABA6-75F43687AC57">
   <head>
     <meta-information>
       <project-name>MEZZANINE</project-name>
       <transcription-name>Rog-Art-J-Gvecg-P500021</transcription-name>
-      <referenced-file url="../../AVD/Rog-Art-J-Gvecg-P500021.wav" />
+      <referenced-file url="../WAV/Rog-Art-J-Gvecg-P500021.wav" />
       <ud-meta-information>
         <ud-information attribute-name="Velikost prostora">Nad 80 m2</ud-information>
         <ud-information attribute-name="SUBCORPUS">Artur-J</ud-information>
@@ -16,7 +16,7 @@
         <ud-information attribute-name="DOMAIN">spletni dogodek</ud-information>
         <ud-information attribute-name="TYPE">informativno-izobraževalni</ud-information>
         <ud-information attribute-name="CHANNEL">internet</ud-information>
-        <ud-information attribute-name="# EXB-SOURCE">C:\Users\bernd\Dropbox\work\2023_Maribor\2024\PROCESS\4-PUBLIC\Rog-Art-J-Gvecg-P500021.exb.xml</ud-information>
+        <ud-information attribute-name="# EXB-SOURCE">C:\Users\bernd\Dropbox\work\2023_Maribor\2024\PROCESS\4-PUBLIC\EXB\Rog-Art-J-Gvecg-P500021.exb.xml</ud-information>
         <ud-information attribute-name="# GEN:w">821</ud-information>
         <ud-information attribute-name="# GEN:ip">2525</ud-information>
         <ud-information attribute-name="# e">1091</ud-information>
