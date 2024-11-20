@@ -4868,18 +4868,18 @@
     </Speaker>
   </CorpusData>
   <Description>
-    <Key Name="DC:contributor">Kaja Dobrovoljc, Darinka Verdonik, Peter Rupnik, Nikola Ljubešić, Simona Majhenič, Jaka Čibej</Key>
-    <Key Name="DC:creator">Kaja Dobrovoljc, Darinka Verdonik</Key>
-    <Key Name="DC:date">2024-12</Key>
-    <Key Name="DC:description">Training corpus of spoken Slovenian</Key>
-    <Key Name="DC:format">Text/Plain, Text/XML, Audio/WAV</Key>
-    <Key Name="DC:language">slv</Key>
-    <Key Name="DC:publisher">University of Ljubljana--Faculty of Arts; University of Maribor--Faculty of Electrical Engineering and Computer Science; Jožef Stefan Institute	</Key>
-    <Key Name="DC:rights">Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</Key>
-    <Key Name="DC:source">https://www.clarin.si/repository/xmlui/handle/11356/1863</Key>
-    <Key Name="DC:subject">speech; universal dependencies; syntax; disfluencies; prosody; dialogue acts</Key>
-    <Key Name="DC:title">Spoken Training Corpus ROG</Key>
-    <Key Name="DC:type">spoken corpus	</Key>
-  </Description>
+      <Key Name="DC:contributor">Kaja Dobrovoljc, Darinka Verdonik, Peter Rupnik, Nikola Ljubešić, Simona Majhenič, Jaka Čibej, Thomas Schmidt</Key>
+      <Key Name="DC:coverage">Slovenia</Key>
+      <Key Name="DC:creator">Kaja Dobrovoljc, Darinka Verdonik</Key>
+      <Key Name="DC:date">2024-12</Key>
+      <Key Name="DC:description">training corpus of spoken Slovenian</Key>
+      <Key Name="DC:format">Text/Plain, Text/XML, Audio/WAV</Key>
+      <Key Name="DC:language">slv</Key>
+      <Key Name="DC:publisher">University of Ljubljana--Faculty of Arts; University of Maribor--Faculty of Electrical Engineering and Computer Science; Jožef Stefan Institute</Key>
+      <Key Name="DC:rights">Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</Key>
+      <Key Name="DC:source">https://www.clarin.si/repository/xmlui/handle/11356/1863</Key>
+      <Key Name="DC:subject">speech; universal dependencies; syntax; disfluencies; prosody; dialogue acts</Key>
+      <Key Name="DC:title">Spoken Training Corpus ROG</Key>
+      <Key Name="DC:type">spoken corpus</Key>
+    </Description>
 </Corpus>
-
