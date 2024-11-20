@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Corpus Name="Rog-Art" Id="ID48B6203B-C55D-019D-F0D8-5B14BA6A3DBA" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.exmaralda.org/xml/comacorpus.xsd" uniqueSpeakerDistinction="//speaker/abbreviation">
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Rog-Art" Id="ID48B6203B-C55D-019D-F0D8-5B14BA6A3DBA" xsi:noNamespaceSchemaLocation="http://www.exmaralda.org/xml/comacorpus.xsd" uniqueSpeakerDistinction="//speaker/abbreviation">
   <CorpusData>
     <Communication Name="Rog-Art-N-G5019-P600012" Id="CID2FB579C9-DE3D-D328-C456-94C5BB0218A7">
       <Description>
@@ -15,7 +15,7 @@
         <Key Name="Velikost prostora">Od 20 do 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:05:09.934442 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.293731  2024-10-18T10:25:51.468833+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5019-P600012</Key>
       </Description>
       <Setting>
@@ -76,7 +76,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:16.677211 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.975511  2024-10-18T10:56:16.255391+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5025-P600021</Key>
       </Description>
       <Setting>
@@ -137,7 +137,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:05:09.097568 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.061141  2024-10-18T10:27:27.016509+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5025-P600022</Key>
       </Description>
       <Setting>
@@ -198,7 +198,7 @@
         <Key Name="Velikost prostora">Od 20 do 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:19.142057 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.427211  2024-10-18T10:25:57.420740+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5035-P600034</Key>
       </Description>
       <Setting>
@@ -259,7 +259,7 @@
         <Key Name="Velikost prostora">Od 20 do 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:00.563902 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:27.081575  2024-10-18T10:28:47.704798+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6116-P611601</Key>
       </Description>
       <Setting>
@@ -320,7 +320,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:02.808511 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:33.165835  2024-10-18T10:56:18.607247+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5043-P600044</Key>
       </Description>
       <Setting>
@@ -381,7 +381,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:38.452577 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:26.979219  2024-10-18T10:28:51.716696+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-P-G7165-P700926</Key>
       </Description>
       <Setting>
@@ -442,7 +442,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:39.157265 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:27.162245  2024-10-18T10:27:22.063164+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6001-P600102</Key>
       </Description>
       <Setting>
@@ -503,7 +503,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:55.750415 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.700972  2024-10-18T10:28:02.491764+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500034</Key>
       </Description>
       <Setting>
@@ -564,7 +564,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:52.199027 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.551851  2024-10-18T10:26:54.520211+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6112-P611202</Key>
       </Description>
       <Setting>
@@ -625,7 +625,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:35.313621 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:29.952057  2024-10-18T10:26:31.686068+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500037</Key>
       </Description>
       <Setting>
@@ -686,7 +686,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:03.970029 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:29.261243  2024-10-18T10:27:44.185184+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6043-P604301</Key>
       </Description>
       <Setting>
@@ -747,7 +747,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:39.256860 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:30.297157  2024-10-18T10:25:53.787999+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6103-P610302</Key>
       </Description>
       <Setting>
@@ -808,7 +808,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:34.014501 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:29.698228  2024-10-18T10:28:31.818693+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5054-P600052</Key>
       </Description>
       <Setting>
@@ -869,7 +869,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:50.342766 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.597455  2024-10-18T10:27:11.924373+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-P-G7036-P701111</Key>
       </Description>
       <Setting>
@@ -930,7 +930,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:58.099533 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.114036  2024-10-18T10:26:20.130734+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5044-P600044</Key>
       </Description>
       <Setting>
@@ -991,7 +991,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:25.870997 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:30.550018  2024-10-18T10:56:13.516798+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-P-G7001-P700192</Key>
       </Description>
       <Setting>
@@ -1052,7 +1052,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:45.918922 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:26.349551  2024-10-18T10:28:44.150189+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P580023</Key>
       </Description>
       <Setting>
@@ -1114,7 +1114,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:45.423198 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:20.992244  2024-10-18T10:27:25.816813+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500063</Key>
       </Description>
       <Setting>
@@ -1176,7 +1176,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:32.916862 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:29.988135  2024-10-18T10:28:05.988752+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500021</Key>
       </Description>
       <Setting>
@@ -1237,7 +1237,7 @@
         <Key Name="Velikost prostora">Od 20 do 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:58.156909 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:33.872065  2024-10-18T10:28:15.938794+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5036-P600034</Key>
       </Description>
       <Setting>
@@ -1298,7 +1298,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:44.279933 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:21.552683  2024-10-18T10:26:12.540989+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500064</Key>
       </Description>
       <Setting>
@@ -1360,7 +1360,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:14.438471 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:28.533573  2024-10-18T10:27:01.143311+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6100-P610002</Key>
       </Description>
       <Setting>
@@ -1421,7 +1421,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:29.519095 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.422280  2024-10-18T10:28:46.250765+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6007-P600702</Key>
       </Description>
       <Setting>
@@ -1482,7 +1482,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:05:07.912719 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.081127  2024-10-18T10:26:55.979106+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5082-P600080</Key>
       </Description>
       <Setting>
@@ -1543,7 +1543,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:20.203391 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:29.437619  2024-10-18T10:27:30.643057+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-P-G7002-P700444</Key>
       </Description>
       <Setting>
@@ -1604,7 +1604,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:41.725730 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.623798  2024-10-18T10:26:23.712291+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5013-P600007</Key>
       </Description>
       <Setting>
@@ -1665,7 +1665,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:44.600754 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:21.360380  2024-10-18T10:27:17.719369+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500026</Key>
       </Description>
       <Setting>
@@ -1728,7 +1728,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:47.099321 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:21.292555  2024-10-18T10:27:52.593725+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500028</Key>
       </Description>
       <Setting>
@@ -1790,7 +1790,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:06.550500 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:30.021297  2024-10-18T10:28:13.404802+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6060-P606001</Key>
       </Description>
       <Setting>
@@ -1851,7 +1851,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:14.861592 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:24.882915  2024-10-18T10:26:23.043403+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5083-P600080</Key>
       </Description>
       <Setting>
@@ -1912,7 +1912,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:14.465445 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:29.389356  2024-10-18T10:28:33.320997+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-P-G7065-P701064</Key>
       </Description>
       <Setting>
@@ -1973,7 +1973,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:45.776487 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:21.680432  2024-10-18T10:28:34.219410+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P580051</Key>
       </Description>
       <Setting>
@@ -2036,7 +2036,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:58.314138 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.914550  2024-10-18T10:26:19.413104+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6031-P603102</Key>
       </Description>
       <Setting>
@@ -2097,7 +2097,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:52.407484 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:33.429893  2024-10-18T10:26:15.813172+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5026-P600021</Key>
       </Description>
       <Setting>
@@ -2158,7 +2158,7 @@
         <Key Name="Velikost prostora">Od 20 do 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:34.409519 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.247007  2024-10-18T10:26:28.009605+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5020-P600012</Key>
       </Description>
       <Setting>
@@ -2219,7 +2219,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:37.009191 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:31.796843  2024-10-18T10:26:39.616067+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6083-P608301</Key>
       </Description>
       <Setting>
@@ -2280,7 +2280,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:58.164898 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.170198  2024-10-18T10:28:59.759352+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5097-P600096</Key>
       </Description>
       <Setting>
@@ -2341,7 +2341,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:10.574821 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:21.427918  2024-10-18T10:26:42.919435+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500051</Key>
       </Description>
       <Setting>
@@ -2402,7 +2402,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:42.994483 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:21.484677  2024-10-18T10:27:08.591684+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500054</Key>
       </Description>
       <Setting>
@@ -2464,7 +2464,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:51.244849 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:27.140594  2024-10-18T10:27:07.199778+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6047-P604702</Key>
       </Description>
       <Setting>
@@ -2525,7 +2525,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:43.830715 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:21.594760  2024-10-18T10:26:08.722276+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500014</Key>
       </Description>
       <Setting>
@@ -2587,7 +2587,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:50.899623 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:26.994806  2024-10-18T10:27:37.805629+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G6012-P601201</Key>
       </Description>
       <Setting>
@@ -2648,7 +2648,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:00.074948 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:24.814828  2024-10-18T10:56:11.362168+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500016</Key>
       </Description>
       <Setting>
@@ -2710,7 +2710,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:47.737988 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:31.799801  2024-10-18T10:56:20.636235+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-P-G7155-P700259</Key>
       </Description>
       <Setting>
@@ -2771,7 +2771,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:37.886289 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:29.593122  2024-10-18T10:28:53.024936+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5053-P600052</Key>
       </Description>
       <Setting>
@@ -2832,7 +2832,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:22.777303 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:24.125814  2024-10-18T10:27:46.979905+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P580041</Key>
       </Description>
       <Setting>
@@ -2894,7 +2894,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:26.217834 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:24.110225  2024-10-18T10:26:04.911009+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P580002</Key>
       </Description>
       <Setting>
@@ -2956,7 +2956,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:42.821819 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:20.753108  2024-10-18T10:26:38.886427+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P580003</Key>
       </Description>
       <Setting>
@@ -3018,7 +3018,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:44.559267 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:23.946883  2024-10-18T10:28:54.413901+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P580047</Key>
       </Description>
       <Setting>
@@ -3080,7 +3080,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:28.512546 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:29.658848  2024-10-18T10:27:59.191170+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500042</Key>
       </Description>
       <Setting>
@@ -3140,8 +3140,8 @@
         <Key Name="URL">https://www.facebook.com/watch/live/?v=339333000613185&amp;ref=watch_permalink</Key>
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:43.339355, traceability tiers added from TEI on 2024-03-11T16:24:21.414890  2024-10-18T10:26:35.153544+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
-        <Key Name="project-name"></Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="project-name" />
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500001</Key>
       </Description>
       <Setting>
@@ -3202,7 +3202,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:29.707143 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:26.331053  2024-10-18T10:26:29.776627+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P580009</Key>
       </Description>
       <Setting>
@@ -3264,7 +3264,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:05:06.253842 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.050245  2024-10-18T10:27:34.100413+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500002</Key>
       </Description>
       <Setting>
@@ -3325,7 +3325,7 @@
         <Key Name="Velikost prostora">Do 20 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:13.524928 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:24.956325  2024-10-18T10:27:15.313941+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-N-G5014-P600007</Key>
       </Description>
       <Setting>
@@ -3386,7 +3386,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:16.523421 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:24.064143  2024-10-18T10:28:18.710407+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500046</Key>
       </Description>
       <Setting>
@@ -3449,7 +3449,7 @@
         <Key Name="Velikost prostora">Nad 80 m2</Key>
         <Key Name="comment">Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:11.368283 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:23.684301  2024-10-18T10:25:56.117825+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</Key>
         <Key Name="project-name">MEZZANINE</Key>
-        <Key Name="transcription-convention"></Key>
+        <Key Name="transcription-convention" />
         <Key Name="transcription-name">Rog-Art-J-Gvecg-P500048</Key>
       </Description>
       <Setting>
@@ -3506,7 +3506,7 @@
         <Key Name="SEX">ženski</Key>
         <Key Name="EDUCATION">fakulteta ali več</Key>
         <Key Name="CHILD-RESD">-</Key>
-        <Key Name="1LANG"></Key>
+        <Key Name="1LANG" />
         <Key Name="RECORDING-ID">Artur-J-Gvecg-P500021.wav</Key>
         <Key Name="@abbreviation">Artur-J-G3047</Key>
         <Key Name="DIALECT">standardni jezik</Key>
@@ -4114,7 +4114,7 @@
         <Key Name="SEX">ženski</Key>
         <Key Name="EDUCATION">-</Key>
         <Key Name="CHILD-RESD">-</Key>
-        <Key Name="1LANG"></Key>
+        <Key Name="1LANG" />
         <Key Name="RECORDING-ID">Artur-J-Gvecg-P500037.wav</Key>
         <Key Name="@abbreviation">Artur-J-G3070</Key>
         <Key Name="DIALECT">standardni jezik</Key>
@@ -4133,7 +4133,7 @@
         <Key Name="SEX">ženski</Key>
         <Key Name="EDUCATION">-</Key>
         <Key Name="CHILD-RESD">-</Key>
-        <Key Name="1LANG"></Key>
+        <Key Name="1LANG" />
         <Key Name="RECORDING-ID">Artur-J-Gvecg-P500034.wav</Key>
         <Key Name="@abbreviation">Artur-J-G3069</Key>
         <Key Name="DIALECT">standardni jezik</Key>
@@ -4304,7 +4304,7 @@
         <Key Name="SEX">moški</Key>
         <Key Name="EDUCATION">-</Key>
         <Key Name="CHILD-RESD">-</Key>
-        <Key Name="1LANG"></Key>
+        <Key Name="1LANG" />
         <Key Name="RECORDING-ID">Artur-J-Gvecg-P500028.wav</Key>
         <Key Name="@abbreviation">Artur-J-G3062</Key>
         <Key Name="DIALECT">standardni jezik</Key>
@@ -4570,7 +4570,7 @@
         <Key Name="SEX">ženski</Key>
         <Key Name="EDUCATION">-</Key>
         <Key Name="CHILD-RESD">-</Key>
-        <Key Name="1LANG"></Key>
+        <Key Name="1LANG" />
         <Key Name="RECORDING-ID">Artur-J-Gvecg-P500026.wav</Key>
         <Key Name="@abbreviation">Artur-J-G3055</Key>
         <Key Name="DIALECT">standardni jezik</Key>
@@ -4855,7 +4855,7 @@
         <Key Name="SEX">moški</Key>
         <Key Name="EDUCATION">-</Key>
         <Key Name="CHILD-RESD">-</Key>
-        <Key Name="1LANG"></Key>
+        <Key Name="1LANG" />
         <Key Name="RECORDING-ID">Artur-J-Gvecg-P500046.wav</Key>
         <Key Name="@abbreviation">Artur-J-G3090</Key>
         <Key Name="DIALECT">standardni jezik</Key>
@@ -4867,5 +4867,20 @@
       </Description>
     </Speaker>
   </CorpusData>
+  <Description>
+    <Key Name="DC:contributor">Kaja Dobrovoljc, Darinka Verdonik, Peter Rupnik, Nikola Ljubešić, Simona Majhenič, Jaka Čibej, Thomas Schmidt</Key>
+    <Key Name="DC:coverage">Slovenia</Key>
+    <Key Name="DC:creator">Kaja Dobrovoljc, Darinka Verdonik</Key>
+    <Key Name="DC:date">2024-12</Key>
+    <Key Name="DC:description">training corpus of spoken Slovenian</Key>
+    <Key Name="DC:format">Text/Plain, Text/XML, Audio/WAV</Key>
+    <Key Name="DC:language">slv</Key>
+    <Key Name="DC:publisher">University of Ljubljana--Faculty of Arts; University of Maribor--Faculty of Electrical Engineering and Computer Science; Jožef Stefan Institute</Key>
+    <Key Name="DC:rights">Creative Commons - Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</Key>
+    <Key Name="DC:source">https://www.clarin.si/repository/xmlui/handle/11356/1863</Key>
+    <Key Name="DC:subject">speech; universal dependencies; syntax; disfluencies; prosody; dialogue acts</Key>
+    <Key Name="DC:title">Spoken Training Corpus ROG</Key>
+    <Key Name="DC:type">spoken corpus</Key>
+  </Description>
 </Corpus>
 
