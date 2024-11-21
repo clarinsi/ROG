@@ -4,7 +4,7 @@
     <meta-information>
       <project-name>MEZZANINE</project-name>
       <transcription-name>Rog-Art-N-G5036-P600034</transcription-name>
-      <referenced-file url="../WAV/Rog-Art-N-G5036-P600034.wav" />
+      <referenced-file url="../WAV/Rog-Art-N-G5036-P600034.wav"/>
       <ud-meta-information>
         <ud-information attribute-name="Velikost prostora">Od 20 do 80 m2</ud-information>
         <ud-information attribute-name="SUBCORPUS">Artur-N</ud-information>
@@ -24,15 +24,15 @@
         <ud-information attribute-name="# sc">42</ud-information>
       </ud-meta-information>
       <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:58.156909 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:33.872065  2024-10-18T10:28:15.938794+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
-      <transcription-convention />
+      <transcription-convention/>
     </meta-information>
     <speakertable>
       <speaker id="Artur-N-G5036">
         <abbreviation>Artur-N-G5036</abbreviation>
-        <sex value="m" />
-        <languages-used />
-        <l1 />
-        <l2 />
+        <sex value="m"/>
+        <languages-used/>
+        <l1/>
+        <l2/>
         <ud-speaker-information>
           <ud-information attribute-name="PRS-ID">Artur-N-G5036</ud-information>
           <ud-information attribute-name="SEX">moški</ud-information>
@@ -45,483 +45,483 @@
           <ud-information attribute-name="SOURCE-ID">Artur-N-G5036-P600034</ud-information>
           <ud-information attribute-name="RECORDING-ID">Artur-N-G5036-P600034.wav</ud-information>
         </ud-speaker-information>
-        <comment />
+        <comment/>
       </speaker>
     </speakertable>
   </head>
   <segmented-body>
     <common-timeline>
-      <tli id="Artur-N-G5036-P600034.t2" time="14.208" />
-      <tli id="Artur-N-G5036-P600034.t2.w0" time="14.428" />
-      <tli id="Artur-N-G5036-P600034.t2.w1" time="14.758" />
-      <tli id="Artur-N-G5036-P600034.t2.w1_" time="14.758099999999999" />
-      <tli id="Artur-N-G5036-P600034.t2.w2" time="14.888" />
-      <tli id="Artur-N-G5036-P600034.t2.w3" time="15.038" />
-      <tli id="Artur-N-G5036-P600034.t2.w4" time="15.208" />
-      <tli id="Artur-N-G5036-P600034.t2.w5" time="15.298" />
-      <tli id="Artur-N-G5036-P600034.t3" time="15.926634978307806" />
-      <tli id="Artur-N-G5036-P600034.t3.w0" time="16.46" />
-      <tli id="Artur-N-G5036-P600034.t3.w1" time="17.04" />
-      <tli id="Artur-N-G5036-P600034.t4" time="17.406632033638207" />
-      <tli id="Artur-N-G5036-P600034.t4.w0" time="18.677" />
-      <tli id="Artur-N-G5036-P600034.t4.w1" time="18.967" />
-      <tli id="Artur-N-G5036-P600034.t4.w2" time="19.427" />
-      <tli id="Artur-N-G5036-P600034.t4.w3" time="20.007" />
-      <tli id="Artur-N-G5036-P600034.t4.w4" time="20.187" />
-      <tli id="Artur-N-G5036-P600034.t5" time="20.779958655247146" />
-      <tli id="Artur-N-G5036-P600034.t5.w0" time="21.453290648888455" />
-      <tli id="Artur-N-G5036-P600034.t5.w1" time="21.63995694415535" />
-      <tli id="Artur-N-G5036-P600034.t6" time="22.046622801701094" />
-      <tli id="Artur-N-G5036-P600034.t6_" time="22.046722801701094" />
-      <tli id="Artur-N-G5036-P600034.t6.w0" time="22.783" />
-      <tli id="Artur-N-G5036-P600034.t7" time="23.039954158657086" />
-      <tli id="Artur-N-G5036-P600034.t8.w0" time="23.924" />
-      <tli id="Artur-N-G5036-P600034.t9" time="24.229" />
-      <tli id="Artur-N-G5036-P600034.t9_" time="24.2291" />
-      <tli id="Artur-N-G5036-P600034.t10.w0" time="24.948" />
-      <tli id="Artur-N-G5036-P600034.t11" time="25.48" />
-      <tli id="Artur-N-G5036-P600034.t11_" time="25.4801" />
-      <tli id="Artur-N-G5036-P600034.t12.w0" time="26.944" />
-      <tli id="Artur-N-G5036-P600034.t13" time="27.366612216807678" />
-      <tli id="Artur-N-G5036-P600034.t13_" time="27.366712216807677" />
-      <tli id="Artur-N-G5036-P600034.t13.w0" time="28.142" />
-      <tli id="Artur-N-G5036-P600034.t13.w1" time="28.382" />
-      <tli id="Artur-N-G5036-P600034.t13.w1_" time="28.3821" />
-      <tli id="Artur-N-G5036-P600034.t13.w2" time="28.462" />
-      <tli id="Artur-N-G5036-P600034.t13.w3" time="28.632" />
-      <tli id="Artur-N-G5036-P600034.t13.w4" time="28.832" />
-      <tli id="Artur-N-G5036-P600034.t13.w5" time="29.532" />
-      <tli id="Artur-N-G5036-P600034.t14" time="30.166606645811143" />
-      <tli id="Artur-N-G5036-P600034.t14.w0" time="30.458" />
-      <tli id="Artur-N-G5036-P600034.t14.w1" time="30.848" />
-      <tli id="Artur-N-G5036-P600034.t14.w1_" time="30.8481" />
-      <tli id="Artur-N-G5036-P600034.t14.w2" time="31.008" />
-      <tli id="Artur-N-G5036-P600034.t14.w3" time="31.168" />
-      <tli id="Artur-N-G5036-P600034.t14.w4" time="31.308" />
-      <tli id="Artur-N-G5036-P600034.t15" time="31.906603183834722" />
-      <tli id="Artur-N-G5036-P600034.t16.w0" time="36.175" />
-      <tli id="Artur-N-G5036-P600034.t16.w1" time="36.365" />
-      <tli id="Artur-N-G5036-P600034.t16.w2" time="36.435" />
-      <tli id="Artur-N-G5036-P600034.t17" time="37.03325965027202" />
-      <tli id="Artur-N-G5036-P600034.t17.w0" time="37.602" />
-      <tli id="Artur-N-G5036-P600034.t17.w1" time="37.732" />
-      <tli id="Artur-N-G5036-P600034.t17.w2" time="38.022" />
-      <tli id="Artur-N-G5036-P600034.t17.w3" time="38.122" />
-      <tli id="Artur-N-G5036-P600034.t18" time="38.42659021137136" />
-      <tli id="Artur-N-G5036-P600034.t18_" time="38.426690211371366" />
-      <tli id="Artur-N-G5036-P600034.t18.w0" time="39.067" />
-      <tli id="Artur-N-G5036-P600034.t18.w1" time="39.207" />
-      <tli id="Artur-N-G5036-P600034.t18.w2" time="39.317" />
-      <tli id="Artur-N-G5036-P600034.t19" time="39.90658726670177" />
-      <tli id="Artur-N-G5036-P600034.t19_" time="39.90668726670177" />
-      <tli id="Artur-N-G5036-P600034.t19.w0" time="40.39" />
-      <tli id="Artur-N-G5036-P600034.t19.w1" time="40.59" />
-      <tli id="T1" time="40.85325204984103" />
-      <tli id="Artur-N-G5036-P600034.t19.w2" time="40.95991850427926" />
-      <tli id="Artur-N-G5036-P600034.t19.w3" time="41.07" />
-      <tli id="Artur-N-G5036-P600034.t19.w4" time="41.32" />
-      <tli id="Artur-N-G5036-P600034.t19.w5" time="41.853250060199414" />
-      <tli id="Artur-N-G5036-P600034.t19.w6" time="42.1" />
-      <tli id="Artur-N-G5036-P600034.t19.w7" time="42.81" />
-      <tli id="Artur-N-G5036-P600034.t19.w7_" time="42.810100000000006" />
-      <tli id="Artur-N-G5036-P600034.t19.w8" time="42.94" />
-      <tli id="Artur-N-G5036-P600034.t19.w9" time="43.08" />
-      <tli id="Artur-N-G5036-P600034.t19.w10" time="43.39" />
-      <tli id="Artur-N-G5036-P600034.t20" time="43.77991289348989" />
-      <tli id="Artur-N-G5036-P600034.t20.w0" time="44.15324548402369" />
-      <tli id="Artur-N-G5036-P600034.t20.w1" time="44.6399111823981" />
-      <tli id="Artur-N-G5036-P600034.t20.w2" time="44.745" />
-      <tli id="Artur-N-G5036-P600034.t20.w3" time="45.085" />
-      <tli id="Artur-N-G5036-P600034.t21" time="45.6265758859517" />
-      <tli id="Artur-N-G5036-P600034.t21_" time="45.626675885951705" />
-      <tli id="Artur-N-G5036-P600034.t21.w0" time="46.633" />
-      <tli id="Artur-N-G5036-P600034.t22" time="47.25323931613467" />
-      <tli id="Artur-N-G5036-P600034.t22.w0" time="47.534" />
-      <tli id="Artur-N-G5036-P600034.t22.w1" time="47.874" />
-      <tli id="Artur-N-G5036-P600034.t22.w1_" time="47.874100000000006" />
-      <tli id="Artur-N-G5036-P600034.t22.w2" time="47.984" />
-      <tli id="Artur-N-G5036-P600034.t22.w3" time="48.084" />
-      <tli id="Artur-N-G5036-P600034.t22.w4" time="48.184" />
-      <tli id="Artur-N-G5036-P600034.t22.w5" time="48.334" />
-      <tli id="Artur-N-G5036-P600034.t22.w6" time="48.624" />
-      <tli id="Artur-N-G5036-P600034.t22.w7" time="49.088813480366596" />
-      <tli id="Artur-N-G5036-P600034.t24" time="49.575901361527066" />
-      <tli id="Artur-N-G5036-P600034.t24_" time="49.57600136152707" />
-      <tli id="Artur-N-G5036-P600034.t24.w0" time="53.269" />
-      <tli id="Artur-N-G5036-P600034.t24.w1" time="53.489" />
-      <tli id="Artur-N-G5036-P600034.t24.w2" time="53.829" />
-      <tli id="Artur-N-G5036-P600034.t24.w3" time="54.019" />
-      <tli id="Artur-N-G5036-P600034.t24.w4" time="54.249" />
-      <tli id="Artur-N-G5036-P600034.t25" time="54.74389107905917" />
-      <tli id="Artur-N-G5036-P600034.t25_" time="54.74399107905917" />
-      <tli id="Artur-N-G5036-P600034.t25.w0" time="56.07911230836926" />
-      <tli id="Artur-N-G5036-P600034.t27" time="56.91661149656914" />
-      <tli id="Artur-N-G5036-P600034.t27_" time="56.91671149656914" />
-      <tli id="Artur-N-G5036-P600034.t27.w0" time="87.065" />
-      <tli id="Artur-N-G5036-P600034.t27.w1" time="87.285" />
-      <tli id="Artur-N-G5036-P600034.t27.w2" time="87.455" />
-      <tli id="Artur-N-G5036-P600034.t27.w3" time="87.785" />
-      <tli id="Artur-N-G5036-P600034.t27.w4" time="88.015" />
-      <tli id="Artur-N-G5036-P600034.t28" time="88.583247468306" />
-      <tli id="Artur-N-G5036-P600034.t28_" time="88.583347468306" />
-      <tli id="Artur-N-G5036-P600034.t28.w0" time="89.452" />
-      <tli id="Artur-N-G5036-P600034.t28.w1" time="89.612" />
-      <tli id="Artur-N-G5036-P600034.t28.w2" time="89.842" />
-      <tli id="Artur-N-G5036-P600034.t29" time="90.16657926689284" />
-      <tli id="Artur-N-G5036-P600034.t29_" time="90.16667926689284" />
-      <tli id="Artur-N-G5036-P600034.t30.w0" time="95.286" />
-      <tli id="Artur-N-G5036-P600034.t30.w1" time="95.316" />
-      <tli id="Artur-N-G5036-P600034.t30.w2" time="95.716" />
-      <tli id="Artur-N-G5036-P600034.t30.w3" time="95.786" />
-      <tli id="Artur-N-G5036-P600034.t31" time="96.148" />
-      <tli id="Artur-N-G5036-P600034.t31_" time="96.1481" />
-      <tli id="Artur-N-G5036-P600034.t33.w0" time="103.577" />
-      <tli id="Artur-N-G5036-P600034.t33.w1" time="103.687" />
-      <tli id="Artur-N-G5036-P600034.t33.w1_" time="103.6871" />
-      <tli id="Artur-N-G5036-P600034.t33.w2" time="103.857" />
-      <tli id="Artur-N-G5036-P600034.t33.w3" time="103.927" />
-      <tli id="Artur-N-G5036-P600034.t34" time="104.67979172431525" />
-      <tli id="Artur-N-G5036-P600034.t34_" time="104.67989172431525" />
-      <tli id="Artur-N-G5036-P600034.t34.w0" time="105.038" />
-      <tli id="Artur-N-G5036-P600034.t34.w1" time="105.178" />
-      <tli id="Artur-N-G5036-P600034.t34.w2" time="105.258" />
-      <tli id="Artur-N-G5036-P600034.t34.w3" time="105.528" />
-      <tli id="Artur-N-G5036-P600034.t34.w3_" time="105.52810000000001" />
-      <tli id="Artur-N-G5036-P600034.t34.w4" time="105.618" />
-      <tli id="Artur-N-G5036-P600034.t34.w5" time="105.718" />
-      <tli id="Artur-N-G5036-P600034.t34.w6" time="106.06478896866163" />
-      <tli id="Artur-N-G5036-P600034.t35" time="106.78478753611965" />
-      <tli id="Artur-N-G5036-P600034.t35.w0" time="107.35311973867333" />
-      <tli id="Artur-N-G5036-P600034.t35.w1" time="107.45478620305975" />
-      <tli id="Artur-N-G5036-P600034.t36" time="108.26978458150184" />
-      <tli id="Artur-N-G5036-P600034.t36.w0" time="108.73978364637028" />
-      <tli id="Artur-N-G5036-P600034.t36.w1" time="109.271" />
-      <tli id="Artur-N-G5036-P600034.t36.w2" time="109.581" />
-      <tli id="Artur-N-G5036-P600034.t37" time="110.17478079123455" />
-      <tli id="Artur-N-G5036-P600034.t37_" time="110.17488079123456" />
-      <tli id="Artur-N-G5036-P600034.t37.w0" time="110.731" />
-      <tli id="Artur-N-G5036-P600034.t37.w1" time="110.841" />
-      <tli id="Artur-N-G5036-P600034.t37.w2" time="111.021" />
-      <tli id="Artur-N-G5036-P600034.t37.w3" time="111.441" />
-      <tli id="Artur-N-G5036-P600034.t37.w3_" time="111.4411" />
-      <tli id="Artur-N-G5036-P600034.t37.w4" time="111.511" />
-      <tli id="Artur-N-G5036-P600034.t37.w5" time="111.971" />
-      <tli id="Artur-N-G5036-P600034.t37.w6" time="112.221" />
-      <tli id="Artur-N-G5036-P600034.t37.w7" time="112.4997761653178" />
-      <tli id="Artur-N-G5036-P600034.t37.w8" time="112.61477593650902" />
-      <tli id="Artur-N-G5036-P600034.t38" time="112.89977536946114" />
-      <tli id="Artur-N-G5036-P600034.t38_" time="112.89987536946114" />
-      <tli id="Artur-N-G5036-P600034.t38.w0" time="113.559" />
-      <tli id="Artur-N-G5036-P600034.t39" time="113.83477350914622" />
-      <tli id="Artur-N-G5036-P600034.t39_" time="113.83487350914622" />
-      <tli id="Artur-N-G5036-P600034.t39.w0" time="114.866" />
-      <tli id="Artur-N-G5036-P600034.t39.w1" time="114.996" />
-      <tli id="Artur-N-G5036-P600034.t39.w2" time="115.246" />
-      <tli id="Artur-N-G5036-P600034.t39.w2_" time="115.2461" />
-      <tli id="Artur-N-G5036-P600034.t39.w3" time="115.346" />
-      <tli id="Artur-N-G5036-P600034.t39.w4" time="115.586" />
-      <tli id="Artur-N-G5036-P600034.t40" time="116.20476879369558" />
-      <tli id="Artur-N-G5036-P600034.t40_" time="116.20486879369558" />
-      <tli id="Artur-N-G5036-P600034.t40.w0" time="116.58476803763178" />
-      <tli id="Artur-N-G5036-P600034.t40.w1" time="116.71476777897837" />
-      <tli id="Artur-N-G5036-P600034.t40.w2" time="117.34976651555596" />
-      <tli id="Artur-N-G5036-P600034.t40.w3" time="117.62476596840449" />
-      <tli id="Artur-N-G5036-P600034.t40.w4" time="117.7997656202172" />
-      <tli id="Artur-N-G5036-P600034.t40.w5" time="117.97976526208173" />
-      <tli id="Artur-N-G5036-P600034.t40.w6" time="118.08976504322112" />
-      <tli id="Artur-N-G5036-P600034.t40.w7" time="118.26476469503386" />
-      <tli id="Artur-N-G5036-P600034.t40.w8" time="118.72976376985049" />
-      <tli id="Artur-N-G5036-P600034.t40.w8_" time="118.7298637698505" />
-      <tli id="Artur-N-G5036-P600034.t40.w9" time="118.87476348135246" />
-      <tli id="Artur-N-G5036-P600034.t40.w10" time="119.00976321275085" />
-      <tli id="Artur-N-G5036-P600034.t40.w11" time="119.08976305357953" />
-      <tli id="Artur-N-G5036-P600034.t40.w12" time="119.42976237710135" />
-      <tli id="Artur-N-G5036-P600034.t40.w13" time="119.61976199906947" />
-      <tli id="Artur-N-G5036-P600034.t40.w14" time="119.72476179015709" />
-      <tli id="Artur-N-G5036-P600034.t40.w15" time="119.92476139222877" />
-      <tli id="Artur-N-G5036-P600034.t40.w15_" time="119.92486139222878" />
-      <tli id="Artur-N-G5036-P600034.t41" time="120.08976106393791" />
-      <tli id="Artur-N-G5036-P600034.t41_" time="120.08986106393792" />
-      <tli id="Artur-N-G5036-P600034.t41.w0" time="120.80475964134415" />
-      <tli id="Artur-N-G5036-P600034.t41.w1" time="120.918" />
-      <tli id="Artur-N-G5036-P600034.t42" time="121.45975833812889" />
-      <tli id="Artur-N-G5036-P600034.t42_" time="121.4598583381289" />
-      <tli id="Artur-N-G5036-P600034.t42.w0" time="122.34975656734784" />
-      <tli id="Artur-N-G5036-P600034.t42.w1" time="122.465" />
-      <tli id="Artur-N-G5036-P600034.t42.w2" time="122.835" />
-      <tli id="Artur-N-G5036-P600034.t42.w3" time="123.165" />
-      <tli id="Artur-N-G5036-P600034.t43" time="123.68975390122807" />
-      <tli id="Artur-N-G5036-P600034.t43_" time="123.68985390122808" />
-      <tli id="Artur-N-G5036-P600034.t44.w0" time="124.541" />
-      <tli id="Artur-N-G5036-P600034.t44.w1" time="124.72475184194897" />
-      <tli id="Artur-N-G5036-P600034.t44.w2" time="124.94475140422783" />
-      <tli id="Artur-N-G5036-P600034.t44.w3" time="125.19975089686923" />
-      <tli id="Artur-N-G5036-P600034.t44.w4" time="125.38975051883732" />
-      <tli id="Artur-N-G5036-P600034.t44.w4_" time="125.38985051883732" />
-      <tli id="Artur-N-G5036-P600034.t44.w5" time="125.5197502601839" />
-      <tli id="Artur-N-G5036-P600034.t44.w6" time="125.59475011096077" />
-      <tli id="Artur-N-G5036-P600034.t44.w7" time="125.67474995178945" />
-      <tli id="Artur-N-G5036-P600034.t44.w8" time="125.8897495240165" />
-      <tli id="Artur-N-G5036-P600034.t44.w9" time="126.09474911613998" />
-      <tli id="Artur-N-G5036-P600034.t44.w10" time="126.29974870826345" />
-      <tli id="Artur-N-G5036-P600034.t44.w10_" time="126.29984870826345" />
-      <tli id="Artur-N-G5036-P600034.t44.w11" time="126.47974835012796" />
-      <tli id="Artur-N-G5036-P600034.t44.w12" time="126.61474808152633" />
-      <tli id="Artur-N-G5036-P600034.t44.w13" time="126.73474784276932" />
-      <tli id="Artur-N-G5036-P600034.t44.w13_" time="126.73484784276933" />
-      <tli id="Artur-N-G5036-P600034.t44.w14" time="126.93474744484101" />
-      <tli id="Artur-N-G5036-P600034.t44.w15" time="127.05974719613582" />
-      <tli id="Artur-N-G5036-P600034.t45" time="127.4497464201756" />
-      <tli id="Artur-N-G5036-P600034.t45_" time="127.4498464201756" />
-      <tli id="Artur-N-G5036-P600034.t45.w0" time="128.56474420172518" />
-      <tli id="Artur-N-G5036-P600034.t45.w1" time="128.89" />
-      <tli id="Artur-N-G5036-P600034.t45.w2" time="129.04" />
-      <tli id="Artur-N-G5036-P600034.t45.w3" time="129.1" />
-      <tli id="Artur-N-G5036-P600034.t45.w4" time="129.44" />
-      <tli id="Artur-N-G5036-P600034.t45.w5" time="129.75" />
-      <tli id="Artur-N-G5036-P600034.t45.w5_" time="129.7501" />
-      <tli id="Artur-N-G5036-P600034.t45.w6" time="130.01" />
-      <tli id="Artur-N-G5036-P600034.t45.w7" time="130.19" />
-      <tli id="Artur-N-G5036-P600034.t45.w8" time="130.47" />
-      <tli id="Artur-N-G5036-P600034.t46" time="130.86973961560125" />
-      <tli id="Artur-N-G5036-P600034.t46_" time="130.86983961560125" />
-      <tli id="Artur-N-G5036-P600034.t47.w0" time="151.836" />
-      <tli id="Artur-N-G5036-P600034.t48" time="152.10969735561324" />
-      <tli id="Artur-N-G5036-P600034.t48_" time="152.10979735561324" />
-      <tli id="Artur-N-G5036-P600034.t49.w0" time="159.506" />
-      <tli id="Artur-N-G5036-P600034.t49.w1" time="159.786" />
-      <tli id="Artur-N-G5036-P600034.t49.w1_" time="159.7861" />
-      <tli id="Artur-N-G5036-P600034.t49.w2" time="160.00968163744446" />
-      <tli id="Artur-N-G5036-P600034.t49.w3" time="160.486" />
-      <tli id="Artur-N-G5036-P600034.t50" time="160.834" />
-      <tli id="Artur-N-G5036-P600034.t50_" time="160.8341" />
-      <tli id="Artur-N-G5036-P600034.t51.w0" time="162.971" />
-      <tli id="Artur-N-G5036-P600034.t51.w1" time="163.141" />
-      <tli id="Artur-N-G5036-P600034.t51.w1_" time="163.1411" />
-      <tli id="Artur-N-G5036-P600034.t51.w2" time="163.251" />
-      <tli id="Artur-N-G5036-P600034.t51.w3" time="163.561" />
-      <tli id="Artur-N-G5036-P600034.t51.w4" time="163.681" />
-      <tli id="Artur-N-G5036-P600034.t51.w5" time="163.821" />
-      <tli id="Artur-N-G5036-P600034.t51.w6" time="163.931" />
-      <tli id="Artur-N-G5036-P600034.t51.w7" time="164.261" />
-      <tli id="Artur-N-G5036-P600034.t51.w7_" time="164.2611" />
-      <tli id="Artur-N-G5036-P600034.t51.w8" time="164.401" />
-      <tli id="Artur-N-G5036-P600034.t51.w9" time="164.511" />
-      <tli id="Artur-N-G5036-P600034.t51.w10" time="164.671" />
-      <tli id="Artur-N-G5036-P600034.t51.w11" time="165.021" />
-      <tli id="Artur-N-G5036-P600034.t51.w11_" time="165.0211" />
-      <tli id="Artur-N-G5036-P600034.t51.w12" time="165.121" />
-      <tli id="Artur-N-G5036-P600034.t51.w13" time="165.251" />
-      <tli id="Artur-N-G5036-P600034.t51.w14" time="165.381" />
-      <tli id="Artur-N-G5036-P600034.t51.w15" time="165.49467072426015" />
-      <tli id="Artur-N-G5036-P600034.t51.w16" time="165.891" />
-      <tli id="Artur-N-G5036-P600034.t52" time="166.29466913254686" />
-      <tli id="Artur-N-G5036-P600034.t52_" time="166.29476913254686" />
-      <tli id="Artur-N-G5036-P600034.t52.w0" time="167.039" />
-      <tli id="T2" time="167.5130000418335" />
-      <tli id="Artur-N-G5036-P600034.t52.w1" time="167.789" />
-      <tli id="Artur-N-G5036-P600034.t52.w2" time="168.009" />
-      <tli id="Artur-N-G5036-P600034.t52.w3" time="168.069" />
-      <tli id="Artur-N-G5036-P600034.t52.w4" time="168.379" />
-      <tli id="Artur-N-G5036-P600034.t52.w5" time="168.629" />
-      <tli id="Artur-N-G5036-P600034.t52.w6" time="169.019" />
-      <tli id="Artur-N-G5036-P600034.t52.w6_" time="169.0191" />
-      <tli id="Artur-N-G5036-P600034.t52.w7" time="169.269" />
-      <tli id="Artur-N-G5036-P600034.t52.w7_" time="169.2691" />
-      <tli id="Artur-N-G5036-P600034.t53" time="169.71466232797252" />
-      <tli id="Artur-N-G5036-P600034.t53.w0" time="170.51466073625923" />
-      <tli id="Artur-N-G5036-P600034.t53.w1" time="171.233" />
-      <tli id="Artur-N-G5036-P600034.t53.w2" time="171.613" />
-      <tli id="Artur-N-G5036-P600034.t53.w3" time="172.143" />
-      <tli id="Artur-N-G5036-P600034.t53.w4" time="172.1996573837131" />
-      <tli id="Artur-N-G5036-P600034.t53.w5" time="172.363" />
-      <tli id="Artur-N-G5036-P600034.t54" time="172.76465625956558" />
-      <tli id="Artur-N-G5036-P600034.t54_" time="172.7647562595656" />
-      <tli id="Artur-N-G5036-P600034.t54.w0" time="173.58965461811127" />
-      <tli id="Artur-N-G5036-P600034.t54.w1" time="174.08465363323864" />
-      <tli id="Artur-N-G5036-P600034.t54.w2" time="174.564" />
-      <tli id="Artur-N-G5036-P600034.t54.w3" time="174.994" />
-      <tli id="Artur-N-G5036-P600034.t54.w4" time="175.154" />
-      <tli id="Artur-N-G5036-P600034.t54.w5" time="175.374" />
-      <tli id="Artur-N-G5036-P600034.t54.w6" time="176.004" />
-      <tli id="Artur-N-G5036-P600034.t54.w6_" time="176.0041" />
-      <tli id="Artur-N-G5036-P600034.t54.w7" time="176.334" />
-      <tli id="Artur-N-G5036-P600034.t54.w8" time="176.584" />
-      <tli id="Artur-N-G5036-P600034.t54.w9" time="176.954" />
-      <tli id="Artur-N-G5036-P600034.t55" time="177.53964675902685" />
-      <tli id="Artur-N-G5036-P600034.t55_" time="177.53974675902685" />
-      <tli id="Artur-N-G5036-P600034.t55.w0" time="177.834" />
-      <tli id="Artur-N-G5036-P600034.t55.w1" time="178.004" />
-      <tli id="Artur-N-G5036-P600034.t55.w2" time="178.144" />
-      <tli id="Artur-N-G5036-P600034.t55.w3" time="178.274" />
-      <tli id="Artur-N-G5036-P600034.t55.w4" time="178.474" />
-      <tli id="Artur-N-G5036-P600034.t55.w5" time="178.764" />
-      <tli id="Artur-N-G5036-P600034.t55.w6" time="178.844" />
-      <tli id="Artur-N-G5036-P600034.t55.w7" time="179.294" />
-      <tli id="Artur-N-G5036-P600034.t55.w7_" time="179.29410000000001" />
-      <tli id="Artur-N-G5036-P600034.t56" time="179.554642749899" />
-      <tli id="Artur-N-G5036-P600034.t56_" time="179.554742749899" />
-      <tli id="Artur-N-G5036-P600034.t56.w0" time="180.40964104875542" />
-      <tli id="T3" time="180.74630704557606" />
-      <tli id="Artur-N-G5036-P600034.t56.w1" time="180.878" />
-      <tli id="Artur-N-G5036-P600034.t56.w2" time="181.238" />
-      <tli id="Artur-N-G5036-P600034.t56.w3" time="181.518" />
-      <tli id="Artur-N-G5036-P600034.t57" time="182.22963742760763" />
-      <tli id="Artur-N-G5036-P600034.t57.w0" time="182.5146368605598" />
-      <tli id="Artur-N-G5036-P600034.t57.w1" time="182.773" />
-      <tli id="Artur-N-G5036-P600034.t57.w2" time="183.753" />
-      <tli id="Artur-N-G5036-P600034.t57.w3" time="184.103" />
-      <tli id="Artur-N-G5036-P600034.t57.w4" time="184.433" />
-      <tli id="Artur-N-G5036-P600034.t58" time="184.99963191630036" />
-      <tli id="Artur-N-G5036-P600034.t58.w0" time="185.151" />
-      <tli id="Artur-N-G5036-P600034.t58.w1" time="185.861" />
-      <tli id="Artur-N-G5036-P600034.t58.w1_" time="185.8611" />
-      <tli id="Artur-N-G5036-P600034.t58.w2" time="186.701" />
-      <tli id="Artur-N-G5036-P600034.t58.w2_" time="186.7011" />
-      <tli id="Artur-N-G5036-P600034.t58.w3" time="186.891" />
-      <tli id="Artur-N-G5036-P600034.t58.w4" time="187.071" />
-      <tli id="Artur-N-G5036-P600034.t58.w5" time="187.231" />
-      <tli id="Artur-N-G5036-P600034.t58.w6" time="187.331" />
-      <tli id="Artur-N-G5036-P600034.t58.w7" time="187.581" />
-      <tli id="Artur-N-G5036-P600034.t58.w8" time="187.981" />
-      <tli id="Artur-N-G5036-P600034.t58.w8_" time="187.9811" />
-      <tli id="Artur-N-G5036-P600034.t58.w9" time="188.101" />
-      <tli id="Artur-N-G5036-P600034.t58.w10" time="188.221" />
-      <tli id="Artur-N-G5036-P600034.t58.w11" time="188.351" />
-      <tli id="Artur-N-G5036-P600034.t58.w12" time="188.551" />
-      <tli id="Artur-N-G5036-P600034.t58.w13" time="188.811" />
-      <tli id="Artur-N-G5036-P600034.t59" time="189.3846231917219" />
-      <tli id="Artur-N-G5036-P600034.t59_" time="189.3847231917219" />
-      <tli id="Artur-N-G5036-P600034.t59.w0" time="189.86" />
-      <tli id="Artur-N-G5036-P600034.t59.w1" time="189.99" />
-      <tli id="Artur-N-G5036-P600034.t59.w2" time="190.15" />
-      <tli id="Artur-N-G5036-P600034.t59.w3" time="190.28" />
-      <tli id="Artur-N-G5036-P600034.t59.w4" time="190.38" />
-      <tli id="Artur-N-G5036-P600034.t59.w5" time="190.63" />
-      <tli id="Artur-N-G5036-P600034.t59.w6" time="190.75" />
-      <tli id="T4" time="191.03295324546258" />
-      <tli id="Artur-N-G5036-P600034.t59.w7" time="191.13961969990083" />
-      <tli id="Artur-N-G5036-P600034.t59.w8" time="191.52" />
-      <tli id="Artur-N-G5036-P600034.t59.w9" time="191.74" />
-      <tli id="Artur-N-G5036-P600034.t59.w10" time="192.03" />
-      <tli id="Artur-N-G5036-P600034.t59.w11" time="192.34" />
-      <tli id="Artur-N-G5036-P600034.t60" time="192.71461656621526" />
-      <tli id="Artur-N-G5036-P600034.t60.w0" time="193.20961558134266" />
-      <tli id="Artur-N-G5036-P600034.t60.w1" time="193.27" />
-      <tli id="Artur-N-G5036-P600034.t60.w2" time="193.43" />
-      <tli id="Artur-N-G5036-P600034.t60.w3" time="193.58" />
-      <tli id="Artur-N-G5036-P600034.t60.w4" time="193.83" />
-      <tli id="Artur-N-G5036-P600034.t60.w5" time="193.94" />
-      <tli id="Artur-N-G5036-P600034.t60.w6" time="194.47" />
-      <tli id="Artur-N-G5036-P600034.t60.w7" time="194.82" />
-      <tli id="Artur-N-G5036-P600034.t60.w8" time="194.89" />
-      <tli id="Artur-N-G5036-P600034.t60.w9" time="195.16" />
-      <tli id="Artur-N-G5036-P600034.t61" time="195.60961080620277" />
-      <tli id="Artur-N-G5036-P600034.t61_" time="195.60971080620277" />
-      <tli id="Artur-N-G5036-P600034.t61.w0" time="196.13460976164092" />
-      <tli id="Artur-N-G5036-P600034.t61.w1" time="196.285" />
-      <tli id="Artur-N-G5036-P600034.t61.w2" time="196.475" />
-      <tli id="Artur-N-G5036-P600034.t61.w3" time="196.605" />
-      <tli id="Artur-N-G5036-P600034.t61.w4" time="196.715" />
-      <tli id="Artur-N-G5036-P600034.t61.w5" time="196.825" />
-      <tli id="Artur-N-G5036-P600034.t61.w6" time="197.005" />
-      <tli id="Artur-N-G5036-P600034.t61.w7" time="197.295" />
-      <tli id="Artur-N-G5036-P600034.t61.w8" time="197.665" />
-      <tli id="Artur-N-G5036-P600034.t61.w8_" time="197.6651" />
-      <tli id="T5" time="198.05960593158082" />
-      <tli id="Artur-N-G5036-P600034.t61.w9" time="198.215" />
-      <tli id="Artur-N-G5036-P600034.t61.w10" time="198.465" />
-      <tli id="Artur-N-G5036-P600034.t61.w11" time="198.865" />
-      <tli id="Artur-N-G5036-P600034.t61.w11_" time="198.8651" />
-      <tli id="Artur-N-G5036-P600034.t61.w12" time="199.005" />
-      <tli id="Artur-N-G5036-P600034.t61.w12_" time="199.0051" />
-      <tli id="Artur-N-G5036-P600034.t61.w13" time="199.155" />
-      <tli id="Artur-N-G5036-P600034.t61.w14" time="199.325" />
-      <tli id="Artur-N-G5036-P600034.t61.w15" time="199.685" />
-      <tli id="Artur-N-G5036-P600034.t61.w16" time="200.035" />
-      <tli id="T6" time="200.5329343438672" />
-      <tli id="Artur-N-G5036-P600034.t61.w17" time="200.695" />
-      <tli id="Artur-N-G5036-P600034.t61.w18" time="200.885" />
-      <tli id="Artur-N-G5036-P600034.t61.w19" time="201.065" />
-      <tli id="Artur-N-G5036-P600034.t61.w20" time="201.335" />
-      <tli id="Artur-N-G5036-P600034.t61.w21" time="201.455" />
-      <tli id="Artur-N-G5036-P600034.t61.w22" time="201.754598579855" />
-      <tli id="Artur-N-G5036-P600034.t61.w23" time="201.995" />
-      <tli id="Artur-N-G5036-P600034.t61.w24" time="202.49877063607053" />
-      <tli id="Artur-N-G5036-P600034.t61.w24_" time="202.49887063607054" />
-      <tli id="Artur-N-G5036-P600034.t63" time="202.7987688147906" />
-      <tli id="Artur-N-G5036-P600034.t63_" time="202.7988688147906" />
-      <tli id="Artur-N-G5036-P600034.t63.w0" time="233.89" />
-      <tli id="Artur-N-G5036-P600034.t63.w1" time="234.16" />
-      <tli id="Artur-N-G5036-P600034.t63.w2" time="234.25" />
-      <tli id="Artur-N-G5036-P600034.t63.w3" time="234.68" />
-      <tli id="Artur-N-G5036-P600034.t63.w4" time="234.89" />
-      <tli id="Artur-N-G5036-P600034.t63.w4_" time="234.8901" />
-      <tli id="Artur-N-G5036-P600034.t63.w5" time="235.04" />
-      <tli id="Artur-N-G5036-P600034.t63.w6" time="235.25" />
-      <tli id="Artur-N-G5036-P600034.t63.w7" time="235.53" />
-      <tli id="T7" time="235.93953056395628" />
-      <tli id="Artur-N-G5036-P600034.t63.w8" time="236.18666858934623" />
-      <tli id="Artur-N-G5036-P600034.t63.w9" time="236.51" />
-      <tli id="Artur-N-G5036-P600034.t63.w10" time="236.75" />
-      <tli id="Artur-N-G5036-P600034.t63.w11" time="237.53" />
-      <tli id="Artur-N-G5036-P600034.t63.w12" time="237.66" />
-      <tli id="Artur-N-G5036-P600034.t63.w13" time="238.45" />
-      <tli id="Artur-N-G5036-P600034.t64" time="238.89915904099422" />
-      <tli id="Artur-N-G5036-P600034.t64.w0" time="239.405" />
-      <tli id="Artur-N-G5036-P600034.t64.w1" time="239.565" />
-      <tli id="Artur-N-G5036-P600034.t64.w2" time="240.265" />
-      <tli id="Artur-N-G5036-P600034.t64.w2_" time="240.2651" />
-      <tli id="Artur-N-G5036-P600034.t64.w3" time="240.425" />
-      <tli id="Artur-N-G5036-P600034.t64.w4" time="240.765" />
-      <tli id="Artur-N-G5036-P600034.t65" time="241.3991502406697" />
-      <tli id="Artur-N-G5036-P600034.t66.w0" time="251.481" />
-      <tli id="Artur-N-G5036-P600034.t66.w1" time="251.621" />
-      <tli id="Artur-N-G5036-P600034.t66.w2" time="251.731" />
-      <tli id="Artur-N-G5036-P600034.t66.w2_" time="251.7311" />
-      <tli id="Artur-N-G5036-P600034.t66.w3" time="252.03497418145548" />
-      <tli id="Artur-N-G5036-P600034.t66.w4" time="252.36438552800266" />
-      <tli id="Artur-N-G5036-P600034.t66.w4_" time="252.36448552800266" />
-      <tli id="Artur-N-G5036-P600034.t68" time="252.81949697880574" />
-      <tli id="Artur-N-G5036-P600034.t68_" time="252.81959697880575" />
-      <tli id="Artur-N-G5036-P600034.t68.w0" time="271.314" />
-      <tli id="Artur-N-G5036-P600034.t68.w1" time="271.644" />
-      <tli id="Artur-N-G5036-P600034.t68.w1_" time="271.6441" />
-      <tli id="Artur-N-G5036-P600034.t68.w2" time="271.854" />
-      <tli id="Artur-N-G5036-P600034.t68.w3" time="271.984" />
-      <tli id="Artur-N-G5036-P600034.t68.w4" time="272.124" />
-      <tli id="Artur-N-G5036-P600034.t68.w5" time="272.39279113864717" />
-      <tli id="Artur-N-G5036-P600034.t69" time="272.73653992860255" />
-      <tli id="Artur-N-G5036-P600034.t69_" time="272.73663992860253" />
-      <tli id="Artur-N-G5036-P600034.t69.w0" time="273.1552884545482" />
-      <tli id="Artur-N-G5036-P600034.t69.w1" time="273.56" />
-      <tli id="Artur-N-G5036-P600034.t69.w2" time="273.95" />
-      <tli id="Artur-N-G5036-P600034.t69.w3" time="274.24" />
-      <tli id="Artur-N-G5036-P600034.t69.w4" time="274.32" />
-      <tli id="Artur-N-G5036-P600034.t69.w5" time="275.0" />
-      <tli id="Artur-N-G5036-P600034.t70" time="275.4615303362489" />
-      <tli id="Artur-N-G5036-P600034.t70.w0" time="276.253" />
-      <tli id="Artur-N-G5036-P600034.t70.w1" time="276.613" />
-      <tli id="Artur-N-G5036-P600034.t70.w2" time="276.773" />
-      <tli id="Artur-N-G5036-P600034.t71" time="277.1365244400315" />
-      <tli id="Artur-N-G5036-P600034.t71_" time="277.1366244400315" />
-      <tli id="Artur-N-G5036-P600034.t72.w0" time="304.356" />
-      <tli id="Artur-N-G5036-P600034.t72.w1" time="304.486" />
-      <tli id="Artur-N-G5036-P600034.t72.w2" time="304.576" />
-      <tli id="Artur-N-G5036-P600034.t72.w3" time="304.816" />
-      <tli id="Artur-N-G5036-P600034.t72.w4" time="305.156" />
-      <tli id="Artur-N-G5036-P600034.t72.w5" time="305.396" />
-      <tli id="Artur-N-G5036-P600034.t73" time="305.8301734343075" />
-      <tli id="Artur-N-G5036-P600034.t73_" time="305.83027343430746" />
-      <tli id="Artur-N-G5036-P600034.t75.w0" time="311.5833800595056" />
-      <tli id="Artur-N-G5036-P600034.t75.w1" time="311.71137980483144" />
-      <tli id="Artur-N-G5036-P600034.t75.w1_" time="311.7114798048314" />
-      <tli id="Artur-N-G5036-P600034.t75.w2" time="311.8375473899223" />
-      <tli id="Artur-N-G5036-P600034.t75.w3" time="311.9452393819166" />
-      <tli id="Artur-N-G5036-P600034.t75.w4" time="312.2144693619025" />
-      <tli id="Artur-N-G5036-P600034.t78" time="312.5144684824582" />
-      <tli id="Artur-N-G5036-P600034.t78_" time="312.5145684824582" />
-      <tli id="T0" time="1633.456" />
+      <tli id="Artur-N-G5036-P600034.t2" time="14.208"/>
+      <tli id="Artur-N-G5036-P600034.t2.w0" time="14.428"/>
+      <tli id="Artur-N-G5036-P600034.t2.w1" time="14.758"/>
+      <tli id="Artur-N-G5036-P600034.t2.w1_" time="14.758099999999999"/>
+      <tli id="Artur-N-G5036-P600034.t2.w2" time="14.888"/>
+      <tli id="Artur-N-G5036-P600034.t2.w3" time="15.038"/>
+      <tli id="Artur-N-G5036-P600034.t2.w4" time="15.208"/>
+      <tli id="Artur-N-G5036-P600034.t2.w5" time="15.298"/>
+      <tli id="Artur-N-G5036-P600034.t3" time="15.926634978307806"/>
+      <tli id="Artur-N-G5036-P600034.t3.w0" time="16.46"/>
+      <tli id="Artur-N-G5036-P600034.t3.w1" time="17.04"/>
+      <tli id="Artur-N-G5036-P600034.t4" time="17.406632033638207"/>
+      <tli id="Artur-N-G5036-P600034.t4.w0" time="18.677"/>
+      <tli id="Artur-N-G5036-P600034.t4.w1" time="18.967"/>
+      <tli id="Artur-N-G5036-P600034.t4.w2" time="19.427"/>
+      <tli id="Artur-N-G5036-P600034.t4.w3" time="20.007"/>
+      <tli id="Artur-N-G5036-P600034.t4.w4" time="20.187"/>
+      <tli id="Artur-N-G5036-P600034.t5" time="20.779958655247146"/>
+      <tli id="Artur-N-G5036-P600034.t5.w0" time="21.453290648888455"/>
+      <tli id="Artur-N-G5036-P600034.t5.w1" time="21.63995694415535"/>
+      <tli id="Artur-N-G5036-P600034.t6" time="22.046622801701094"/>
+      <tli id="Artur-N-G5036-P600034.t6_" time="22.046722801701094"/>
+      <tli id="Artur-N-G5036-P600034.t6.w0" time="22.783"/>
+      <tli id="Artur-N-G5036-P600034.t7" time="23.039954158657086"/>
+      <tli id="Artur-N-G5036-P600034.t8.w0" time="23.924"/>
+      <tli id="Artur-N-G5036-P600034.t9" time="24.229"/>
+      <tli id="Artur-N-G5036-P600034.t9_" time="24.2291"/>
+      <tli id="Artur-N-G5036-P600034.t10.w0" time="24.948"/>
+      <tli id="Artur-N-G5036-P600034.t11" time="25.48"/>
+      <tli id="Artur-N-G5036-P600034.t11_" time="25.4801"/>
+      <tli id="Artur-N-G5036-P600034.t12.w0" time="26.944"/>
+      <tli id="Artur-N-G5036-P600034.t13" time="27.366612216807678"/>
+      <tli id="Artur-N-G5036-P600034.t13_" time="27.366712216807677"/>
+      <tli id="Artur-N-G5036-P600034.t13.w0" time="28.142"/>
+      <tli id="Artur-N-G5036-P600034.t13.w1" time="28.382"/>
+      <tli id="Artur-N-G5036-P600034.t13.w1_" time="28.3821"/>
+      <tli id="Artur-N-G5036-P600034.t13.w2" time="28.462"/>
+      <tli id="Artur-N-G5036-P600034.t13.w3" time="28.632"/>
+      <tli id="Artur-N-G5036-P600034.t13.w4" time="28.832"/>
+      <tli id="Artur-N-G5036-P600034.t13.w5" time="29.532"/>
+      <tli id="Artur-N-G5036-P600034.t14" time="30.166606645811143"/>
+      <tli id="Artur-N-G5036-P600034.t14.w0" time="30.458"/>
+      <tli id="Artur-N-G5036-P600034.t14.w1" time="30.848"/>
+      <tli id="Artur-N-G5036-P600034.t14.w1_" time="30.8481"/>
+      <tli id="Artur-N-G5036-P600034.t14.w2" time="31.008"/>
+      <tli id="Artur-N-G5036-P600034.t14.w3" time="31.168"/>
+      <tli id="Artur-N-G5036-P600034.t14.w4" time="31.308"/>
+      <tli id="Artur-N-G5036-P600034.t15" time="31.906603183834722"/>
+      <tli id="Artur-N-G5036-P600034.t16.w0" time="36.175"/>
+      <tli id="Artur-N-G5036-P600034.t16.w1" time="36.365"/>
+      <tli id="Artur-N-G5036-P600034.t16.w2" time="36.435"/>
+      <tli id="Artur-N-G5036-P600034.t17" time="37.03325965027202"/>
+      <tli id="Artur-N-G5036-P600034.t17.w0" time="37.602"/>
+      <tli id="Artur-N-G5036-P600034.t17.w1" time="37.732"/>
+      <tli id="Artur-N-G5036-P600034.t17.w2" time="38.022"/>
+      <tli id="Artur-N-G5036-P600034.t17.w3" time="38.122"/>
+      <tli id="Artur-N-G5036-P600034.t18" time="38.42659021137136"/>
+      <tli id="Artur-N-G5036-P600034.t18_" time="38.426690211371366"/>
+      <tli id="Artur-N-G5036-P600034.t18.w0" time="39.067"/>
+      <tli id="Artur-N-G5036-P600034.t18.w1" time="39.207"/>
+      <tli id="Artur-N-G5036-P600034.t18.w2" time="39.317"/>
+      <tli id="Artur-N-G5036-P600034.t19" time="39.90658726670177"/>
+      <tli id="Artur-N-G5036-P600034.t19_" time="39.90668726670177"/>
+      <tli id="Artur-N-G5036-P600034.t19.w0" time="40.39"/>
+      <tli id="Artur-N-G5036-P600034.t19.w1" time="40.59"/>
+      <tli id="T1" time="40.85325204984103"/>
+      <tli id="Artur-N-G5036-P600034.t19.w2" time="40.95991850427926"/>
+      <tli id="Artur-N-G5036-P600034.t19.w3" time="41.07"/>
+      <tli id="Artur-N-G5036-P600034.t19.w4" time="41.32"/>
+      <tli id="Artur-N-G5036-P600034.t19.w5" time="41.853250060199414"/>
+      <tli id="Artur-N-G5036-P600034.t19.w6" time="42.1"/>
+      <tli id="Artur-N-G5036-P600034.t19.w7" time="42.81"/>
+      <tli id="Artur-N-G5036-P600034.t19.w7_" time="42.810100000000006"/>
+      <tli id="Artur-N-G5036-P600034.t19.w8" time="42.94"/>
+      <tli id="Artur-N-G5036-P600034.t19.w9" time="43.08"/>
+      <tli id="Artur-N-G5036-P600034.t19.w10" time="43.39"/>
+      <tli id="Artur-N-G5036-P600034.t20" time="43.77991289348989"/>
+      <tli id="Artur-N-G5036-P600034.t20.w0" time="44.15324548402369"/>
+      <tli id="Artur-N-G5036-P600034.t20.w1" time="44.6399111823981"/>
+      <tli id="Artur-N-G5036-P600034.t20.w2" time="44.745"/>
+      <tli id="Artur-N-G5036-P600034.t20.w3" time="45.085"/>
+      <tli id="Artur-N-G5036-P600034.t21" time="45.6265758859517"/>
+      <tli id="Artur-N-G5036-P600034.t21_" time="45.626675885951705"/>
+      <tli id="Artur-N-G5036-P600034.t21.w0" time="46.633"/>
+      <tli id="Artur-N-G5036-P600034.t22" time="47.25323931613467"/>
+      <tli id="Artur-N-G5036-P600034.t22.w0" time="47.534"/>
+      <tli id="Artur-N-G5036-P600034.t22.w1" time="47.874"/>
+      <tli id="Artur-N-G5036-P600034.t22.w1_" time="47.874100000000006"/>
+      <tli id="Artur-N-G5036-P600034.t22.w2" time="47.984"/>
+      <tli id="Artur-N-G5036-P600034.t22.w3" time="48.084"/>
+      <tli id="Artur-N-G5036-P600034.t22.w4" time="48.184"/>
+      <tli id="Artur-N-G5036-P600034.t22.w5" time="48.334"/>
+      <tli id="Artur-N-G5036-P600034.t22.w6" time="48.624"/>
+      <tli id="Artur-N-G5036-P600034.t22.w7" time="49.088813480366596"/>
+      <tli id="Artur-N-G5036-P600034.t24" time="49.575901361527066"/>
+      <tli id="Artur-N-G5036-P600034.t24_" time="49.57600136152707"/>
+      <tli id="Artur-N-G5036-P600034.t24.w0" time="53.269"/>
+      <tli id="Artur-N-G5036-P600034.t24.w1" time="53.489"/>
+      <tli id="Artur-N-G5036-P600034.t24.w2" time="53.829"/>
+      <tli id="Artur-N-G5036-P600034.t24.w3" time="54.019"/>
+      <tli id="Artur-N-G5036-P600034.t24.w4" time="54.249"/>
+      <tli id="Artur-N-G5036-P600034.t25" time="54.74389107905917"/>
+      <tli id="Artur-N-G5036-P600034.t25_" time="54.74399107905917"/>
+      <tli id="Artur-N-G5036-P600034.t25.w0" time="56.07911230836926"/>
+      <tli id="Artur-N-G5036-P600034.t27" time="56.91661149656914"/>
+      <tli id="Artur-N-G5036-P600034.t27_" time="56.91671149656914"/>
+      <tli id="Artur-N-G5036-P600034.t27.w0" time="87.065"/>
+      <tli id="Artur-N-G5036-P600034.t27.w1" time="87.285"/>
+      <tli id="Artur-N-G5036-P600034.t27.w2" time="87.455"/>
+      <tli id="Artur-N-G5036-P600034.t27.w3" time="87.785"/>
+      <tli id="Artur-N-G5036-P600034.t27.w4" time="88.015"/>
+      <tli id="Artur-N-G5036-P600034.t28" time="88.583247468306"/>
+      <tli id="Artur-N-G5036-P600034.t28_" time="88.583347468306"/>
+      <tli id="Artur-N-G5036-P600034.t28.w0" time="89.452"/>
+      <tli id="Artur-N-G5036-P600034.t28.w1" time="89.612"/>
+      <tli id="Artur-N-G5036-P600034.t28.w2" time="89.842"/>
+      <tli id="Artur-N-G5036-P600034.t29" time="90.16657926689284"/>
+      <tli id="Artur-N-G5036-P600034.t29_" time="90.16667926689284"/>
+      <tli id="Artur-N-G5036-P600034.t30.w0" time="95.286"/>
+      <tli id="Artur-N-G5036-P600034.t30.w1" time="95.316"/>
+      <tli id="Artur-N-G5036-P600034.t30.w2" time="95.716"/>
+      <tli id="Artur-N-G5036-P600034.t30.w3" time="95.786"/>
+      <tli id="Artur-N-G5036-P600034.t31" time="96.148"/>
+      <tli id="Artur-N-G5036-P600034.t31_" time="96.1481"/>
+      <tli id="Artur-N-G5036-P600034.t33.w0" time="103.577"/>
+      <tli id="Artur-N-G5036-P600034.t33.w1" time="103.687"/>
+      <tli id="Artur-N-G5036-P600034.t33.w1_" time="103.6871"/>
+      <tli id="Artur-N-G5036-P600034.t33.w2" time="103.857"/>
+      <tli id="Artur-N-G5036-P600034.t33.w3" time="103.927"/>
+      <tli id="Artur-N-G5036-P600034.t34" time="104.67979172431525"/>
+      <tli id="Artur-N-G5036-P600034.t34_" time="104.67989172431525"/>
+      <tli id="Artur-N-G5036-P600034.t34.w0" time="105.038"/>
+      <tli id="Artur-N-G5036-P600034.t34.w1" time="105.178"/>
+      <tli id="Artur-N-G5036-P600034.t34.w2" time="105.258"/>
+      <tli id="Artur-N-G5036-P600034.t34.w3" time="105.528"/>
+      <tli id="Artur-N-G5036-P600034.t34.w3_" time="105.52810000000001"/>
+      <tli id="Artur-N-G5036-P600034.t34.w4" time="105.618"/>
+      <tli id="Artur-N-G5036-P600034.t34.w5" time="105.718"/>
+      <tli id="Artur-N-G5036-P600034.t34.w6" time="106.06478896866163"/>
+      <tli id="Artur-N-G5036-P600034.t35" time="106.78478753611965"/>
+      <tli id="Artur-N-G5036-P600034.t35.w0" time="107.35311973867333"/>
+      <tli id="Artur-N-G5036-P600034.t35.w1" time="107.45478620305975"/>
+      <tli id="Artur-N-G5036-P600034.t36" time="108.26978458150184"/>
+      <tli id="Artur-N-G5036-P600034.t36.w0" time="108.73978364637028"/>
+      <tli id="Artur-N-G5036-P600034.t36.w1" time="109.271"/>
+      <tli id="Artur-N-G5036-P600034.t36.w2" time="109.581"/>
+      <tli id="Artur-N-G5036-P600034.t37" time="110.17478079123455"/>
+      <tli id="Artur-N-G5036-P600034.t37_" time="110.17488079123456"/>
+      <tli id="Artur-N-G5036-P600034.t37.w0" time="110.731"/>
+      <tli id="Artur-N-G5036-P600034.t37.w1" time="110.841"/>
+      <tli id="Artur-N-G5036-P600034.t37.w2" time="111.021"/>
+      <tli id="Artur-N-G5036-P600034.t37.w3" time="111.441"/>
+      <tli id="Artur-N-G5036-P600034.t37.w3_" time="111.4411"/>
+      <tli id="Artur-N-G5036-P600034.t37.w4" time="111.511"/>
+      <tli id="Artur-N-G5036-P600034.t37.w5" time="111.971"/>
+      <tli id="Artur-N-G5036-P600034.t37.w6" time="112.221"/>
+      <tli id="Artur-N-G5036-P600034.t37.w7" time="112.4997761653178"/>
+      <tli id="Artur-N-G5036-P600034.t37.w8" time="112.61477593650902"/>
+      <tli id="Artur-N-G5036-P600034.t38" time="112.89977536946114"/>
+      <tli id="Artur-N-G5036-P600034.t38_" time="112.89987536946114"/>
+      <tli id="Artur-N-G5036-P600034.t38.w0" time="113.559"/>
+      <tli id="Artur-N-G5036-P600034.t39" time="113.83477350914622"/>
+      <tli id="Artur-N-G5036-P600034.t39_" time="113.83487350914622"/>
+      <tli id="Artur-N-G5036-P600034.t39.w0" time="114.866"/>
+      <tli id="Artur-N-G5036-P600034.t39.w1" time="114.996"/>
+      <tli id="Artur-N-G5036-P600034.t39.w2" time="115.246"/>
+      <tli id="Artur-N-G5036-P600034.t39.w2_" time="115.2461"/>
+      <tli id="Artur-N-G5036-P600034.t39.w3" time="115.346"/>
+      <tli id="Artur-N-G5036-P600034.t39.w4" time="115.586"/>
+      <tli id="Artur-N-G5036-P600034.t40" time="116.20476879369558"/>
+      <tli id="Artur-N-G5036-P600034.t40_" time="116.20486879369558"/>
+      <tli id="Artur-N-G5036-P600034.t40.w0" time="116.58476803763178"/>
+      <tli id="Artur-N-G5036-P600034.t40.w1" time="116.71476777897837"/>
+      <tli id="Artur-N-G5036-P600034.t40.w2" time="117.34976651555596"/>
+      <tli id="Artur-N-G5036-P600034.t40.w3" time="117.62476596840449"/>
+      <tli id="Artur-N-G5036-P600034.t40.w4" time="117.7997656202172"/>
+      <tli id="Artur-N-G5036-P600034.t40.w5" time="117.97976526208173"/>
+      <tli id="Artur-N-G5036-P600034.t40.w6" time="118.08976504322112"/>
+      <tli id="Artur-N-G5036-P600034.t40.w7" time="118.26476469503386"/>
+      <tli id="Artur-N-G5036-P600034.t40.w8" time="118.72976376985049"/>
+      <tli id="Artur-N-G5036-P600034.t40.w8_" time="118.7298637698505"/>
+      <tli id="Artur-N-G5036-P600034.t40.w9" time="118.87476348135246"/>
+      <tli id="Artur-N-G5036-P600034.t40.w10" time="119.00976321275085"/>
+      <tli id="Artur-N-G5036-P600034.t40.w11" time="119.08976305357953"/>
+      <tli id="Artur-N-G5036-P600034.t40.w12" time="119.42976237710135"/>
+      <tli id="Artur-N-G5036-P600034.t40.w13" time="119.61976199906947"/>
+      <tli id="Artur-N-G5036-P600034.t40.w14" time="119.72476179015709"/>
+      <tli id="Artur-N-G5036-P600034.t40.w15" time="119.92476139222877"/>
+      <tli id="Artur-N-G5036-P600034.t40.w15_" time="119.92486139222878"/>
+      <tli id="Artur-N-G5036-P600034.t41" time="120.08976106393791"/>
+      <tli id="Artur-N-G5036-P600034.t41_" time="120.08986106393792"/>
+      <tli id="Artur-N-G5036-P600034.t41.w0" time="120.80475964134415"/>
+      <tli id="Artur-N-G5036-P600034.t41.w1" time="120.918"/>
+      <tli id="Artur-N-G5036-P600034.t42" time="121.45975833812889"/>
+      <tli id="Artur-N-G5036-P600034.t42_" time="121.4598583381289"/>
+      <tli id="Artur-N-G5036-P600034.t42.w0" time="122.34975656734784"/>
+      <tli id="Artur-N-G5036-P600034.t42.w1" time="122.465"/>
+      <tli id="Artur-N-G5036-P600034.t42.w2" time="122.835"/>
+      <tli id="Artur-N-G5036-P600034.t42.w3" time="123.165"/>
+      <tli id="Artur-N-G5036-P600034.t43" time="123.68975390122807"/>
+      <tli id="Artur-N-G5036-P600034.t43_" time="123.68985390122808"/>
+      <tli id="Artur-N-G5036-P600034.t44.w0" time="124.541"/>
+      <tli id="Artur-N-G5036-P600034.t44.w1" time="124.72475184194897"/>
+      <tli id="Artur-N-G5036-P600034.t44.w2" time="124.94475140422783"/>
+      <tli id="Artur-N-G5036-P600034.t44.w3" time="125.19975089686923"/>
+      <tli id="Artur-N-G5036-P600034.t44.w4" time="125.38975051883732"/>
+      <tli id="Artur-N-G5036-P600034.t44.w4_" time="125.38985051883732"/>
+      <tli id="Artur-N-G5036-P600034.t44.w5" time="125.5197502601839"/>
+      <tli id="Artur-N-G5036-P600034.t44.w6" time="125.59475011096077"/>
+      <tli id="Artur-N-G5036-P600034.t44.w7" time="125.67474995178945"/>
+      <tli id="Artur-N-G5036-P600034.t44.w8" time="125.8897495240165"/>
+      <tli id="Artur-N-G5036-P600034.t44.w9" time="126.09474911613998"/>
+      <tli id="Artur-N-G5036-P600034.t44.w10" time="126.29974870826345"/>
+      <tli id="Artur-N-G5036-P600034.t44.w10_" time="126.29984870826345"/>
+      <tli id="Artur-N-G5036-P600034.t44.w11" time="126.47974835012796"/>
+      <tli id="Artur-N-G5036-P600034.t44.w12" time="126.61474808152633"/>
+      <tli id="Artur-N-G5036-P600034.t44.w13" time="126.73474784276932"/>
+      <tli id="Artur-N-G5036-P600034.t44.w13_" time="126.73484784276933"/>
+      <tli id="Artur-N-G5036-P600034.t44.w14" time="126.93474744484101"/>
+      <tli id="Artur-N-G5036-P600034.t44.w15" time="127.05974719613582"/>
+      <tli id="Artur-N-G5036-P600034.t45" time="127.4497464201756"/>
+      <tli id="Artur-N-G5036-P600034.t45_" time="127.4498464201756"/>
+      <tli id="Artur-N-G5036-P600034.t45.w0" time="128.56474420172518"/>
+      <tli id="Artur-N-G5036-P600034.t45.w1" time="128.89"/>
+      <tli id="Artur-N-G5036-P600034.t45.w2" time="129.04"/>
+      <tli id="Artur-N-G5036-P600034.t45.w3" time="129.1"/>
+      <tli id="Artur-N-G5036-P600034.t45.w4" time="129.44"/>
+      <tli id="Artur-N-G5036-P600034.t45.w5" time="129.75"/>
+      <tli id="Artur-N-G5036-P600034.t45.w5_" time="129.7501"/>
+      <tli id="Artur-N-G5036-P600034.t45.w6" time="130.01"/>
+      <tli id="Artur-N-G5036-P600034.t45.w7" time="130.19"/>
+      <tli id="Artur-N-G5036-P600034.t45.w8" time="130.47"/>
+      <tli id="Artur-N-G5036-P600034.t46" time="130.86973961560125"/>
+      <tli id="Artur-N-G5036-P600034.t46_" time="130.86983961560125"/>
+      <tli id="Artur-N-G5036-P600034.t47.w0" time="151.836"/>
+      <tli id="Artur-N-G5036-P600034.t48" time="152.10969735561324"/>
+      <tli id="Artur-N-G5036-P600034.t48_" time="152.10979735561324"/>
+      <tli id="Artur-N-G5036-P600034.t49.w0" time="159.506"/>
+      <tli id="Artur-N-G5036-P600034.t49.w1" time="159.786"/>
+      <tli id="Artur-N-G5036-P600034.t49.w1_" time="159.7861"/>
+      <tli id="Artur-N-G5036-P600034.t49.w2" time="160.00968163744446"/>
+      <tli id="Artur-N-G5036-P600034.t49.w3" time="160.486"/>
+      <tli id="Artur-N-G5036-P600034.t50" time="160.834"/>
+      <tli id="Artur-N-G5036-P600034.t50_" time="160.8341"/>
+      <tli id="Artur-N-G5036-P600034.t51.w0" time="162.971"/>
+      <tli id="Artur-N-G5036-P600034.t51.w1" time="163.141"/>
+      <tli id="Artur-N-G5036-P600034.t51.w1_" time="163.1411"/>
+      <tli id="Artur-N-G5036-P600034.t51.w2" time="163.251"/>
+      <tli id="Artur-N-G5036-P600034.t51.w3" time="163.561"/>
+      <tli id="Artur-N-G5036-P600034.t51.w4" time="163.681"/>
+      <tli id="Artur-N-G5036-P600034.t51.w5" time="163.821"/>
+      <tli id="Artur-N-G5036-P600034.t51.w6" time="163.931"/>
+      <tli id="Artur-N-G5036-P600034.t51.w7" time="164.261"/>
+      <tli id="Artur-N-G5036-P600034.t51.w7_" time="164.2611"/>
+      <tli id="Artur-N-G5036-P600034.t51.w8" time="164.401"/>
+      <tli id="Artur-N-G5036-P600034.t51.w9" time="164.511"/>
+      <tli id="Artur-N-G5036-P600034.t51.w10" time="164.671"/>
+      <tli id="Artur-N-G5036-P600034.t51.w11" time="165.021"/>
+      <tli id="Artur-N-G5036-P600034.t51.w11_" time="165.0211"/>
+      <tli id="Artur-N-G5036-P600034.t51.w12" time="165.121"/>
+      <tli id="Artur-N-G5036-P600034.t51.w13" time="165.251"/>
+      <tli id="Artur-N-G5036-P600034.t51.w14" time="165.381"/>
+      <tli id="Artur-N-G5036-P600034.t51.w15" time="165.49467072426015"/>
+      <tli id="Artur-N-G5036-P600034.t51.w16" time="165.891"/>
+      <tli id="Artur-N-G5036-P600034.t52" time="166.29466913254686"/>
+      <tli id="Artur-N-G5036-P600034.t52_" time="166.29476913254686"/>
+      <tli id="Artur-N-G5036-P600034.t52.w0" time="167.039"/>
+      <tli id="T2" time="167.5130000418335"/>
+      <tli id="Artur-N-G5036-P600034.t52.w1" time="167.789"/>
+      <tli id="Artur-N-G5036-P600034.t52.w2" time="168.009"/>
+      <tli id="Artur-N-G5036-P600034.t52.w3" time="168.069"/>
+      <tli id="Artur-N-G5036-P600034.t52.w4" time="168.379"/>
+      <tli id="Artur-N-G5036-P600034.t52.w5" time="168.629"/>
+      <tli id="Artur-N-G5036-P600034.t52.w6" time="169.019"/>
+      <tli id="Artur-N-G5036-P600034.t52.w6_" time="169.0191"/>
+      <tli id="Artur-N-G5036-P600034.t52.w7" time="169.269"/>
+      <tli id="Artur-N-G5036-P600034.t52.w7_" time="169.2691"/>
+      <tli id="Artur-N-G5036-P600034.t53" time="169.71466232797252"/>
+      <tli id="Artur-N-G5036-P600034.t53.w0" time="170.51466073625923"/>
+      <tli id="Artur-N-G5036-P600034.t53.w1" time="171.233"/>
+      <tli id="Artur-N-G5036-P600034.t53.w2" time="171.613"/>
+      <tli id="Artur-N-G5036-P600034.t53.w3" time="172.143"/>
+      <tli id="Artur-N-G5036-P600034.t53.w4" time="172.1996573837131"/>
+      <tli id="Artur-N-G5036-P600034.t53.w5" time="172.363"/>
+      <tli id="Artur-N-G5036-P600034.t54" time="172.76465625956558"/>
+      <tli id="Artur-N-G5036-P600034.t54_" time="172.7647562595656"/>
+      <tli id="Artur-N-G5036-P600034.t54.w0" time="173.58965461811127"/>
+      <tli id="Artur-N-G5036-P600034.t54.w1" time="174.08465363323864"/>
+      <tli id="Artur-N-G5036-P600034.t54.w2" time="174.564"/>
+      <tli id="Artur-N-G5036-P600034.t54.w3" time="174.994"/>
+      <tli id="Artur-N-G5036-P600034.t54.w4" time="175.154"/>
+      <tli id="Artur-N-G5036-P600034.t54.w5" time="175.374"/>
+      <tli id="Artur-N-G5036-P600034.t54.w6" time="176.004"/>
+      <tli id="Artur-N-G5036-P600034.t54.w6_" time="176.0041"/>
+      <tli id="Artur-N-G5036-P600034.t54.w7" time="176.334"/>
+      <tli id="Artur-N-G5036-P600034.t54.w8" time="176.584"/>
+      <tli id="Artur-N-G5036-P600034.t54.w9" time="176.954"/>
+      <tli id="Artur-N-G5036-P600034.t55" time="177.53964675902685"/>
+      <tli id="Artur-N-G5036-P600034.t55_" time="177.53974675902685"/>
+      <tli id="Artur-N-G5036-P600034.t55.w0" time="177.834"/>
+      <tli id="Artur-N-G5036-P600034.t55.w1" time="178.004"/>
+      <tli id="Artur-N-G5036-P600034.t55.w2" time="178.144"/>
+      <tli id="Artur-N-G5036-P600034.t55.w3" time="178.274"/>
+      <tli id="Artur-N-G5036-P600034.t55.w4" time="178.474"/>
+      <tli id="Artur-N-G5036-P600034.t55.w5" time="178.764"/>
+      <tli id="Artur-N-G5036-P600034.t55.w6" time="178.844"/>
+      <tli id="Artur-N-G5036-P600034.t55.w7" time="179.294"/>
+      <tli id="Artur-N-G5036-P600034.t55.w7_" time="179.29410000000001"/>
+      <tli id="Artur-N-G5036-P600034.t56" time="179.554642749899"/>
+      <tli id="Artur-N-G5036-P600034.t56_" time="179.554742749899"/>
+      <tli id="Artur-N-G5036-P600034.t56.w0" time="180.40964104875542"/>
+      <tli id="T3" time="180.74630704557606"/>
+      <tli id="Artur-N-G5036-P600034.t56.w1" time="180.878"/>
+      <tli id="Artur-N-G5036-P600034.t56.w2" time="181.238"/>
+      <tli id="Artur-N-G5036-P600034.t56.w3" time="181.518"/>
+      <tli id="Artur-N-G5036-P600034.t57" time="182.22963742760763"/>
+      <tli id="Artur-N-G5036-P600034.t57.w0" time="182.5146368605598"/>
+      <tli id="Artur-N-G5036-P600034.t57.w1" time="182.773"/>
+      <tli id="Artur-N-G5036-P600034.t57.w2" time="183.753"/>
+      <tli id="Artur-N-G5036-P600034.t57.w3" time="184.103"/>
+      <tli id="Artur-N-G5036-P600034.t57.w4" time="184.433"/>
+      <tli id="Artur-N-G5036-P600034.t58" time="184.99963191630036"/>
+      <tli id="Artur-N-G5036-P600034.t58.w0" time="185.151"/>
+      <tli id="Artur-N-G5036-P600034.t58.w1" time="185.861"/>
+      <tli id="Artur-N-G5036-P600034.t58.w1_" time="185.8611"/>
+      <tli id="Artur-N-G5036-P600034.t58.w2" time="186.701"/>
+      <tli id="Artur-N-G5036-P600034.t58.w2_" time="186.7011"/>
+      <tli id="Artur-N-G5036-P600034.t58.w3" time="186.891"/>
+      <tli id="Artur-N-G5036-P600034.t58.w4" time="187.071"/>
+      <tli id="Artur-N-G5036-P600034.t58.w5" time="187.231"/>
+      <tli id="Artur-N-G5036-P600034.t58.w6" time="187.331"/>
+      <tli id="Artur-N-G5036-P600034.t58.w7" time="187.581"/>
+      <tli id="Artur-N-G5036-P600034.t58.w8" time="187.981"/>
+      <tli id="Artur-N-G5036-P600034.t58.w8_" time="187.9811"/>
+      <tli id="Artur-N-G5036-P600034.t58.w9" time="188.101"/>
+      <tli id="Artur-N-G5036-P600034.t58.w10" time="188.221"/>
+      <tli id="Artur-N-G5036-P600034.t58.w11" time="188.351"/>
+      <tli id="Artur-N-G5036-P600034.t58.w12" time="188.551"/>
+      <tli id="Artur-N-G5036-P600034.t58.w13" time="188.811"/>
+      <tli id="Artur-N-G5036-P600034.t59" time="189.3846231917219"/>
+      <tli id="Artur-N-G5036-P600034.t59_" time="189.3847231917219"/>
+      <tli id="Artur-N-G5036-P600034.t59.w0" time="189.86"/>
+      <tli id="Artur-N-G5036-P600034.t59.w1" time="189.99"/>
+      <tli id="Artur-N-G5036-P600034.t59.w2" time="190.15"/>
+      <tli id="Artur-N-G5036-P600034.t59.w3" time="190.28"/>
+      <tli id="Artur-N-G5036-P600034.t59.w4" time="190.38"/>
+      <tli id="Artur-N-G5036-P600034.t59.w5" time="190.63"/>
+      <tli id="Artur-N-G5036-P600034.t59.w6" time="190.75"/>
+      <tli id="T4" time="191.03295324546258"/>
+      <tli id="Artur-N-G5036-P600034.t59.w7" time="191.13961969990083"/>
+      <tli id="Artur-N-G5036-P600034.t59.w8" time="191.52"/>
+      <tli id="Artur-N-G5036-P600034.t59.w9" time="191.74"/>
+      <tli id="Artur-N-G5036-P600034.t59.w10" time="192.03"/>
+      <tli id="Artur-N-G5036-P600034.t59.w11" time="192.34"/>
+      <tli id="Artur-N-G5036-P600034.t60" time="192.71461656621526"/>
+      <tli id="Artur-N-G5036-P600034.t60.w0" time="193.20961558134266"/>
+      <tli id="Artur-N-G5036-P600034.t60.w1" time="193.27"/>
+      <tli id="Artur-N-G5036-P600034.t60.w2" time="193.43"/>
+      <tli id="Artur-N-G5036-P600034.t60.w3" time="193.58"/>
+      <tli id="Artur-N-G5036-P600034.t60.w4" time="193.83"/>
+      <tli id="Artur-N-G5036-P600034.t60.w5" time="193.94"/>
+      <tli id="Artur-N-G5036-P600034.t60.w6" time="194.47"/>
+      <tli id="Artur-N-G5036-P600034.t60.w7" time="194.82"/>
+      <tli id="Artur-N-G5036-P600034.t60.w8" time="194.89"/>
+      <tli id="Artur-N-G5036-P600034.t60.w9" time="195.16"/>
+      <tli id="Artur-N-G5036-P600034.t61" time="195.60961080620277"/>
+      <tli id="Artur-N-G5036-P600034.t61_" time="195.60971080620277"/>
+      <tli id="Artur-N-G5036-P600034.t61.w0" time="196.13460976164092"/>
+      <tli id="Artur-N-G5036-P600034.t61.w1" time="196.285"/>
+      <tli id="Artur-N-G5036-P600034.t61.w2" time="196.475"/>
+      <tli id="Artur-N-G5036-P600034.t61.w3" time="196.605"/>
+      <tli id="Artur-N-G5036-P600034.t61.w4" time="196.715"/>
+      <tli id="Artur-N-G5036-P600034.t61.w5" time="196.825"/>
+      <tli id="Artur-N-G5036-P600034.t61.w6" time="197.005"/>
+      <tli id="Artur-N-G5036-P600034.t61.w7" time="197.295"/>
+      <tli id="Artur-N-G5036-P600034.t61.w8" time="197.665"/>
+      <tli id="Artur-N-G5036-P600034.t61.w8_" time="197.6651"/>
+      <tli id="T5" time="198.05960593158082"/>
+      <tli id="Artur-N-G5036-P600034.t61.w9" time="198.215"/>
+      <tli id="Artur-N-G5036-P600034.t61.w10" time="198.465"/>
+      <tli id="Artur-N-G5036-P600034.t61.w11" time="198.865"/>
+      <tli id="Artur-N-G5036-P600034.t61.w11_" time="198.8651"/>
+      <tli id="Artur-N-G5036-P600034.t61.w12" time="199.005"/>
+      <tli id="Artur-N-G5036-P600034.t61.w12_" time="199.0051"/>
+      <tli id="Artur-N-G5036-P600034.t61.w13" time="199.155"/>
+      <tli id="Artur-N-G5036-P600034.t61.w14" time="199.325"/>
+      <tli id="Artur-N-G5036-P600034.t61.w15" time="199.685"/>
+      <tli id="Artur-N-G5036-P600034.t61.w16" time="200.035"/>
+      <tli id="T6" time="200.5329343438672"/>
+      <tli id="Artur-N-G5036-P600034.t61.w17" time="200.695"/>
+      <tli id="Artur-N-G5036-P600034.t61.w18" time="200.885"/>
+      <tli id="Artur-N-G5036-P600034.t61.w19" time="201.065"/>
+      <tli id="Artur-N-G5036-P600034.t61.w20" time="201.335"/>
+      <tli id="Artur-N-G5036-P600034.t61.w21" time="201.455"/>
+      <tli id="Artur-N-G5036-P600034.t61.w22" time="201.754598579855"/>
+      <tli id="Artur-N-G5036-P600034.t61.w23" time="201.995"/>
+      <tli id="Artur-N-G5036-P600034.t61.w24" time="202.49877063607053"/>
+      <tli id="Artur-N-G5036-P600034.t61.w24_" time="202.49887063607054"/>
+      <tli id="Artur-N-G5036-P600034.t63" time="202.7987688147906"/>
+      <tli id="Artur-N-G5036-P600034.t63_" time="202.7988688147906"/>
+      <tli id="Artur-N-G5036-P600034.t63.w0" time="233.89"/>
+      <tli id="Artur-N-G5036-P600034.t63.w1" time="234.16"/>
+      <tli id="Artur-N-G5036-P600034.t63.w2" time="234.25"/>
+      <tli id="Artur-N-G5036-P600034.t63.w3" time="234.68"/>
+      <tli id="Artur-N-G5036-P600034.t63.w4" time="234.89"/>
+      <tli id="Artur-N-G5036-P600034.t63.w4_" time="234.8901"/>
+      <tli id="Artur-N-G5036-P600034.t63.w5" time="235.04"/>
+      <tli id="Artur-N-G5036-P600034.t63.w6" time="235.25"/>
+      <tli id="Artur-N-G5036-P600034.t63.w7" time="235.53"/>
+      <tli id="T7" time="235.93953056395628"/>
+      <tli id="Artur-N-G5036-P600034.t63.w8" time="236.18666858934623"/>
+      <tli id="Artur-N-G5036-P600034.t63.w9" time="236.51"/>
+      <tli id="Artur-N-G5036-P600034.t63.w10" time="236.75"/>
+      <tli id="Artur-N-G5036-P600034.t63.w11" time="237.53"/>
+      <tli id="Artur-N-G5036-P600034.t63.w12" time="237.66"/>
+      <tli id="Artur-N-G5036-P600034.t63.w13" time="238.45"/>
+      <tli id="Artur-N-G5036-P600034.t64" time="238.89915904099422"/>
+      <tli id="Artur-N-G5036-P600034.t64.w0" time="239.405"/>
+      <tli id="Artur-N-G5036-P600034.t64.w1" time="239.565"/>
+      <tli id="Artur-N-G5036-P600034.t64.w2" time="240.265"/>
+      <tli id="Artur-N-G5036-P600034.t64.w2_" time="240.2651"/>
+      <tli id="Artur-N-G5036-P600034.t64.w3" time="240.425"/>
+      <tli id="Artur-N-G5036-P600034.t64.w4" time="240.765"/>
+      <tli id="Artur-N-G5036-P600034.t65" time="241.3991502406697"/>
+      <tli id="Artur-N-G5036-P600034.t66.w0" time="251.481"/>
+      <tli id="Artur-N-G5036-P600034.t66.w1" time="251.621"/>
+      <tli id="Artur-N-G5036-P600034.t66.w2" time="251.731"/>
+      <tli id="Artur-N-G5036-P600034.t66.w2_" time="251.7311"/>
+      <tli id="Artur-N-G5036-P600034.t66.w3" time="252.03497418145548"/>
+      <tli id="Artur-N-G5036-P600034.t66.w4" time="252.36438552800266"/>
+      <tli id="Artur-N-G5036-P600034.t66.w4_" time="252.36448552800266"/>
+      <tli id="Artur-N-G5036-P600034.t68" time="252.81949697880574"/>
+      <tli id="Artur-N-G5036-P600034.t68_" time="252.81959697880575"/>
+      <tli id="Artur-N-G5036-P600034.t68.w0" time="271.314"/>
+      <tli id="Artur-N-G5036-P600034.t68.w1" time="271.644"/>
+      <tli id="Artur-N-G5036-P600034.t68.w1_" time="271.6441"/>
+      <tli id="Artur-N-G5036-P600034.t68.w2" time="271.854"/>
+      <tli id="Artur-N-G5036-P600034.t68.w3" time="271.984"/>
+      <tli id="Artur-N-G5036-P600034.t68.w4" time="272.124"/>
+      <tli id="Artur-N-G5036-P600034.t68.w5" time="272.39279113864717"/>
+      <tli id="Artur-N-G5036-P600034.t69" time="272.73653992860255"/>
+      <tli id="Artur-N-G5036-P600034.t69_" time="272.73663992860253"/>
+      <tli id="Artur-N-G5036-P600034.t69.w0" time="273.1552884545482"/>
+      <tli id="Artur-N-G5036-P600034.t69.w1" time="273.56"/>
+      <tli id="Artur-N-G5036-P600034.t69.w2" time="273.95"/>
+      <tli id="Artur-N-G5036-P600034.t69.w3" time="274.24"/>
+      <tli id="Artur-N-G5036-P600034.t69.w4" time="274.32"/>
+      <tli id="Artur-N-G5036-P600034.t69.w5" time="275.0"/>
+      <tli id="Artur-N-G5036-P600034.t70" time="275.4615303362489"/>
+      <tli id="Artur-N-G5036-P600034.t70.w0" time="276.253"/>
+      <tli id="Artur-N-G5036-P600034.t70.w1" time="276.613"/>
+      <tli id="Artur-N-G5036-P600034.t70.w2" time="276.773"/>
+      <tli id="Artur-N-G5036-P600034.t71" time="277.1365244400315"/>
+      <tli id="Artur-N-G5036-P600034.t71_" time="277.1366244400315"/>
+      <tli id="Artur-N-G5036-P600034.t72.w0" time="304.356"/>
+      <tli id="Artur-N-G5036-P600034.t72.w1" time="304.486"/>
+      <tli id="Artur-N-G5036-P600034.t72.w2" time="304.576"/>
+      <tli id="Artur-N-G5036-P600034.t72.w3" time="304.816"/>
+      <tli id="Artur-N-G5036-P600034.t72.w4" time="305.156"/>
+      <tli id="Artur-N-G5036-P600034.t72.w5" time="305.396"/>
+      <tli id="Artur-N-G5036-P600034.t73" time="305.8301734343075"/>
+      <tli id="Artur-N-G5036-P600034.t73_" time="305.83027343430746"/>
+      <tli id="Artur-N-G5036-P600034.t75.w0" time="311.5833800595056"/>
+      <tli id="Artur-N-G5036-P600034.t75.w1" time="311.71137980483144"/>
+      <tli id="Artur-N-G5036-P600034.t75.w1_" time="311.7114798048314"/>
+      <tli id="Artur-N-G5036-P600034.t75.w2" time="311.8375473899223"/>
+      <tli id="Artur-N-G5036-P600034.t75.w3" time="311.9452393819166"/>
+      <tli id="Artur-N-G5036-P600034.t75.w4" time="312.2144693619025"/>
+      <tli id="Artur-N-G5036-P600034.t78" time="312.5144684824582"/>
+      <tli id="Artur-N-G5036-P600034.t78_" time="312.5145684824582"/>
+      <tli id="T0" time="1633.456"/>
     </common-timeline>
     <segmented-tier id="1" speaker="Artur-N-G5036" category="v" type="t" display-name="Artur-N-G5036 [norm]">
       <segmentation name="SpeakerContribution_Word" tierref="1">
@@ -6017,495 +6017,494 @@
   <conversion-info>
     <basic-transcription-conversion-info>
       <conversion-timeline>
-        <conversion-tli id="Artur-N-G5036-P600034.t2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t2.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t2.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t2.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t2.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t2.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t2.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t2.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t3.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t3.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t4.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t4.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t4.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t4.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t4.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t5.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t5.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t6_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t6.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t8.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t9_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t10.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t11" />
-        <conversion-tli id="Artur-N-G5036-P600034.t11_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t12.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t13" />
-        <conversion-tli id="Artur-N-G5036-P600034.t13_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t13.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t13.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t13.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t13.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t13.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t13.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t13.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t14" />
-        <conversion-tli id="Artur-N-G5036-P600034.t14.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t14.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t14.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t14.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t14.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t14.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t15" />
-        <conversion-tli id="Artur-N-G5036-P600034.t16.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t16.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t16.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t17" />
-        <conversion-tli id="Artur-N-G5036-P600034.t17.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t17.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t17.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t17.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t18" />
-        <conversion-tli id="Artur-N-G5036-P600034.t18_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t18.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t18.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t18.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w1" />
-        <conversion-tli id="T1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w7_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t19.w10" />
-        <conversion-tli id="Artur-N-G5036-P600034.t20" />
-        <conversion-tli id="Artur-N-G5036-P600034.t20.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t20.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t20.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t20.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t21" />
-        <conversion-tli id="Artur-N-G5036-P600034.t21_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t21.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t22.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t24" />
-        <conversion-tli id="Artur-N-G5036-P600034.t24_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t24.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t24.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t24.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t24.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t24.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t25" />
-        <conversion-tli id="Artur-N-G5036-P600034.t25_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t25.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t27" />
-        <conversion-tli id="Artur-N-G5036-P600034.t27_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t27.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t27.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t27.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t27.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t27.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t28" />
-        <conversion-tli id="Artur-N-G5036-P600034.t28_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t28.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t28.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t28.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t29" />
-        <conversion-tli id="Artur-N-G5036-P600034.t29_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t30.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t30.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t30.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t30.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t31" />
-        <conversion-tli id="Artur-N-G5036-P600034.t31_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t33.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t33.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t33.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t33.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t33.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34.w3_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t34.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t35" />
-        <conversion-tli id="Artur-N-G5036-P600034.t35.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t35.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t36" />
-        <conversion-tli id="Artur-N-G5036-P600034.t36.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t36.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t36.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w3_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t37.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t38" />
-        <conversion-tli id="Artur-N-G5036-P600034.t38_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t38.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t39" />
-        <conversion-tli id="Artur-N-G5036-P600034.t39_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t39.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t39.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t39.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t39.w2_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t39.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t39.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w8_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w10" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w11" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w12" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w13" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w14" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w15" />
-        <conversion-tli id="Artur-N-G5036-P600034.t40.w15_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t41" />
-        <conversion-tli id="Artur-N-G5036-P600034.t41_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t41.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t41.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t42" />
-        <conversion-tli id="Artur-N-G5036-P600034.t42_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t42.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t42.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t42.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t42.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t43" />
-        <conversion-tli id="Artur-N-G5036-P600034.t43_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w4_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w10" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w10_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w11" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w12" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w13" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w13_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w14" />
-        <conversion-tli id="Artur-N-G5036-P600034.t44.w15" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w5_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t45.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t46" />
-        <conversion-tli id="Artur-N-G5036-P600034.t46_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t47.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t48" />
-        <conversion-tli id="Artur-N-G5036-P600034.t48_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t49.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t49.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t49.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t49.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t49.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t50" />
-        <conversion-tli id="Artur-N-G5036-P600034.t50_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w7_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w10" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w11" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w11_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w12" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w13" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w14" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w15" />
-        <conversion-tli id="Artur-N-G5036-P600034.t51.w16" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w0" />
-        <conversion-tli id="T2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w6_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t52.w7_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t53" />
-        <conversion-tli id="Artur-N-G5036-P600034.t53.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t53.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t53.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t53.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t53.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t53.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w6_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t54.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t55.w7_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t56" />
-        <conversion-tli id="Artur-N-G5036-P600034.t56_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t56.w0" />
-        <conversion-tli id="T3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t56.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t56.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t56.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t57" />
-        <conversion-tli id="Artur-N-G5036-P600034.t57.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t57.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t57.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t57.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t57.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w2_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w8_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w10" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w11" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w12" />
-        <conversion-tli id="Artur-N-G5036-P600034.t58.w13" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w6" />
-        <conversion-tli id="T4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w10" />
-        <conversion-tli id="Artur-N-G5036-P600034.t59.w11" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t60.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w8_" />
-        <conversion-tli id="T5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w10" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w11" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w11_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w12" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w12_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w13" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w14" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w15" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w16" />
-        <conversion-tli id="T6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w17" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w18" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w19" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w20" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w21" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w22" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w23" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w24" />
-        <conversion-tli id="Artur-N-G5036-P600034.t61.w24_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w4_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w6" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w7" />
-        <conversion-tli id="T7" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w8" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w9" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w10" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w11" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w12" />
-        <conversion-tli id="Artur-N-G5036-P600034.t63.w13" />
-        <conversion-tli id="Artur-N-G5036-P600034.t64" />
-        <conversion-tli id="Artur-N-G5036-P600034.t64.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t64.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t64.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t64.w2_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t64.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t64.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t65" />
-        <conversion-tli id="Artur-N-G5036-P600034.t66.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t66.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t66.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t66.w2_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t66.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t66.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t66.w4_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t68" />
-        <conversion-tli id="Artur-N-G5036-P600034.t68_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t68.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t68.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t68.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t68.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t68.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t68.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t68.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t69" />
-        <conversion-tli id="Artur-N-G5036-P600034.t69_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t69.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t69.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t69.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t69.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t69.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t69.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t70" />
-        <conversion-tli id="Artur-N-G5036-P600034.t70.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t70.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t70.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t71" />
-        <conversion-tli id="Artur-N-G5036-P600034.t71_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t72.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t72.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t72.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t72.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t72.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t72.w5" />
-        <conversion-tli id="Artur-N-G5036-P600034.t73" />
-        <conversion-tli id="Artur-N-G5036-P600034.t73_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t75.w0" />
-        <conversion-tli id="Artur-N-G5036-P600034.t75.w1" />
-        <conversion-tli id="Artur-N-G5036-P600034.t75.w1_" />
-        <conversion-tli id="Artur-N-G5036-P600034.t75.w2" />
-        <conversion-tli id="Artur-N-G5036-P600034.t75.w3" />
-        <conversion-tli id="Artur-N-G5036-P600034.t75.w4" />
-        <conversion-tli id="Artur-N-G5036-P600034.t78" />
-        <conversion-tli id="Artur-N-G5036-P600034.t78_" />
-        <conversion-tli id="T0" />
+        <conversion-tli id="Artur-N-G5036-P600034.t2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t2.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t2.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t2.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t2.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t2.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t2.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t2.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t3.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t3.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t4.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t4.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t4.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t4.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t4.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t5.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t5.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t6_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t6.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t8.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t9_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t10.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t11"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t11_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t12.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t13"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t13_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t13.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t13.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t13.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t13.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t13.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t13.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t13.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t14"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t14.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t14.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t14.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t14.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t14.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t14.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t15"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t16.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t16.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t16.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t17"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t17.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t17.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t17.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t17.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t18"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t18_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t18.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t18.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t18.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w1"/>
+        <conversion-tli id="T1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w7_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t19.w10"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t20"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t20.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t20.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t20.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t20.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t21"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t21_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t21.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t22.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t24"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t24_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t24.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t24.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t24.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t24.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t24.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t25"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t25_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t25.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t27"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t27_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t27.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t27.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t27.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t27.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t27.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t28"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t28_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t28.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t28.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t28.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t29"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t29_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t30.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t30.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t30.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t30.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t31"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t31_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t33.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t33.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t33.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t33.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t33.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34.w3_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t34.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t35"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t35.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t35.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t36"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t36.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t36.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t36.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w3_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t37.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t38"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t38_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t38.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t39"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t39_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t39.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t39.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t39.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t39.w2_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t39.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t39.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w8_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w10"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w11"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w12"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w13"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w14"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w15"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t40.w15_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t41"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t41_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t41.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t41.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t42"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t42_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t42.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t42.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t42.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t42.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t43"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t43_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w4_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w10"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w10_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w11"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w12"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w13"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w13_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w14"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t44.w15"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w5_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t45.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t46"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t46_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t47.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t48"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t48_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t49.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t49.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t49.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t49.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t49.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t50"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t50_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w7_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w10"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w11"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w11_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w12"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w13"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w14"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w15"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t51.w16"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w0"/>
+        <conversion-tli id="T2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w6_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t52.w7_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t53"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t53.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t53.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t53.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t53.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t53.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t53.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w6_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t54.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t55.w7_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t56"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t56_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t56.w0"/>
+        <conversion-tli id="T3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t56.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t56.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t56.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t57"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t57.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t57.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t57.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t57.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t57.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w2_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w8_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w10"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w11"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w12"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t58.w13"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w6"/>
+        <conversion-tli id="T4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w10"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t59.w11"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t60.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w8_"/>
+        <conversion-tli id="T5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w10"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w11"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w11_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w12"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w12_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w13"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w14"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w15"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w16"/>
+        <conversion-tli id="T6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w17"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w18"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w19"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w20"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w21"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w22"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w23"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w24"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t61.w24_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w4_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w6"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w7"/>
+        <conversion-tli id="T7"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w8"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w9"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w10"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w11"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w12"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t63.w13"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t64"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t64.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t64.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t64.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t64.w2_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t64.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t64.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t65"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t66.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t66.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t66.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t66.w2_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t66.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t66.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t66.w4_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t68"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t68_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t68.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t68.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t68.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t68.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t68.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t68.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t68.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t69"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t69_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t69.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t69.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t69.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t69.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t69.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t69.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t70"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t70.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t70.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t70.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t71"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t71_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t72.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t72.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t72.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t72.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t72.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t72.w5"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t73"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t73_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t75.w0"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t75.w1"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t75.w1_"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t75.w2"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t75.w3"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t75.w4"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t78"/>
+        <conversion-tli id="Artur-N-G5036-P600034.t78_"/>
+        <conversion-tli id="T0"/>
       </conversion-timeline>
-      <conversion-tier segmented-tier-id="1" name="trans" category="trans" display-name="Artur-N-G5036 [word]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="SpeakerContribution_Event" category="v" display-name="Artur-N-G5036 [norm]" type="t" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="additional" category="additional" display-name="Artur-N-G5036 [additional]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="nonverbalDisfluency" category="nonverbalDisfluency" display-name="Artur-N-G5036 [nonverbalDisfluency]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="verbalDisfluency" category="verbalDisfluency" display-name="Artur-N-G5036 [verbalDisfluency]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="disfluencyStructure" category="disfluencyStructure" display-name="Artur-N-G5036 [disfluencyStructure]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="traceability" category="traceability" display-name="Artur-N-G5036 [traceability]" type="a" hidden="true" />
-      <conversion-tier segmented-tier-id="1" name="sentenceId" category="sentenceId" display-name="Artur-N-G5036 [sentenceId]" type="a" hidden="true" />
-      <conversion-tier segmented-tier-id="1" name="lemma" category="lemma" display-name="Artur-N-G5036 [lemma]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="upos" category="upos" display-name="Artur-N-G5036 [upos]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="xpos" category="xpos" display-name="Artur-N-G5036 [xpos]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="feats" category="feats" display-name="Artur-N-G5036 [feats]" type="a" hidden="true" />
-      <conversion-tier segmented-tier-id="1" name="head" category="head" display-name="Artur-N-G5036 [head]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="deprel" category="deprel" display-name="Artur-N-G5036 [deprel]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="prosodicUnits" category="prosodicUnits" display-name="Artur-N-G5036 [prosodicUnits]" type="a" hidden="false" />
-      <conversion-tier segmented-tier-id="1" name="dialogActsPrimary" category="dialogActsPrimary" display-name="Artur-N-G5036 [dialogActsPrimary]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="trans" category="trans" display-name="Artur-N-G5036 [word]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="SpeakerContribution_Event" category="v" display-name="Artur-N-G5036 [norm]" type="t" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="additional" category="additional" display-name="Artur-N-G5036 [additional]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="nonverbalDisfluency" category="nonverbalDisfluency" display-name="Artur-N-G5036 [nonverbalDisfluency]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="verbalDisfluency" category="verbalDisfluency" display-name="Artur-N-G5036 [verbalDisfluency]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="disfluencyStructure" category="disfluencyStructure" display-name="Artur-N-G5036 [disfluencyStructure]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="traceability" category="traceability" display-name="Artur-N-G5036 [traceability]" type="a" hidden="true"/>
+      <conversion-tier segmented-tier-id="1" name="sentenceId" category="sentenceId" display-name="Artur-N-G5036 [sentenceId]" type="a" hidden="true"/>
+      <conversion-tier segmented-tier-id="1" name="lemma" category="lemma" display-name="Artur-N-G5036 [lemma]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="upos" category="upos" display-name="Artur-N-G5036 [upos]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="xpos" category="xpos" display-name="Artur-N-G5036 [xpos]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="feats" category="feats" display-name="Artur-N-G5036 [feats]" type="a" hidden="true"/>
+      <conversion-tier segmented-tier-id="1" name="head" category="head" display-name="Artur-N-G5036 [head]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="deprel" category="deprel" display-name="Artur-N-G5036 [deprel]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="prosodicUnits" category="prosodicUnits" display-name="Artur-N-G5036 [prosodicUnits]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="1" name="dialogActsPrimary" category="dialogActsPrimary" display-name="Artur-N-G5036 [dialogActsPrimary]" type="a" hidden="false"/>
     </basic-transcription-conversion-info>
   </conversion-info>
 </segmented-transcription>
-
