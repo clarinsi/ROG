@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <basic-transcription>
   <head>
     <meta-information>
@@ -17,7 +17,7 @@
         <ud-information attribute-name="TYPE">informativno-izobraževalni</ud-information>
         <ud-information attribute-name="CHANNEL">osebni stik</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:45.423198 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:20.992244  2024-10-18T10:27:25.816813+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:45.423198 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:20.992244  // 2024-10-18T10:27:25.816813+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version // 2024-11-21: Peter Rupnik: Bug fix</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -2400,7 +2400,8 @@
       <event start="Artur-J-Gvecg-P500063.t130.w10" end="Artur-J-Gvecg-P500063.t130.w11">možnosti(:) </event>
       <event start="Artur-J-Gvecg-P500063.t130.w11" end="Artur-J-Gvecg-P500063.t130.w12">tako(:) </event>
       <event start="Artur-J-Gvecg-P500063.t130.w18" end="T2">ne </event>
-      <event start="Artur-J-Gvecg-P500063.t131.w11" end="Artur-J-Gvecg-P500063.t133.w6_">ravn mestu ne tko da </event>
+      <event start="Artur-J-Gvecg-P500063.t132.w0" end="Artur-J-Gvecg-P500063.t132.w1">ravn </event>
+      <event start="Artur-J-Gvecg-P500063.t133.w5" end="Artur-J-Gvecg-P500063.t133.w6">mestu ne tko da </event>
       <event start="Artur-J-Gvecg-P500063.t133.w10_" end="Artur-J-Gvecg-P500063.t134">ki(:) </event>
       <event start="Artur-J-Gvecg-P500063.t134.w3" end="Artur-J-Gvecg-P500063.t134.w4">zmislə(:)l(:) </event>
       <event start="Artur-J-Gvecg-P500063.t134.w7" end="Artur-J-Gvecg-P500063.t134.w8">vem(:) </event>
@@ -2473,7 +2474,9 @@
       <event start="Artur-J-Gvecg-P500063.t130.w11" end="Artur-J-Gvecg-P500063.t130.w12">lengthening </event>
       <event start="T2" end="Artur-J-Gvecg-P500063.t131">silentPause </event>
       <event start="Artur-J-Gvecg-P500063.t131.w7" end="Artur-J-Gvecg-P500063.t131.w8">block </event>
-      <event start="Artur-J-Gvecg-P500063.t131.w11" end="Artur-J-Gvecg-P500063.t133.w6_">silentPause silentPause filledPause </event>
+      <event start="Artur-J-Gvecg-P500063.t132_" end="Artur-J-Gvecg-P500063.t132.w0">silentPause </event>
+      <event start="Artur-J-Gvecg-P500063.t133_" end="Artur-J-Gvecg-P500063.t133.w0">silentPause </event>
+      <event start="Artur-J-Gvecg-P500063.t133.w0" end="Artur-J-Gvecg-P500063.t133.w1">filledPause </event>
       <event start="Artur-J-Gvecg-P500063.t133.w10_" end="Artur-J-Gvecg-P500063.t134">lengthening </event>
       <event start="Artur-J-Gvecg-P500063.t134" end="Artur-J-Gvecg-P500063.t134.w0">silentPause </event>
       <event start="Artur-J-Gvecg-P500063.t134.w0" end="Artur-J-Gvecg-P500063.t134.w1">block </event>
@@ -7556,7 +7559,7 @@
       <event start="Artur-J-Gvecg-P500063.t123.w3" end="Artur-J-Gvecg-P500063.t123.w4">menijo(:) </event>
       <event start="Artur-J-Gvecg-P500063.t123.w5" end="Artur-J-Gvecg-P500063.t123.w6">bojo(:) </event>
       <event start="Artur-J-Gvecg-P500063.t123.w11" end="Artur-J-Gvecg-P500063.t123.w12">boljši(:) </event>
-      <event start="Artur-J-Gvecg-P500063.t124.w0" end="Artur-J-Gvecg-P500063.t125.w3_">Večero(:)m </event>
+      <event start="Artur-J-Gvecg-P500063.t124.w14_" end="Artur-J-Gvecg-P500063.t125">Večero(:)m </event>
       <event start="Artur-J-Gvecg-P500063.t126.w4" end="Artur-J-Gvecg-P500063.t126.w5">kolektivki(:) </event>
       <event start="Artur-J-Gvecg-P500063.t126.w12" end="Artur-J-Gvecg-P500063.t126.w13">to(:) </event>
       <event start="Artur-J-Gvecg-P500063.t127.w4" end="Artur-J-Gvecg-P500063.t127.w5">bomo </event>
@@ -7681,7 +7684,8 @@
       <event start="Artur-J-Gvecg-P500063.t123.w3" end="Artur-J-Gvecg-P500063.t123.w4">lengthening </event>
       <event start="Artur-J-Gvecg-P500063.t123.w5" end="Artur-J-Gvecg-P500063.t123.w6">lengthening </event>
       <event start="Artur-J-Gvecg-P500063.t123.w11" end="Artur-J-Gvecg-P500063.t123.w12">lengthening </event>
-      <event start="Artur-J-Gvecg-P500063.t124.w0" end="Artur-J-Gvecg-P500063.t125.w3_">lengthening silentPause </event>
+      <event start="Artur-J-Gvecg-P500063.t124.w14_" end="Artur-J-Gvecg-P500063.t125">lengthening </event>
+      <event start="Artur-J-Gvecg-P500063.t125" end="Artur-J-Gvecg-P500063.t125.w0">silentPause </event>
       <event start="Artur-J-Gvecg-P500063.t126_" end="Artur-J-Gvecg-P500063.t126.w0">silentPause </event>
       <event start="Artur-J-Gvecg-P500063.t126.w1_" end="T1">filledPause </event>
       <event start="T1_" end="Artur-J-Gvecg-P500063.t126.w2">silentPause </event>

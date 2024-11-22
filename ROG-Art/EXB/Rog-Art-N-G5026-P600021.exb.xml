@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <basic-transcription>
   <head>
     <meta-information>
@@ -17,7 +17,7 @@
         <ud-information attribute-name="TYPE">zasebni</ud-information>
         <ud-information attribute-name="CHANNEL">osebni stik</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:52.407484 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:33.429893  2024-10-18T10:26:15.813172+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:52.407484 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:33.429893  // 2024-10-18T10:26:15.813172+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version // 2024-11-21: Peter Rupnik: Bug fix</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>

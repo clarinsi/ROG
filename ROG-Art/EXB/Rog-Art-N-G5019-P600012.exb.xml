@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <basic-transcription>
   <head>
     <meta-information>
@@ -17,7 +17,7 @@
         <ud-information attribute-name="TYPE">zasebni</ud-information>
         <ud-information attribute-name="CHANNEL">osebni stik</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:05:09.934442 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.293731  2024-10-18T10:25:51.468833+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:05:09.934442 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:34.293731  // 2024-10-18T10:25:51.468833+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version // 2024-11-21: Peter Rupnik: Bug fix</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -838,7 +838,7 @@
       <event start="Artur-N-G5019-P600012.t13.w5" end="Artur-N-G5019-P600012.t13.w6">bo </event>
       <event start="Artur-N-G5019-P600012.t13.w8" end="Artur-N-G5019-P600012.t13.w9">ka(:)j </event>
       <event start="Artur-N-G5019-P600012.t21.w6" end="Artur-N-G5019-P600012.t21.w7">celo(:) </event>
-      <event start="Artur-N-G5019-P600012.t33.w0" end="Artur-N-G5019-P600012.t37">bojo(:) </event>
+      <event start="Artur-N-G5019-P600012.t33.w11" end="Artur-N-G5019-P600012.t33.w12">bojo(:) </event>
     </tier>
     <tier id="3" speaker="Artur-N-G5019" category="nonverbalDisfluency" type="a" display-name="Artur-N-G5019 [nonverbalDisfluency]">
       <event start="Artur-N-G5019-P600012.t6.w3" end="Artur-N-G5019-P600012.t7">lengthening </event>
@@ -848,7 +848,9 @@
       <event start="Artur-N-G5019-P600012.t21.w6" end="Artur-N-G5019-P600012.t21.w7">lengthening </event>
       <event start="Artur-N-G5019-P600012.t31.w0" end="Artur-N-G5019-P600012.t31.w1">nonlinguisticSound </event>
       <event start="Artur-N-G5019-P600012.t31.w7_" end="Artur-N-G5019-P600012.t31.w8">filledPause </event>
-      <event start="Artur-N-G5019-P600012.t33.w0" end="Artur-N-G5019-P600012.t37">lengthening silentPause silentPause </event>
+      <event start="Artur-N-G5019-P600012.t33.w11" end="Artur-N-G5019-P600012.t33.w12">lengthening </event>
+      <event start="Artur-N-G5019-P600012.t34" end="Artur-N-G5019-P600012.t34.w0">silentPause </event>
+      <event start="Artur-N-G5019-P600012.t35" end="Artur-N-G5019-P600012.t35.w0">silentPause </event>
       <event start="T1" end="Artur-N-G5019-P600012.t38">silentPause </event>
       <event start="Artur-N-G5019-P600012.t39" end="Artur-N-G5019-P600012.t39.w0">silentPause </event>
       <event start="Artur-N-G5019-P600012.t40_" end="Artur-N-G5019-P600012.t41.w0">silentPause </event>
