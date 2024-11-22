@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <basic-transcription>
   <head>
     <meta-information>
@@ -11,13 +11,13 @@
         <ud-information attribute-name="TITLE">Posnetek o najmanjši splošni bolnišnici v Sloveniji, situacija o zdravljenju v času korone</ud-information>
         <ud-information attribute-name="DATE">2020-11</ud-information>
         <ud-information attribute-name="SOURCE">STA</ud-information>
-        <ud-information attribute-name="URL"><![CDATA[https://www.youtube.com/watch?time_continue=3109&v=Fa4oOO6LuuE&feature=emb_title]]></ud-information>
+        <ud-information attribute-name="URL">https://www.youtube.com/watch?time_continue=3109&amp;v=Fa4oOO6LuuE&amp;feature=emb_title</ud-information>
         <ud-information attribute-name="TEXT-REGION">Trbovlje</ud-information>
         <ud-information attribute-name="DOMAIN">novinarska konferenca</ud-information>
         <ud-information attribute-name="TYPE">informativno-izobraževalni</ud-information>
         <ud-information attribute-name="CHANNEL">osebni stik</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:55.750415 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.700972  2024-10-18T10:28:02.491764+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:55.750415 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:32.700972  // 2024-10-18T10:28:02.491764+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version // 2024-11-21: Peter Rupnik: Bug fix</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -3240,7 +3240,7 @@
       <event start="Artur-J-Gvecg-P500034.t75.w2" end="T4">eee </event>
       <event start="Artur-J-Gvecg-P500034.t76.w1" end="Artur-J-Gvecg-P500034.t77">pomeni(:) </event>
       <event start="Artur-J-Gvecg-P500034.t77" end="Artur-J-Gvecg-P500034.t77.w0">nnn </event>
-      <event start="Artur-J-Gvecg-P500034.t78.w0" end="Artur-J-Gvecg-P500034.t84_">na(:) </event>
+      <event start="Artur-J-Gvecg-P500034.t83.w0" end="Artur-J-Gvecg-P500034.t83.w1">na(:) </event>
       <event start="Artur-J-Gvecg-P500034.t93.w2" end="Artur-J-Gvecg-P500034.t93.w3">bi(:) </event>
       <event start="Artur-J-Gvecg-P500034.t93.w11" end="Artur-J-Gvecg-P500034.t94">zaposlenim </event>
       <event start="Artur-J-Gvecg-P500034.t95.w2_" end="Artur-J-Gvecg-P500034.t95.w3">n(:)i </event>
@@ -3336,7 +3336,9 @@
       <event start="Artur-J-Gvecg-P500034.t75.w2" end="T4">filledPause </event>
       <event start="Artur-J-Gvecg-P500034.t76.w1" end="Artur-J-Gvecg-P500034.t77">lengthening </event>
       <event start="Artur-J-Gvecg-P500034.t77" end="Artur-J-Gvecg-P500034.t77.w0">filledPause </event>
-      <event start="Artur-J-Gvecg-P500034.t78.w0" end="Artur-J-Gvecg-P500034.t84_">filledPause filledPause lengthening </event>
+      <event start="Artur-J-Gvecg-P500034.t80.w0" end="Artur-J-Gvecg-P500034.t80.w1">filledPause </event>
+      <event start="Artur-J-Gvecg-P500034.t82.w0" end="Artur-J-Gvecg-P500034.t82.w1">filledPause </event>
+      <event start="Artur-J-Gvecg-P500034.t83.w0" end="Artur-J-Gvecg-P500034.t83.w1">lengthening </event>
       <event start="Artur-J-Gvecg-P500034.t84.w0" end="Artur-J-Gvecg-P500034.t84.w1">filledPause </event>
       <event start="Artur-J-Gvecg-P500034.t86.w0" end="Artur-J-Gvecg-P500034.t86.w1">filledPause </event>
       <event start="Artur-J-Gvecg-P500034.t86.w3" end="Artur-J-Gvecg-P500034.t86.w4">filledPause </event>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <basic-transcription>
   <head>
     <meta-information>
@@ -17,7 +17,7 @@
         <ud-information attribute-name="TYPE">informativno-izobraževalni</ud-information>
         <ud-information attribute-name="CHANNEL">radio</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:45.918922 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:26.349551  2024-10-18T10:28:44.150189+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:45.918922 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:26.349551  // 2024-10-18T10:28:44.150189+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version // 2024-11-21: Peter Rupnik: Bug fix</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -2075,7 +2075,8 @@
       <event start="Artur-J-Gvecg-P580023.t11.w0" end="Artur-J-Gvecg-P580023.t11.w1">lengthening </event>
       <event start="Artur-J-Gvecg-P580023.t25" end="Artur-J-Gvecg-P580023.t25.w0">silentPause </event>
       <event start="Artur-J-Gvecg-P580023.t45" end="Artur-J-Gvecg-P580023.t45.w0">silentPause </event>
-      <event start="Artur-J-Gvecg-P580023.t73.w0" end="Artur-J-Gvecg-P580023.t74_">silentPause silentPause </event>
+      <event start="T9" end="Artur-J-Gvecg-P580023.t73.w9">silentPause </event>
+      <event start="T8" end="Artur-J-Gvecg-P580023.t73.w10">silentPause </event>
       <event start="Artur-J-Gvecg-P580023.t84.w4" end="Artur-J-Gvecg-P580023.t84.w5">lengthening </event>
       <event start="Artur-J-Gvecg-P580023.t85" end="Artur-J-Gvecg-P580023.t85.w0">silentPause </event>
       <event start="Artur-J-Gvecg-P580023.t85.w2_" end="T11">silentPause </event>

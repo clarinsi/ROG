@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <basic-transcription>
   <head>
     <meta-information>
@@ -17,7 +17,7 @@
         <ud-information attribute-name="TYPE">informativno-izobraževalni</ud-information>
         <ud-information attribute-name="CHANNEL">radio</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:44.559267 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:23.946883  2024-10-18T10:28:54.413901+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:02:44.559267 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:23.946883  // 2024-10-18T10:28:54.413901+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version // 2024-11-21: Peter Rupnik: Bug fix</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -5108,7 +5108,8 @@
       <event start="Artur-J-Gvecg-P580047.t67.w1" end="Artur-J-Gvecg-P580047.t67.w2">sə(:)m </event>
       <event start="Artur-J-Gvecg-P580047.t69.w2" end="Artur-J-Gvecg-P580047.t69.w3">sə(:)m </event>
       <event start="T4" end="Artur-J-Gvecg-P580047.t71.w22">po </event>
-      <event start="Artur-J-Gvecg-P580047.t72.w5_" end="Artur-J-Gvecg-P580047.t76_">Evropi(:) ima(:) </event>
+      <event start="Artur-J-Gvecg-P580047.t73.w3" end="Artur-J-Gvecg-P580047.t73.w4">Evropi(:) </event>
+      <event start="Artur-J-Gvecg-P580047.t74.w0" end="Artur-J-Gvecg-P580047.t74.w1">ima(:) </event>
     </tier>
     <tier id="9" speaker="Artur-J-G4586" category="nonverbalDisfluency" type="a" display-name="Artur-J-G4586 [nonverbalDisfluency]">
       <event start="Artur-J-Gvecg-P580047.t2.w0" end="Artur-J-Gvecg-P580047.t2.w1">filledPause </event>
@@ -5181,7 +5182,12 @@
       <event start="Artur-J-Gvecg-P580047.t69" end="Artur-J-Gvecg-P580047.t69.w0">silentPause </event>
       <event start="Artur-J-Gvecg-P580047.t69.w2" end="Artur-J-Gvecg-P580047.t69.w3">lengthening </event>
       <event start="Artur-J-Gvecg-P580047.t70" end="Artur-J-Gvecg-P580047.t70.w0">silentPause </event>
-      <event start="Artur-J-Gvecg-P580047.t72.w5_" end="Artur-J-Gvecg-P580047.t76_">silentPause lengthening lengthening filledPause silentPause filledPause </event>
+      <event start="Artur-J-Gvecg-P580047.t73" end="Artur-J-Gvecg-P580047.t73.w0">silentPause </event>
+      <event start="Artur-J-Gvecg-P580047.t73.w3" end="Artur-J-Gvecg-P580047.t73.w4">lengthening </event>
+      <event start="Artur-J-Gvecg-P580047.t74.w0" end="Artur-J-Gvecg-P580047.t74.w1">lengthening </event>
+      <event start="Artur-J-Gvecg-P580047.t74.w2_" end="Artur-J-Gvecg-P580047.t75">filledPause </event>
+      <event start="Artur-J-Gvecg-P580047.t75_" end="Artur-J-Gvecg-P580047.t75.w0">silentPause </event>
+      <event start="Artur-J-Gvecg-P580047.t75.w7_" end="Artur-J-Gvecg-P580047.t75.w8">filledPause </event>
     </tier>
     <tier id="10" speaker="Artur-J-G4586" category="verbalDisfluency" type="a" display-name="Artur-J-G4586 [verbalDisfluency]">
       <event start="Artur-J-Gvecg-P580047.t22.w4_" end="Artur-J-Gvecg-P580047.t22.w6">repetition </event>

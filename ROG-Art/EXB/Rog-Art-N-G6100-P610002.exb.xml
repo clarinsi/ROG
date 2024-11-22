@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <basic-transcription>
   <head>
     <meta-information>
@@ -17,7 +17,7 @@
         <ud-information attribute-name="TYPE">zasebni</ud-information>
         <ud-information attribute-name="CHANNEL">osebni stik</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:14.438471 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:28.533573  2024-10-18T10:27:01.143311+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:14.438471 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:28.533573  // 2024-10-18T10:27:01.143311+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version // 2024-11-21: Peter Rupnik: Bug fix</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -3078,7 +3078,7 @@
       <event start="Artur-N-G6100-P610002.t21.w5" end="Artur-N-G6100-P610002.t21.w6">prstano </event>
       <event start="Artur-N-G6100-P610002.t22.w1" end="Artur-N-G6100-P610002.t22.w2">zato(:) </event>
       <event start="Artur-N-G6100-P610002.t23.w10" end="Artur-N-G6100-P610002.t23.w11">izlesniški </event>
-      <event start="Artur-N-G6100-P610002.t26.w4_" end="Artur-N-G6100-P610002.t28_">e </event>
+      <event start="T2" end="Artur-N-G6100-P610002.t27.w9">e </event>
       <event start="Artur-N-G6100-P610002.t31.w7" end="Artur-N-G6100-P610002.t31.w8">stal </event>
       <event start="Artur-N-G6100-P610002.t34.w2" end="Artur-N-G6100-P610002.t34.w3">progo(:) </event>
       <event start="Artur-N-G6100-P610002.t35.w5" end="Artur-N-G6100-P610002.t35.w6">tega(:) </event>
@@ -3134,8 +3134,11 @@
       <event start="Artur-N-G6100-P610002.t25" end="Artur-N-G6100-P610002.t25.w0">silentPause </event>
       <event start="Artur-N-G6100-P610002.t25.w2_" end="Artur-N-G6100-P610002.t25.w3">filledPause </event>
       <event start="Artur-N-G6100-P610002.t26" end="Artur-N-G6100-P610002.t26.w0">silentPause </event>
-      <event start="Artur-N-G6100-P610002.t26.w4_" end="Artur-N-G6100-P610002.t28_">filledPause silentPause filledPause </event>
-      <event start="Artur-N-G6100-P610002.t30.w9_" end="Artur-N-G6100-P610002.t31.w2_">filledPause silentPause </event>
+      <event start="Artur-N-G6100-P610002.t26.w4_" end="Artur-N-G6100-P610002.t26.w5">filledPause </event>
+      <event start="Artur-N-G6100-P610002.t27" end="Artur-N-G6100-P610002.t27.w0">silentPause </event>
+      <event start="T2" end="Artur-N-G6100-P610002.t27.w9">filledPause </event>
+      <event start="Artur-N-G6100-P610002.t30.w11_" end="Artur-N-G6100-P610002.t30.w12">filledPause </event>
+      <event start="Artur-N-G6100-P610002.t31" end="Artur-N-G6100-P610002.t31.w0">silentPause </event>
       <event start="Artur-N-G6100-P610002.t31.w2_" end="Artur-N-G6100-P610002.t31.w3">filledPause </event>
       <event start="Artur-N-G6100-P610002.t31.w10_" end="Artur-N-G6100-P610002.t31.w11">filledPause </event>
       <event start="Artur-N-G6100-P610002.t34.w2" end="Artur-N-G6100-P610002.t34.w3">lengthening </event>

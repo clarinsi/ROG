@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <basic-transcription>
   <head>
     <meta-information>
@@ -17,7 +17,7 @@
         <ud-information attribute-name="TYPE">zasebni</ud-information>
         <ud-information attribute-name="CHANNEL">osebni stik</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:06.550500 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:30.021297  2024-10-18T10:28:13.404802+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:04:06.550500 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:30.021297  // 2024-10-18T10:28:13.404802+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version // 2024-11-21: Peter Rupnik: Bug fix</comment>
       <transcription-convention/>
     </meta-information>
     <speakertable>
@@ -3005,7 +3005,7 @@
       <event start="T5" end="Artur-N-G6060-P606001.t71.w7">eee </event>
       <event start="Artur-N-G6060-P606001.t76.w1" end="Artur-N-G6060-P606001.t76.w2">tudi(:) </event>
       <event start="Artur-N-G6060-P606001.t79.w9" end="Artur-N-G6060-P606001.t80">tako(:) </event>
-      <event start="Artur-N-G6060-P606001.t87.w8_" end="Artur-N-G6060-P606001.t89.w6_">zelo(:) </event>
+      <event start="Artur-N-G6060-P606001.t88.w3_" end="Artur-N-G6060-P606001.t88.w4">zelo(:) </event>
       <event start="Artur-N-G6060-P606001.t93.w0" end="Artur-N-G6060-P606001.t93.w1">in(:) </event>
       <event start="Artur-N-G6060-P606001.t101.w4" end="Artur-N-G6060-P606001.t101.w5">taki(:) </event>
       <event start="Artur-N-G6060-P606001.t103.w11" end="Artur-N-G6060-P606001.t103.w12">pap </event>
@@ -3095,7 +3095,10 @@
       <event start="Artur-N-G6060-P606001.t84_" end="Artur-N-G6060-P606001.t84.w0">silentPause </event>
       <event start="Artur-N-G6060-P606001.t84.w0" end="Artur-N-G6060-P606001.t84.w1">filledPause </event>
       <event start="Artur-N-G6060-P606001.t86.w5_" end="Artur-N-G6060-P606001.t86.w6">filledPause </event>
-      <event start="Artur-N-G6060-P606001.t87.w8_" end="Artur-N-G6060-P606001.t89.w6_">silentPause filledPause lengthening silentPause </event>
+      <event start="Artur-N-G6060-P606001.t88" end="Artur-N-G6060-P606001.t88.w0">silentPause </event>
+      <event start="Artur-N-G6060-P606001.t88.w2_" end="Artur-N-G6060-P606001.t88.w3">filledPause </event>
+      <event start="Artur-N-G6060-P606001.t88.w3_" end="Artur-N-G6060-P606001.t88.w4">lengthening </event>
+      <event start="Artur-N-G6060-P606001.t89" end="Artur-N-G6060-P606001.t89.w0">silentPause </event>
       <event start="Artur-N-G6060-P606001.t93_" end="Artur-N-G6060-P606001.t93.w0">silentPause </event>
       <event start="Artur-N-G6060-P606001.t93.w0" end="Artur-N-G6060-P606001.t93.w1">lengthening </event>
       <event start="Artur-N-G6060-P606001.t93.w1_" end="Artur-N-G6060-P606001.t93.w2">filledPause </event>
