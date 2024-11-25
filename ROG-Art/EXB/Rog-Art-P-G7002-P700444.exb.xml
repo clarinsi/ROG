@@ -2738,7 +2738,7 @@
       <event start="Artur-P-G7002-P700444.t63.w0" end="Artur-P-G7002-P700444.t63.w5">selfrepairLexicogrammar </event>
       <event start="Artur-P-G7002-P700444.t70.w5" end="Artur-P-G7002-P700444.t71">unrepairedPronunciation </event>
       <event start="Artur-P-G7002-P700444.t81.w0" end="Artur-P-G7002-P700444.t81.w4">unrepairedStructure </event>
-      <event start="Artur-P-G7002-P700444.t87.w0" end="Artur-P-G7002-P700444.t91_">selfrepairLexicogrammar </event>
+      <event start="Artur-P-G7002-P700444.t90.w0" end="Artur-P-G7002-P700444.t90.w3">selfrepairLexicogrammar </event>
       <event start="Artur-P-G7002-P700444.t91.w4" end="Artur-P-G7002-P700444.t91.w5">unrepairedPronunciation </event>
       <event start="Artur-P-G7002-P700444.t101.w1" end="Artur-P-G7002-P700444.t101.w7">selfrepairPronunciation </event>
     </tier>
@@ -2763,7 +2763,8 @@
       <event start="Artur-P-G7002-P700444.t61.w3" end="Artur-P-G7002-P700444.t61.w4">repair </event>
       <event start="Artur-P-G7002-P700444.t63.w0" end="Artur-P-G7002-P700444.t63.w2">reparandum </event>
       <event start="Artur-P-G7002-P700444.t63.w2" end="Artur-P-G7002-P700444.t63.w5">repair </event>
-      <event start="Artur-P-G7002-P700444.t87.w0" end="Artur-P-G7002-P700444.t91_">reparandum repair </event>
+      <event start="Artur-P-G7002-P700444.t90.w0" end="Artur-P-G7002-P700444.t90.w1">reparandum </event>
+      <event start="Artur-P-G7002-P700444.t90.w1_" end="Artur-P-G7002-P700444.t90.w3">repair </event>
       <event start="Artur-P-G7002-P700444.t101.w1" end="Artur-P-G7002-P700444.t101.w3">reparandum </event>
       <event start="Artur-P-G7002-P700444.t101.w3" end="Artur-P-G7002-P700444.t101.w5">interregnum </event>
       <event start="Artur-P-G7002-P700444.t101.w5" end="Artur-P-G7002-P700444.t101.w7">repair </event>

@@ -3186,7 +3186,7 @@
       <event start="Artur-N-G6100-P610002.t20.w5_" end="Artur-N-G6100-P610002.t21">disfluencyMarker </event>
       <event start="Artur-N-G6100-P610002.t21.w5" end="Artur-N-G6100-P610002.t21.w6">unrepairedPronunciation </event>
       <event start="Artur-N-G6100-P610002.t23.w10" end="Artur-N-G6100-P610002.t23.w11">unrepairedPronunciation </event>
-      <event start="Artur-N-G6100-P610002.t30.w9_" end="Artur-N-G6100-P610002.t31.w2_">selfrepairLexicogrammar </event>
+      <event start="Artur-N-G6100-P610002.t30.w19" end="Artur-N-G6100-P610002.t31.w2">selfrepairLexicogrammar </event>
       <event start="Artur-N-G6100-P610002.t41.w1" end="Artur-N-G6100-P610002.t41.w9">selfrepairLexicogrammar </event>
       <event start="Artur-N-G6100-P610002.t41.w12" end="Artur-N-G6100-P610002.t41.w14">unrepairedStructure </event>
       <event start="Artur-N-G6100-P610002.t43.w14_" end="Artur-N-G6100-P610002.t43.w21">selfrepairLexicogrammar </event>
@@ -3197,13 +3197,15 @@
       <event start="Artur-N-G6100-P610002.t60.w0" end="Artur-N-G6100-P610002.t60.w6">abandoned </event>
       <event start="Artur-N-G6100-P610002.t60.w6_" end="Artur-N-G6100-P610002.t61.w7">unrepairedStructure </event>
       <event start="Artur-N-G6100-P610002.t61.w14_" end="Artur-N-G6100-P610002.t61.w20">abandoned </event>
-      <event start="Artur-N-G6100-P610002.t63.w0" end="Artur-N-G6100-P610002.t64">selfrepairLexicogrammar </event>
+      <event start="Artur-N-G6100-P610002.t63.w1" end="Artur-N-G6100-P610002.t63.w3">selfrepairLexicogrammar </event>
       <event start="Artur-N-G6100-P610002.t64" end="Artur-N-G6100-P610002.t64.w0">unrepairedPronunciation </event>
     </tier>
     <tier id="5" speaker="Artur-N-G6100" category="disfluencyStructure" type="a" display-name="Artur-N-G6100 [disfluencyStructure]">
       <event start="Artur-N-G6100-P610002.t15.w2" end="Artur-N-G6100-P610002.t15.w4">reparandum </event>
       <event start="Artur-N-G6100-P610002.t15.w4_" end="Artur-N-G6100-P610002.t15.w6">repair </event>
-      <event start="Artur-N-G6100-P610002.t30.w9_" end="Artur-N-G6100-P610002.t31.w2_">reparandum interregnum repair </event>
+      <event start="Artur-N-G6100-P610002.t30.w19" end="Artur-N-G6100-P610002.t31">reparandum </event>
+      <event start="Artur-N-G6100-P610002.t31" end="Artur-N-G6100-P610002.t31.w0">interregnum </event>
+      <event start="Artur-N-G6100-P610002.t31.w0" end="Artur-N-G6100-P610002.t31.w2">repair </event>
       <event start="Artur-N-G6100-P610002.t41.w1" end="Artur-N-G6100-P610002.t41.w3">reparandum </event>
       <event start="Artur-N-G6100-P610002.t41.w3_" end="Artur-N-G6100-P610002.t41.w9">repair </event>
       <event start="Artur-N-G6100-P610002.t43.w14_" end="Artur-N-G6100-P610002.t43.w16">reparandum </event>
@@ -3215,7 +3217,8 @@
       <event start="Artur-N-G6100-P610002.t46.w5" end="T6">reparandum </event>
       <event start="T6" end="T7">interregnum </event>
       <event start="T7" end="Artur-N-G6100-P610002.t46.w6">repair </event>
-      <event start="Artur-N-G6100-P610002.t63.w0" end="Artur-N-G6100-P610002.t64">reparandum repair </event>
+      <event start="Artur-N-G6100-P610002.t63.w1" end="Artur-N-G6100-P610002.t63.w2">reparandum </event>
+      <event start="Artur-N-G6100-P610002.t63.w2_" end="Artur-N-G6100-P610002.t63.w3">repair </event>
     </tier>
     <tier id="8" speaker="Artur-N-G6100" category="traceability" type="a" display-name="Artur-N-G6100 [traceability]">
       <event start="Artur-N-G6100-P610002.t0.w0" end="Artur-N-G6100-P610002.t0.w1">Artur-N-G6100-P610002.tok1 </event>
