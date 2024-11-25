@@ -2089,11 +2089,13 @@
       <event start="Artur-J-Gvecg-P580023.t127.w7" end="Artur-J-Gvecg-P580023.t127.w8">lengthening </event>
     </tier>
     <tier id="4" speaker="Artur-J-G4544" category="verbalDisfluency" type="a" display-name="Artur-J-G4544 [verbalDisfluency]">
-      <event start="Artur-J-Gvecg-P580023.t73.w0" end="Artur-J-Gvecg-P580023.t74_">selfrepairLexicogrammar </event>
+      <event start="Artur-J-Gvecg-P580023.t73.w6" end="Artur-J-Gvecg-P580023.t73.w9">selfrepairLexicogrammar </event>
       <event start="Artur-J-Gvecg-P580023.t117.w4" end="Artur-J-Gvecg-P580023.t118">unrepairedPronunciation </event>
     </tier>
     <tier id="5" speaker="Artur-J-G4544" category="disfluencyStructure" type="a" display-name="Artur-J-G4544 [disfluencyStructure]">
-      <event start="Artur-J-Gvecg-P580023.t73.w0" end="Artur-J-Gvecg-P580023.t74_">reparandum interregnum repair </event>
+      <event start="Artur-J-Gvecg-P580023.t73.w6" end="Artur-J-Gvecg-P580023.t73.w7">reparandum </event>
+      <event start="Artur-J-Gvecg-P580023.t73.w7" end="Artur-J-Gvecg-P580023.t73.w8">interregnum </event>
+      <event start="Artur-J-Gvecg-P580023.t73.w8" end="Artur-J-Gvecg-P580023.t73.w9">repair </event>
     </tier>
     <tier id="14" speaker="Artur-J-G4544" category="traceability" type="a" display-name="Artur-J-G4544 [traceability]">
       <ud-tier-information>

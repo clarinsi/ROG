@@ -3131,7 +3131,7 @@
       <event start="Artur-N-G6060-P606001.t78.w0" end="Artur-N-G6060-P606001.t78.w2">repetition </event>
       <event start="Artur-N-G6060-P606001.t81.w0" end="Artur-N-G6060-P606001.t81.w2">disfluencyMarker </event>
       <event start="Artur-N-G6060-P606001.t83.w10" end="Artur-N-G6060-P606001.t84.w2">selfrepairPronunciation </event>
-      <event start="Artur-N-G6060-P606001.t87.w8_" end="Artur-N-G6060-P606001.t89.w6_">selfrepairComplex </event>
+      <event start="Artur-N-G6060-P606001.t88.w0" end="Artur-N-G6060-P606001.t89">selfrepairComplex </event>
       <event start="Artur-N-G6060-P606001.t92.w5" end="Artur-N-G6060-P606001.t92.w7">selfrepairPronunciation </event>
       <event start="Artur-N-G6060-P606001.t93.w2_" end="Artur-N-G6060-P606001.t94">selfrepairLexicogrammar </event>
       <event start="Artur-N-G6060-P606001.t96.w0" end="Artur-N-G6060-P606001.t96.w3">selfrepairPronunciation </event>
@@ -3161,7 +3161,10 @@
       <event start="Artur-N-G6060-P606001.t83.w10" end="Artur-N-G6060-P606001.t84">reparandum </event>
       <event start="Artur-N-G6060-P606001.t84_" end="Artur-N-G6060-P606001.t84.w1">interregnum </event>
       <event start="Artur-N-G6060-P606001.t84.w1_" end="Artur-N-G6060-P606001.t84.w2">repair </event>
-      <event start="Artur-N-G6060-P606001.t87.w8_" end="Artur-N-G6060-P606001.t89.w6_">reparandum repair interregnum repair </event>
+      <event start="Artur-N-G6060-P606001.t88.w0" end="Artur-N-G6060-P606001.t88.w1">reparandum </event>
+      <event start="Artur-N-G6060-P606001.t88.w1_" end="Artur-N-G6060-P606001.t88.w2">repair </event>
+      <event start="Artur-N-G6060-P606001.t88.w2_" end="Artur-N-G6060-P606001.t88.w3">interregnum </event>
+      <event start="Artur-N-G6060-P606001.t88.w3_" end="Artur-N-G6060-P606001.t89">repair </event>
       <event start="Artur-N-G6060-P606001.t92.w5" end="Artur-N-G6060-P606001.t92.w6">reparandum </event>
       <event start="Artur-N-G6060-P606001.t92.w6_" end="Artur-N-G6060-P606001.t92.w7">repair </event>
       <event start="Artur-N-G6060-P606001.t93.w2_" end="Artur-N-G6060-P606001.t93.w3">reparandum </event>
