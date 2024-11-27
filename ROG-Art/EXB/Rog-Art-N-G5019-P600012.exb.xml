@@ -840,7 +840,7 @@
       <event start="Artur-N-G5019-P600012.t21.w6" end="Artur-N-G5019-P600012.t21.w7">celo(:) </event>
       <event start="Artur-N-G5019-P600012.t33.w11" end="Artur-N-G5019-P600012.t33.w12">bojo(:) </event>
     </tier>
-    <tier id="3" speaker="Artur-N-G5019" category="nonverbalDisfluency" type="a" display-name="Artur-N-G5019 [nonverbalDisfluency]">
+    <tier id="3" speaker="Artur-N-G5019" category="vocalDisfluency" type="a" display-name="Artur-N-G5019 [vocalDisfluency]">
       <event start="Artur-N-G5019-P600012.t6.w3" end="Artur-N-G5019-P600012.t7">lengthening </event>
       <event start="Artur-N-G5019-P600012.t7" end="Artur-N-G5019-P600012.t7.w0">silentPause </event>
       <event start="Artur-N-G5019-P600012.t13.w8" end="Artur-N-G5019-P600012.t13.w9">lengthening </event>
@@ -2885,38 +2885,38 @@
       <event start="Artur-N-G5019-P600012.t57" end="Artur-N-G5019-P600012.t57_">({'id': 18, 'form': '.', 'lemma': '.', 'upos': 'PUNCT', 'xpos': 'Z', 'feats': None, 'head': 8, 'deprel': 'punct', 'deps': None, 'misc': {'pronunciation': '.', 'sentence_ending': 'True', 'Gos2.1_seg_id': 'Artur-N-G5019-P600012.s32', 'Gos2.1_token_id': 'Artur-N-G5019-P600012.tok258'}},)</event>
     </tier>
     <tier id="Artur-N-G5019 [prosodicUnits]" speaker="Artur-N-G5019" category="prosodicUnits" type="a" display-name="Artur-N-G5019 [prosodicUnits]">
-      <event start="Artur-N-G5019-P600012.t2.w0" end="Artur-N-G5019-P600012.t4">Artur-N-G5019-P600012.tok1Artur-N-G5019-P600012.tok2Artur-N-G5019-P600012.tok3Artur-N-G5019-P600012.tok4</event>
-      <event start="Artur-N-G5019-P600012.t4.w0" end="Artur-N-G5019-P600012.t5">Artur-N-G5019-P600012.tok6Artur-N-G5019-P600012.tok7Artur-N-G5019-P600012.tok8</event>
-      <event start="Artur-N-G5019-P600012.t6.w0" end="Artur-N-G5019-P600012.t10">Artur-N-G5019-P600012.tok10Artur-N-G5019-P600012.tok11Artur-N-G5019-P600012.tok13Artur-N-G5019-P600012.tok14Artur-N-G5019-P600012.tok15Artur-N-G5019-P600012.tok16Artur-N-G5019-P600012.tok18Artur-N-G5019-P600012.tok20</event>
-      <event start="Artur-N-G5019-P600012.t10.w0" end="Artur-N-G5019-P600012.t13">Artur-N-G5019-P600012.tok22Artur-N-G5019-P600012.tok24Artur-N-G5019-P600012.tok26Artur-N-G5019-P600012.tok27Artur-N-G5019-P600012.tok28Artur-N-G5019-P600012.tok30</event>
-      <event start="Artur-N-G5019-P600012.t13.w0" end="Artur-N-G5019-P600012.t13.w10">Artur-N-G5019-P600012.tok32Artur-N-G5019-P600012.tok34Artur-N-G5019-P600012.tok35Artur-N-G5019-P600012.tok37Artur-N-G5019-P600012.tok38Artur-N-G5019-P600012.tok39Artur-N-G5019-P600012.tok40Artur-N-G5019-P600012.tok41Artur-N-G5019-P600012.tok42Artur-N-G5019-P600012.tok43</event>
-      <event start="Artur-N-G5019-P600012.t13.w10" end="Artur-N-G5019-P600012.t15">Artur-N-G5019-P600012.tok44Artur-N-G5019-P600012.tok45Artur-N-G5019-P600012.tok47Artur-N-G5019-P600012.tok48Artur-N-G5019-P600012.tok49Artur-N-G5019-P600012.tok50Artur-N-G5019-P600012.tok51Artur-N-G5019-P600012.tok53</event>
-      <event start="Artur-N-G5019-P600012.t15.w0" end="Artur-N-G5019-P600012.t16">Artur-N-G5019-P600012.tok55Artur-N-G5019-P600012.tok56Artur-N-G5019-P600012.tok57Artur-N-G5019-P600012.tok58Artur-N-G5019-P600012.tok59Artur-N-G5019-P600012.tok60Artur-N-G5019-P600012.tok61Artur-N-G5019-P600012.tok62Artur-N-G5019-P600012.tok64Artur-N-G5019-P600012.tok65</event>
-      <event start="Artur-N-G5019-P600012.t17.w0" end="Artur-N-G5019-P600012.t17.w2">Artur-N-G5019-P600012.tok67Artur-N-G5019-P600012.tok68</event>
-      <event start="Artur-N-G5019-P600012.t17.w2" end="Artur-N-G5019-P600012.t19">Artur-N-G5019-P600012.tok69Artur-N-G5019-P600012.tok70Artur-N-G5019-P600012.tok71Artur-N-G5019-P600012.tok72</event>
-      <event start="Artur-N-G5019-P600012.t19.w0" end="Artur-N-G5019-P600012.t20">Artur-N-G5019-P600012.tok74Artur-N-G5019-P600012.tok76Artur-N-G5019-P600012.tok77Artur-N-G5019-P600012.tok78Artur-N-G5019-P600012.tok79</event>
-      <event start="Artur-N-G5019-P600012.t21.w0" end="Artur-N-G5019-P600012.t23">Artur-N-G5019-P600012.tok81Artur-N-G5019-P600012.tok82Artur-N-G5019-P600012.tok83Artur-N-G5019-P600012.tok84Artur-N-G5019-P600012.tok85Artur-N-G5019-P600012.tok86Artur-N-G5019-P600012.tok87Artur-N-G5019-P600012.tok88Artur-N-G5019-P600012.tok89Artur-N-G5019-P600012.tok90Artur-N-G5019-P600012.tok92</event>
-      <event start="Artur-N-G5019-P600012.t23.w0" end="Artur-N-G5019-P600012.t25">Artur-N-G5019-P600012.tok94</event>
-      <event start="Artur-N-G5019-P600012.t25.w0" end="Artur-N-G5019-P600012.t26">Artur-N-G5019-P600012.tok96Artur-N-G5019-P600012.tok97</event>
-      <event start="Artur-N-G5019-P600012.t26.w0" end="Artur-N-G5019-P600012.t27">Artur-N-G5019-P600012.tok99Artur-N-G5019-P600012.tok100Artur-N-G5019-P600012.tok101Artur-N-G5019-P600012.tok102</event>
-      <event start="Artur-N-G5019-P600012.t27.w0" end="Artur-N-G5019-P600012.t29">Artur-N-G5019-P600012.tok104Artur-N-G5019-P600012.tok105</event>
-      <event start="Artur-N-G5019-P600012.t29.w0" end="Artur-N-G5019-P600012.t31">Artur-N-G5019-P600012.tok107Artur-N-G5019-P600012.tok108Artur-N-G5019-P600012.tok109</event>
-      <event start="Artur-N-G5019-P600012.t31.w0" end="Artur-N-G5019-P600012.t31.w8">Artur-N-G5019-P600012.tok111Artur-N-G5019-P600012.tok112Artur-N-G5019-P600012.tok113Artur-N-G5019-P600012.tok114Artur-N-G5019-P600012.tok115Artur-N-G5019-P600012.tok116Artur-N-G5019-P600012.tok117Artur-N-G5019-P600012.tok119</event>
-      <event start="Artur-N-G5019-P600012.t31.w8_" end="Artur-N-G5019-P600012.t33">Artur-N-G5019-P600012.tok121Artur-N-G5019-P600012.tok122Artur-N-G5019-P600012.tok123Artur-N-G5019-P600012.tok124Artur-N-G5019-P600012.tok125Artur-N-G5019-P600012.tok126Artur-N-G5019-P600012.tok127</event>
-      <event start="Artur-N-G5019-P600012.t33.w0" end="Artur-N-G5019-P600012.t37">Artur-N-G5019-P600012.tok129Artur-N-G5019-P600012.tok130Artur-N-G5019-P600012.tok131Artur-N-G5019-P600012.tok132Artur-N-G5019-P600012.tok134Artur-N-G5019-P600012.tok135Artur-N-G5019-P600012.tok137Artur-N-G5019-P600012.tok138Artur-N-G5019-P600012.tok139Artur-N-G5019-P600012.tok141Artur-N-G5019-P600012.tok142Artur-N-G5019-P600012.tok143Artur-N-G5019-P600012.tok144Artur-N-G5019-P600012.tok145Artur-N-G5019-P600012.tok146Artur-N-G5019-P600012.tok148Artur-N-G5019-P600012.tok149Artur-N-G5019-P600012.tok150Artur-N-G5019-P600012.tok151Artur-N-G5019-P600012.tok152Artur-N-G5019-P600012.tok153Artur-N-G5019-P600012.tok154</event>
-      <event start="Artur-N-G5019-P600012.t37.w0" end="T1">Artur-N-G5019-P600012.tok156Artur-N-G5019-P600012.tok157Artur-N-G5019-P600012.tok158</event>
-      <event start="Artur-N-G5019-P600012.t38.w0" end="Artur-N-G5019-P600012.t39">Artur-N-G5019-P600012.tok159Artur-N-G5019-P600012.tok161Artur-N-G5019-P600012.tok162</event>
-      <event start="Artur-N-G5019-P600012.t39.w0" end="Artur-N-G5019-P600012.t40">Artur-N-G5019-P600012.tok163Artur-N-G5019-P600012.tok164Artur-N-G5019-P600012.tok165Artur-N-G5019-P600012.tok166</event>
-      <event start="Artur-N-G5019-P600012.t41.w0" end="Artur-N-G5019-P600012.t41.w9">Artur-N-G5019-P600012.tok168Artur-N-G5019-P600012.tok169Artur-N-G5019-P600012.tok170Artur-N-G5019-P600012.tok171Artur-N-G5019-P600012.tok173Artur-N-G5019-P600012.tok174Artur-N-G5019-P600012.tok175Artur-N-G5019-P600012.tok176Artur-N-G5019-P600012.tok178</event>
-      <event start="Artur-N-G5019-P600012.t41.w9" end="Artur-N-G5019-P600012.t42">Artur-N-G5019-P600012.tok179Artur-N-G5019-P600012.tok180Artur-N-G5019-P600012.tok181Artur-N-G5019-P600012.tok182</event>
-      <event start="Artur-N-G5019-P600012.t42.w0" end="Artur-N-G5019-P600012.t45">Artur-N-G5019-P600012.tok183Artur-N-G5019-P600012.tok184Artur-N-G5019-P600012.tok185Artur-N-G5019-P600012.tok186</event>
-      <event start="Artur-N-G5019-P600012.t45.w0" end="Artur-N-G5019-P600012.t47">Artur-N-G5019-P600012.tok188Artur-N-G5019-P600012.tok189Artur-N-G5019-P600012.tok190Artur-N-G5019-P600012.tok191Artur-N-G5019-P600012.tok192Artur-N-G5019-P600012.tok193Artur-N-G5019-P600012.tok194</event>
-      <event start="Artur-N-G5019-P600012.t47.w0" end="Artur-N-G5019-P600012.t47.w4">Artur-N-G5019-P600012.tok196Artur-N-G5019-P600012.tok197Artur-N-G5019-P600012.tok199Artur-N-G5019-P600012.tok201</event>
-      <event start="Artur-N-G5019-P600012.t47.w4" end="Artur-N-G5019-P600012.t51">Artur-N-G5019-P600012.tok202Artur-N-G5019-P600012.tok204Artur-N-G5019-P600012.tok205Artur-N-G5019-P600012.tok206Artur-N-G5019-P600012.tok208Artur-N-G5019-P600012.tok210Artur-N-G5019-P600012.tok211Artur-N-G5019-P600012.tok212Artur-N-G5019-P600012.tok214Artur-N-G5019-P600012.tok215Artur-N-G5019-P600012.tok216Artur-N-G5019-P600012.tok217Artur-N-G5019-P600012.tok218</event>
-      <event start="Artur-N-G5019-P600012.t51.w0" end="Artur-N-G5019-P600012.t52">Artur-N-G5019-P600012.tok220Artur-N-G5019-P600012.tok221Artur-N-G5019-P600012.tok222Artur-N-G5019-P600012.tok223Artur-N-G5019-P600012.tok225</event>
-      <event start="Artur-N-G5019-P600012.t52.w0" end="Artur-N-G5019-P600012.t53">Artur-N-G5019-P600012.tok227Artur-N-G5019-P600012.tok228Artur-N-G5019-P600012.tok230Artur-N-G5019-P600012.tok231Artur-N-G5019-P600012.tok232</event>
-      <event start="Artur-N-G5019-P600012.t54.w0" end="Artur-N-G5019-P600012.t56">Artur-N-G5019-P600012.tok234Artur-N-G5019-P600012.tok235Artur-N-G5019-P600012.tok236Artur-N-G5019-P600012.tok237Artur-N-G5019-P600012.tok239</event>
-      <event start="Artur-N-G5019-P600012.t56.w0" end="Artur-N-G5019-P600012.t57">Artur-N-G5019-P600012.tok241Artur-N-G5019-P600012.tok242Artur-N-G5019-P600012.tok243Artur-N-G5019-P600012.tok245Artur-N-G5019-P600012.tok247Artur-N-G5019-P600012.tok248Artur-N-G5019-P600012.tok250Artur-N-G5019-P600012.tok251Artur-N-G5019-P600012.tok252Artur-N-G5019-P600012.tok253Artur-N-G5019-P600012.tok254Artur-N-G5019-P600012.tok256Artur-N-G5019-P600012.tok257</event>
+      <event start="Artur-N-G5019-P600012.t2.w0" end="Artur-N-G5019-P600012.t4">PU.tok1</event>
+      <event start="Artur-N-G5019-P600012.t4.w0" end="Artur-N-G5019-P600012.t5">PU.tok6</event>
+      <event start="Artur-N-G5019-P600012.t6.w0" end="Artur-N-G5019-P600012.t10">PU.tok10</event>
+      <event start="Artur-N-G5019-P600012.t10.w0" end="Artur-N-G5019-P600012.t13">PU.tok22</event>
+      <event start="Artur-N-G5019-P600012.t13.w0" end="Artur-N-G5019-P600012.t13.w10">PU.tok32</event>
+      <event start="Artur-N-G5019-P600012.t13.w10" end="Artur-N-G5019-P600012.t15">PU.tok44</event>
+      <event start="Artur-N-G5019-P600012.t15.w0" end="Artur-N-G5019-P600012.t16">PU.tok55</event>
+      <event start="Artur-N-G5019-P600012.t17.w0" end="Artur-N-G5019-P600012.t17.w2">PU.tok67</event>
+      <event start="Artur-N-G5019-P600012.t17.w2" end="Artur-N-G5019-P600012.t19">PU.tok69</event>
+      <event start="Artur-N-G5019-P600012.t19.w0" end="Artur-N-G5019-P600012.t20">PU.tok74</event>
+      <event start="Artur-N-G5019-P600012.t21.w0" end="Artur-N-G5019-P600012.t23">PU.tok81</event>
+      <event start="Artur-N-G5019-P600012.t23.w0" end="Artur-N-G5019-P600012.t25">PU.tok94</event>
+      <event start="Artur-N-G5019-P600012.t25.w0" end="Artur-N-G5019-P600012.t26">PU.tok96</event>
+      <event start="Artur-N-G5019-P600012.t26.w0" end="Artur-N-G5019-P600012.t27">PU.tok99</event>
+      <event start="Artur-N-G5019-P600012.t27.w0" end="Artur-N-G5019-P600012.t29">PU.tok104</event>
+      <event start="Artur-N-G5019-P600012.t29.w0" end="Artur-N-G5019-P600012.t31">PU.tok107</event>
+      <event start="Artur-N-G5019-P600012.t31.w0" end="Artur-N-G5019-P600012.t31.w8">PU.tok111</event>
+      <event start="Artur-N-G5019-P600012.t31.w8_" end="Artur-N-G5019-P600012.t33">PU.tok121</event>
+      <event start="Artur-N-G5019-P600012.t33.w0" end="Artur-N-G5019-P600012.t37">PU.tok129</event>
+      <event start="Artur-N-G5019-P600012.t37.w0" end="T1">PU.tok156</event>
+      <event start="Artur-N-G5019-P600012.t38.w0" end="Artur-N-G5019-P600012.t39">PU.tok159</event>
+      <event start="Artur-N-G5019-P600012.t39.w0" end="Artur-N-G5019-P600012.t40">PU.tok163</event>
+      <event start="Artur-N-G5019-P600012.t41.w0" end="Artur-N-G5019-P600012.t41.w9">PU.tok168</event>
+      <event start="Artur-N-G5019-P600012.t41.w9" end="Artur-N-G5019-P600012.t42">PU.tok179</event>
+      <event start="Artur-N-G5019-P600012.t42.w0" end="Artur-N-G5019-P600012.t45">PU.tok183</event>
+      <event start="Artur-N-G5019-P600012.t45.w0" end="Artur-N-G5019-P600012.t47">PU.tok188</event>
+      <event start="Artur-N-G5019-P600012.t47.w0" end="Artur-N-G5019-P600012.t47.w4">PU.tok196</event>
+      <event start="Artur-N-G5019-P600012.t47.w4" end="Artur-N-G5019-P600012.t51">PU.tok202</event>
+      <event start="Artur-N-G5019-P600012.t51.w0" end="Artur-N-G5019-P600012.t52">PU.tok220</event>
+      <event start="Artur-N-G5019-P600012.t52.w0" end="Artur-N-G5019-P600012.t53">PU.tok227</event>
+      <event start="Artur-N-G5019-P600012.t54.w0" end="Artur-N-G5019-P600012.t56">PU.tok234</event>
+      <event start="Artur-N-G5019-P600012.t56.w0" end="Artur-N-G5019-P600012.t57">PU.tok241</event>
     </tier>
     <tier id="Artur-N-G5019 [dialogActsPrimary]" speaker="Artur-N-G5019" category="dialogActsPrimary" type="a" display-name="Artur-N-G5019 [dialogActsPrimary]">
       <event start="Artur-N-G5019-P600012.t2.w0" end="Artur-N-G5019-P600012.t4">informationSeeking</event>
