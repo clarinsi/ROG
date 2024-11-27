@@ -466,7 +466,7 @@
       <event start="Artur-N-G5082-P600080.t8.w8_" end="Artur-N-G5082-P600080.t8.w9">da(:) </event>
       <event start="Artur-N-G5082-P600080.t12.w13_" end="Artur-N-G5082-P600080.t12.w14">ki(:) </event>
     </tier>
-    <tier id="3" speaker="Artur-N-G5082" category="nonverbalDisfluency" type="a" display-name="Artur-N-G5082 [nonverbalDisfluency]">
+    <tier id="3" speaker="Artur-N-G5082" category="vocalDisfluency" type="a" display-name="Artur-N-G5082 [vocalDisfluency]">
       <event start="Artur-N-G5082-P600080.t2.w1_" end="Artur-N-G5082-P600080.t2.w2">filledPause </event>
       <event start="Artur-N-G5082-P600080.t4.w4" end="Artur-N-G5082-P600080.t4.w5">lengthening </event>
       <event start="Artur-N-G5082-P600080.t8_" end="Artur-N-G5082-P600080.t8.w0">silentPause </event>
@@ -1445,21 +1445,21 @@
       <event start="Artur-N-G5082-P600080.t15.w12_" end="Artur-N-G5082-P600080.t16">discourse</event>
     </tier>
     <tier id="Artur-N-G5082 [prosodicUnits]" speaker="Artur-N-G5082" category="prosodicUnits" type="a" display-name="Artur-N-G5082 [prosodicUnits]">
-      <event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">Artur-N-G5082-P600080.tok1</event>
-      <event start="Artur-N-G5082-P600080.t2.w1_" end="Artur-N-G5082-P600080.t2.w2">Artur-N-G5082-P600080.tok3</event>
-      <event start="Artur-N-G5082-P600080.t2.w2_" end="Artur-N-G5082-P600080.t2.w12">Artur-N-G5082-P600080.tok5Artur-N-G5082-P600080.tok6Artur-N-G5082-P600080.tok7Artur-N-G5082-P600080.tok9Artur-N-G5082-P600080.tok10Artur-N-G5082-P600080.tok11Artur-N-G5082-P600080.tok12Artur-N-G5082-P600080.tok13Artur-N-G5082-P600080.tok14Artur-N-G5082-P600080.tok16</event>
-      <event start="Artur-N-G5082-P600080.t2.w12" end="Artur-N-G5082-P600080.t3">Artur-N-G5082-P600080.tok18Artur-N-G5082-P600080.tok19Artur-N-G5082-P600080.tok20Artur-N-G5082-P600080.tok21Artur-N-G5082-P600080.tok22Artur-N-G5082-P600080.tok23Artur-N-G5082-P600080.tok25</event>
-      <event start="Artur-N-G5082-P600080.t3.w0" end="Artur-N-G5082-P600080.t3.w6">Artur-N-G5082-P600080.tok27Artur-N-G5082-P600080.tok28Artur-N-G5082-P600080.tok29Artur-N-G5082-P600080.tok31Artur-N-G5082-P600080.tok33Artur-N-G5082-P600080.tok35</event>
-      <event start="Artur-N-G5082-P600080.t3.w6_" end="Artur-N-G5082-P600080.t4">Artur-N-G5082-P600080.tok37Artur-N-G5082-P600080.tok38Artur-N-G5082-P600080.tok39Artur-N-G5082-P600080.tok40Artur-N-G5082-P600080.tok42Artur-N-G5082-P600080.tok43Artur-N-G5082-P600080.tok44Artur-N-G5082-P600080.tok45Artur-N-G5082-P600080.tok46Artur-N-G5082-P600080.tok47Artur-N-G5082-P600080.tok48Artur-N-G5082-P600080.tok49</event>
-      <event start="Artur-N-G5082-P600080.t4.w0" end="Artur-N-G5082-P600080.t5">Artur-N-G5082-P600080.tok51Artur-N-G5082-P600080.tok52Artur-N-G5082-P600080.tok53Artur-N-G5082-P600080.tok55Artur-N-G5082-P600080.tok56Artur-N-G5082-P600080.tok58</event>
-      <event start="Artur-N-G5082-P600080.t6.w0" end="Artur-N-G5082-P600080.t7">Artur-N-G5082-P600080.tok60</event>
-      <event start="Artur-N-G5082-P600080.t7.w0" end="Artur-N-G5082-P600080.t7.w11">Artur-N-G5082-P600080.tok62Artur-N-G5082-P600080.tok64Artur-N-G5082-P600080.tok65Artur-N-G5082-P600080.tok66Artur-N-G5082-P600080.tok67Artur-N-G5082-P600080.tok68Artur-N-G5082-P600080.tok69Artur-N-G5082-P600080.tok70Artur-N-G5082-P600080.tok71Artur-N-G5082-P600080.tok72Artur-N-G5082-P600080.tok73</event>
-      <event start="Artur-N-G5082-P600080.t7.w11" end="Artur-N-G5082-P600080.t8">Artur-N-G5082-P600080.tok74</event>
-      <event start="Artur-N-G5082-P600080.t8.w0" end="Artur-N-G5082-P600080.t9">Artur-N-G5082-P600080.tok76Artur-N-G5082-P600080.tok77Artur-N-G5082-P600080.tok78Artur-N-G5082-P600080.tok79Artur-N-G5082-P600080.tok80Artur-N-G5082-P600080.tok81Artur-N-G5082-P600080.tok82Artur-N-G5082-P600080.tok83Artur-N-G5082-P600080.tok85Artur-N-G5082-P600080.tok86Artur-N-G5082-P600080.tok87Artur-N-G5082-P600080.tok88</event>
-      <event start="Artur-N-G5082-P600080.t10.w0" end="Artur-N-G5082-P600080.t11">Artur-N-G5082-P600080.tok90Artur-N-G5082-P600080.tok92Artur-N-G5082-P600080.tok93Artur-N-G5082-P600080.tok94Artur-N-G5082-P600080.tok95Artur-N-G5082-P600080.tok96Artur-N-G5082-P600080.tok97</event>
-      <event start="Artur-N-G5082-P600080.t12.w0" end="Artur-N-G5082-P600080.t13">Artur-N-G5082-P600080.tok99Artur-N-G5082-P600080.tok100Artur-N-G5082-P600080.tok101Artur-N-G5082-P600080.tok102Artur-N-G5082-P600080.tok104Artur-N-G5082-P600080.tok105Artur-N-G5082-P600080.tok106Artur-N-G5082-P600080.tok107Artur-N-G5082-P600080.tok108Artur-N-G5082-P600080.tok109Artur-N-G5082-P600080.tok110Artur-N-G5082-P600080.tok111Artur-N-G5082-P600080.tok112Artur-N-G5082-P600080.tok114Artur-N-G5082-P600080.tok115Artur-N-G5082-P600080.tok116Artur-N-G5082-P600080.tok117Artur-N-G5082-P600080.tok118</event>
-      <event start="Artur-N-G5082-P600080.t14.w0" end="Artur-N-G5082-P600080.t15">Artur-N-G5082-P600080.tok120</event>
-      <event start="Artur-N-G5082-P600080.t15.w0" end="Artur-N-G5082-P600080.t16">Artur-N-G5082-P600080.tok122Artur-N-G5082-P600080.tok123Artur-N-G5082-P600080.tok124Artur-N-G5082-P600080.tok125Artur-N-G5082-P600080.tok126Artur-N-G5082-P600080.tok127Artur-N-G5082-P600080.tok129Artur-N-G5082-P600080.tok130Artur-N-G5082-P600080.tok131Artur-N-G5082-P600080.tok132Artur-N-G5082-P600080.tok133Artur-N-G5082-P600080.tok134Artur-N-G5082-P600080.tok136</event>
+      <event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w1">PU.tok1</event>
+      <event start="Artur-N-G5082-P600080.t2.w1_" end="Artur-N-G5082-P600080.t2.w2">PU.tok3</event>
+      <event start="Artur-N-G5082-P600080.t2.w2_" end="Artur-N-G5082-P600080.t2.w12">PU.tok5</event>
+      <event start="Artur-N-G5082-P600080.t2.w12" end="Artur-N-G5082-P600080.t3">PU.tok18</event>
+      <event start="Artur-N-G5082-P600080.t3.w0" end="Artur-N-G5082-P600080.t3.w6">PU.tok27</event>
+      <event start="Artur-N-G5082-P600080.t3.w6_" end="Artur-N-G5082-P600080.t4">PU.tok37</event>
+      <event start="Artur-N-G5082-P600080.t4.w0" end="Artur-N-G5082-P600080.t5">PU.tok51</event>
+      <event start="Artur-N-G5082-P600080.t6.w0" end="Artur-N-G5082-P600080.t7">PU.tok60</event>
+      <event start="Artur-N-G5082-P600080.t7.w0" end="Artur-N-G5082-P600080.t7.w11">PU.tok62</event>
+      <event start="Artur-N-G5082-P600080.t7.w11" end="Artur-N-G5082-P600080.t8">PU.tok74</event>
+      <event start="Artur-N-G5082-P600080.t8.w0" end="Artur-N-G5082-P600080.t9">PU.tok76</event>
+      <event start="Artur-N-G5082-P600080.t10.w0" end="Artur-N-G5082-P600080.t11">PU.tok90</event>
+      <event start="Artur-N-G5082-P600080.t12.w0" end="Artur-N-G5082-P600080.t13">PU.tok99</event>
+      <event start="Artur-N-G5082-P600080.t14.w0" end="Artur-N-G5082-P600080.t15">PU.tok120</event>
+      <event start="Artur-N-G5082-P600080.t15.w0" end="Artur-N-G5082-P600080.t16">PU.tok122</event>
     </tier>
     <tier id="Artur-N-G5082 [dialogActsPrimary]" speaker="Artur-N-G5082" category="dialogActsPrimary" type="a" display-name="Artur-N-G5082 [dialogActsPrimary]">
       <event start="Artur-N-G5082-P600080.t2.w0" end="Artur-N-G5082-P600080.t2.w2_">metadiscourse</event>
