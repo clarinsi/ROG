@@ -4,7 +4,7 @@ Object class = "TextGrid"
 xmin = 3.065
 xmax = 334.744
 tiers? <exists>
-size = 16
+size = 15
 item []:
 	item [1]:
 		class = "IntervalTier"
@@ -34234,23 +34234,5 @@ item []:
 				text = "Artur-N-G5014-P600007.tok555Artur-N-G5014-P600007.tok556Artur-N-G5014-P600007.tok557"
 			intervals [114]:
 				xmin = 334.545
-				xmax = 334.744
-				text = ""
-	item [16]:
-		class = "IntervalTier"
-		name = "comment"
-		xmin = 3.065
-		xmax = 334.744
-		intervals: size = 3
-			intervals [1]:
-				xmin = 3.065
-				xmax = 255.51151
-				text = ""
-			intervals [2]:
-				xmin = 255.51151
-				xmax = 256.37665
-				text = "[napaka_transkripcije (manjka)]"
-			intervals [3]:
-				xmin = 256.37665
 				xmax = 334.744
 				text = ""

@@ -4,7 +4,7 @@ Object class = "TextGrid"
 xmin = 0.0
 xmax = 346.651
 tiers? <exists>
-size = 16
+size = 15
 item []:
 	item [1]:
 		class = "IntervalTier"
@@ -71026,31 +71026,5 @@ item []:
 				text = "Artur-J-Gvecg-P580041.tok992Artur-J-Gvecg-P580041.tok993Artur-J-Gvecg-P580041.tok994Artur-J-Gvecg-P580041.tok995Artur-J-Gvecg-P580041.tok996"
 			intervals [306]:
 				xmin = 346.449
-				xmax = 346.651
-				text = ""
-	item [16]:
-		class = "IntervalTier"
-		name = "comment"
-		xmin = 0.0
-		xmax = 346.651
-		intervals: size = 5
-			intervals [1]:
-				xmin = 0.0
-				xmax = 142.92338
-				text = ""
-			intervals [2]:
-				xmin = 142.92338
-				xmax = 145.2
-				text = "ta posnetek je rezan / sliši se na vsaj teh mestih: / na 142. sekundi pri besedi POT: / Pozna vas vedno več Slovencev, ker najdete kot sejalec miru in dobre volje pot do vsakega srca, tudi z mislijo: / "
-			intervals [3]:
-				xmin = 145.2
-				xmax = 151.75
-				text = ""
-			intervals [4]:
-				xmin = 151.75
-				xmax = 152.79
-				text = "ta posnetek je rezan / na 151. sekundi: / Na splošno imam rad ljudi, nikoli se nisem ustavljal"
-			intervals [5]:
-				xmin = 152.79
 				xmax = 346.651
 				text = ""

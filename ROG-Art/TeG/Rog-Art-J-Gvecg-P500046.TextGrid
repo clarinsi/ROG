@@ -4,7 +4,7 @@ Object class = "TextGrid"
 xmin = 619.097
 xmax = 978.715
 tiers? <exists>
-size = 16
+size = 15
 item []:
 	item [1]:
 		class = "IntervalTier"
@@ -70118,23 +70118,5 @@ item []:
 				text = "Artur-J-Gvecg-P500046.tok2871Artur-J-Gvecg-P500046.tok2872Artur-J-Gvecg-P500046.tok2874Artur-J-Gvecg-P500046.tok2875Artur-J-Gvecg-P500046.tok2876"
 			intervals [332]:
 				xmin = 977.922
-				xmax = 978.715
-				text = ""
-	item [16]:
-		class = "IntervalTier"
-		name = "comment"
-		xmin = 619.097
-		xmax = 978.715
-		intervals: size = 3
-			intervals [1]:
-				xmin = 619.097
-				xmax = 831.745
-				text = ""
-			intervals [2]:
-				xmin = 831.745
-				xmax = 833.19211
-				text = "meja izjemoma sredi besede. Po dogovoru to besede ni možno cepiti. Zato je prikazano, kot se je tok2401 končal s prejšnjem segmentu (169. segment). Predlog: ta in naslednji segment (169 in 171) izločiti iz analize."
-			intervals [3]:
-				xmin = 833.19211
 				xmax = 978.715
 				text = ""
