@@ -2745,7 +2745,7 @@
       <event start="Artur-N-G5083-P600080.t72.w4" end="Artur-N-G5083-P600080.t72.w5">lengthening </event>
     </tier>
     <tier id="4" speaker="Artur-N-G5083" category="verbalDisfluency" type="a" display-name="Artur-N-G5083 [verbalDisfluency]">
-      <event start="Artur-N-G5083-P600080.t4.w0" end="Artur-N-G5083-P600080.t6_">repetition </event>
+      <event start="Artur-N-G5083-P600080.t4.w1_" end="Artur-N-G5083-P600080.t5.w2">repetition </event>
       <event start="Artur-N-G5083-P600080.t6.w1" end="Artur-N-G5083-P600080.t6.w3">selfrepairPronunciation </event>
       <event start="Artur-N-G5083-P600080.t7.w16" end="Artur-N-G5083-P600080.t7.w17">unrepairedPronunciation </event>
       <event start="T5_" end="Artur-N-G5083-P600080.t8.w2">selfrepairRestart </event>

@@ -2863,7 +2863,7 @@
       <event start="Artur-P-G7065-P701064.t148.w3" end="Artur-P-G7065-P701064.t148.w4">Omeniji </event>
       <event start="Artur-P-G7065-P701064.t153.w0" end="Artur-P-G7065-P701064.t153.w1">mejo </event>
       <event start="Artur-P-G7065-P701064.t161.w1" end="Artur-P-G7065-P701064.t161.w2">izdajo </event>
-      <event start="Artur-P-G7065-P701064.t166.w0" end="Artur-P-G7065-P701064.t170">upravi </event>
+      <event start="Artur-P-G7065-P701064.t166.w2" end="Artur-P-G7065-P701064.t166.w3">upravi </event>
       <event start="Artur-P-G7065-P701064.t175.w3" end="Artur-P-G7065-P701064.t175.w4">tza </event>
     </tier>
     <tier id="3" speaker="Artur-P-G7065" category="vocalDisfluency" type="a" display-name="Artur-P-G7065 [vocalDisfluency]">
@@ -2902,7 +2902,7 @@
       <event start="Artur-P-G7065-P701064.t148.w3" end="Artur-P-G7065-P701064.t148.w4">unrepairedPronunciation </event>
       <event start="Artur-P-G7065-P701064.t156.w1" end="Artur-P-G7065-P701064.t156.w5">selfrepairLexicogrammar </event>
       <event start="Artur-P-G7065-P701064.t161.w1" end="Artur-P-G7065-P701064.t161.w2">unrepairedPronunciation </event>
-      <event start="Artur-P-G7065-P701064.t166.w0" end="Artur-P-G7065-P701064.t170">unrepairedStructure </event>
+      <event start="Artur-P-G7065-P701064.t166.w0" end="Artur-P-G7065-P701064.t167">unrepairedStructure </event>
       <event start="Artur-P-G7065-P701064.t175.w3" end="Artur-P-G7065-P701064.t175.w4">unrepairedPronunciation </event>
       <event start="Artur-P-G7065-P701064.t180.w1" end="Artur-P-G7065-P701064.t180.w2">unrepairedPronunciation </event>
       <event start="Artur-P-G7065-P701064.t184.w1" end="Artur-P-G7065-P701064.t184.w2">unrepairedPronunciation </event>

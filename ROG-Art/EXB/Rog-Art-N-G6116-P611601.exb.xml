@@ -2205,7 +2205,6 @@
       <event start="Artur-N-G6116-P611601.t18.w3" end="Artur-N-G6116-P611601.t19">tudi  </event>
       <event start="Artur-N-G6116-P611601.t19" end="Artur-N-G6116-P611601.t19.w0">[0.9]   </event>
       <event start="Artur-N-G6116-P611601.t19.w0" end="Artur-N-G6116-P611601.t19.w1">sadno  </event>
-      <event start="T5" end="Artur-N-G6116-P611601.t19.w1">[0.4] </event>
       <event start="Artur-N-G6116-P611601.t19.w1" end="Artur-N-G6116-P611601.t19.w2">drevje  </event>
       <event start="Artur-N-G6116-P611601.t19.w2" end="Artur-N-G6116-P611601.t19.w3">recimo  </event>
       <event start="Artur-N-G6116-P611601.t19.w3" end="Artur-N-G6116-P611601.t19.w4">je  </event>
@@ -3062,9 +3061,6 @@
       <event start="Artur-N-G6116-P611601.t121.w0" end="Artur-N-G6116-P611601.t122">to  </event>
       <event start="Artur-N-G6116-P611601.t122" end="Artur-N-G6116-P611601.t122_">.  </event>
     </tier>
-    <tier id="TIE0" speaker="Artur-N-G6116" category="v" type="t" display-name="Artur-N-G6116 [norm]">
-      <event start="T5" end="Artur-N-G6116-P611601.t19.w1">[0.4] </event>
-    </tier>
     <tier id="2" speaker="Artur-N-G6116" category="additional" type="a" display-name="Artur-N-G6116 [additional]">
       <event start="Artur-N-G6116-P611601.t2.w1_" end="Artur-N-G6116-P611601.t2.w2">recimo(:) </event>
       <event start="Artur-N-G6116-P611601.t5.w2" end="T4">kl </event>
@@ -3142,7 +3138,7 @@
       <event start="Artur-N-G6116-P611601.t18.w1" end="Artur-N-G6116-P611601.t18.w2">lengthening </event>
       <event start="Artur-N-G6116-P611601.t19" end="Artur-N-G6116-P611601.t19.w0">silentPause </event>
       <event start="Artur-N-G6116-P611601.t20" end="Artur-N-G6116-P611601.t20.w0">silentPause </event>
-      <event start="Artur-N-G6116-P611601.t22.w0" end="Artur-N-G6116-P611601.t25_">filledPause </event>
+      <event start="Artur-N-G6116-P611601.t22.w0" end="Artur-N-G6116-P611601.t22.w1">filledPause </event>
       <event start="T6" end="Artur-N-G6116-P611601.t26.w2">silentPause </event>
       <event start="Artur-N-G6116-P611601.t29.w0" end="Artur-N-G6116-P611601.t30">filledPause </event>
       <event start="Artur-N-G6116-P611601.t30_" end="Artur-N-G6116-P611601.t30.w0">silentPause </event>

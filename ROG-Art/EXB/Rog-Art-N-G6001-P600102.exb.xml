@@ -2916,7 +2916,7 @@
       <event start="Artur-N-G6001-P600102.t35" end="Artur-N-G6001-P600102.t35.w0">silentPause </event>
       <event start="Artur-N-G6001-P600102.t35.w1_" end="Artur-N-G6001-P600102.t35.w2">filledPause </event>
       <event start="Artur-N-G6001-P600102.t36" end="Artur-N-G6001-P600102.t36.w0">silentPause </event>
-      <event start="Artur-N-G6001-P600102.t37.w0" end="Artur-N-G6001-P600102.t38_">filledPause </event>
+      <event start="Artur-N-G6001-P600102.t37.w0" end="Artur-N-G6001-P600102.t37.w1">filledPause </event>
       <event start="Artur-N-G6001-P600102.t38.w0" end="Artur-N-G6001-P600102.t38.w1">filledPause </event>
       <event start="Artur-N-G6001-P600102.t39" end="Artur-N-G6001-P600102.t39.w0">silentPause </event>
       <event start="Artur-N-G6001-P600102.t40.w3" end="Artur-N-G6001-P600102.t41">lengthening </event>
