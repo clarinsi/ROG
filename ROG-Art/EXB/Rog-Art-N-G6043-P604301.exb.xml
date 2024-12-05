@@ -3168,6 +3168,9 @@
       <event start="Artur-N-G6043-P604301.t59.w2_" end="Artur-N-G6043-P604301.t59.w6">selfrepairLexicogrammar </event>
       <event start="Artur-N-G6043-P604301.t59.w18_" end="T3">disfluencyMarker </event>
       <event start="Artur-N-G6043-P604301.t61.w6" end="Artur-N-G6043-P604301.t61.w10">selfrepairLexicogrammar </event>
+      <event start="Artur-N-G6043-P604301.t68.w0" end="Artur-N-G6043-P604301.t68.w1"> </event>
+      <event start="Artur-N-G6043-P604301.t68.w1" end="Artur-N-G6043-P604301.t68.w2"> </event>
+      <event start="Artur-N-G6043-P604301.t68.w2" end="Artur-N-G6043-P604301.t68.w3"> </event>
       <event start="Artur-N-G6043-P604301.t68.w3" end="T5">selfrepairComplex </event>
       <event start="Artur-N-G6043-P604301.t72.w0" end="Artur-N-G6043-P604301.t72.w5">selfrepairLexicogrammar </event>
       <event start="Artur-N-G6043-P604301.t76.w4_" end="Artur-N-G6043-P604301.t78">unrepairedStructure </event>
@@ -3177,6 +3180,7 @@
       <event start="Artur-N-G6043-P604301.t87.w11_" end="Artur-N-G6043-P604301.t88.w6">selfrepairRestart </event>
       <event start="Artur-N-G6043-P604301.t90.w7_" end="Artur-N-G6043-P604301.t91">abandoned </event>
       <event start="Artur-N-G6043-P604301.t102.w0" end="Artur-N-G6043-P604301.t102.w5">selfrepairLexicogrammar </event>
+      <event start="Artur-N-G6043-P604301.t102.w6" end="Artur-N-G6043-P604301.t105.w2"> </event>
       <event start="Artur-N-G6043-P604301.t106.w8_" end="Artur-N-G6043-P604301.t106.w9">selfrepairPronunciation </event>
       <event start="Artur-N-G6043-P604301.t107.w2" end="Artur-N-G6043-P604301.t107.w4">selfrepairLexicogrammar </event>
     </tier>

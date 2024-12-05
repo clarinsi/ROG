@@ -3532,6 +3532,7 @@
       <event start="Artur-J-Gvecg-P500042.t107.w12" end="Artur-J-Gvecg-P500042.t108">ta(:) </event>
       <event start="Artur-J-Gvecg-P500042.t108.w0" end="Artur-J-Gvecg-P500042.t108.w1">ameriški(:) </event>
       <event start="Artur-J-Gvecg-P500042.t109.w0" end="Artur-J-Gvecg-P500042.t109.w1">du(:)h </event>
+      <event start="Artur-J-Gvecg-P500042.t113_" end="T6"> </event>
       <event start="Artur-J-Gvecg-P500042.t113.w1" end="Artur-J-Gvecg-P500042.t113.w2">nekih </event>
       <event start="Artur-J-Gvecg-P500042.t113.w7" end="Artur-J-Gvecg-P500042.t114">vemo(:) </event>
       <event start="Artur-J-Gvecg-P500042.t114.w5_" end="Artur-J-Gvecg-P500042.t114.w6">je </event>
@@ -3717,6 +3718,7 @@
       <event start="Artur-J-Gvecg-P500042.t105.w5_" end="Artur-J-Gvecg-P500042.t105.w12">selfrepairRestart </event>
       <event start="Artur-J-Gvecg-P500042.t109.w2" end="Artur-J-Gvecg-P500042.t110">unrepairedStructure </event>
       <event start="Artur-J-Gvecg-P500042.t111.w3" end="Artur-J-Gvecg-P500042.t112">unrepairedPronunciation </event>
+      <event start="Artur-J-Gvecg-P500042.t113_" end="T6"> </event>
       <event start="T6" end="Artur-J-Gvecg-P500042.t113.w6">abandoned </event>
       <event start="Artur-J-Gvecg-P500042.t114.w1_" end="Artur-J-Gvecg-P500042.t114.w5">unrepairedStructure </event>
       <event start="Artur-J-Gvecg-P500042.t119.w1" end="Artur-J-Gvecg-P500042.t119.w3">selfrepairLexicogrammar </event>

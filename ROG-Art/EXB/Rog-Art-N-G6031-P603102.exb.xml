@@ -3091,7 +3091,7 @@
       <event start="Artur-N-G6031-P603102.t57" end="Artur-N-G6031-P603102.t57.w0">silentPause </event>
       <event start="Artur-N-G6031-P603102.t58.w6" end="Artur-N-G6031-P603102.t59">lengthening </event>
       <event start="Artur-N-G6031-P603102.t59" end="Artur-N-G6031-P603102.t59.w0">silentPause </event>
-      <event start="Artur-N-G6031-P603102.t60.w0" end="Artur-N-G6031-P603102.t62_">silentPause </event>
+      <event start="Artur-N-G6031-P603102.t61_" end="Artur-N-G6031-P603102.t61.w0">silentPause </event>
       <event start="Artur-N-G6031-P603102.t62.w2" end="Artur-N-G6031-P603102.t63">lengthening </event>
       <event start="Artur-N-G6031-P603102.t63" end="Artur-N-G6031-P603102.t63.w0">silentPause </event>
       <event start="Artur-N-G6031-P603102.t64_" end="Artur-N-G6031-P603102.t64.w0">silentPause </event>
@@ -3147,7 +3147,7 @@
       <event start="Artur-N-G6031-P603102.t78.w6" end="Artur-N-G6031-P603102.t81.w1">selfrepairComplex </event>
       <event start="Artur-N-G6031-P603102.t89.w1_" end="Artur-N-G6031-P603102.t89.w7">selfrepairComplex </event>
       <event start="Artur-N-G6031-P603102.t94.w9" end="Artur-N-G6031-P603102.t94.w13">unrepairedStructure </event>
-      <event start="Artur-N-G6031-P603102.t104.w0" end="Artur-N-G6031-P603102.t106_">repetition </event>
+      <event start="Artur-N-G6031-P603102.t104.w1" end="Artur-N-G6031-P603102.t105.w3">repetition </event>
       <event start="Artur-N-G6031-P603102.t109.w0" end="Artur-N-G6031-P603102.t111">selfrepairComplex </event>
     </tier>
     <tier id="5" speaker="Artur-N-G6031" category="disfluencyStructure" type="a" display-name="Artur-N-G6031 [disfluencyStructure]">

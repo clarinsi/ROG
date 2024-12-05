@@ -3454,7 +3454,7 @@
       <event start="Artur-J-Gvecg-P500064.t476.w4" end="Artur-J-Gvecg-P500064.t476.w5">posredujemo(:) </event>
       <event start="Artur-J-Gvecg-P500064.t477.w4" end="T21">i(:)n </event>
       <event start="T21" end="Artur-J-Gvecg-P500064.t477.w5">eee </event>
-      <event start="Artur-J-Gvecg-P500064.t478.w0" end="Artur-J-Gvecg-P500064.t479_">živo(:) </event>
+      <event start="Artur-J-Gvecg-P500064.t478.w3" end="Artur-J-Gvecg-P500064.t478.w4">živo(:) </event>
       <event start="Artur-J-Gvecg-P500064.t482.w0" end="Artur-J-Gvecg-P500064.t482.w1">na... </event>
       <event start="Artur-J-Gvecg-P500064.t484.w4" end="Artur-J-Gvecg-P500064.t484.w5">tudi(:) </event>
       <event start="Artur-J-Gvecg-P500064.t485.w2" end="Artur-J-Gvecg-P500064.t485.w3">to(:) </event>
@@ -3667,7 +3667,7 @@
       <event start="Artur-J-Gvecg-P500064.t477" end="Artur-J-Gvecg-P500064.t477.w0">silentPause </event>
       <event start="Artur-J-Gvecg-P500064.t477.w4" end="T21">lengthening </event>
       <event start="T21" end="Artur-J-Gvecg-P500064.t477.w5">filledPause </event>
-      <event start="Artur-J-Gvecg-P500064.t478.w0" end="Artur-J-Gvecg-P500064.t479_">lengthening </event>
+      <event start="Artur-J-Gvecg-P500064.t478.w3" end="Artur-J-Gvecg-P500064.t478.w4">lengthening </event>
       <event start="Artur-J-Gvecg-P500064.t479.w0" end="Artur-J-Gvecg-P500064.t479.w1">filledPause </event>
       <event start="Artur-J-Gvecg-P500064.t481.w0" end="Artur-J-Gvecg-P500064.t482">filledPause </event>
       <event start="Artur-J-Gvecg-P500064.t482.w5_" end="Artur-J-Gvecg-P500064.t482.w6">filledPause </event>
