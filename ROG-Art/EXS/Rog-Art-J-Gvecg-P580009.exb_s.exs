@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<segmented-transcription Id="CIDID5DC25AD3-2FC6-CFC6-6FED-0697F675949C">
+<segmented-transcription Id="CIDID0AE237EC-AB80-E46F-924B-EDDE56BF15D5">
   <head>
     <meta-information>
       <project-name>MEZZANINE</project-name>
       <transcription-name>Rog-Art-J-Gvecg-P580009</transcription-name>
-      <referenced-file url="../WAV/Rog-Art-J-Gvecg-P580009.wav"/>
+      <referenced-file url="../WAV/Rog-Art-J-Gvecg-P580009.wav" />
       <ud-meta-information>
         <ud-information attribute-name="Velikost prostora">Nad 80 m2</ud-information>
         <ud-information attribute-name="SUBCORPUS">Artur-J</ud-information>
@@ -23,16 +23,16 @@
         <ud-information attribute-name="# GEN:non-pho">59</ud-information>
         <ud-information attribute-name="# sc">76</ud-information>
       </ud-meta-information>
-      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:29.707143 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:26.331053  2024-10-18T10:26:29.776627+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version</comment>
-      <transcription-convention/>
+      <comment>Compiled from Gos2.1 TEI version of IRISS on 2023-10-05 16:03:29.707143 // 06-03-2024 : Processed by TS - metadata, append spaces, tier categorization, silent pauses, traceability tiers added from TEI on 2024-03-11T16:24:26.331053  // 2024-10-18T10:26:29.776627+00:00, PR: Import annotations from other sources (Dialog Acts, Prosodic Units, CONLLU...) and prepare for release. Release: internal. // 12-11-2024 : Processed by TS - prepare for internal and external final version // 2024-11-21: Peter Rupnik: Bug fix</comment>
+      <transcription-convention />
     </meta-information>
     <speakertable>
       <speaker id="Artur-J-G4539">
         <abbreviation>Artur-J-G4539</abbreviation>
-        <sex value="f"/>
-        <languages-used/>
-        <l1/>
-        <l2/>
+        <sex value="f" />
+        <languages-used />
+        <l1 />
+        <l2 />
         <ud-speaker-information>
           <ud-information attribute-name="PRS-ID">Artur-J-G4539</ud-information>
           <ud-information attribute-name="SEX">ženski</ud-information>
@@ -45,14 +45,14 @@
           <ud-information attribute-name="SOURCE-ID">Artur-J-Gvecg-P580009</ud-information>
           <ud-information attribute-name="RECORDING-ID">Artur-J-Gvecg-P580009.wav</ud-information>
         </ud-speaker-information>
-        <comment/>
+        <comment />
       </speaker>
       <speaker id="Artur-J-G4538">
         <abbreviation>Artur-J-G4538</abbreviation>
-        <sex value="m"/>
-        <languages-used/>
-        <l1/>
-        <l2/>
+        <sex value="m" />
+        <languages-used />
+        <l1 />
+        <l2 />
         <ud-speaker-information>
           <ud-information attribute-name="PRS-ID">Artur-J-G4538</ud-information>
           <ud-information attribute-name="SEX">moški</ud-information>
@@ -65,1163 +65,1163 @@
           <ud-information attribute-name="SOURCE-ID">Artur-J-Gvecg-P580009</ud-information>
           <ud-information attribute-name="RECORDING-ID">Artur-J-Gvecg-P580009.wav</ud-information>
         </ud-speaker-information>
-        <comment/>
+        <comment />
       </speaker>
     </speakertable>
   </head>
   <segmented-body>
     <common-timeline>
-      <tli id="Artur-J-Gvecg-P580009.t0" time="0.0"/>
-      <tli id="Artur-J-Gvecg-P580009.t0.w0" time="1.0E-4"/>
-      <tli id="Artur-J-Gvecg-P580009.t0.w1" time="0.47"/>
-      <tli id="Artur-J-Gvecg-P580009.t0.w2" time="1.2"/>
-      <tli id="Artur-J-Gvecg-P580009.t0.w3" time="1.47"/>
-      <tli id="Artur-J-Gvecg-P580009.t0.w4" time="1.88"/>
-      <tli id="Artur-J-Gvecg-P580009.t0.w5" time="2.35"/>
-      <tli id="Artur-J-Gvecg-P580009.t1" time="3.273325179083491"/>
-      <tli id="Artur-J-Gvecg-P580009.t1_" time="3.273425179083491"/>
-      <tli id="Artur-J-Gvecg-P580009.t1.w0" time="3.628"/>
-      <tli id="Artur-J-Gvecg-P580009.t1.w1" time="4.148"/>
-      <tli id="Artur-J-Gvecg-P580009.t1.w2" time="4.678"/>
-      <tli id="Artur-J-Gvecg-P580009.t1.w3" time="4.878"/>
-      <tli id="Artur-J-Gvecg-P580009.t1.w4" time="5.428"/>
-      <tli id="Artur-J-Gvecg-P580009.t1.w5" time="5.838"/>
-      <tli id="Artur-J-Gvecg-P580009.t1.w6" time="6.358"/>
-      <tli id="Artur-J-Gvecg-P580009.t1.w7" time="6.438"/>
-      <tli id="Artur-J-Gvecg-P580009.t2" time="7.193315413912601"/>
-      <tli id="Artur-J-Gvecg-P580009.t2_" time="7.193415413912601"/>
-      <tli id="Artur-J-Gvecg-P580009.t2.w0" time="7.476"/>
-      <tli id="Artur-J-Gvecg-P580009.t2.w1" time="7.986"/>
-      <tli id="Artur-J-Gvecg-P580009.t2.w2" time="8.536"/>
-      <tli id="Artur-J-Gvecg-P580009.t3" time="9.193310431682553"/>
-      <tli id="Artur-J-Gvecg-P580009.t3_" time="9.193410431682553"/>
-      <tli id="Artur-J-Gvecg-P580009.t3.w0" time="9.654"/>
-      <tli id="Artur-J-Gvecg-P580009.t3.w1" time="10.204"/>
-      <tli id="Artur-J-Gvecg-P580009.t3.w2" time="10.754"/>
-      <tli id="Artur-J-Gvecg-P580009.t3.w3" time="11.204"/>
-      <tli id="Artur-J-Gvecg-P580009.t3.w4" time="11.564"/>
-      <tli id="Artur-J-Gvecg-P580009.t3.w5" time="11.994"/>
-      <tli id="Artur-J-Gvecg-P580009.t3.w6" time="12.044"/>
-      <tli id="Artur-J-Gvecg-P580009.t3.w7" time="12.526635461299144"/>
-      <tli id="Artur-J-Gvecg-P580009.t4" time="13.026634215741632"/>
-      <tli id="Artur-J-Gvecg-P580009.t4_" time="13.026734215741632"/>
-      <tli id="Artur-J-Gvecg-P580009.t4.w0" time="13.67329927148725"/>
-      <tli id="Artur-J-Gvecg-P580009.t4.w1" time="14.055"/>
-      <tli id="Artur-J-Gvecg-P580009.t5" time="14.753296581083026"/>
-      <tli id="Artur-J-Gvecg-P580009.t5_" time="14.753396581083026"/>
-      <tli id="Artur-J-Gvecg-P580009.t5.w0" time="14.883"/>
-      <tli id="Artur-J-Gvecg-P580009.t5.w1" time="15.933"/>
-      <tli id="Artur-J-Gvecg-P580009.t5.w2" time="16.253"/>
-      <tli id="Artur-J-Gvecg-P580009.t5.w3" time="16.823"/>
-      <tli id="Artur-J-Gvecg-P580009.t6" time="17.21329045294007"/>
-      <tli id="Artur-J-Gvecg-P580009.t6_" time="17.213390452940068"/>
-      <tli id="Artur-J-Gvecg-P580009.t6.w0" time="17.347"/>
-      <tli id="Artur-J-Gvecg-P580009.t6.w1" time="17.63995605673099"/>
-      <tli id="Artur-J-Gvecg-P580009.t7" time="17.98662185981112"/>
-      <tli id="Artur-J-Gvecg-P580009.t7_" time="17.98672185981112"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w0" time="18.56"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w1" time="18.82"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w2" time="19.2"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w3" time="19.34"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w4" time="19.85"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w5" time="20.32"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w6" time="20.78"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w6_" time="20.7801"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w7" time="20.96"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w8" time="21.17"/>
-      <tli id="Artur-J-Gvecg-P580009.t7.w9" time="21.54"/>
-      <tli id="Artur-J-Gvecg-P580009.t8" time="22.099944946357986"/>
-      <tli id="Artur-J-Gvecg-P580009.t8_" time="22.100044946357986"/>
-      <tli id="Artur-J-Gvecg-P580009.t8.w0" time="22.337"/>
-      <tli id="Artur-J-Gvecg-P580009.t9" time="22.846"/>
-      <tli id="Artur-J-Gvecg-P580009.t9_" time="22.8461"/>
-      <tli id="Artur-J-Gvecg-P580009.t10.w0" time="23.846607261877082"/>
-      <tli id="Artur-J-Gvecg-P580009.t10.w1" time="24.248"/>
-      <tli id="Artur-J-Gvecg-P580009.t10.w1_" time="24.2481"/>
-      <tli id="Artur-J-Gvecg-P580009.t10.w2" time="24.618"/>
-      <tli id="Artur-J-Gvecg-P580009.t10.w3" time="24.898"/>
-      <tli id="Artur-J-Gvecg-P580009.t10.w4" time="25.433269975974582"/>
-      <tli id="Artur-J-Gvecg-P580009.t11" time="26.046601781424034"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w0" time="26.216"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w1" time="26.306"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w2" time="26.886"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w2_" time="26.8861"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w3" time="27.036"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w4" time="27.206"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w5" time="28.286"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w5_" time="28.2861"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w6" time="28.556"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w7" time="28.746"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w8" time="29.096"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w9" time="29.656"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w9_" time="29.6561"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w10" time="29.766"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w11" time="30.206"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w12" time="30.966"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w12_" time="30.9661"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w13" time="31.096"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w14" time="31.446"/>
-      <tli id="Artur-J-Gvecg-P580009.t11.w15" time="31.686"/>
-      <tli id="Artur-J-Gvecg-P580009.t12" time="32.19325313603702"/>
-      <tli id="Artur-J-Gvecg-P580009.t12_" time="32.193353136037025"/>
-      <tli id="Artur-J-Gvecg-P580009.t12.w0" time="32.826"/>
-      <tli id="Artur-J-Gvecg-P580009.t13" time="33.531"/>
-      <tli id="Artur-J-Gvecg-P580009.t13_" time="33.5311"/>
-      <tli id="Artur-J-Gvecg-P580009.t14.w0" time="35.229"/>
-      <tli id="Artur-J-Gvecg-P580009.t15" time="35.579911366127476"/>
-      <tli id="Artur-J-Gvecg-P580009.t15_" time="35.58001136612748"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w0" time="36.281"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w1" time="36.511"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w2" time="36.571"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w3" time="36.961"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w3_" time="36.9611"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w4" time="37.151"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w4_" time="37.15110000000001"/>
-      <tli id="T1" time="37.531000000000006" type="intp"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w5" time="37.94657213715526"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w6" time="38.111"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w7" time="38.261"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w8" time="38.441"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w9" time="38.811"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w10" time="39.181"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w10_" time="39.1811"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w11" time="39.53990150131199"/>
-      <tli id="Artur-J-Gvecg-P580009.t15.w11_" time="39.54000150131199"/>
-      <tli id="Artur-J-Gvecg-P580009.t16" time="39.95323380498444"/>
-      <tli id="Artur-J-Gvecg-P580009.t16_" time="39.953333804984446"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w0" time="40.067"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w1" time="40.607"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w2" time="41.237"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w3" time="41.327"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w4" time="41.767"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w5" time="42.097"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w6" time="42.187"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w7" time="42.437"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w7_" time="42.4371"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w8" time="42.947"/>
-      <tli id="Artur-J-Gvecg-P580009.t16.w9" time="43.107"/>
-      <tli id="Artur-J-Gvecg-P580009.t17" time="43.593224737325755"/>
-      <tli id="Artur-J-Gvecg-P580009.t17_" time="43.59332473732576"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w0" time="44.09"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w1" time="44.32"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w2" time="44.45"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w3" time="44.58"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w4" time="44.74"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w5" time="45.0"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w6" time="45.18"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w7" time="45.71988610622115"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w8" time="46.21"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w9" time="46.71"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w10" time="47.57"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w10_" time="47.570100000000004"/>
-      <tli id="Artur-J-Gvecg-P580009.t17.w11" time="47.92"/>
-      <tli id="Artur-J-Gvecg-P580009.t18" time="48.813211733705344"/>
-      <tli id="Artur-J-Gvecg-P580009.t18.w0" time="48.931"/>
-      <tli id="Artur-J-Gvecg-P580009.t18.w1" time="49.241"/>
-      <tli id="Artur-J-Gvecg-P580009.t18.w2" time="49.521"/>
-      <tli id="Artur-J-Gvecg-P580009.t18.w3" time="50.031"/>
-      <tli id="Artur-J-Gvecg-P580009.t18.w4" time="50.161"/>
-      <tli id="Artur-J-Gvecg-P580009.t18.w5" time="50.861"/>
-      <tli id="Artur-J-Gvecg-P580009.t18.w6" time="51.031"/>
-      <tli id="Artur-J-Gvecg-P580009.t19" time="51.606538108524035"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w0" time="52.474"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w1" time="52.774"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w1_" time="52.774100000000004"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w2" time="52.964"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w3" time="53.234"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w4" time="53.713199527241734"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w4_" time="53.71329952724174"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w5" time="54.01986542996646"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w6" time="54.324"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w6_" time="54.3241"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w7" time="54.644"/>
-      <tli id="Artur-J-Gvecg-P580009.t19.w8" time="54.784"/>
-      <tli id="Artur-J-Gvecg-P580009.t20" time="55.479861792938514"/>
-      <tli id="Artur-J-Gvecg-P580009.t20_" time="55.47996179293852"/>
-      <tli id="Artur-J-Gvecg-P580009.t20.w0" time="56.53319250229736"/>
-      <tli id="Artur-J-Gvecg-P580009.t20.w1" time="57.32652385934611"/>
-      <tli id="Artur-J-Gvecg-P580009.t20.w1_" time="57.326623859346114"/>
-      <tli id="Artur-J-Gvecg-P580009.t20.w2" time="57.943"/>
-      <tli id="Artur-J-Gvecg-P580009.t20.w3" time="58.073"/>
-      <tli id="Artur-J-Gvecg-P580009.t20.w4" time="58.433"/>
-      <tli id="Artur-J-Gvecg-P580009.t20.w5" time="58.573"/>
-      <tli id="Artur-J-Gvecg-P580009.t21" time="59.043"/>
-      <tli id="Artur-J-Gvecg-P580009.t21_" time="59.0431"/>
-      <tli id="Artur-J-Gvecg-P580009.t22.w0" time="60.961"/>
-      <tli id="Artur-J-Gvecg-P580009.t22.w1" time="61.291"/>
-      <tli id="Artur-J-Gvecg-P580009.t22.w2" time="61.431"/>
-      <tli id="Artur-J-Gvecg-P580009.t22.w3" time="61.561"/>
-      <tli id="Artur-J-Gvecg-P580009.t23" time="62.186511752527096"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w0" time="62.638"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w1" time="63.268"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w2" time="63.958"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w2_" time="63.9581"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w3" time="64.838"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w4" time="65.488"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w4_" time="65.4881"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w5" time="65.618"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w6" time="65.708"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w7" time="66.288"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w7_" time="66.2881"/>
-      <tli id="Artur-J-Gvecg-P580009.t23.w8" time="66.618"/>
-      <tli id="Artur-J-Gvecg-P580009.t24" time="67.41983204902515"/>
-      <tli id="Artur-J-Gvecg-P580009.t24_" time="67.41993204902515"/>
-      <tli id="Artur-J-Gvecg-P580009.t24.w0" time="68.65316230998327"/>
-      <tli id="Artur-J-Gvecg-P580009.t25" time="69.13982776430731"/>
-      <tli id="Artur-J-Gvecg-P580009.t25_" time="69.13992776430732"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w0" time="69.359"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w1" time="69.569"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w2" time="69.659"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w3" time="70.069"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w4" time="70.129"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w5" time="70.439"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w6" time="71.189"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w6_" time="71.1891"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w7" time="71.359"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w8" time="71.789"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w9" time="71.989"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w10" time="72.259"/>
-      <tli id="T4" time="72.5931524949901"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w11" time="72.719"/>
-      <tli id="Artur-J-Gvecg-P580009.t25.w12" time="73.079"/>
-      <tli id="Artur-J-Gvecg-P580009.t26" time="73.56648340363813"/>
-      <tli id="Artur-J-Gvecg-P580009.t26_" time="73.56658340363813"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w0" time="74.557"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w1" time="74.857"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w2" time="75.207"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w2_" time="75.2071"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w3" time="75.357"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w4" time="75.517"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w5" time="76.137"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w5_" time="76.1371"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w6" time="76.227"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w7" time="76.287"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w8" time="76.407"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w9" time="76.547"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w10" time="77.087"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w10_" time="77.0871"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w11" time="77.417"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w12" time="77.517"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w13" time="77.637"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w14" time="78.097"/>
-      <tli id="Artur-J-Gvecg-P580009.t26.w15" time="78.517"/>
-      <tli id="Artur-J-Gvecg-P580009.t27" time="79.07980300262398"/>
-      <tli id="Artur-J-Gvecg-P580009.t27_" time="79.07990300262398"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w0" time="79.763"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w1" time="79.963"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w2" time="80.54646601565528"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w2_" time="80.54656601565529"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w3" time="80.743"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w3_" time="80.7431"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w4" time="81.153"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w5" time="81.85979607732422"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w6" time="82.233"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w7" time="82.343"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w8" time="82.913"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w9" time="83.303"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w10" time="83.69312484361333"/>
-      <tli id="Artur-J-Gvecg-P580009.t27.w10_" time="83.69322484361334"/>
-      <tli id="Artur-J-Gvecg-P580009.t28" time="83.97979079616036"/>
-      <tli id="Artur-J-Gvecg-P580009.t28_" time="83.97989079616036"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w0" time="84.551"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w1" time="84.781"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w2" time="85.461"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w2_" time="85.4611"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w3" time="85.711"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w4" time="86.441"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w5" time="87.021"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w5_" time="87.0211"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w6" time="87.191"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w7" time="87.581"/>
-      <tli id="Artur-J-Gvecg-P580009.t28.w8" time="87.741"/>
-      <tli id="Artur-J-Gvecg-P580009.t29" time="88.3064466846027"/>
-      <tli id="Artur-J-Gvecg-P580009.t29_" time="88.30654668460271"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w0" time="88.508"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w1" time="88.688"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w2" time="89.19311114248072"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w2_" time="89.19321114248072"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w3" time="89.628"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w3_" time="89.6281"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w4" time="90.258"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w5" time="90.888"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w6" time="91.408"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w7" time="91.518"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w8" time="92.108"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w9" time="92.498"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w10" time="92.648"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w11" time="93.128"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w12" time="93.618"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w13" time="93.698"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w14" time="94.108"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w14_" time="94.10810000000001"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w15" time="94.258"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w16" time="94.468"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w17" time="94.638"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w18" time="94.798"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w19" time="95.458"/>
-      <tli id="Artur-J-Gvecg-P580009.t29.w20" time="95.758"/>
-      <tli id="Artur-J-Gvecg-P580009.t30" time="96.67309250894033"/>
-      <tli id="Artur-J-Gvecg-P580009.t30.w0" time="97.116"/>
-      <tli id="Artur-J-Gvecg-P580009.t30.w1" time="97.646"/>
-      <tli id="Artur-J-Gvecg-P580009.t30.w2" time="98.166"/>
-      <tli id="Artur-J-Gvecg-P580009.t31" time="98.84642042825035"/>
-      <tli id="Artur-J-Gvecg-P580009.t31_" time="98.84652042825036"/>
-      <tli id="Artur-J-Gvecg-P580009.t31.w0" time="100.057"/>
-      <tli id="T5" time="100.89974864649417"/>
-      <tli id="Artur-J-Gvecg-P580009.t31.w1" time="101.03974829773806"/>
-      <tli id="Artur-J-Gvecg-P580009.t31.w2" time="101.207"/>
-      <tli id="Artur-J-Gvecg-P580009.t31.w3" time="101.357"/>
-      <tli id="Artur-J-Gvecg-P580009.t31.w4" time="101.927"/>
-      <tli id="Artur-J-Gvecg-P580009.t31.w4_" time="101.92710000000001"/>
-      <tli id="Artur-J-Gvecg-P580009.t31.w5" time="102.147"/>
-      <tli id="Artur-J-Gvecg-P580009.t32" time="102.55307786118401"/>
-      <tli id="Artur-J-Gvecg-P580009.t32.w0" time="102.925"/>
-      <tli id="Artur-J-Gvecg-P580009.t32.w1" time="103.375"/>
-      <tli id="Artur-J-Gvecg-P580009.t32.w2" time="103.555"/>
-      <tli id="Artur-J-Gvecg-P580009.t32.w3" time="104.095"/>
-      <tli id="Artur-J-Gvecg-P580009.t32.w4" time="105.0264050331595"/>
-      <tli id="Artur-J-Gvecg-P580009.t33" time="105.49973718736507"/>
-      <tli id="Artur-J-Gvecg-P580009.t33_" time="105.49983718736507"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w0" time="105.874"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w1" time="106.064"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w2" time="106.124"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w3" time="106.224"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w3_" time="106.2241"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w4" time="106.82640054915247"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w4_" time="106.82650054915247"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w5" time="107.384"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w5_" time="107.3841"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w6" time="107.954"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w7" time="108.384"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w7_" time="108.3841"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w8" time="109.06639496905481"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w9" time="109.324"/>
-      <tli id="Artur-J-Gvecg-P580009.t33.w10" time="109.444"/>
-      <tli id="Artur-J-Gvecg-P580009.t34" time="110.07305912799902"/>
-      <tli id="Artur-J-Gvecg-P580009.t34_" time="110.07315912799902"/>
-      <tli id="Artur-J-Gvecg-P580009.t34.w0" time="110.486"/>
-      <tli id="Artur-J-Gvecg-P580009.t34.w1" time="110.876"/>
-      <tli id="Artur-J-Gvecg-P580009.t34.w2" time="111.086"/>
-      <tli id="Artur-J-Gvecg-P580009.t34.w3" time="111.186"/>
-      <tli id="Artur-J-Gvecg-P580009.t35" time="111.586"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w0" time="111.5861"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w1" time="111.86638799393275"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w2" time="112.17972054671672"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w2_" time="112.17982054671673"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w3" time="112.79305235216617"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w4" time="113.126"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w4_" time="113.12610000000001"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w5" time="113.446"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w5_" time="113.4461"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w6" time="113.856"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.w6_" time="113.8561"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.wx0" time="113.8562"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.wx1" time="113.8563"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.wx2" time="113.85640000000001"/>
-      <tli id="Artur-J-Gvecg-P580009.t35.wx3" time="113.85650000000001"/>
-      <tli id="Artur-J-Gvecg-P580009.t36" time="114.34638181596749"/>
-      <tli id="Artur-J-Gvecg-P580009.t36_" time="114.3464818159675"/>
-      <tli id="Artur-J-Gvecg-P580009.t36.w0" time="114.79"/>
-      <tli id="Artur-J-Gvecg-P580009.t36.w1" time="115.17"/>
-      <tli id="Artur-J-Gvecg-P580009.t36.w1_" time="115.1701"/>
-      <tli id="Artur-J-Gvecg-P580009.t36.w2" time="115.27"/>
-      <tli id="Artur-J-Gvecg-P580009.t36.w3" time="115.58"/>
-      <tli id="Artur-J-Gvecg-P580009.t36.w3_" time="115.5801"/>
-      <tli id="Artur-J-Gvecg-P580009.t37" time="116.36637678391516"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w0" time="116.817"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w1" time="117.087"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w2" time="117.417"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w3" time="117.817"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w4" time="118.267"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w4_" time="118.2671"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w5" time="118.387"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w6" time="118.577"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w7" time="119.087"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w8" time="119.34636936039237"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w8_" time="119.34646936039238"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w9" time="119.657"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w10" time="119.937"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w11" time="120.157"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w11_" time="120.1571"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w12" time="120.257"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w13" time="120.367"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w14" time="120.517"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w15" time="120.987"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w16" time="121.08636502585225"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w17" time="121.347"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w18" time="121.617"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w18_" time="121.61710000000001"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w19" time="121.957"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w20" time="122.107"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w21" time="122.497"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w21_" time="122.4971"/>
-      <tli id="Artur-J-Gvecg-P580009.t37.w22" time="122.627"/>
-      <tli id="Artur-J-Gvecg-P580009.t38" time="123.17969314445146"/>
-      <tli id="Artur-J-Gvecg-P580009.t38.w0" time="124.256"/>
-      <tli id="Artur-J-Gvecg-P580009.t38.w1" time="124.666"/>
-      <tli id="Artur-J-Gvecg-P580009.t38.w2" time="125.026"/>
-      <tli id="Artur-J-Gvecg-P580009.t39" time="125.80635326778932"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w0" time="126.1"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w1" time="126.63"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w1_" time="126.6301"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w2" time="126.8"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w3" time="127.05"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w4" time="127.34"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w5" time="127.62"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w6" time="127.79"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w7" time="128.25"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w8" time="128.94"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w9" time="129.23"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w10" time="129.6"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w11" time="129.75"/>
-      <tli id="Artur-J-Gvecg-P580009.t39.w12" time="130.09"/>
-      <tli id="Artur-J-Gvecg-P580009.t40" time="130.66634116097032"/>
-      <tli id="Artur-J-Gvecg-P580009.t40_" time="130.66644116097032"/>
-      <tli id="Artur-J-Gvecg-P580009.t40.w0" time="131.62633876949988"/>
-      <tli id="Artur-J-Gvecg-P580009.t40.w1" time="132.25"/>
-      <tli id="Artur-J-Gvecg-P580009.t40.w1_" time="132.2501"/>
-      <tli id="Artur-J-Gvecg-P580009.t40.w2" time="132.34"/>
-      <tli id="Artur-J-Gvecg-P580009.t41" time="132.77966922974724"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w0" time="133.259668034012"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w1" time="133.685"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w2" time="134.095"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w3" time="134.295"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w4" time="134.745"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w5" time="135.535"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w6" time="135.845"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w6_" time="135.8451"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w7" time="136.035"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w8" time="136.355"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w8_" time="136.3551"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w9" time="137.23299146931498"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w10" time="137.455"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w10_" time="137.45510000000002"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w11" time="137.865"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w12" time="138.765"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w13" time="138.885"/>
-      <tli id="Artur-J-Gvecg-P580009.t41.w14" time="139.095"/>
-      <tli id="Artur-J-Gvecg-P580009.t42" time="139.6263188405797"/>
-      <tli id="Artur-J-Gvecg-P580009.t42_" time="139.6264188405797"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w0" time="140.266"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w1" time="140.616"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w2" time="140.906"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w3" time="141.076"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w4" time="141.206"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w5" time="141.496"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w6" time="141.936"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w6_" time="141.9361"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w7" time="142.036"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w8" time="142.246"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w9" time="142.786"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w9_" time="142.7861"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w10" time="143.156"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w10_" time="143.1561"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w11" time="143.636"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w12" time="143.786"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w13" time="143.936"/>
-      <tli id="Artur-J-Gvecg-P580009.t42.w14" time="144.456"/>
-      <tli id="Artur-J-Gvecg-P580009.t43" time="145.21963824027634"/>
-      <tli id="Artur-J-Gvecg-P580009.t43_" time="145.21973824027634"/>
-      <tli id="Artur-J-Gvecg-P580009.t43.w0" time="145.783"/>
-      <tli id="Artur-J-Gvecg-P580009.t43.w1" time="146.343"/>
-      <tli id="Artur-J-Gvecg-P580009.t43.w2" time="146.633"/>
-      <tli id="Artur-J-Gvecg-P580009.t43.w3" time="147.053"/>
-      <tli id="Artur-J-Gvecg-P580009.t44" time="147.77296521296265"/>
-      <tli id="Artur-J-Gvecg-P580009.t44_" time="147.77306521296265"/>
-      <tli id="Artur-J-Gvecg-P580009.t44.w0" time="148.66"/>
-      <tli id="Artur-J-Gvecg-P580009.t44.w1" time="149.1"/>
-      <tli id="Artur-J-Gvecg-P580009.t44.w2" time="149.51"/>
-      <tli id="Artur-J-Gvecg-P580009.t44.w2_" time="149.5101"/>
-      <tli id="Artur-J-Gvecg-P580009.t44.w3" time="149.83"/>
-      <tli id="Artur-J-Gvecg-P580009.t44.w4" time="149.95"/>
-      <tli id="Artur-J-Gvecg-P580009.t45" time="150.59962483807752"/>
-      <tli id="Artur-J-Gvecg-P580009.t45_" time="150.59972483807752"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w0" time="151.825"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w1" time="152.275"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w2" time="152.435"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w3" time="152.905"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w4" time="153.025"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w5" time="153.105"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w6" time="153.525"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w7" time="154.085"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w7_" time="154.0851"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w8" time="154.205"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w9" time="154.345"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w10" time="154.495"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w11" time="154.645"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w12" time="154.785"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w13" time="155.305"/>
-      <tli id="Artur-J-Gvecg-P580009.t45.w14" time="155.675"/>
-      <tli id="Artur-J-Gvecg-P580009.t46" time="156.05294458653023"/>
-      <tli id="Artur-J-Gvecg-P580009.t46_" time="156.05304458653023"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w0" time="156.62"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w1" time="156.83"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w2" time="156.94"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w3" time="157.54"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w4" time="157.63"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w5" time="158.01"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w6" time="158.14"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w7" time="158.22"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w8" time="158.53"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w9" time="159.1996034144883"/>
-      <tli id="Artur-J-Gvecg-P580009.t46.w9_" time="159.1997034144883"/>
-      <tli id="Artur-J-Gvecg-P580009.t47" time="159.68626886881236"/>
-      <tli id="Artur-J-Gvecg-P580009.t47_" time="159.68636886881237"/>
-      <tli id="Artur-J-Gvecg-P580009.t47.w0" time="161.076"/>
-      <tli id="Artur-J-Gvecg-P580009.t47.w1" time="161.256"/>
-      <tli id="Artur-J-Gvecg-P580009.t48" time="161.99959643936626"/>
-      <tli id="Artur-J-Gvecg-P580009.t48.w0" time="162.277"/>
-      <tli id="Artur-J-Gvecg-P580009.t48.w1" time="162.797"/>
-      <tli id="Artur-J-Gvecg-P580009.t48.w1_" time="162.7971"/>
-      <tli id="Artur-J-Gvecg-P580009.t48.w2" time="163.207"/>
-      <tli id="Artur-J-Gvecg-P580009.t48.w3" time="163.607"/>
-      <tli id="Artur-J-Gvecg-P580009.t48.w4" time="163.697"/>
-      <tli id="Artur-J-Gvecg-P580009.t48.w5" time="163.857"/>
-      <tli id="Artur-J-Gvecg-P580009.t48.w6" time="164.317"/>
-      <tli id="Artur-J-Gvecg-P580009.t48.w6_" time="164.3171"/>
-      <tli id="Artur-J-Gvecg-P580009.t49" time="164.63292321276336"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w0" time="165.163"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w1" time="165.443"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w2" time="165.693"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w3" time="166.203"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w4" time="166.553"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w4_" time="166.5531"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w5" time="166.683"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w6" time="167.383"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w7" time="167.483"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w8" time="167.693"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w9" time="168.033"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w9_" time="168.0331"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w10" time="168.143"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w11" time="168.353"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w12" time="168.993"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w13" time="169.123"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w14" time="169.223"/>
-      <tli id="Artur-J-Gvecg-P580009.t49.w15" time="169.653"/>
-      <tli id="Artur-J-Gvecg-P580009.t50" time="170.43957541435546"/>
-      <tli id="Artur-J-Gvecg-P580009.t50.w0" time="170.808"/>
-      <tli id="Artur-J-Gvecg-P580009.t50.w1" time="171.128"/>
-      <tli id="Artur-J-Gvecg-P580009.t50.w2" time="171.73957217590595"/>
-      <tli id="Artur-J-Gvecg-P580009.t50.w2_" time="171.73967217590595"/>
-      <tli id="Artur-J-Gvecg-P580009.t51" time="172.40623718182925"/>
-      <tli id="Artur-J-Gvecg-P580009.t51_" time="172.40633718182926"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w0" time="173.0129023372195"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w1" time="173.59290089237277"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w2" time="173.805"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w3" time="174.045"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w4" time="174.185"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w5" time="174.545"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w6" time="174.705"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w7" time="175.455"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w8" time="175.845"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w8_" time="175.8451"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w9" time="175.995"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w10" time="176.115"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w11" time="176.435"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w12" time="176.495"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w13" time="176.785"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w14" time="177.055"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w15" time="177.165"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w16" time="177.245"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w17" time="177.745"/>
-      <tli id="Artur-J-Gvecg-P580009.t51.w17_" time="177.7451"/>
-      <tli id="Artur-J-Gvecg-P580009.t52" time="178.44"/>
-      <tli id="Artur-J-Gvecg-P580009.t52_" time="178.4401"/>
-      <tli id="Artur-J-Gvecg-P580009.t53.w0" time="187.339"/>
-      <tli id="Artur-J-Gvecg-P580009.t53.w1" time="188.019"/>
-      <tli id="Artur-J-Gvecg-P580009.t53.w2" time="188.419"/>
-      <tli id="Artur-J-Gvecg-P580009.t53.w3" time="188.849"/>
-      <tli id="Artur-J-Gvecg-P580009.t53.w4" time="189.099"/>
-      <tli id="Artur-J-Gvecg-P580009.t53.w5" time="189.339"/>
-      <tli id="Artur-J-Gvecg-P580009.t53.w6" time="189.839"/>
-      <tli id="Artur-J-Gvecg-P580009.t54" time="190.547"/>
-      <tli id="Artur-J-Gvecg-P580009.t54_" time="190.5471"/>
-      <tli id="Artur-J-Gvecg-P580009.t55.w0" time="192.041"/>
-      <tli id="Artur-J-Gvecg-P580009.t55.w1" time="192.361"/>
-      <tli id="Artur-J-Gvecg-P580009.t55.w2" time="193.341"/>
-      <tli id="Artur-J-Gvecg-P580009.t55.w3" time="193.901"/>
-      <tli id="Artur-J-Gvecg-P580009.t55.w4" time="194.221"/>
-      <tli id="Artur-J-Gvecg-P580009.t56" time="194.8195146809712"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w0" time="195.991"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w1" time="196.191"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w1_" time="196.1911"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w2" time="196.371"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w3" time="196.681"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w4" time="196.831"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w5" time="197.151"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w6" time="197.241"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w7" time="197.651"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w7_" time="197.6511"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w8" time="197.981"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w9" time="198.141"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w10" time="198.521"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w10_" time="198.5211"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w11" time="198.681"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w12" time="198.96617101781422"/>
-      <tli id="Artur-J-Gvecg-P580009.t56.w12_" time="198.96627101781422"/>
-      <tli id="Artur-J-Gvecg-P580009.t57" time="199.1995037698874"/>
-      <tli id="Artur-J-Gvecg-P580009.t57_" time="199.1996037698874"/>
-      <tli id="Artur-J-Gvecg-P580009.t57.w0" time="200.389"/>
-      <tli id="Artur-J-Gvecg-P580009.t57.w1" time="200.629"/>
-      <tli id="Artur-J-Gvecg-P580009.t58" time="201.20616543771658"/>
-      <tli id="Artur-J-Gvecg-P580009.t58_" time="201.20626543771658"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w0" time="202.229"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w1" time="202.389"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w2" time="202.689"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w3" time="202.839"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w4" time="203.189"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w5" time="203.279"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w6" time="203.629"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w6_" time="203.6291"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w7" time="204.199"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w8" time="204.379"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w9" time="204.509"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w10" time="204.699"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w11" time="204.819"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w12" time="205.089"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w13" time="205.639"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w14" time="205.709"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w15" time="206.529"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w15_" time="206.5291"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w16" time="206.909"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w17" time="207.029"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w18" time="207.159"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w19" time="207.609"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w19_" time="207.6091"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w20" time="207.719"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w21" time="208.039"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w22" time="208.329"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w22_" time="208.3291"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w23" time="208.539"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w23_" time="208.5391"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w24" time="208.899"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w24_" time="208.8991"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w25" time="209.249"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w25_" time="209.2491"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w26" time="209.389"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w27" time="209.559"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w28" time="210.199"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w28_" time="210.19910000000002"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w29" time="210.399"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w29_" time="210.3991"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w30" time="210.679"/>
-      <tli id="Artur-J-Gvecg-P580009.t58.w31" time="210.879"/>
-      <tli id="Artur-J-Gvecg-P580009.t59" time="211.17280727627022"/>
-      <tli id="Artur-J-Gvecg-P580009.t59_" time="211.17290727627022"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w0" time="212.35"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w1" time="212.63"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w1_" time="212.6301"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w2" time="212.83"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w3" time="213.37"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w3_" time="213.3701"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w4" time="213.72"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w5" time="213.81"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w6" time="214.08"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w6_" time="214.08010000000002"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w7" time="214.35"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w7_" time="214.3501"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w8" time="214.44"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w9" time="215.26"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w9_" time="215.2601"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w10" time="216.26"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w10_" time="216.2601"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w11" time="216.37"/>
-      <tli id="T2" time="216.66" type="intp"/>
-      <tli id="T2_" time="216.6601"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w12" time="216.95"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w13" time="217.28"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w14" time="218.05"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w15" time="218.51"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w15_" time="218.5101"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w16" time="218.69"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w17" time="219.05"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w17_" time="219.05010000000001"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w18" time="219.2"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w19" time="219.28"/>
-      <tli id="Artur-J-Gvecg-P580009.t59.w20" time="219.35"/>
-      <tli id="Artur-J-Gvecg-P580009.t60" time="219.8194524030956"/>
-      <tli id="Artur-J-Gvecg-P580009.t60_" time="219.8195524030956"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w0" time="220.647"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w1" time="221.147"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w2" time="221.247"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w3" time="221.747"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w4" time="222.317"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w4_" time="222.3171"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w5" time="222.867"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w5_" time="222.8671"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w6" time="223.877"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w6_" time="223.8771"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w7" time="225.17277240065988"/>
-      <tli id="Artur-J-Gvecg-P580009.t60.w7_" time="225.17287240065988"/>
-      <tli id="Artur-J-Gvecg-P580009.t61" time="225.73943765569467"/>
-      <tli id="Artur-J-Gvecg-P580009.t61_" time="225.73953765569468"/>
-      <tli id="Artur-J-Gvecg-P580009.t61.w0" time="225.996"/>
-      <tli id="Artur-J-Gvecg-P580009.t61.w1" time="227.076"/>
-      <tli id="Artur-J-Gvecg-P580009.t61.w2" time="227.166"/>
-      <tli id="Artur-J-Gvecg-P580009.t61.w3" time="227.69276612305"/>
-      <tli id="Artur-J-Gvecg-P580009.t62" time="228.31276457855867"/>
-      <tli id="Artur-J-Gvecg-P580009.t62_" time="228.31286457855867"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w0" time="229.18609573631824"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w1" time="229.535"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w1_" time="229.5351"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w2" time="229.585"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w3" time="230.305"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w4" time="230.905"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w5" time="231.66608955835298"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w5_" time="231.66618955835298"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w6" time="232.245"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w6_" time="232.2451"/>
-      <tli id="Artur-J-Gvecg-P580009.t62.w7" time="232.90608646937036"/>
-      <tli id="Artur-J-Gvecg-P580009.t63" time="233.50608497470134"/>
-      <tli id="Artur-J-Gvecg-P580009.t63_" time="233.50618497470134"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w0" time="234.101"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w1" time="234.951"/>
-      <tli id="T6" time="236.15941169827616"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w2" time="236.491"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w3" time="237.191"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w4" time="237.671"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w4_" time="237.6711"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w5" time="237.841"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w6" time="238.001"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w7" time="238.181"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w8" time="238.341"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w9" time="238.871"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w10" time="239.441"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w11" time="240.001"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w12" time="240.181"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w13" time="240.241"/>
-      <tli id="Artur-J-Gvecg-P580009.t63.w14" time="240.551"/>
-      <tli id="Artur-J-Gvecg-P580009.t64" time="241.35273209441877"/>
-      <tli id="Artur-J-Gvecg-P580009.t64_" time="241.35283209441877"/>
-      <tli id="Artur-J-Gvecg-P580009.t64.w0" time="242.10606355111213"/>
-      <tli id="Artur-J-Gvecg-P580009.t64.w1" time="242.6393955558508"/>
-      <tli id="Artur-J-Gvecg-P580009.t64.w1_" time="242.6394955558508"/>
-      <tli id="Artur-J-Gvecg-P580009.t64.w2" time="242.811"/>
-      <tli id="Artur-J-Gvecg-P580009.t64.w3" time="242.901"/>
-      <tli id="Artur-J-Gvecg-P580009.t64.w4" time="243.191"/>
-      <tli id="Artur-J-Gvecg-P580009.t65" time="244.0060588179936"/>
-      <tli id="Artur-J-Gvecg-P580009.t65_" time="244.0061588179936"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w0" time="244.34"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w1" time="244.88"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w2" time="245.18"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w3" time="245.37"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w4" time="245.55"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w5" time="245.99272053564508"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w5_" time="245.99282053564508"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w6" time="246.25"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w6_" time="246.2501"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w7" time="246.57"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w8" time="246.71"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w9" time="246.9793847444116"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w10" time="247.08605114535936"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w11" time="247.42"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w12" time="247.91"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w12_" time="247.9101"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w13" time="248.65"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w13_" time="248.6501"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w14" time="249.31"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w15" time="249.78"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w16" time="250.18"/>
-      <tli id="Artur-J-Gvecg-P580009.t65.w16_" time="250.1801"/>
-      <tli id="Artur-J-Gvecg-P580009.t66" time="250.4727093754498"/>
-      <tli id="Artur-J-Gvecg-P580009.t66_" time="250.4728093754498"/>
-      <tli id="Artur-J-Gvecg-P580009.t66.w0" time="251.5993732354602"/>
-      <tli id="Artur-J-Gvecg-P580009.t67" time="252.2993714916797"/>
-      <tli id="Artur-J-Gvecg-P580009.t67_" time="252.2994714916797"/>
-      <tli id="Artur-J-Gvecg-P580009.t67.w0" time="252.618"/>
-      <tli id="Artur-J-Gvecg-P580009.t67.w1" time="252.858"/>
-      <tli id="Artur-J-Gvecg-P580009.t68" time="253.27936905038695"/>
-      <tli id="Artur-J-Gvecg-P580009.t68.w0" time="253.679"/>
-      <tli id="Artur-J-Gvecg-P580009.t68.w1" time="254.109"/>
-      <tli id="Artur-J-Gvecg-P580009.t68.w2" time="254.269"/>
-      <tli id="Artur-J-Gvecg-P580009.t68.w3" time="254.429"/>
-      <tli id="Artur-J-Gvecg-P580009.t68.w4" time="254.959"/>
-      <tli id="Artur-J-Gvecg-P580009.t68.w5" time="255.579"/>
-      <tli id="Artur-J-Gvecg-P580009.t68.w6" time="256.249"/>
-      <tli id="Artur-J-Gvecg-P580009.t68.w7" time="256.389"/>
-      <tli id="Artur-J-Gvecg-P580009.t69" time="257.16602603491987"/>
-      <tli id="Artur-J-Gvecg-P580009.t69_" time="257.16612603491984"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w0" time="258.2793565948118"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w1" time="258.417"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w2" time="258.487"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w3" time="258.897"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w3_" time="258.89709999999997"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w4" time="259.027"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w5" time="259.147"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w6" time="259.427"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w7" time="259.607"/>
-      <tli id="T7" time="260.3793513634703"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w8" time="260.527"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w9" time="261.217"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w9_" time="261.21709999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w10" time="261.477"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w10_" time="261.47709999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w11" time="261.637"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w12" time="262.067"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w12_" time="262.0671"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w13" time="262.217"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w14" time="262.367"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w15" time="262.577"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w16" time="263.017"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w17" time="263.197"/>
-      <tli id="Artur-J-Gvecg-P580009.t69.w18" time="263.397"/>
-      <tli id="Artur-J-Gvecg-P580009.t70" time="264.0193422958116"/>
-      <tli id="Artur-J-Gvecg-P580009.t70_" time="264.0194422958116"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w0" time="264.7126739019718"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w1" time="264.897"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w1_" time="264.89709999999997"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w2" time="265.027"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w3" time="265.187"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w4" time="265.307"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w5" time="266.127"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w5_" time="266.1271"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w6" time="266.697"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w7" time="266.837"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w8" time="267.267"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w9" time="267.567"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w9_" time="267.5671"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w10" time="268.067"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w11" time="268.197"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w12" time="268.817"/>
-      <tli id="Artur-J-Gvecg-P580009.t70.w12_" time="268.8171"/>
-      <tli id="Artur-J-Gvecg-P580009.t71" time="269.1393295413027"/>
-      <tli id="Artur-J-Gvecg-P580009.t71_" time="269.13942954130266"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w0" time="269.528"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w1" time="269.868"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w2" time="269.998"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w3" time="270.518"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w3_" time="270.51809999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w4" time="270.658"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w5" time="270.778"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w6" time="270.998"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w7" time="271.368"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w7_" time="271.36809999999997"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w8" time="271.828"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w8_" time="271.82809999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w9" time="272.158"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w10" time="272.228"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w11" time="272.528"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w12" time="272.958"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w12_" time="272.9581"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w13" time="273.098"/>
-      <tli id="Artur-J-Gvecg-P580009.t71.w14" time="273.258"/>
-      <tli id="Artur-J-Gvecg-P580009.t72" time="273.9593175341283"/>
-      <tli id="Artur-J-Gvecg-P580009.t72_" time="273.95941753412825"/>
-      <tli id="Artur-J-Gvecg-P580009.t72.w0" time="274.7059823407624"/>
-      <tli id="Artur-J-Gvecg-P580009.t72.w1" time="275.0926480441979"/>
-      <tli id="Artur-J-Gvecg-P580009.t72.w1_" time="275.0927480441979"/>
-      <tli id="Artur-J-Gvecg-P580009.t72.w2" time="275.829"/>
-      <tli id="Artur-J-Gvecg-P580009.t73" time="276.55931105722925"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w0" time="277.35264241427797"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w1" time="277.773"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w1_" time="277.7731"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w2" time="278.163"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w3" time="278.383"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w4" time="278.583"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w5" time="278.943"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w5_" time="278.94309999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w6" time="279.143"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w7" time="279.313"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w8" time="280.023"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w8_" time="280.0231"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w9" time="280.313"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w9_" time="280.31309999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w10" time="280.453"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w11" time="280.643"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w12" time="281.003"/>
-      <tli id="Artur-J-Gvecg-P580009.t73.w12_" time="281.00309999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t74" time="281.412632300351"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w0" time="281.681"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w1" time="281.831"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w2" time="282.201"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w3" time="282.321"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w4" time="282.521"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w5" time="282.681"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w6" time="282.881"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w6_" time="282.88109999999995"/>
-      <tli id="T8" time="283.2059611662847"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w7" time="283.341"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w8" time="283.531"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w9" time="283.751"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w10" time="284.491"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w10_" time="284.49109999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w11" time="284.631"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w11_" time="284.63109999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w12" time="284.791"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w13" time="284.851"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w14" time="285.161"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w15" time="285.691"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w16" time="286.201"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w16_" time="286.2011"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w17" time="286.541"/>
-      <tli id="Artur-J-Gvecg-P580009.t74.w18" time="286.631"/>
-      <tli id="Artur-J-Gvecg-P580009.t75" time="287.53928370478627"/>
-      <tli id="Artur-J-Gvecg-P580009.t75_" time="287.53938370478625"/>
-      <tli id="Artur-J-Gvecg-P580009.t75.w0" time="288.14"/>
-      <tli id="Artur-J-Gvecg-P580009.t75.w1" time="289.09"/>
-      <tli id="Artur-J-Gvecg-P580009.t75.w1_" time="289.09009999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t75.w2" time="289.22"/>
-      <tli id="Artur-J-Gvecg-P580009.t75.w3" time="289.35"/>
-      <tli id="Artur-J-Gvecg-P580009.t75.w4" time="289.62"/>
-      <tli id="Artur-J-Gvecg-P580009.t75.w4_" time="289.6201"/>
-      <tli id="Artur-J-Gvecg-P580009.t76" time="289.9592776762879"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w0" time="290.75"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w1" time="291.07"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w2" time="291.43"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w3" time="291.8"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w3_" time="291.8001"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w4" time="292.28"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w4_" time="292.28009999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w5" time="292.49927134885576"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w6" time="292.8"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w7" time="292.9"/>
-      <tli id="Artur-J-Gvecg-P580009.t76.w8" time="293.18"/>
-      <tli id="Artur-J-Gvecg-P580009.t77" time="293.85926796093935"/>
-      <tli id="Artur-J-Gvecg-P580009.t77_" time="293.8593679609393"/>
-      <tli id="Artur-J-Gvecg-P580009.t77.w0" time="294.751"/>
-      <tli id="Artur-J-Gvecg-P580009.t77.w1" time="294.911"/>
-      <tli id="Artur-J-Gvecg-P580009.t78" time="295.79259647811693"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w0" time="296.628"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w1" time="297.028"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w2" time="297.728"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w3" time="297.90592454689386"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w4" time="298.248"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w5" time="298.918"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w5_" time="298.9181"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w6" time="299.138"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w7" time="299.208"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w8" time="299.498"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w9" time="300.048"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w10" time="300.8592505231341"/>
-      <tli id="Artur-J-Gvecg-P580009.t78.w10_" time="300.8593505231341"/>
-      <tli id="Artur-J-Gvecg-P580009.t79" time="301.3059160771028"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w0" time="301.723"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w1" time="301.903"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w1_" time="301.9031"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w2" time="302.123"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w3" time="302.233"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w4" time="302.333"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w5" time="302.773"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w6" time="302.933"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w7" time="303.803"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w7_" time="303.8031"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w8" time="304.033"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w9" time="304.313"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w9_" time="304.31309999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w10" time="304.473"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w11" time="304.593"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w12" time="304.783"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w13" time="304.953"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w14" time="305.183"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w15" time="305.753"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w16" time="306.043"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w17" time="306.563"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w18" time="306.973"/>
-      <tli id="Artur-J-Gvecg-P580009.t79.w19" time="307.123"/>
-      <tli id="Artur-J-Gvecg-P580009.t80" time="307.87256638544744"/>
-      <tli id="Artur-J-Gvecg-P580009.t80_" time="307.8726663854474"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w0" time="308.398"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w1" time="308.648"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w2" time="309.2725628978864"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w2_" time="309.2726628978864"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w3" time="309.628"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w3_" time="309.62809999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w4" time="310.118"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w4_" time="310.11809999999997"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w5" time="310.338"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w6" time="310.518"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w7" time="310.658"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w8" time="311.498"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w8_" time="311.49809999999997"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w9" time="311.848"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w10" time="312.008"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w11" time="312.308"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w12" time="312.698"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w12_" time="312.69809999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w13" time="313.568"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w14" time="314.068"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w15" time="314.168"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w16" time="314.528"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w16_" time="314.5281"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w17" time="314.628"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w18" time="314.788"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w19" time="315.338"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w20" time="315.398"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w21" time="315.648"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w22" time="316.178"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w22_" time="316.1781"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w23" time="316.308"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w24" time="316.458"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w25" time="316.798"/>
-      <tli id="Artur-J-Gvecg-P580009.t80.w26" time="317.358"/>
-      <tli id="Artur-J-Gvecg-P580009.t81" time="317.9125413746526"/>
-      <tli id="Artur-J-Gvecg-P580009.t81_" time="317.9126413746526"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w0" time="318.73920598199754"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w1" time="319.803"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w1_" time="319.8031"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w2" time="320.433"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w3" time="320.673"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w3_" time="320.6731"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w4" time="320.843"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w5" time="321.913"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w6" time="322.503"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w7" time="323.033"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w8" time="323.313"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w8_" time="323.31309999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w9" time="323.473"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w10" time="324.3525253318719"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w11" time="324.543"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w12" time="325.193"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w13" time="325.633"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w14" time="326.213"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w14_" time="326.2131"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w15" time="326.683"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w16" time="326.793"/>
-      <tli id="Artur-J-Gvecg-P580009.t81.w17" time="327.033"/>
-      <tli id="Artur-J-Gvecg-P580009.t82" time="327.57251731048154"/>
-      <tli id="Artur-J-Gvecg-P580009.t82_" time="327.5726173104815"/>
-      <tli id="Artur-J-Gvecg-P580009.t82.w0" time="328.533"/>
-      <tli id="Artur-J-Gvecg-P580009.t82.w1" time="328.673"/>
-      <tli id="Artur-J-Gvecg-P580009.t82.w2" time="328.763"/>
-      <tli id="Artur-J-Gvecg-P580009.t82.w3" time="328.953"/>
-      <tli id="Artur-J-Gvecg-P580009.t82.w4" time="329.083"/>
-      <tli id="Artur-J-Gvecg-P580009.t83" time="329.6791787291992"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w0" time="330.88"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w1" time="331.38"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w2" time="332.08583940058236"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w2_" time="332.08593940058233"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w3" time="332.44"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w3_" time="332.4401"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w4" time="333.04"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w4_" time="333.0401"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w5" time="333.24"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w5_" time="333.2401"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w6" time="333.59"/>
-      <tli id="T9" time="334.532499972321"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w7" time="334.75"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w8" time="335.21916492842195"/>
-      <tli id="Artur-J-Gvecg-P580009.t83.w8_" time="335.2192649284219"/>
-      <tli id="Artur-J-Gvecg-P580009.t84" time="335.6058306318575"/>
-      <tli id="Artur-J-Gvecg-P580009.t84_" time="335.60593063185746"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w0" time="336.061"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w1" time="336.501"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w2" time="336.741"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w3" time="336.931"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w3_" time="336.93109999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w4" time="337.091"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w5" time="337.221"/>
-      <tli id="T3" time="337.4524926982651"/>
-      <tli id="T3_" time="337.45259269826505"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w6" time="337.751"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w7" time="337.851"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w8" time="338.121"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w9" time="338.27915730561"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w10" time="338.691"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w10_" time="338.69109999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w11" time="338.791"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w12" time="339.501"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w13" time="339.571"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w14" time="339.821"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w15" time="340.211"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w15_" time="340.2111"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w16" time="340.291"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w17" time="340.531"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w18" time="340.781"/>
-      <tli id="Artur-J-Gvecg-P580009.t84.w18_" time="340.7811"/>
-      <tli id="Artur-J-Gvecg-P580009.t85" time="341.0058171798364"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w0" time="341.569"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w1" time="342.139"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w2" time="342.249"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w3" time="342.429"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w4" time="342.899"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w4_" time="342.8991"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w5" time="343.009"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w5_" time="343.0091"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w6" time="343.189"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w7" time="343.469"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w8" time="343.929"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w9" time="344.019"/>
-      <tli id="Artur-J-Gvecg-P580009.t85.w10" time="344.42580866022297"/>
-      <tli id="Artur-J-Gvecg-P580009.t86" time="344.6458081121777"/>
-      <tli id="Artur-J-Gvecg-P580009.t86.w0" time="345.0458071157317"/>
-      <tli id="Artur-J-Gvecg-P580009.t86.w1" time="345.4391394692264"/>
-      <tli id="Artur-J-Gvecg-P580009.t87" time="345.7924719223658"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w0" time="346.25"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w1" time="346.44"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w2" time="347.13"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w3" time="347.25"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w4" time="347.82"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w5" time="348.55"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w5_" time="348.5501"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w6" time="348.92"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w7" time="349.04"/>
-      <tli id="Artur-J-Gvecg-P580009.t87.w8" time="349.26"/>
-      <tli id="Artur-J-Gvecg-P580009.t88" time="350.1124611607489"/>
-      <tli id="Artur-J-Gvecg-P580009.t88_" time="350.1125611607489"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w0" time="350.561"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w1" time="350.781"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w2" time="351.151"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w3" time="351.721"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w3_" time="351.7211"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w4" time="351.911"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w5" time="352.301"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w6" time="352.921"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w6_" time="352.92109999999997"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w7" time="353.091"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w7_" time="353.0911"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w8" time="353.261"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w9" time="353.981"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w10" time="354.361"/>
-      <tli id="Artur-J-Gvecg-P580009.t88.w10_" time="354.36109999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t89" time="354.63244990090897"/>
-      <tli id="Artur-J-Gvecg-P580009.t89_" time="354.63254990090894"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w0" time="355.079"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w1" time="355.279"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w2" time="355.379"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w3" time="355.469"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w4" time="355.669"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w5" time="355.889"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w5_" time="355.8891"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w6" time="355.989"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w7" time="356.199"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w8" time="356.319"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w9" time="356.979"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w10" time="357.239"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w10_" time="357.23909999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w11" time="357.4524428759646"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w12" time="357.799"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w12_" time="357.79909999999995"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w13" time="358.019"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w14" time="358.669"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w14_" time="358.66909999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w15" time="359.169"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w15_" time="359.16909999999996"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w16" time="359.279"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w17" time="359.369"/>
-      <tli id="Artur-J-Gvecg-P580009.t89.w18" time="359.589"/>
-      <tli id="Artur-J-Gvecg-P580009.t90" time="359.85243689728856"/>
-      <tli id="Artur-J-Gvecg-P580009.t90_" time="359.85253689728853"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w0" time="360.551"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w1" time="360.981"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w2" time="361.231"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w3" time="361.461"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w4" time="361.881"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w5" time="362.5324302211003"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w5_" time="362.5325302211003"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w6" time="362.591"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w7" time="362.741"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w8" time="363.321"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w8_" time="363.3211"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w9" time="363.461"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w10" time="363.661"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w10_" time="363.6611"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w11" time="363.771"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w12" time="364.011"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w13" time="364.391"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w14" time="364.771"/>
-      <tli id="Artur-J-Gvecg-P580009.t90.w15" time="364.961"/>
-      <tli id="Artur-J-Gvecg-P580009.t91" time="365.757"/>
-      <tli id="T0" time="1204.276"/>
+      <tli id="Artur-J-Gvecg-P580009.t0" time="0.0" />
+      <tli id="Artur-J-Gvecg-P580009.t0.w0" time="1.0E-4" />
+      <tli id="Artur-J-Gvecg-P580009.t0.w1" time="0.47" />
+      <tli id="Artur-J-Gvecg-P580009.t0.w2" time="1.2" />
+      <tli id="Artur-J-Gvecg-P580009.t0.w3" time="1.47" />
+      <tli id="Artur-J-Gvecg-P580009.t0.w4" time="1.88" />
+      <tli id="Artur-J-Gvecg-P580009.t0.w5" time="2.35" />
+      <tli id="Artur-J-Gvecg-P580009.t1" time="3.273325179083491" />
+      <tli id="Artur-J-Gvecg-P580009.t1_" time="3.273425179083491" />
+      <tli id="Artur-J-Gvecg-P580009.t1.w0" time="3.628" />
+      <tli id="Artur-J-Gvecg-P580009.t1.w1" time="4.148" />
+      <tli id="Artur-J-Gvecg-P580009.t1.w2" time="4.678" />
+      <tli id="Artur-J-Gvecg-P580009.t1.w3" time="4.878" />
+      <tli id="Artur-J-Gvecg-P580009.t1.w4" time="5.428" />
+      <tli id="Artur-J-Gvecg-P580009.t1.w5" time="5.838" />
+      <tli id="Artur-J-Gvecg-P580009.t1.w6" time="6.358" />
+      <tli id="Artur-J-Gvecg-P580009.t1.w7" time="6.438" />
+      <tli id="Artur-J-Gvecg-P580009.t2" time="7.193315413912601" />
+      <tli id="Artur-J-Gvecg-P580009.t2_" time="7.193415413912601" />
+      <tli id="Artur-J-Gvecg-P580009.t2.w0" time="7.476" />
+      <tli id="Artur-J-Gvecg-P580009.t2.w1" time="7.986" />
+      <tli id="Artur-J-Gvecg-P580009.t2.w2" time="8.536" />
+      <tli id="Artur-J-Gvecg-P580009.t3" time="9.193310431682553" />
+      <tli id="Artur-J-Gvecg-P580009.t3_" time="9.193410431682553" />
+      <tli id="Artur-J-Gvecg-P580009.t3.w0" time="9.654" />
+      <tli id="Artur-J-Gvecg-P580009.t3.w1" time="10.204" />
+      <tli id="Artur-J-Gvecg-P580009.t3.w2" time="10.754" />
+      <tli id="Artur-J-Gvecg-P580009.t3.w3" time="11.204" />
+      <tli id="Artur-J-Gvecg-P580009.t3.w4" time="11.564" />
+      <tli id="Artur-J-Gvecg-P580009.t3.w5" time="11.994" />
+      <tli id="Artur-J-Gvecg-P580009.t3.w6" time="12.044" />
+      <tli id="Artur-J-Gvecg-P580009.t3.w7" time="12.526635461299144" />
+      <tli id="Artur-J-Gvecg-P580009.t4" time="13.026634215741632" />
+      <tli id="Artur-J-Gvecg-P580009.t4_" time="13.026734215741632" />
+      <tli id="Artur-J-Gvecg-P580009.t4.w0" time="13.67329927148725" />
+      <tli id="Artur-J-Gvecg-P580009.t4.w1" time="14.055" />
+      <tli id="Artur-J-Gvecg-P580009.t5" time="14.753296581083026" />
+      <tli id="Artur-J-Gvecg-P580009.t5_" time="14.753396581083026" />
+      <tli id="Artur-J-Gvecg-P580009.t5.w0" time="14.883" />
+      <tli id="Artur-J-Gvecg-P580009.t5.w1" time="15.933" />
+      <tli id="Artur-J-Gvecg-P580009.t5.w2" time="16.253" />
+      <tli id="Artur-J-Gvecg-P580009.t5.w3" time="16.823" />
+      <tli id="Artur-J-Gvecg-P580009.t6" time="17.21329045294007" />
+      <tli id="Artur-J-Gvecg-P580009.t6_" time="17.213390452940068" />
+      <tli id="Artur-J-Gvecg-P580009.t6.w0" time="17.347" />
+      <tli id="Artur-J-Gvecg-P580009.t6.w1" time="17.63995605673099" />
+      <tli id="Artur-J-Gvecg-P580009.t7" time="17.98662185981112" />
+      <tli id="Artur-J-Gvecg-P580009.t7_" time="17.98672185981112" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w0" time="18.56" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w1" time="18.82" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w2" time="19.2" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w3" time="19.34" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w4" time="19.85" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w5" time="20.32" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w6" time="20.78" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w6_" time="20.7801" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w7" time="20.96" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w8" time="21.17" />
+      <tli id="Artur-J-Gvecg-P580009.t7.w9" time="21.54" />
+      <tli id="Artur-J-Gvecg-P580009.t8" time="22.099944946357986" />
+      <tli id="Artur-J-Gvecg-P580009.t8_" time="22.100044946357986" />
+      <tli id="Artur-J-Gvecg-P580009.t8.w0" time="22.337" />
+      <tli id="Artur-J-Gvecg-P580009.t9" time="22.846" />
+      <tli id="Artur-J-Gvecg-P580009.t9_" time="22.8461" />
+      <tli id="Artur-J-Gvecg-P580009.t10.w0" time="23.846607261877082" />
+      <tli id="Artur-J-Gvecg-P580009.t10.w1" time="24.248" />
+      <tli id="Artur-J-Gvecg-P580009.t10.w1_" time="24.2481" />
+      <tli id="Artur-J-Gvecg-P580009.t10.w2" time="24.618" />
+      <tli id="Artur-J-Gvecg-P580009.t10.w3" time="24.898" />
+      <tli id="Artur-J-Gvecg-P580009.t10.w4" time="25.433269975974582" />
+      <tli id="Artur-J-Gvecg-P580009.t11" time="26.046601781424034" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w0" time="26.216" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w1" time="26.306" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w2" time="26.886" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w2_" time="26.8861" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w3" time="27.036" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w4" time="27.206" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w5" time="28.286" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w5_" time="28.2861" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w6" time="28.556" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w7" time="28.746" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w8" time="29.096" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w9" time="29.656" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w9_" time="29.6561" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w10" time="29.766" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w11" time="30.206" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w12" time="30.966" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w12_" time="30.9661" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w13" time="31.096" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w14" time="31.446" />
+      <tli id="Artur-J-Gvecg-P580009.t11.w15" time="31.686" />
+      <tli id="Artur-J-Gvecg-P580009.t12" time="32.19325313603702" />
+      <tli id="Artur-J-Gvecg-P580009.t12_" time="32.193353136037025" />
+      <tli id="Artur-J-Gvecg-P580009.t12.w0" time="32.826" />
+      <tli id="Artur-J-Gvecg-P580009.t13" time="33.531" />
+      <tli id="Artur-J-Gvecg-P580009.t13_" time="33.5311" />
+      <tli id="Artur-J-Gvecg-P580009.t14.w0" time="35.229" />
+      <tli id="Artur-J-Gvecg-P580009.t15" time="35.579911366127476" />
+      <tli id="Artur-J-Gvecg-P580009.t15_" time="35.58001136612748" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w0" time="36.281" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w1" time="36.511" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w2" time="36.571" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w3" time="36.961" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w3_" time="36.9611" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w4" time="37.151" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w4_" time="37.15110000000001" />
+      <tli id="T1" time="37.531000000000006" type="intp" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w5" time="37.94657213715526" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w6" time="38.111" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w7" time="38.261" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w8" time="38.441" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w9" time="38.811" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w10" time="39.181" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w10_" time="39.1811" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w11" time="39.53990150131199" />
+      <tli id="Artur-J-Gvecg-P580009.t15.w11_" time="39.54000150131199" />
+      <tli id="Artur-J-Gvecg-P580009.t16" time="39.95323380498444" />
+      <tli id="Artur-J-Gvecg-P580009.t16_" time="39.953333804984446" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w0" time="40.067" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w1" time="40.607" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w2" time="41.237" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w3" time="41.327" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w4" time="41.767" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w5" time="42.097" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w6" time="42.187" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w7" time="42.437" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w7_" time="42.4371" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w8" time="42.947" />
+      <tli id="Artur-J-Gvecg-P580009.t16.w9" time="43.107" />
+      <tli id="Artur-J-Gvecg-P580009.t17" time="43.593224737325755" />
+      <tli id="Artur-J-Gvecg-P580009.t17_" time="43.59332473732576" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w0" time="44.09" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w1" time="44.32" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w2" time="44.45" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w3" time="44.58" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w4" time="44.74" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w5" time="45.0" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w6" time="45.18" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w7" time="45.71988610622115" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w8" time="46.21" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w9" time="46.71" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w10" time="47.57" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w10_" time="47.570100000000004" />
+      <tli id="Artur-J-Gvecg-P580009.t17.w11" time="47.92" />
+      <tli id="Artur-J-Gvecg-P580009.t18" time="48.813211733705344" />
+      <tli id="Artur-J-Gvecg-P580009.t18.w0" time="48.931" />
+      <tli id="Artur-J-Gvecg-P580009.t18.w1" time="49.241" />
+      <tli id="Artur-J-Gvecg-P580009.t18.w2" time="49.521" />
+      <tli id="Artur-J-Gvecg-P580009.t18.w3" time="50.031" />
+      <tli id="Artur-J-Gvecg-P580009.t18.w4" time="50.161" />
+      <tli id="Artur-J-Gvecg-P580009.t18.w5" time="50.861" />
+      <tli id="Artur-J-Gvecg-P580009.t18.w6" time="51.031" />
+      <tli id="Artur-J-Gvecg-P580009.t19" time="51.606538108524035" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w0" time="52.474" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w1" time="52.774" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w1_" time="52.774100000000004" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w2" time="52.964" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w3" time="53.234" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w4" time="53.713199527241734" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w4_" time="53.71329952724174" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w5" time="54.01986542996646" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w6" time="54.324" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w6_" time="54.3241" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w7" time="54.644" />
+      <tli id="Artur-J-Gvecg-P580009.t19.w8" time="54.784" />
+      <tli id="Artur-J-Gvecg-P580009.t20" time="55.479861792938514" />
+      <tli id="Artur-J-Gvecg-P580009.t20_" time="55.47996179293852" />
+      <tli id="Artur-J-Gvecg-P580009.t20.w0" time="56.53319250229736" />
+      <tli id="Artur-J-Gvecg-P580009.t20.w1" time="57.32652385934611" />
+      <tli id="Artur-J-Gvecg-P580009.t20.w1_" time="57.326623859346114" />
+      <tli id="Artur-J-Gvecg-P580009.t20.w2" time="57.943" />
+      <tli id="Artur-J-Gvecg-P580009.t20.w3" time="58.073" />
+      <tli id="Artur-J-Gvecg-P580009.t20.w4" time="58.433" />
+      <tli id="Artur-J-Gvecg-P580009.t20.w5" time="58.573" />
+      <tli id="Artur-J-Gvecg-P580009.t21" time="59.043" />
+      <tli id="Artur-J-Gvecg-P580009.t21_" time="59.0431" />
+      <tli id="Artur-J-Gvecg-P580009.t22.w0" time="60.961" />
+      <tli id="Artur-J-Gvecg-P580009.t22.w1" time="61.291" />
+      <tli id="Artur-J-Gvecg-P580009.t22.w2" time="61.431" />
+      <tli id="Artur-J-Gvecg-P580009.t22.w3" time="61.561" />
+      <tli id="Artur-J-Gvecg-P580009.t23" time="62.186511752527096" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w0" time="62.638" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w1" time="63.268" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w2" time="63.958" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w2_" time="63.9581" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w3" time="64.838" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w4" time="65.488" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w4_" time="65.4881" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w5" time="65.618" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w6" time="65.708" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w7" time="66.288" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w7_" time="66.2881" />
+      <tli id="Artur-J-Gvecg-P580009.t23.w8" time="66.618" />
+      <tli id="Artur-J-Gvecg-P580009.t24" time="67.41983204902515" />
+      <tli id="Artur-J-Gvecg-P580009.t24_" time="67.41993204902515" />
+      <tli id="Artur-J-Gvecg-P580009.t24.w0" time="68.65316230998327" />
+      <tli id="Artur-J-Gvecg-P580009.t25" time="69.13982776430731" />
+      <tli id="Artur-J-Gvecg-P580009.t25_" time="69.13992776430732" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w0" time="69.359" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w1" time="69.569" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w2" time="69.659" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w3" time="70.069" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w4" time="70.129" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w5" time="70.439" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w6" time="71.189" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w6_" time="71.1891" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w7" time="71.359" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w8" time="71.789" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w9" time="71.989" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w10" time="72.259" />
+      <tli id="T4" time="72.5931524949901" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w11" time="72.719" />
+      <tli id="Artur-J-Gvecg-P580009.t25.w12" time="73.079" />
+      <tli id="Artur-J-Gvecg-P580009.t26" time="73.56648340363813" />
+      <tli id="Artur-J-Gvecg-P580009.t26_" time="73.56658340363813" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w0" time="74.557" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w1" time="74.857" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w2" time="75.207" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w2_" time="75.2071" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w3" time="75.357" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w4" time="75.517" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w5" time="76.137" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w5_" time="76.1371" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w6" time="76.227" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w7" time="76.287" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w8" time="76.407" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w9" time="76.547" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w10" time="77.087" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w10_" time="77.0871" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w11" time="77.417" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w12" time="77.517" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w13" time="77.637" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w14" time="78.097" />
+      <tli id="Artur-J-Gvecg-P580009.t26.w15" time="78.517" />
+      <tli id="Artur-J-Gvecg-P580009.t27" time="79.07980300262398" />
+      <tli id="Artur-J-Gvecg-P580009.t27_" time="79.07990300262398" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w0" time="79.763" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w1" time="79.963" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w2" time="80.54646601565528" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w2_" time="80.54656601565529" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w3" time="80.743" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w3_" time="80.7431" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w4" time="81.153" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w5" time="81.85979607732422" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w6" time="82.233" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w7" time="82.343" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w8" time="82.913" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w9" time="83.303" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w10" time="83.69312484361333" />
+      <tli id="Artur-J-Gvecg-P580009.t27.w10_" time="83.69322484361334" />
+      <tli id="Artur-J-Gvecg-P580009.t28" time="83.97979079616036" />
+      <tli id="Artur-J-Gvecg-P580009.t28_" time="83.97989079616036" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w0" time="84.551" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w1" time="84.781" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w2" time="85.461" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w2_" time="85.4611" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w3" time="85.711" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w4" time="86.441" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w5" time="87.021" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w5_" time="87.0211" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w6" time="87.191" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w7" time="87.581" />
+      <tli id="Artur-J-Gvecg-P580009.t28.w8" time="87.741" />
+      <tli id="Artur-J-Gvecg-P580009.t29" time="88.3064466846027" />
+      <tli id="Artur-J-Gvecg-P580009.t29_" time="88.30654668460271" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w0" time="88.508" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w1" time="88.688" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w2" time="89.19311114248072" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w2_" time="89.19321114248072" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w3" time="89.628" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w3_" time="89.6281" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w4" time="90.258" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w5" time="90.888" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w6" time="91.408" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w7" time="91.518" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w8" time="92.108" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w9" time="92.498" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w10" time="92.648" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w11" time="93.128" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w12" time="93.618" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w13" time="93.698" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w14" time="94.108" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w14_" time="94.10810000000001" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w15" time="94.258" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w16" time="94.468" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w17" time="94.638" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w18" time="94.798" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w19" time="95.458" />
+      <tli id="Artur-J-Gvecg-P580009.t29.w20" time="95.758" />
+      <tli id="Artur-J-Gvecg-P580009.t30" time="96.67309250894033" />
+      <tli id="Artur-J-Gvecg-P580009.t30.w0" time="97.116" />
+      <tli id="Artur-J-Gvecg-P580009.t30.w1" time="97.646" />
+      <tli id="Artur-J-Gvecg-P580009.t30.w2" time="98.166" />
+      <tli id="Artur-J-Gvecg-P580009.t31" time="98.84642042825035" />
+      <tli id="Artur-J-Gvecg-P580009.t31_" time="98.84652042825036" />
+      <tli id="Artur-J-Gvecg-P580009.t31.w0" time="100.057" />
+      <tli id="T5" time="100.89974864649417" />
+      <tli id="Artur-J-Gvecg-P580009.t31.w1" time="101.03974829773806" />
+      <tli id="Artur-J-Gvecg-P580009.t31.w2" time="101.207" />
+      <tli id="Artur-J-Gvecg-P580009.t31.w3" time="101.357" />
+      <tli id="Artur-J-Gvecg-P580009.t31.w4" time="101.927" />
+      <tli id="Artur-J-Gvecg-P580009.t31.w4_" time="101.92710000000001" />
+      <tli id="Artur-J-Gvecg-P580009.t31.w5" time="102.147" />
+      <tli id="Artur-J-Gvecg-P580009.t32" time="102.55307786118401" />
+      <tli id="Artur-J-Gvecg-P580009.t32.w0" time="102.925" />
+      <tli id="Artur-J-Gvecg-P580009.t32.w1" time="103.375" />
+      <tli id="Artur-J-Gvecg-P580009.t32.w2" time="103.555" />
+      <tli id="Artur-J-Gvecg-P580009.t32.w3" time="104.095" />
+      <tli id="Artur-J-Gvecg-P580009.t32.w4" time="105.0264050331595" />
+      <tli id="Artur-J-Gvecg-P580009.t33" time="105.49973718736507" />
+      <tli id="Artur-J-Gvecg-P580009.t33_" time="105.49983718736507" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w0" time="105.874" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w1" time="106.064" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w2" time="106.124" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w3" time="106.224" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w3_" time="106.2241" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w4" time="106.82640054915247" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w4_" time="106.82650054915247" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w5" time="107.384" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w5_" time="107.3841" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w6" time="107.954" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w7" time="108.384" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w7_" time="108.3841" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w8" time="109.06639496905481" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w9" time="109.324" />
+      <tli id="Artur-J-Gvecg-P580009.t33.w10" time="109.444" />
+      <tli id="Artur-J-Gvecg-P580009.t34" time="110.07305912799902" />
+      <tli id="Artur-J-Gvecg-P580009.t34_" time="110.07315912799902" />
+      <tli id="Artur-J-Gvecg-P580009.t34.w0" time="110.486" />
+      <tli id="Artur-J-Gvecg-P580009.t34.w1" time="110.876" />
+      <tli id="Artur-J-Gvecg-P580009.t34.w2" time="111.086" />
+      <tli id="Artur-J-Gvecg-P580009.t34.w3" time="111.186" />
+      <tli id="Artur-J-Gvecg-P580009.t35" time="111.586" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w0" time="111.5861" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w1" time="111.86638799393275" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w2" time="112.17972054671672" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w2_" time="112.17982054671673" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w3" time="112.79305235216617" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w4" time="113.126" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w4_" time="113.12610000000001" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w5" time="113.446" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w5_" time="113.4461" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w6" time="113.856" />
+      <tli id="Artur-J-Gvecg-P580009.t35.w6_" time="113.8561" />
+      <tli id="Artur-J-Gvecg-P580009.t35.wx0" time="113.8562" />
+      <tli id="Artur-J-Gvecg-P580009.t35.wx1" time="113.8563" />
+      <tli id="Artur-J-Gvecg-P580009.t35.wx2" time="113.85640000000001" />
+      <tli id="Artur-J-Gvecg-P580009.t35.wx3" time="113.85650000000001" />
+      <tli id="Artur-J-Gvecg-P580009.t36" time="114.34638181596749" />
+      <tli id="Artur-J-Gvecg-P580009.t36_" time="114.3464818159675" />
+      <tli id="Artur-J-Gvecg-P580009.t36.w0" time="114.79" />
+      <tli id="Artur-J-Gvecg-P580009.t36.w1" time="115.17" />
+      <tli id="Artur-J-Gvecg-P580009.t36.w1_" time="115.1701" />
+      <tli id="Artur-J-Gvecg-P580009.t36.w2" time="115.27" />
+      <tli id="Artur-J-Gvecg-P580009.t36.w3" time="115.58" />
+      <tli id="Artur-J-Gvecg-P580009.t36.w3_" time="115.5801" />
+      <tli id="Artur-J-Gvecg-P580009.t37" time="116.36637678391516" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w0" time="116.817" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w1" time="117.087" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w2" time="117.417" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w3" time="117.817" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w4" time="118.267" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w4_" time="118.2671" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w5" time="118.387" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w6" time="118.577" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w7" time="119.087" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w8" time="119.34636936039237" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w8_" time="119.34646936039238" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w9" time="119.657" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w10" time="119.937" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w11" time="120.157" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w11_" time="120.1571" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w12" time="120.257" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w13" time="120.367" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w14" time="120.517" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w15" time="120.987" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w16" time="121.08636502585225" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w17" time="121.347" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w18" time="121.617" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w18_" time="121.61710000000001" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w19" time="121.957" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w20" time="122.107" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w21" time="122.497" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w21_" time="122.4971" />
+      <tli id="Artur-J-Gvecg-P580009.t37.w22" time="122.627" />
+      <tli id="Artur-J-Gvecg-P580009.t38" time="123.17969314445146" />
+      <tli id="Artur-J-Gvecg-P580009.t38.w0" time="124.256" />
+      <tli id="Artur-J-Gvecg-P580009.t38.w1" time="124.666" />
+      <tli id="Artur-J-Gvecg-P580009.t38.w2" time="125.026" />
+      <tli id="Artur-J-Gvecg-P580009.t39" time="125.80635326778932" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w0" time="126.1" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w1" time="126.63" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w1_" time="126.6301" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w2" time="126.8" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w3" time="127.05" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w4" time="127.34" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w5" time="127.62" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w6" time="127.79" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w7" time="128.25" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w8" time="128.94" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w9" time="129.23" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w10" time="129.6" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w11" time="129.75" />
+      <tli id="Artur-J-Gvecg-P580009.t39.w12" time="130.09" />
+      <tli id="Artur-J-Gvecg-P580009.t40" time="130.66634116097032" />
+      <tli id="Artur-J-Gvecg-P580009.t40_" time="130.66644116097032" />
+      <tli id="Artur-J-Gvecg-P580009.t40.w0" time="131.62633876949988" />
+      <tli id="Artur-J-Gvecg-P580009.t40.w1" time="132.25" />
+      <tli id="Artur-J-Gvecg-P580009.t40.w1_" time="132.2501" />
+      <tli id="Artur-J-Gvecg-P580009.t40.w2" time="132.34" />
+      <tli id="Artur-J-Gvecg-P580009.t41" time="132.77966922974724" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w0" time="133.259668034012" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w1" time="133.685" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w2" time="134.095" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w3" time="134.295" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w4" time="134.745" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w5" time="135.535" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w6" time="135.845" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w6_" time="135.8451" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w7" time="136.035" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w8" time="136.355" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w8_" time="136.3551" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w9" time="137.23299146931498" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w10" time="137.455" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w10_" time="137.45510000000002" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w11" time="137.865" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w12" time="138.765" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w13" time="138.885" />
+      <tli id="Artur-J-Gvecg-P580009.t41.w14" time="139.095" />
+      <tli id="Artur-J-Gvecg-P580009.t42" time="139.6263188405797" />
+      <tli id="Artur-J-Gvecg-P580009.t42_" time="139.6264188405797" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w0" time="140.266" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w1" time="140.616" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w2" time="140.906" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w3" time="141.076" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w4" time="141.206" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w5" time="141.496" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w6" time="141.936" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w6_" time="141.9361" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w7" time="142.036" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w8" time="142.246" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w9" time="142.786" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w9_" time="142.7861" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w10" time="143.156" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w10_" time="143.1561" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w11" time="143.636" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w12" time="143.786" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w13" time="143.936" />
+      <tli id="Artur-J-Gvecg-P580009.t42.w14" time="144.456" />
+      <tli id="Artur-J-Gvecg-P580009.t43" time="145.21963824027634" />
+      <tli id="Artur-J-Gvecg-P580009.t43_" time="145.21973824027634" />
+      <tli id="Artur-J-Gvecg-P580009.t43.w0" time="145.783" />
+      <tli id="Artur-J-Gvecg-P580009.t43.w1" time="146.343" />
+      <tli id="Artur-J-Gvecg-P580009.t43.w2" time="146.633" />
+      <tli id="Artur-J-Gvecg-P580009.t43.w3" time="147.053" />
+      <tli id="Artur-J-Gvecg-P580009.t44" time="147.77296521296265" />
+      <tli id="Artur-J-Gvecg-P580009.t44_" time="147.77306521296265" />
+      <tli id="Artur-J-Gvecg-P580009.t44.w0" time="148.66" />
+      <tli id="Artur-J-Gvecg-P580009.t44.w1" time="149.1" />
+      <tli id="Artur-J-Gvecg-P580009.t44.w2" time="149.51" />
+      <tli id="Artur-J-Gvecg-P580009.t44.w2_" time="149.5101" />
+      <tli id="Artur-J-Gvecg-P580009.t44.w3" time="149.83" />
+      <tli id="Artur-J-Gvecg-P580009.t44.w4" time="149.95" />
+      <tli id="Artur-J-Gvecg-P580009.t45" time="150.59962483807752" />
+      <tli id="Artur-J-Gvecg-P580009.t45_" time="150.59972483807752" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w0" time="151.825" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w1" time="152.275" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w2" time="152.435" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w3" time="152.905" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w4" time="153.025" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w5" time="153.105" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w6" time="153.525" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w7" time="154.085" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w7_" time="154.0851" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w8" time="154.205" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w9" time="154.345" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w10" time="154.495" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w11" time="154.645" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w12" time="154.785" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w13" time="155.305" />
+      <tli id="Artur-J-Gvecg-P580009.t45.w14" time="155.675" />
+      <tli id="Artur-J-Gvecg-P580009.t46" time="156.05294458653023" />
+      <tli id="Artur-J-Gvecg-P580009.t46_" time="156.05304458653023" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w0" time="156.62" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w1" time="156.83" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w2" time="156.94" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w3" time="157.54" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w4" time="157.63" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w5" time="158.01" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w6" time="158.14" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w7" time="158.22" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w8" time="158.53" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w9" time="159.1996034144883" />
+      <tli id="Artur-J-Gvecg-P580009.t46.w9_" time="159.1997034144883" />
+      <tli id="Artur-J-Gvecg-P580009.t47" time="159.68626886881236" />
+      <tli id="Artur-J-Gvecg-P580009.t47_" time="159.68636886881237" />
+      <tli id="Artur-J-Gvecg-P580009.t47.w0" time="161.076" />
+      <tli id="Artur-J-Gvecg-P580009.t47.w1" time="161.256" />
+      <tli id="Artur-J-Gvecg-P580009.t48" time="161.99959643936626" />
+      <tli id="Artur-J-Gvecg-P580009.t48.w0" time="162.277" />
+      <tli id="Artur-J-Gvecg-P580009.t48.w1" time="162.797" />
+      <tli id="Artur-J-Gvecg-P580009.t48.w1_" time="162.7971" />
+      <tli id="Artur-J-Gvecg-P580009.t48.w2" time="163.207" />
+      <tli id="Artur-J-Gvecg-P580009.t48.w3" time="163.607" />
+      <tli id="Artur-J-Gvecg-P580009.t48.w4" time="163.697" />
+      <tli id="Artur-J-Gvecg-P580009.t48.w5" time="163.857" />
+      <tli id="Artur-J-Gvecg-P580009.t48.w6" time="164.317" />
+      <tli id="Artur-J-Gvecg-P580009.t48.w6_" time="164.3171" />
+      <tli id="Artur-J-Gvecg-P580009.t49" time="164.63292321276336" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w0" time="165.163" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w1" time="165.443" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w2" time="165.693" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w3" time="166.203" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w4" time="166.553" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w4_" time="166.5531" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w5" time="166.683" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w6" time="167.383" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w7" time="167.483" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w8" time="167.693" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w9" time="168.033" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w9_" time="168.0331" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w10" time="168.143" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w11" time="168.353" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w12" time="168.993" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w13" time="169.123" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w14" time="169.223" />
+      <tli id="Artur-J-Gvecg-P580009.t49.w15" time="169.653" />
+      <tli id="Artur-J-Gvecg-P580009.t50" time="170.43957541435546" />
+      <tli id="Artur-J-Gvecg-P580009.t50.w0" time="170.808" />
+      <tli id="Artur-J-Gvecg-P580009.t50.w1" time="171.128" />
+      <tli id="Artur-J-Gvecg-P580009.t50.w2" time="171.73957217590595" />
+      <tli id="Artur-J-Gvecg-P580009.t50.w2_" time="171.73967217590595" />
+      <tli id="Artur-J-Gvecg-P580009.t51" time="172.40623718182925" />
+      <tli id="Artur-J-Gvecg-P580009.t51_" time="172.40633718182926" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w0" time="173.0129023372195" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w1" time="173.59290089237277" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w2" time="173.805" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w3" time="174.045" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w4" time="174.185" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w5" time="174.545" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w6" time="174.705" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w7" time="175.455" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w8" time="175.845" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w8_" time="175.8451" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w9" time="175.995" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w10" time="176.115" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w11" time="176.435" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w12" time="176.495" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w13" time="176.785" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w14" time="177.055" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w15" time="177.165" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w16" time="177.245" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w17" time="177.745" />
+      <tli id="Artur-J-Gvecg-P580009.t51.w17_" time="177.7451" />
+      <tli id="Artur-J-Gvecg-P580009.t52" time="178.44" />
+      <tli id="Artur-J-Gvecg-P580009.t52_" time="178.4401" />
+      <tli id="Artur-J-Gvecg-P580009.t53.w0" time="187.339" />
+      <tli id="Artur-J-Gvecg-P580009.t53.w1" time="188.019" />
+      <tli id="Artur-J-Gvecg-P580009.t53.w2" time="188.419" />
+      <tli id="Artur-J-Gvecg-P580009.t53.w3" time="188.849" />
+      <tli id="Artur-J-Gvecg-P580009.t53.w4" time="189.099" />
+      <tli id="Artur-J-Gvecg-P580009.t53.w5" time="189.339" />
+      <tli id="Artur-J-Gvecg-P580009.t53.w6" time="189.839" />
+      <tli id="Artur-J-Gvecg-P580009.t54" time="190.547" />
+      <tli id="Artur-J-Gvecg-P580009.t54_" time="190.5471" />
+      <tli id="Artur-J-Gvecg-P580009.t55.w0" time="192.041" />
+      <tli id="Artur-J-Gvecg-P580009.t55.w1" time="192.361" />
+      <tli id="Artur-J-Gvecg-P580009.t55.w2" time="193.341" />
+      <tli id="Artur-J-Gvecg-P580009.t55.w3" time="193.901" />
+      <tli id="Artur-J-Gvecg-P580009.t55.w4" time="194.221" />
+      <tli id="Artur-J-Gvecg-P580009.t56" time="194.8195146809712" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w0" time="195.991" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w1" time="196.191" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w1_" time="196.1911" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w2" time="196.371" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w3" time="196.681" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w4" time="196.831" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w5" time="197.151" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w6" time="197.241" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w7" time="197.651" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w7_" time="197.6511" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w8" time="197.981" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w9" time="198.141" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w10" time="198.521" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w10_" time="198.5211" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w11" time="198.681" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w12" time="198.96617101781422" />
+      <tli id="Artur-J-Gvecg-P580009.t56.w12_" time="198.96627101781422" />
+      <tli id="Artur-J-Gvecg-P580009.t57" time="199.1995037698874" />
+      <tli id="Artur-J-Gvecg-P580009.t57_" time="199.1996037698874" />
+      <tli id="Artur-J-Gvecg-P580009.t57.w0" time="200.389" />
+      <tli id="Artur-J-Gvecg-P580009.t57.w1" time="200.629" />
+      <tli id="Artur-J-Gvecg-P580009.t58" time="201.20616543771658" />
+      <tli id="Artur-J-Gvecg-P580009.t58_" time="201.20626543771658" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w0" time="202.229" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w1" time="202.389" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w2" time="202.689" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w3" time="202.839" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w4" time="203.189" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w5" time="203.279" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w6" time="203.629" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w6_" time="203.6291" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w7" time="204.199" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w8" time="204.379" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w9" time="204.509" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w10" time="204.699" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w11" time="204.819" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w12" time="205.089" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w13" time="205.639" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w14" time="205.709" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w15" time="206.529" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w15_" time="206.5291" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w16" time="206.909" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w17" time="207.029" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w18" time="207.159" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w19" time="207.609" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w19_" time="207.6091" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w20" time="207.719" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w21" time="208.039" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w22" time="208.329" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w22_" time="208.3291" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w23" time="208.539" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w23_" time="208.5391" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w24" time="208.899" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w24_" time="208.8991" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w25" time="209.249" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w25_" time="209.2491" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w26" time="209.389" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w27" time="209.559" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w28" time="210.199" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w28_" time="210.19910000000002" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w29" time="210.399" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w29_" time="210.3991" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w30" time="210.679" />
+      <tli id="Artur-J-Gvecg-P580009.t58.w31" time="210.879" />
+      <tli id="Artur-J-Gvecg-P580009.t59" time="211.17280727627022" />
+      <tli id="Artur-J-Gvecg-P580009.t59_" time="211.17290727627022" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w0" time="212.35" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w1" time="212.63" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w1_" time="212.6301" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w2" time="212.83" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w3" time="213.37" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w3_" time="213.3701" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w4" time="213.72" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w5" time="213.81" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w6" time="214.08" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w6_" time="214.08010000000002" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w7" time="214.35" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w7_" time="214.3501" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w8" time="214.44" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w9" time="215.26" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w9_" time="215.2601" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w10" time="216.26" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w10_" time="216.2601" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w11" time="216.37" />
+      <tli id="T2" time="216.66" type="intp" />
+      <tli id="T2_" time="216.6601" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w12" time="216.95" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w13" time="217.28" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w14" time="218.05" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w15" time="218.51" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w15_" time="218.5101" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w16" time="218.69" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w17" time="219.05" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w17_" time="219.05010000000001" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w18" time="219.2" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w19" time="219.28" />
+      <tli id="Artur-J-Gvecg-P580009.t59.w20" time="219.35" />
+      <tli id="Artur-J-Gvecg-P580009.t60" time="219.8194524030956" />
+      <tli id="Artur-J-Gvecg-P580009.t60_" time="219.8195524030956" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w0" time="220.647" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w1" time="221.147" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w2" time="221.247" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w3" time="221.747" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w4" time="222.317" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w4_" time="222.3171" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w5" time="222.867" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w5_" time="222.8671" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w6" time="223.877" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w6_" time="223.8771" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w7" time="225.17277240065988" />
+      <tli id="Artur-J-Gvecg-P580009.t60.w7_" time="225.17287240065988" />
+      <tli id="Artur-J-Gvecg-P580009.t61" time="225.73943765569467" />
+      <tli id="Artur-J-Gvecg-P580009.t61_" time="225.73953765569468" />
+      <tli id="Artur-J-Gvecg-P580009.t61.w0" time="225.996" />
+      <tli id="Artur-J-Gvecg-P580009.t61.w1" time="227.076" />
+      <tli id="Artur-J-Gvecg-P580009.t61.w2" time="227.166" />
+      <tli id="Artur-J-Gvecg-P580009.t61.w3" time="227.69276612305" />
+      <tli id="Artur-J-Gvecg-P580009.t62" time="228.31276457855867" />
+      <tli id="Artur-J-Gvecg-P580009.t62_" time="228.31286457855867" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w0" time="229.18609573631824" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w1" time="229.535" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w1_" time="229.5351" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w2" time="229.585" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w3" time="230.305" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w4" time="230.905" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w5" time="231.66608955835298" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w5_" time="231.66618955835298" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w6" time="232.245" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w6_" time="232.2451" />
+      <tli id="Artur-J-Gvecg-P580009.t62.w7" time="232.90608646937036" />
+      <tli id="Artur-J-Gvecg-P580009.t63" time="233.50608497470134" />
+      <tli id="Artur-J-Gvecg-P580009.t63_" time="233.50618497470134" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w0" time="234.101" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w1" time="234.951" />
+      <tli id="T6" time="236.15941169827616" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w2" time="236.491" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w3" time="237.191" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w4" time="237.671" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w4_" time="237.6711" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w5" time="237.841" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w6" time="238.001" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w7" time="238.181" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w8" time="238.341" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w9" time="238.871" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w10" time="239.441" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w11" time="240.001" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w12" time="240.181" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w13" time="240.241" />
+      <tli id="Artur-J-Gvecg-P580009.t63.w14" time="240.551" />
+      <tli id="Artur-J-Gvecg-P580009.t64" time="241.35273209441877" />
+      <tli id="Artur-J-Gvecg-P580009.t64_" time="241.35283209441877" />
+      <tli id="Artur-J-Gvecg-P580009.t64.w0" time="242.10606355111213" />
+      <tli id="Artur-J-Gvecg-P580009.t64.w1" time="242.6393955558508" />
+      <tli id="Artur-J-Gvecg-P580009.t64.w1_" time="242.6394955558508" />
+      <tli id="Artur-J-Gvecg-P580009.t64.w2" time="242.811" />
+      <tli id="Artur-J-Gvecg-P580009.t64.w3" time="242.901" />
+      <tli id="Artur-J-Gvecg-P580009.t64.w4" time="243.191" />
+      <tli id="Artur-J-Gvecg-P580009.t65" time="244.0060588179936" />
+      <tli id="Artur-J-Gvecg-P580009.t65_" time="244.0061588179936" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w0" time="244.34" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w1" time="244.88" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w2" time="245.18" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w3" time="245.37" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w4" time="245.55" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w5" time="245.99272053564508" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w5_" time="245.99282053564508" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w6" time="246.25" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w6_" time="246.2501" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w7" time="246.57" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w8" time="246.71" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w9" time="246.9793847444116" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w10" time="247.08605114535936" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w11" time="247.42" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w12" time="247.91" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w12_" time="247.9101" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w13" time="248.65" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w13_" time="248.6501" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w14" time="249.31" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w15" time="249.78" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w16" time="250.18" />
+      <tli id="Artur-J-Gvecg-P580009.t65.w16_" time="250.1801" />
+      <tli id="Artur-J-Gvecg-P580009.t66" time="250.4727093754498" />
+      <tli id="Artur-J-Gvecg-P580009.t66_" time="250.4728093754498" />
+      <tli id="Artur-J-Gvecg-P580009.t66.w0" time="251.5993732354602" />
+      <tli id="Artur-J-Gvecg-P580009.t67" time="252.2993714916797" />
+      <tli id="Artur-J-Gvecg-P580009.t67_" time="252.2994714916797" />
+      <tli id="Artur-J-Gvecg-P580009.t67.w0" time="252.618" />
+      <tli id="Artur-J-Gvecg-P580009.t67.w1" time="252.858" />
+      <tli id="Artur-J-Gvecg-P580009.t68" time="253.27936905038695" />
+      <tli id="Artur-J-Gvecg-P580009.t68.w0" time="253.679" />
+      <tli id="Artur-J-Gvecg-P580009.t68.w1" time="254.109" />
+      <tli id="Artur-J-Gvecg-P580009.t68.w2" time="254.269" />
+      <tli id="Artur-J-Gvecg-P580009.t68.w3" time="254.429" />
+      <tli id="Artur-J-Gvecg-P580009.t68.w4" time="254.959" />
+      <tli id="Artur-J-Gvecg-P580009.t68.w5" time="255.579" />
+      <tli id="Artur-J-Gvecg-P580009.t68.w6" time="256.249" />
+      <tli id="Artur-J-Gvecg-P580009.t68.w7" time="256.389" />
+      <tli id="Artur-J-Gvecg-P580009.t69" time="257.16602603491987" />
+      <tli id="Artur-J-Gvecg-P580009.t69_" time="257.16612603491984" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w0" time="258.2793565948118" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w1" time="258.417" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w2" time="258.487" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w3" time="258.897" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w3_" time="258.89709999999997" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w4" time="259.027" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w5" time="259.147" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w6" time="259.427" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w7" time="259.607" />
+      <tli id="T7" time="260.3793513634703" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w8" time="260.527" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w9" time="261.217" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w9_" time="261.21709999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w10" time="261.477" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w10_" time="261.47709999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w11" time="261.637" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w12" time="262.067" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w12_" time="262.0671" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w13" time="262.217" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w14" time="262.367" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w15" time="262.577" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w16" time="263.017" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w17" time="263.197" />
+      <tli id="Artur-J-Gvecg-P580009.t69.w18" time="263.397" />
+      <tli id="Artur-J-Gvecg-P580009.t70" time="264.0193422958116" />
+      <tli id="Artur-J-Gvecg-P580009.t70_" time="264.0194422958116" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w0" time="264.7126739019718" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w1" time="264.897" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w1_" time="264.89709999999997" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w2" time="265.027" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w3" time="265.187" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w4" time="265.307" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w5" time="266.127" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w5_" time="266.1271" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w6" time="266.697" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w7" time="266.837" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w8" time="267.267" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w9" time="267.567" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w9_" time="267.5671" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w10" time="268.067" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w11" time="268.197" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w12" time="268.817" />
+      <tli id="Artur-J-Gvecg-P580009.t70.w12_" time="268.8171" />
+      <tli id="Artur-J-Gvecg-P580009.t71" time="269.1393295413027" />
+      <tli id="Artur-J-Gvecg-P580009.t71_" time="269.13942954130266" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w0" time="269.528" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w1" time="269.868" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w2" time="269.998" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w3" time="270.518" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w3_" time="270.51809999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w4" time="270.658" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w5" time="270.778" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w6" time="270.998" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w7" time="271.368" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w7_" time="271.36809999999997" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w8" time="271.828" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w8_" time="271.82809999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w9" time="272.158" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w10" time="272.228" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w11" time="272.528" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w12" time="272.958" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w12_" time="272.9581" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w13" time="273.098" />
+      <tli id="Artur-J-Gvecg-P580009.t71.w14" time="273.258" />
+      <tli id="Artur-J-Gvecg-P580009.t72" time="273.9593175341283" />
+      <tli id="Artur-J-Gvecg-P580009.t72_" time="273.95941753412825" />
+      <tli id="Artur-J-Gvecg-P580009.t72.w0" time="274.7059823407624" />
+      <tli id="Artur-J-Gvecg-P580009.t72.w1" time="275.0926480441979" />
+      <tli id="Artur-J-Gvecg-P580009.t72.w1_" time="275.0927480441979" />
+      <tli id="Artur-J-Gvecg-P580009.t72.w2" time="275.829" />
+      <tli id="Artur-J-Gvecg-P580009.t73" time="276.55931105722925" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w0" time="277.35264241427797" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w1" time="277.773" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w1_" time="277.7731" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w2" time="278.163" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w3" time="278.383" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w4" time="278.583" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w5" time="278.943" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w5_" time="278.94309999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w6" time="279.143" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w7" time="279.313" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w8" time="280.023" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w8_" time="280.0231" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w9" time="280.313" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w9_" time="280.31309999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w10" time="280.453" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w11" time="280.643" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w12" time="281.003" />
+      <tli id="Artur-J-Gvecg-P580009.t73.w12_" time="281.00309999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t74" time="281.412632300351" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w0" time="281.681" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w1" time="281.831" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w2" time="282.201" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w3" time="282.321" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w4" time="282.521" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w5" time="282.681" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w6" time="282.881" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w6_" time="282.88109999999995" />
+      <tli id="T8" time="283.2059611662847" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w7" time="283.341" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w8" time="283.531" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w9" time="283.751" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w10" time="284.491" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w10_" time="284.49109999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w11" time="284.631" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w11_" time="284.63109999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w12" time="284.791" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w13" time="284.851" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w14" time="285.161" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w15" time="285.691" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w16" time="286.201" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w16_" time="286.2011" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w17" time="286.541" />
+      <tli id="Artur-J-Gvecg-P580009.t74.w18" time="286.631" />
+      <tli id="Artur-J-Gvecg-P580009.t75" time="287.53928370478627" />
+      <tli id="Artur-J-Gvecg-P580009.t75_" time="287.53938370478625" />
+      <tli id="Artur-J-Gvecg-P580009.t75.w0" time="288.14" />
+      <tli id="Artur-J-Gvecg-P580009.t75.w1" time="289.09" />
+      <tli id="Artur-J-Gvecg-P580009.t75.w1_" time="289.09009999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t75.w2" time="289.22" />
+      <tli id="Artur-J-Gvecg-P580009.t75.w3" time="289.35" />
+      <tli id="Artur-J-Gvecg-P580009.t75.w4" time="289.62" />
+      <tli id="Artur-J-Gvecg-P580009.t75.w4_" time="289.6201" />
+      <tli id="Artur-J-Gvecg-P580009.t76" time="289.9592776762879" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w0" time="290.75" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w1" time="291.07" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w2" time="291.43" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w3" time="291.8" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w3_" time="291.8001" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w4" time="292.28" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w4_" time="292.28009999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w5" time="292.49927134885576" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w6" time="292.8" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w7" time="292.9" />
+      <tli id="Artur-J-Gvecg-P580009.t76.w8" time="293.18" />
+      <tli id="Artur-J-Gvecg-P580009.t77" time="293.85926796093935" />
+      <tli id="Artur-J-Gvecg-P580009.t77_" time="293.8593679609393" />
+      <tli id="Artur-J-Gvecg-P580009.t77.w0" time="294.751" />
+      <tli id="Artur-J-Gvecg-P580009.t77.w1" time="294.911" />
+      <tli id="Artur-J-Gvecg-P580009.t78" time="295.79259647811693" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w0" time="296.628" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w1" time="297.028" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w2" time="297.728" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w3" time="297.90592454689386" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w4" time="298.248" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w5" time="298.918" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w5_" time="298.9181" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w6" time="299.138" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w7" time="299.208" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w8" time="299.498" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w9" time="300.048" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w10" time="300.8592505231341" />
+      <tli id="Artur-J-Gvecg-P580009.t78.w10_" time="300.8593505231341" />
+      <tli id="Artur-J-Gvecg-P580009.t79" time="301.3059160771028" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w0" time="301.723" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w1" time="301.903" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w1_" time="301.9031" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w2" time="302.123" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w3" time="302.233" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w4" time="302.333" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w5" time="302.773" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w6" time="302.933" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w7" time="303.803" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w7_" time="303.8031" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w8" time="304.033" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w9" time="304.313" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w9_" time="304.31309999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w10" time="304.473" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w11" time="304.593" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w12" time="304.783" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w13" time="304.953" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w14" time="305.183" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w15" time="305.753" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w16" time="306.043" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w17" time="306.563" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w18" time="306.973" />
+      <tli id="Artur-J-Gvecg-P580009.t79.w19" time="307.123" />
+      <tli id="Artur-J-Gvecg-P580009.t80" time="307.87256638544744" />
+      <tli id="Artur-J-Gvecg-P580009.t80_" time="307.8726663854474" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w0" time="308.398" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w1" time="308.648" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w2" time="309.2725628978864" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w2_" time="309.2726628978864" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w3" time="309.628" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w3_" time="309.62809999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w4" time="310.118" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w4_" time="310.11809999999997" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w5" time="310.338" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w6" time="310.518" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w7" time="310.658" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w8" time="311.498" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w8_" time="311.49809999999997" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w9" time="311.848" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w10" time="312.008" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w11" time="312.308" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w12" time="312.698" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w12_" time="312.69809999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w13" time="313.568" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w14" time="314.068" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w15" time="314.168" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w16" time="314.528" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w16_" time="314.5281" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w17" time="314.628" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w18" time="314.788" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w19" time="315.338" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w20" time="315.398" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w21" time="315.648" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w22" time="316.178" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w22_" time="316.1781" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w23" time="316.308" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w24" time="316.458" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w25" time="316.798" />
+      <tli id="Artur-J-Gvecg-P580009.t80.w26" time="317.358" />
+      <tli id="Artur-J-Gvecg-P580009.t81" time="317.9125413746526" />
+      <tli id="Artur-J-Gvecg-P580009.t81_" time="317.9126413746526" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w0" time="318.73920598199754" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w1" time="319.803" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w1_" time="319.8031" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w2" time="320.433" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w3" time="320.673" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w3_" time="320.6731" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w4" time="320.843" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w5" time="321.913" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w6" time="322.503" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w7" time="323.033" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w8" time="323.313" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w8_" time="323.31309999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w9" time="323.473" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w10" time="324.3525253318719" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w11" time="324.543" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w12" time="325.193" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w13" time="325.633" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w14" time="326.213" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w14_" time="326.2131" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w15" time="326.683" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w16" time="326.793" />
+      <tli id="Artur-J-Gvecg-P580009.t81.w17" time="327.033" />
+      <tli id="Artur-J-Gvecg-P580009.t82" time="327.57251731048154" />
+      <tli id="Artur-J-Gvecg-P580009.t82_" time="327.5726173104815" />
+      <tli id="Artur-J-Gvecg-P580009.t82.w0" time="328.533" />
+      <tli id="Artur-J-Gvecg-P580009.t82.w1" time="328.673" />
+      <tli id="Artur-J-Gvecg-P580009.t82.w2" time="328.763" />
+      <tli id="Artur-J-Gvecg-P580009.t82.w3" time="328.953" />
+      <tli id="Artur-J-Gvecg-P580009.t82.w4" time="329.083" />
+      <tli id="Artur-J-Gvecg-P580009.t83" time="329.6791787291992" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w0" time="330.88" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w1" time="331.38" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w2" time="332.08583940058236" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w2_" time="332.08593940058233" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w3" time="332.44" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w3_" time="332.4401" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w4" time="333.04" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w4_" time="333.0401" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w5" time="333.24" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w5_" time="333.2401" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w6" time="333.59" />
+      <tli id="T9" time="334.532499972321" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w7" time="334.75" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w8" time="335.21916492842195" />
+      <tli id="Artur-J-Gvecg-P580009.t83.w8_" time="335.2192649284219" />
+      <tli id="Artur-J-Gvecg-P580009.t84" time="335.6058306318575" />
+      <tli id="Artur-J-Gvecg-P580009.t84_" time="335.60593063185746" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w0" time="336.061" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w1" time="336.501" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w2" time="336.741" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w3" time="336.931" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w3_" time="336.93109999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w4" time="337.091" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w5" time="337.221" />
+      <tli id="T3" time="337.4524926982651" />
+      <tli id="T3_" time="337.45259269826505" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w6" time="337.751" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w7" time="337.851" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w8" time="338.121" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w9" time="338.27915730561" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w10" time="338.691" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w10_" time="338.69109999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w11" time="338.791" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w12" time="339.501" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w13" time="339.571" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w14" time="339.821" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w15" time="340.211" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w15_" time="340.2111" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w16" time="340.291" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w17" time="340.531" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w18" time="340.781" />
+      <tli id="Artur-J-Gvecg-P580009.t84.w18_" time="340.7811" />
+      <tli id="Artur-J-Gvecg-P580009.t85" time="341.0058171798364" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w0" time="341.569" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w1" time="342.139" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w2" time="342.249" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w3" time="342.429" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w4" time="342.899" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w4_" time="342.8991" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w5" time="343.009" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w5_" time="343.0091" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w6" time="343.189" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w7" time="343.469" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w8" time="343.929" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w9" time="344.019" />
+      <tli id="Artur-J-Gvecg-P580009.t85.w10" time="344.42580866022297" />
+      <tli id="Artur-J-Gvecg-P580009.t86" time="344.6458081121777" />
+      <tli id="Artur-J-Gvecg-P580009.t86.w0" time="345.0458071157317" />
+      <tli id="Artur-J-Gvecg-P580009.t86.w1" time="345.4391394692264" />
+      <tli id="Artur-J-Gvecg-P580009.t87" time="345.7924719223658" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w0" time="346.25" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w1" time="346.44" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w2" time="347.13" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w3" time="347.25" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w4" time="347.82" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w5" time="348.55" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w5_" time="348.5501" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w6" time="348.92" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w7" time="349.04" />
+      <tli id="Artur-J-Gvecg-P580009.t87.w8" time="349.26" />
+      <tli id="Artur-J-Gvecg-P580009.t88" time="350.1124611607489" />
+      <tli id="Artur-J-Gvecg-P580009.t88_" time="350.1125611607489" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w0" time="350.561" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w1" time="350.781" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w2" time="351.151" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w3" time="351.721" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w3_" time="351.7211" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w4" time="351.911" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w5" time="352.301" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w6" time="352.921" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w6_" time="352.92109999999997" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w7" time="353.091" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w7_" time="353.0911" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w8" time="353.261" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w9" time="353.981" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w10" time="354.361" />
+      <tli id="Artur-J-Gvecg-P580009.t88.w10_" time="354.36109999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t89" time="354.63244990090897" />
+      <tli id="Artur-J-Gvecg-P580009.t89_" time="354.63254990090894" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w0" time="355.079" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w1" time="355.279" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w2" time="355.379" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w3" time="355.469" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w4" time="355.669" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w5" time="355.889" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w5_" time="355.8891" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w6" time="355.989" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w7" time="356.199" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w8" time="356.319" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w9" time="356.979" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w10" time="357.239" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w10_" time="357.23909999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w11" time="357.4524428759646" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w12" time="357.799" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w12_" time="357.79909999999995" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w13" time="358.019" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w14" time="358.669" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w14_" time="358.66909999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w15" time="359.169" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w15_" time="359.16909999999996" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w16" time="359.279" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w17" time="359.369" />
+      <tli id="Artur-J-Gvecg-P580009.t89.w18" time="359.589" />
+      <tli id="Artur-J-Gvecg-P580009.t90" time="359.85243689728856" />
+      <tli id="Artur-J-Gvecg-P580009.t90_" time="359.85253689728853" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w0" time="360.551" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w1" time="360.981" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w2" time="361.231" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w3" time="361.461" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w4" time="361.881" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w5" time="362.5324302211003" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w5_" time="362.5325302211003" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w6" time="362.591" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w7" time="362.741" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w8" time="363.321" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w8_" time="363.3211" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w9" time="363.461" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w10" time="363.661" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w10_" time="363.6611" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w11" time="363.771" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w12" time="364.011" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w13" time="364.391" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w14" time="364.771" />
+      <tli id="Artur-J-Gvecg-P580009.t90.w15" time="364.961" />
+      <tli id="Artur-J-Gvecg-P580009.t91" time="365.757" />
+      <tli id="T0" time="1204.276" />
     </common-timeline>
     <segmented-tier id="7" speaker="Artur-J-G4538" category="v" type="t" display-name="Artur-J-G4538 [norm]">
       <segmentation name="SpeakerContribution_Word" tierref="7">
@@ -5776,7 +5776,7 @@
         <ta id="Seg_5990" s="Artur-J-Gvecg-P580009.t80.w12_" e="Artur-J-Gvecg-P580009.t80.w13">seveda(:) </ta>
         <ta id="Seg_5991" s="T3_" e="Artur-J-Gvecg-P580009.t84.w6">recimo </ta>
       </annotation>
-      <annotation name="nonverbalDisfluency" tierref="9">
+      <annotation name="vocalDisfluency" tierref="9">
         <ta id="Seg_5992" s="Artur-J-Gvecg-P580009.t15_" e="Artur-J-Gvecg-P580009.t15.w0">silentPause </ta>
         <ta id="Seg_5993" s="T1" e="Artur-J-Gvecg-P580009.t15.w5">filledPause </ta>
         <ta id="Seg_5994" s="Artur-J-Gvecg-P580009.t15.w11_" e="Artur-J-Gvecg-P580009.t16">filledPause </ta>
@@ -11696,101 +11696,101 @@
         <ta id="Seg_11888" s="Artur-J-Gvecg-P580009.t90" e="Artur-J-Gvecg-P580009.t90_">punct</ta>
       </annotation>
       <annotation name="prosodicUnits" tierref="Artur-J-G4538 [prosodicUnits]">
-        <ta id="Seg_11889" s="Artur-J-Gvecg-P580009.t6.w0" e="Artur-J-Gvecg-P580009.t6.w1">Artur-J-Gvecg-P580009.tok38</ta>
-        <ta id="Seg_11890" s="Artur-J-Gvecg-P580009.t6.w1" e="Artur-J-Gvecg-P580009.t7">Artur-J-Gvecg-P580009.tok39</ta>
-        <ta id="Seg_11891" s="Artur-J-Gvecg-P580009.t8.w0" e="Artur-J-Gvecg-P580009.t9">Artur-J-Gvecg-P580009.tok53</ta>
-        <ta id="Seg_11892" s="Artur-J-Gvecg-P580009.t12.w0" e="Artur-J-Gvecg-P580009.t13">Artur-J-Gvecg-P580009.tok82</ta>
-        <ta id="Seg_11893" s="Artur-J-Gvecg-P580009.t14.w0" e="Artur-J-Gvecg-P580009.t15">Artur-J-Gvecg-P580009.tok84</ta>
-        <ta id="Seg_11894" s="Artur-J-Gvecg-P580009.t15.w0" e="Artur-J-Gvecg-P580009.t16">Artur-J-Gvecg-P580009.tok86Artur-J-Gvecg-P580009.tok87Artur-J-Gvecg-P580009.tok88Artur-J-Gvecg-P580009.tok90Artur-J-Gvecg-P580009.tok92Artur-J-Gvecg-P580009.tok93Artur-J-Gvecg-P580009.tok94Artur-J-Gvecg-P580009.tok95Artur-J-Gvecg-P580009.tok96Artur-J-Gvecg-P580009.tok97Artur-J-Gvecg-P580009.tok99Artur-J-Gvecg-P580009.tok101</ta>
-        <ta id="Seg_11895" s="Artur-J-Gvecg-P580009.t16.w0" e="Artur-J-Gvecg-P580009.t17">Artur-J-Gvecg-P580009.tok103Artur-J-Gvecg-P580009.tok104Artur-J-Gvecg-P580009.tok105Artur-J-Gvecg-P580009.tok106Artur-J-Gvecg-P580009.tok107Artur-J-Gvecg-P580009.tok108Artur-J-Gvecg-P580009.tok109Artur-J-Gvecg-P580009.tok111Artur-J-Gvecg-P580009.tok112Artur-J-Gvecg-P580009.tok113</ta>
-        <ta id="Seg_11896" s="Artur-J-Gvecg-P580009.t19.w0" e="Artur-J-Gvecg-P580009.t20">Artur-J-Gvecg-P580009.tok136Artur-J-Gvecg-P580009.tok138Artur-J-Gvecg-P580009.tok139Artur-J-Gvecg-P580009.tok140Artur-J-Gvecg-P580009.tok142Artur-J-Gvecg-P580009.tok143Artur-J-Gvecg-P580009.tok145Artur-J-Gvecg-P580009.tok146Artur-J-Gvecg-P580009.tok147</ta>
-        <ta id="Seg_11897" s="Artur-J-Gvecg-P580009.t20.w0" e="Artur-J-Gvecg-P580009.t21">Artur-J-Gvecg-P580009.tok149Artur-J-Gvecg-P580009.tok151Artur-J-Gvecg-P580009.tok152Artur-J-Gvecg-P580009.tok153Artur-J-Gvecg-P580009.tok154Artur-J-Gvecg-P580009.tok155</ta>
-        <ta id="Seg_11898" s="Artur-J-Gvecg-P580009.t22.w0" e="Artur-J-Gvecg-P580009.t24">Artur-J-Gvecg-P580009.tok157Artur-J-Gvecg-P580009.tok158Artur-J-Gvecg-P580009.tok159Artur-J-Gvecg-P580009.tok160Artur-J-Gvecg-P580009.tok161Artur-J-Gvecg-P580009.tok162Artur-J-Gvecg-P580009.tok164Artur-J-Gvecg-P580009.tok165Artur-J-Gvecg-P580009.tok167Artur-J-Gvecg-P580009.tok168Artur-J-Gvecg-P580009.tok169Artur-J-Gvecg-P580009.tok171Artur-J-Gvecg-P580009.tok172</ta>
-        <ta id="Seg_11899" s="Artur-J-Gvecg-P580009.t24.w0" e="Artur-J-Gvecg-P580009.t25">Artur-J-Gvecg-P580009.tok174</ta>
-        <ta id="Seg_11900" s="Artur-J-Gvecg-P580009.t25.w0" e="Artur-J-Gvecg-P580009.t26">Artur-J-Gvecg-P580009.tok176Artur-J-Gvecg-P580009.tok177Artur-J-Gvecg-P580009.tok178Artur-J-Gvecg-P580009.tok179Artur-J-Gvecg-P580009.tok180Artur-J-Gvecg-P580009.tok181Artur-J-Gvecg-P580009.tok183Artur-J-Gvecg-P580009.tok184Artur-J-Gvecg-P580009.tok185Artur-J-Gvecg-P580009.tok186Artur-J-Gvecg-P580009.tok187Artur-J-Gvecg-P580009.tok188Artur-J-Gvecg-P580009.tok189</ta>
-        <ta id="Seg_11901" s="Artur-J-Gvecg-P580009.t26.w0" e="Artur-J-Gvecg-P580009.t26.w5">Artur-J-Gvecg-P580009.tok191Artur-J-Gvecg-P580009.tok192Artur-J-Gvecg-P580009.tok194Artur-J-Gvecg-P580009.tok195Artur-J-Gvecg-P580009.tok196</ta>
-        <ta id="Seg_11902" s="Artur-J-Gvecg-P580009.t26.w5_" e="Artur-J-Gvecg-P580009.t27">Artur-J-Gvecg-P580009.tok198Artur-J-Gvecg-P580009.tok199Artur-J-Gvecg-P580009.tok200Artur-J-Gvecg-P580009.tok201Artur-J-Gvecg-P580009.tok202Artur-J-Gvecg-P580009.tok204Artur-J-Gvecg-P580009.tok205Artur-J-Gvecg-P580009.tok206Artur-J-Gvecg-P580009.tok207Artur-J-Gvecg-P580009.tok208Artur-J-Gvecg-P580009.tok209</ta>
-        <ta id="Seg_11903" s="Artur-J-Gvecg-P580009.t27.w0" e="Artur-J-Gvecg-P580009.t28">Artur-J-Gvecg-P580009.tok211Artur-J-Gvecg-P580009.tok212Artur-J-Gvecg-P580009.tok214Artur-J-Gvecg-P580009.tok216Artur-J-Gvecg-P580009.tok217Artur-J-Gvecg-P580009.tok218Artur-J-Gvecg-P580009.tok219Artur-J-Gvecg-P580009.tok220Artur-J-Gvecg-P580009.tok221Artur-J-Gvecg-P580009.tok222Artur-J-Gvecg-P580009.tok224</ta>
-        <ta id="Seg_11904" s="Artur-J-Gvecg-P580009.t28.w0" e="Artur-J-Gvecg-P580009.t29">Artur-J-Gvecg-P580009.tok226Artur-J-Gvecg-P580009.tok227Artur-J-Gvecg-P580009.tok229Artur-J-Gvecg-P580009.tok230Artur-J-Gvecg-P580009.tok231Artur-J-Gvecg-P580009.tok233Artur-J-Gvecg-P580009.tok234Artur-J-Gvecg-P580009.tok235Artur-J-Gvecg-P580009.tok236</ta>
-        <ta id="Seg_11905" s="Artur-J-Gvecg-P580009.t35.w0" e="Artur-J-Gvecg-P580009.t36">Artur-J-Gvecg-P580009.tok305Artur-J-Gvecg-P580009.tok306Artur-J-Gvecg-P580009.tok308Artur-J-Gvecg-P580009.tok309Artur-J-Gvecg-P580009.tok311Artur-J-Gvecg-P580009.tok313Artur-J-Gvecg-P580009.tok315</ta>
-        <ta id="Seg_11906" s="Artur-J-Gvecg-P580009.t36.w0" e="Artur-J-Gvecg-P580009.t37">Artur-J-Gvecg-P580009.tok317Artur-J-Gvecg-P580009.tok319Artur-J-Gvecg-P580009.tok320Artur-J-Gvecg-P580009.tok322</ta>
-        <ta id="Seg_11907" s="Artur-J-Gvecg-P580009.t37.w0" e="Artur-J-Gvecg-P580009.t38">Artur-J-Gvecg-P580009.tok323Artur-J-Gvecg-P580009.tok324Artur-J-Gvecg-P580009.tok325Artur-J-Gvecg-P580009.tok326Artur-J-Gvecg-P580009.tok328Artur-J-Gvecg-P580009.tok329Artur-J-Gvecg-P580009.tok330Artur-J-Gvecg-P580009.tok331Artur-J-Gvecg-P580009.tok333Artur-J-Gvecg-P580009.tok334Artur-J-Gvecg-P580009.tok335Artur-J-Gvecg-P580009.tok337Artur-J-Gvecg-P580009.tok338Artur-J-Gvecg-P580009.tok339Artur-J-Gvecg-P580009.tok340Artur-J-Gvecg-P580009.tok341Artur-J-Gvecg-P580009.tok342Artur-J-Gvecg-P580009.tok343Artur-J-Gvecg-P580009.tok345Artur-J-Gvecg-P580009.tok346Artur-J-Gvecg-P580009.tok347Artur-J-Gvecg-P580009.tok349Artur-J-Gvecg-P580009.tok350</ta>
-        <ta id="Seg_11908" s="Artur-J-Gvecg-P580009.t38.w0" e="Artur-J-Gvecg-P580009.t39">Artur-J-Gvecg-P580009.tok351Artur-J-Gvecg-P580009.tok352Artur-J-Gvecg-P580009.tok353</ta>
-        <ta id="Seg_11909" s="Artur-J-Gvecg-P580009.t39.w0" e="Artur-J-Gvecg-P580009.t40">Artur-J-Gvecg-P580009.tok354Artur-J-Gvecg-P580009.tok356Artur-J-Gvecg-P580009.tok357Artur-J-Gvecg-P580009.tok358Artur-J-Gvecg-P580009.tok359Artur-J-Gvecg-P580009.tok360Artur-J-Gvecg-P580009.tok361Artur-J-Gvecg-P580009.tok362Artur-J-Gvecg-P580009.tok363Artur-J-Gvecg-P580009.tok364Artur-J-Gvecg-P580009.tok365Artur-J-Gvecg-P580009.tok366Artur-J-Gvecg-P580009.tok367</ta>
-        <ta id="Seg_11910" s="Artur-J-Gvecg-P580009.t40.w0" e="Artur-J-Gvecg-P580009.t40.w1">Artur-J-Gvecg-P580009.tok369</ta>
-        <ta id="Seg_11911" s="Artur-J-Gvecg-P580009.t40.w1_" e="Artur-J-Gvecg-P580009.t41.w8">Artur-J-Gvecg-P580009.tok371Artur-J-Gvecg-P580009.tok372Artur-J-Gvecg-P580009.tok373Artur-J-Gvecg-P580009.tok374Artur-J-Gvecg-P580009.tok375Artur-J-Gvecg-P580009.tok376Artur-J-Gvecg-P580009.tok377Artur-J-Gvecg-P580009.tok378Artur-J-Gvecg-P580009.tok380Artur-J-Gvecg-P580009.tok381</ta>
-        <ta id="Seg_11912" s="Artur-J-Gvecg-P580009.t41.w8_" e="Artur-J-Gvecg-P580009.t42">Artur-J-Gvecg-P580009.tok383Artur-J-Gvecg-P580009.tok384Artur-J-Gvecg-P580009.tok386Artur-J-Gvecg-P580009.tok387Artur-J-Gvecg-P580009.tok388Artur-J-Gvecg-P580009.tok389Artur-J-Gvecg-P580009.tok390</ta>
-        <ta id="Seg_11913" s="Artur-J-Gvecg-P580009.t42.w0" e="Artur-J-Gvecg-P580009.t42.w11">Artur-J-Gvecg-P580009.tok392Artur-J-Gvecg-P580009.tok393Artur-J-Gvecg-P580009.tok394Artur-J-Gvecg-P580009.tok395Artur-J-Gvecg-P580009.tok396Artur-J-Gvecg-P580009.tok397Artur-J-Gvecg-P580009.tok399Artur-J-Gvecg-P580009.tok400Artur-J-Gvecg-P580009.tok401Artur-J-Gvecg-P580009.tok403Artur-J-Gvecg-P580009.tok405</ta>
-        <ta id="Seg_11914" s="Artur-J-Gvecg-P580009.t42.w11" e="Artur-J-Gvecg-P580009.t43">Artur-J-Gvecg-P580009.tok406Artur-J-Gvecg-P580009.tok407Artur-J-Gvecg-P580009.tok408Artur-J-Gvecg-P580009.tok409</ta>
-        <ta id="Seg_11915" s="Artur-J-Gvecg-P580009.t43.w0" e="Artur-J-Gvecg-P580009.t44">Artur-J-Gvecg-P580009.tok411Artur-J-Gvecg-P580009.tok412Artur-J-Gvecg-P580009.tok413Artur-J-Gvecg-P580009.tok414</ta>
-        <ta id="Seg_11916" s="Artur-J-Gvecg-P580009.t44.w0" e="Artur-J-Gvecg-P580009.t45">Artur-J-Gvecg-P580009.tok416Artur-J-Gvecg-P580009.tok417Artur-J-Gvecg-P580009.tok419Artur-J-Gvecg-P580009.tok420Artur-J-Gvecg-P580009.tok421</ta>
-        <ta id="Seg_11917" s="Artur-J-Gvecg-P580009.t45.w0" e="Artur-J-Gvecg-P580009.t46">Artur-J-Gvecg-P580009.tok423Artur-J-Gvecg-P580009.tok424Artur-J-Gvecg-P580009.tok425Artur-J-Gvecg-P580009.tok426Artur-J-Gvecg-P580009.tok427Artur-J-Gvecg-P580009.tok428Artur-J-Gvecg-P580009.tok429Artur-J-Gvecg-P580009.tok431Artur-J-Gvecg-P580009.tok432Artur-J-Gvecg-P580009.tok433Artur-J-Gvecg-P580009.tok434Artur-J-Gvecg-P580009.tok435Artur-J-Gvecg-P580009.tok436Artur-J-Gvecg-P580009.tok437Artur-J-Gvecg-P580009.tok438</ta>
-        <ta id="Seg_11918" s="Artur-J-Gvecg-P580009.t46.w0" e="Artur-J-Gvecg-P580009.t46.w9">Artur-J-Gvecg-P580009.tok440Artur-J-Gvecg-P580009.tok441Artur-J-Gvecg-P580009.tok442Artur-J-Gvecg-P580009.tok443Artur-J-Gvecg-P580009.tok444Artur-J-Gvecg-P580009.tok445Artur-J-Gvecg-P580009.tok446Artur-J-Gvecg-P580009.tok447Artur-J-Gvecg-P580009.tok448</ta>
-        <ta id="Seg_11919" s="Artur-J-Gvecg-P580009.t46.w9_" e="Artur-J-Gvecg-P580009.t47">Artur-J-Gvecg-P580009.tok450</ta>
-        <ta id="Seg_11920" s="Artur-J-Gvecg-P580009.t47.w0" e="Artur-J-Gvecg-P580009.t49">Artur-J-Gvecg-P580009.tok452Artur-J-Gvecg-P580009.tok453Artur-J-Gvecg-P580009.tok454Artur-J-Gvecg-P580009.tok456Artur-J-Gvecg-P580009.tok457Artur-J-Gvecg-P580009.tok458Artur-J-Gvecg-P580009.tok459Artur-J-Gvecg-P580009.tok460Artur-J-Gvecg-P580009.tok462</ta>
-        <ta id="Seg_11921" s="Artur-J-Gvecg-P580009.t49.w0" e="Artur-J-Gvecg-P580009.t50">Artur-J-Gvecg-P580009.tok463Artur-J-Gvecg-P580009.tok464Artur-J-Gvecg-P580009.tok465Artur-J-Gvecg-P580009.tok466Artur-J-Gvecg-P580009.tok468Artur-J-Gvecg-P580009.tok469Artur-J-Gvecg-P580009.tok470Artur-J-Gvecg-P580009.tok471Artur-J-Gvecg-P580009.tok472Artur-J-Gvecg-P580009.tok474Artur-J-Gvecg-P580009.tok475Artur-J-Gvecg-P580009.tok476Artur-J-Gvecg-P580009.tok477Artur-J-Gvecg-P580009.tok478Artur-J-Gvecg-P580009.tok479Artur-J-Gvecg-P580009.tok480</ta>
-        <ta id="Seg_11922" s="Artur-J-Gvecg-P580009.t50.w0" e="Artur-J-Gvecg-P580009.t50.w2">Artur-J-Gvecg-P580009.tok481Artur-J-Gvecg-P580009.tok482</ta>
-        <ta id="Seg_11923" s="Artur-J-Gvecg-P580009.t50.w2_" e="Artur-J-Gvecg-P580009.t51">Artur-J-Gvecg-P580009.tok484</ta>
-        <ta id="Seg_11924" s="Artur-J-Gvecg-P580009.t51.w0" e="Artur-J-Gvecg-P580009.t52">Artur-J-Gvecg-P580009.tok486Artur-J-Gvecg-P580009.tok487Artur-J-Gvecg-P580009.tok488Artur-J-Gvecg-P580009.tok489Artur-J-Gvecg-P580009.tok490Artur-J-Gvecg-P580009.tok491Artur-J-Gvecg-P580009.tok492Artur-J-Gvecg-P580009.tok493Artur-J-Gvecg-P580009.tok495Artur-J-Gvecg-P580009.tok496Artur-J-Gvecg-P580009.tok497Artur-J-Gvecg-P580009.tok498Artur-J-Gvecg-P580009.tok499Artur-J-Gvecg-P580009.tok500Artur-J-Gvecg-P580009.tok501Artur-J-Gvecg-P580009.tok502Artur-J-Gvecg-P580009.tok503Artur-J-Gvecg-P580009.tok505</ta>
-        <ta id="Seg_11925" s="Artur-J-Gvecg-P580009.t56.w0" e="Artur-J-Gvecg-P580009.t56.w12">Artur-J-Gvecg-P580009.tok521Artur-J-Gvecg-P580009.tok523Artur-J-Gvecg-P580009.tok524Artur-J-Gvecg-P580009.tok525Artur-J-Gvecg-P580009.tok526Artur-J-Gvecg-P580009.tok527Artur-J-Gvecg-P580009.tok528Artur-J-Gvecg-P580009.tok530Artur-J-Gvecg-P580009.tok531Artur-J-Gvecg-P580009.tok532Artur-J-Gvecg-P580009.tok534Artur-J-Gvecg-P580009.tok535</ta>
-        <ta id="Seg_11926" s="Artur-J-Gvecg-P580009.t56.w12_" e="Artur-J-Gvecg-P580009.t57">Artur-J-Gvecg-P580009.tok537</ta>
-        <ta id="Seg_11927" s="Artur-J-Gvecg-P580009.t57.w0" e="Artur-J-Gvecg-P580009.t58">Artur-J-Gvecg-P580009.tok539Artur-J-Gvecg-P580009.tok540</ta>
-        <ta id="Seg_11928" s="Artur-J-Gvecg-P580009.t58.w0" e="Artur-J-Gvecg-P580009.t58.w7">Artur-J-Gvecg-P580009.tok542Artur-J-Gvecg-P580009.tok543Artur-J-Gvecg-P580009.tok544Artur-J-Gvecg-P580009.tok545Artur-J-Gvecg-P580009.tok546Artur-J-Gvecg-P580009.tok547Artur-J-Gvecg-P580009.tok549</ta>
-        <ta id="Seg_11929" s="Artur-J-Gvecg-P580009.t58.w7" e="Artur-J-Gvecg-P580009.t58.w12">Artur-J-Gvecg-P580009.tok550Artur-J-Gvecg-P580009.tok551Artur-J-Gvecg-P580009.tok552Artur-J-Gvecg-P580009.tok553Artur-J-Gvecg-P580009.tok554</ta>
-        <ta id="Seg_11930" s="Artur-J-Gvecg-P580009.t58.w12" e="Artur-J-Gvecg-P580009.t59">Artur-J-Gvecg-P580009.tok555Artur-J-Gvecg-P580009.tok556Artur-J-Gvecg-P580009.tok557Artur-J-Gvecg-P580009.tok559Artur-J-Gvecg-P580009.tok560Artur-J-Gvecg-P580009.tok561Artur-J-Gvecg-P580009.tok562Artur-J-Gvecg-P580009.tok564Artur-J-Gvecg-P580009.tok565Artur-J-Gvecg-P580009.tok566Artur-J-Gvecg-P580009.tok568Artur-J-Gvecg-P580009.tok570Artur-J-Gvecg-P580009.tok572Artur-J-Gvecg-P580009.tok574Artur-J-Gvecg-P580009.tok575Artur-J-Gvecg-P580009.tok576Artur-J-Gvecg-P580009.tok578Artur-J-Gvecg-P580009.tok580Artur-J-Gvecg-P580009.tok581Artur-J-Gvecg-P580009.tok582</ta>
-        <ta id="Seg_11931" s="Artur-J-Gvecg-P580009.t59.w0" e="Artur-J-Gvecg-P580009.t59.w2">Artur-J-Gvecg-P580009.tok584Artur-J-Gvecg-P580009.tok586</ta>
-        <ta id="Seg_11932" s="Artur-J-Gvecg-P580009.t59.w2" e="T2">Artur-J-Gvecg-P580009.tok587Artur-J-Gvecg-P580009.tok589Artur-J-Gvecg-P580009.tok590Artur-J-Gvecg-P580009.tok591Artur-J-Gvecg-P580009.tok593Artur-J-Gvecg-P580009.tok595Artur-J-Gvecg-P580009.tok596Artur-J-Gvecg-P580009.tok598Artur-J-Gvecg-P580009.tok600Artur-J-Gvecg-P580009.tok601</ta>
-        <ta id="Seg_11933" s="Artur-J-Gvecg-P580009.t59.w12" e="Artur-J-Gvecg-P580009.t59.w17">Artur-J-Gvecg-P580009.tok603Artur-J-Gvecg-P580009.tok604Artur-J-Gvecg-P580009.tok605Artur-J-Gvecg-P580009.tok607Artur-J-Gvecg-P580009.tok608</ta>
-        <ta id="Seg_11934" s="Artur-J-Gvecg-P580009.t59.w17_" e="Artur-J-Gvecg-P580009.t60">Artur-J-Gvecg-P580009.tok610Artur-J-Gvecg-P580009.tok611Artur-J-Gvecg-P580009.tok612Artur-J-Gvecg-P580009.tok613</ta>
-        <ta id="Seg_11935" s="Artur-J-Gvecg-P580009.t60.w0" e="Artur-J-Gvecg-P580009.t60.w4">Artur-J-Gvecg-P580009.tok615Artur-J-Gvecg-P580009.tok616Artur-J-Gvecg-P580009.tok617Artur-J-Gvecg-P580009.tok618</ta>
-        <ta id="Seg_11936" s="Artur-J-Gvecg-P580009.t60.w4_" e="Artur-J-Gvecg-P580009.t60.w5">Artur-J-Gvecg-P580009.tok620</ta>
-        <ta id="Seg_11937" s="Artur-J-Gvecg-P580009.t60.w5_" e="Artur-J-Gvecg-P580009.t60.w7">Artur-J-Gvecg-P580009.tok622Artur-J-Gvecg-P580009.tok624</ta>
-        <ta id="Seg_11938" s="Artur-J-Gvecg-P580009.t60.w7_" e="Artur-J-Gvecg-P580009.t62">Artur-J-Gvecg-P580009.tok626Artur-J-Gvecg-P580009.tok628Artur-J-Gvecg-P580009.tok629Artur-J-Gvecg-P580009.tok630Artur-J-Gvecg-P580009.tok631</ta>
-        <ta id="Seg_11939" s="Artur-J-Gvecg-P580009.t62.w0" e="Artur-J-Gvecg-P580009.t62.w6">Artur-J-Gvecg-P580009.tok633Artur-J-Gvecg-P580009.tok635Artur-J-Gvecg-P580009.tok636Artur-J-Gvecg-P580009.tok637Artur-J-Gvecg-P580009.tok638Artur-J-Gvecg-P580009.tok640</ta>
-        <ta id="Seg_11940" s="Artur-J-Gvecg-P580009.t62.w6_" e="Artur-J-Gvecg-P580009.t63">Artur-J-Gvecg-P580009.tok642Artur-J-Gvecg-P580009.tok643</ta>
-        <ta id="Seg_11941" s="Artur-J-Gvecg-P580009.t63.w0" e="T6">Artur-J-Gvecg-P580009.tok645Artur-J-Gvecg-P580009.tok646</ta>
-        <ta id="Seg_11942" s="Artur-J-Gvecg-P580009.t63.w2" e="Artur-J-Gvecg-P580009.t64">Artur-J-Gvecg-P580009.tok647Artur-J-Gvecg-P580009.tok648Artur-J-Gvecg-P580009.tok650Artur-J-Gvecg-P580009.tok651Artur-J-Gvecg-P580009.tok652Artur-J-Gvecg-P580009.tok653Artur-J-Gvecg-P580009.tok654Artur-J-Gvecg-P580009.tok655Artur-J-Gvecg-P580009.tok656Artur-J-Gvecg-P580009.tok657Artur-J-Gvecg-P580009.tok658Artur-J-Gvecg-P580009.tok659Artur-J-Gvecg-P580009.tok660</ta>
-        <ta id="Seg_11943" s="Artur-J-Gvecg-P580009.t64.w0" e="Artur-J-Gvecg-P580009.t64.w1">Artur-J-Gvecg-P580009.tok662</ta>
-        <ta id="Seg_11944" s="Artur-J-Gvecg-P580009.t64.w1_" e="Artur-J-Gvecg-P580009.t65">Artur-J-Gvecg-P580009.tok664Artur-J-Gvecg-P580009.tok665Artur-J-Gvecg-P580009.tok666Artur-J-Gvecg-P580009.tok667</ta>
-        <ta id="Seg_11945" s="Artur-J-Gvecg-P580009.t65.w0" e="Artur-J-Gvecg-P580009.t65.w5">Artur-J-Gvecg-P580009.tok669Artur-J-Gvecg-P580009.tok670Artur-J-Gvecg-P580009.tok671Artur-J-Gvecg-P580009.tok672Artur-J-Gvecg-P580009.tok673</ta>
-        <ta id="Seg_11946" s="Artur-J-Gvecg-P580009.t65.w5_" e="Artur-J-Gvecg-P580009.t65.w6">Artur-J-Gvecg-P580009.tok675</ta>
-        <ta id="Seg_11947" s="Artur-J-Gvecg-P580009.t65.w6_" e="Artur-J-Gvecg-P580009.t65.w12">Artur-J-Gvecg-P580009.tok677Artur-J-Gvecg-P580009.tok678Artur-J-Gvecg-P580009.tok679Artur-J-Gvecg-P580009.tok680Artur-J-Gvecg-P580009.tok681Artur-J-Gvecg-P580009.tok682</ta>
-        <ta id="Seg_11948" s="Artur-J-Gvecg-P580009.t65.w12_" e="Artur-J-Gvecg-P580009.t65.w13">Artur-J-Gvecg-P580009.tok684</ta>
-        <ta id="Seg_11949" s="Artur-J-Gvecg-P580009.t65.w13_" e="Artur-J-Gvecg-P580009.t66">Artur-J-Gvecg-P580009.tok686Artur-J-Gvecg-P580009.tok687Artur-J-Gvecg-P580009.tok688Artur-J-Gvecg-P580009.tok690</ta>
-        <ta id="Seg_11950" s="Artur-J-Gvecg-P580009.t66.w0" e="Artur-J-Gvecg-P580009.t67">Artur-J-Gvecg-P580009.tok692</ta>
-        <ta id="Seg_11951" s="Artur-J-Gvecg-P580009.t67.w0" e="Artur-J-Gvecg-P580009.t68">Artur-J-Gvecg-P580009.tok694Artur-J-Gvecg-P580009.tok695</ta>
-        <ta id="Seg_11952" s="Artur-J-Gvecg-P580009.t68.w0" e="Artur-J-Gvecg-P580009.t69">Artur-J-Gvecg-P580009.tok696Artur-J-Gvecg-P580009.tok697Artur-J-Gvecg-P580009.tok698Artur-J-Gvecg-P580009.tok699Artur-J-Gvecg-P580009.tok700Artur-J-Gvecg-P580009.tok701Artur-J-Gvecg-P580009.tok702Artur-J-Gvecg-P580009.tok703</ta>
-        <ta id="Seg_11953" s="Artur-J-Gvecg-P580009.t69.w0" e="Artur-J-Gvecg-P580009.t70">Artur-J-Gvecg-P580009.tok705Artur-J-Gvecg-P580009.tok706Artur-J-Gvecg-P580009.tok707Artur-J-Gvecg-P580009.tok709Artur-J-Gvecg-P580009.tok710Artur-J-Gvecg-P580009.tok711Artur-J-Gvecg-P580009.tok712Artur-J-Gvecg-P580009.tok713Artur-J-Gvecg-P580009.tok714Artur-J-Gvecg-P580009.tok716Artur-J-Gvecg-P580009.tok718Artur-J-Gvecg-P580009.tok719Artur-J-Gvecg-P580009.tok721Artur-J-Gvecg-P580009.tok722Artur-J-Gvecg-P580009.tok723Artur-J-Gvecg-P580009.tok724Artur-J-Gvecg-P580009.tok725Artur-J-Gvecg-P580009.tok726Artur-J-Gvecg-P580009.tok727</ta>
-        <ta id="Seg_11954" s="Artur-J-Gvecg-P580009.t70.w0" e="Artur-J-Gvecg-P580009.t71">Artur-J-Gvecg-P580009.tok729Artur-J-Gvecg-P580009.tok731Artur-J-Gvecg-P580009.tok732Artur-J-Gvecg-P580009.tok733Artur-J-Gvecg-P580009.tok734Artur-J-Gvecg-P580009.tok736Artur-J-Gvecg-P580009.tok737Artur-J-Gvecg-P580009.tok738Artur-J-Gvecg-P580009.tok739Artur-J-Gvecg-P580009.tok741Artur-J-Gvecg-P580009.tok742Artur-J-Gvecg-P580009.tok743Artur-J-Gvecg-P580009.tok745</ta>
-        <ta id="Seg_11955" s="Artur-J-Gvecg-P580009.t71.w0" e="Artur-J-Gvecg-P580009.t71.w8">Artur-J-Gvecg-P580009.tok747Artur-J-Gvecg-P580009.tok748Artur-J-Gvecg-P580009.tok749Artur-J-Gvecg-P580009.tok751Artur-J-Gvecg-P580009.tok752Artur-J-Gvecg-P580009.tok753Artur-J-Gvecg-P580009.tok754Artur-J-Gvecg-P580009.tok756</ta>
-        <ta id="Seg_11956" s="Artur-J-Gvecg-P580009.t71.w8_" e="Artur-J-Gvecg-P580009.t72">Artur-J-Gvecg-P580009.tok758Artur-J-Gvecg-P580009.tok759Artur-J-Gvecg-P580009.tok760Artur-J-Gvecg-P580009.tok761Artur-J-Gvecg-P580009.tok763Artur-J-Gvecg-P580009.tok764Artur-J-Gvecg-P580009.tok765</ta>
-        <ta id="Seg_11957" s="Artur-J-Gvecg-P580009.t72.w0" e="Artur-J-Gvecg-P580009.t72.w1">Artur-J-Gvecg-P580009.tok767</ta>
-        <ta id="Seg_11958" s="Artur-J-Gvecg-P580009.t72.w1_" e="Artur-J-Gvecg-P580009.t73">Artur-J-Gvecg-P580009.tok769Artur-J-Gvecg-P580009.tok770</ta>
-        <ta id="Seg_11959" s="Artur-J-Gvecg-P580009.t73.w0" e="Artur-J-Gvecg-P580009.t73.w8">Artur-J-Gvecg-P580009.tok771Artur-J-Gvecg-P580009.tok773Artur-J-Gvecg-P580009.tok774Artur-J-Gvecg-P580009.tok775Artur-J-Gvecg-P580009.tok776Artur-J-Gvecg-P580009.tok778Artur-J-Gvecg-P580009.tok779Artur-J-Gvecg-P580009.tok780</ta>
-        <ta id="Seg_11960" s="Artur-J-Gvecg-P580009.t73.w8_" e="Artur-J-Gvecg-P580009.t73.w9">Artur-J-Gvecg-P580009.tok782</ta>
-        <ta id="Seg_11961" s="Artur-J-Gvecg-P580009.t73.w9_" e="Artur-J-Gvecg-P580009.t74">Artur-J-Gvecg-P580009.tok784Artur-J-Gvecg-P580009.tok785Artur-J-Gvecg-P580009.tok786Artur-J-Gvecg-P580009.tok788</ta>
-        <ta id="Seg_11962" s="Artur-J-Gvecg-P580009.t74.w0" e="Artur-J-Gvecg-P580009.t75">Artur-J-Gvecg-P580009.tok789Artur-J-Gvecg-P580009.tok790Artur-J-Gvecg-P580009.tok791Artur-J-Gvecg-P580009.tok792Artur-J-Gvecg-P580009.tok793Artur-J-Gvecg-P580009.tok794Artur-J-Gvecg-P580009.tok796Artur-J-Gvecg-P580009.tok797Artur-J-Gvecg-P580009.tok798Artur-J-Gvecg-P580009.tok799Artur-J-Gvecg-P580009.tok801Artur-J-Gvecg-P580009.tok803Artur-J-Gvecg-P580009.tok804Artur-J-Gvecg-P580009.tok805Artur-J-Gvecg-P580009.tok806Artur-J-Gvecg-P580009.tok807Artur-J-Gvecg-P580009.tok809Artur-J-Gvecg-P580009.tok810Artur-J-Gvecg-P580009.tok811</ta>
-        <ta id="Seg_11963" s="Artur-J-Gvecg-P580009.t75.w0" e="Artur-J-Gvecg-P580009.t76">Artur-J-Gvecg-P580009.tok813Artur-J-Gvecg-P580009.tok815Artur-J-Gvecg-P580009.tok816Artur-J-Gvecg-P580009.tok817Artur-J-Gvecg-P580009.tok819</ta>
-        <ta id="Seg_11964" s="Artur-J-Gvecg-P580009.t76.w0" e="Artur-J-Gvecg-P580009.t76.w4">Artur-J-Gvecg-P580009.tok820Artur-J-Gvecg-P580009.tok821Artur-J-Gvecg-P580009.tok822Artur-J-Gvecg-P580009.tok824</ta>
-        <ta id="Seg_11965" s="Artur-J-Gvecg-P580009.t76.w4_" e="Artur-J-Gvecg-P580009.t77">Artur-J-Gvecg-P580009.tok826Artur-J-Gvecg-P580009.tok827Artur-J-Gvecg-P580009.tok828Artur-J-Gvecg-P580009.tok829Artur-J-Gvecg-P580009.tok830</ta>
-        <ta id="Seg_11966" s="Artur-J-Gvecg-P580009.t80.w0" e="Artur-J-Gvecg-P580009.t80.w2">Artur-J-Gvecg-P580009.tok871Artur-J-Gvecg-P580009.tok872</ta>
-        <ta id="Seg_11967" s="Artur-J-Gvecg-P580009.t80.w2_" e="Artur-J-Gvecg-P580009.t80.w4">Artur-J-Gvecg-P580009.tok874Artur-J-Gvecg-P580009.tok876</ta>
-        <ta id="Seg_11968" s="Artur-J-Gvecg-P580009.t80.w4_" e="Artur-J-Gvecg-P580009.t80.w8">Artur-J-Gvecg-P580009.tok878Artur-J-Gvecg-P580009.tok879Artur-J-Gvecg-P580009.tok880Artur-J-Gvecg-P580009.tok881</ta>
-        <ta id="Seg_11969" s="Artur-J-Gvecg-P580009.t80.w8_" e="Artur-J-Gvecg-P580009.t80.w13">Artur-J-Gvecg-P580009.tok883Artur-J-Gvecg-P580009.tok884Artur-J-Gvecg-P580009.tok885Artur-J-Gvecg-P580009.tok886Artur-J-Gvecg-P580009.tok888</ta>
-        <ta id="Seg_11970" s="Artur-J-Gvecg-P580009.t80.w13" e="Artur-J-Gvecg-P580009.t81">Artur-J-Gvecg-P580009.tok889Artur-J-Gvecg-P580009.tok890Artur-J-Gvecg-P580009.tok891Artur-J-Gvecg-P580009.tok893Artur-J-Gvecg-P580009.tok894Artur-J-Gvecg-P580009.tok895Artur-J-Gvecg-P580009.tok896Artur-J-Gvecg-P580009.tok897Artur-J-Gvecg-P580009.tok898Artur-J-Gvecg-P580009.tok900Artur-J-Gvecg-P580009.tok901Artur-J-Gvecg-P580009.tok902Artur-J-Gvecg-P580009.tok903Artur-J-Gvecg-P580009.tok904</ta>
-        <ta id="Seg_11971" s="Artur-J-Gvecg-P580009.t81.w0" e="Artur-J-Gvecg-P580009.t81.w1">Artur-J-Gvecg-P580009.tok906</ta>
-        <ta id="Seg_11972" s="Artur-J-Gvecg-P580009.t81.w1_" e="Artur-J-Gvecg-P580009.t82">Artur-J-Gvecg-P580009.tok908Artur-J-Gvecg-P580009.tok909Artur-J-Gvecg-P580009.tok911Artur-J-Gvecg-P580009.tok912Artur-J-Gvecg-P580009.tok913Artur-J-Gvecg-P580009.tok914Artur-J-Gvecg-P580009.tok915Artur-J-Gvecg-P580009.tok917Artur-J-Gvecg-P580009.tok918Artur-J-Gvecg-P580009.tok919Artur-J-Gvecg-P580009.tok920Artur-J-Gvecg-P580009.tok921Artur-J-Gvecg-P580009.tok922Artur-J-Gvecg-P580009.tok924Artur-J-Gvecg-P580009.tok925Artur-J-Gvecg-P580009.tok926Artur-J-Gvecg-P580009.tok927</ta>
-        <ta id="Seg_11973" s="Artur-J-Gvecg-P580009.t82.w0" e="Artur-J-Gvecg-P580009.t83">Artur-J-Gvecg-P580009.tok929Artur-J-Gvecg-P580009.tok930Artur-J-Gvecg-P580009.tok931Artur-J-Gvecg-P580009.tok932Artur-J-Gvecg-P580009.tok933</ta>
-        <ta id="Seg_11974" s="Artur-J-Gvecg-P580009.t83.w0" e="T9">Artur-J-Gvecg-P580009.tok934Artur-J-Gvecg-P580009.tok935Artur-J-Gvecg-P580009.tok937Artur-J-Gvecg-P580009.tok939Artur-J-Gvecg-P580009.tok941Artur-J-Gvecg-P580009.tok943Artur-J-Gvecg-P580009.tok944</ta>
-        <ta id="Seg_11975" s="Artur-J-Gvecg-P580009.t83.w7" e="Artur-J-Gvecg-P580009.t83.w8">Artur-J-Gvecg-P580009.tok945</ta>
-        <ta id="Seg_11976" s="Artur-J-Gvecg-P580009.t83.w8_" e="Artur-J-Gvecg-P580009.t84">Artur-J-Gvecg-P580009.tok947</ta>
-        <ta id="Seg_11977" s="Artur-J-Gvecg-P580009.t84.w0" e="Artur-J-Gvecg-P580009.t84.w3">Artur-J-Gvecg-P580009.tok949Artur-J-Gvecg-P580009.tok950Artur-J-Gvecg-P580009.tok951</ta>
-        <ta id="Seg_11978" s="Artur-J-Gvecg-P580009.t84.w3_" e="Artur-J-Gvecg-P580009.t85">Artur-J-Gvecg-P580009.tok953Artur-J-Gvecg-P580009.tok954Artur-J-Gvecg-P580009.tok955Artur-J-Gvecg-P580009.tok957Artur-J-Gvecg-P580009.tok958Artur-J-Gvecg-P580009.tok959Artur-J-Gvecg-P580009.tok960Artur-J-Gvecg-P580009.tok962Artur-J-Gvecg-P580009.tok963Artur-J-Gvecg-P580009.tok964Artur-J-Gvecg-P580009.tok965Artur-J-Gvecg-P580009.tok966Artur-J-Gvecg-P580009.tok968Artur-J-Gvecg-P580009.tok969Artur-J-Gvecg-P580009.tok970Artur-J-Gvecg-P580009.tok972</ta>
-        <ta id="Seg_11979" s="Artur-J-Gvecg-P580009.t85.w0" e="Artur-J-Gvecg-P580009.t86">Artur-J-Gvecg-P580009.tok973Artur-J-Gvecg-P580009.tok974Artur-J-Gvecg-P580009.tok975Artur-J-Gvecg-P580009.tok976Artur-J-Gvecg-P580009.tok978Artur-J-Gvecg-P580009.tok980Artur-J-Gvecg-P580009.tok981Artur-J-Gvecg-P580009.tok982Artur-J-Gvecg-P580009.tok983Artur-J-Gvecg-P580009.tok984Artur-J-Gvecg-P580009.tok985</ta>
-        <ta id="Seg_11980" s="Artur-J-Gvecg-P580009.t86.w0" e="Artur-J-Gvecg-P580009.t87">Artur-J-Gvecg-P580009.tok986Artur-J-Gvecg-P580009.tok987</ta>
-        <ta id="Seg_11981" s="Artur-J-Gvecg-P580009.t87.w0" e="Artur-J-Gvecg-P580009.t88">Artur-J-Gvecg-P580009.tok988Artur-J-Gvecg-P580009.tok989Artur-J-Gvecg-P580009.tok990Artur-J-Gvecg-P580009.tok991Artur-J-Gvecg-P580009.tok992Artur-J-Gvecg-P580009.tok994Artur-J-Gvecg-P580009.tok995Artur-J-Gvecg-P580009.tok996Artur-J-Gvecg-P580009.tok997</ta>
-        <ta id="Seg_11982" s="Artur-J-Gvecg-P580009.t88.w0" e="Artur-J-Gvecg-P580009.t89">Artur-J-Gvecg-P580009.tok999Artur-J-Gvecg-P580009.tok1000Artur-J-Gvecg-P580009.tok1001Artur-J-Gvecg-P580009.tok1003Artur-J-Gvecg-P580009.tok1004Artur-J-Gvecg-P580009.tok1005Artur-J-Gvecg-P580009.tok1007Artur-J-Gvecg-P580009.tok1009Artur-J-Gvecg-P580009.tok1010Artur-J-Gvecg-P580009.tok1011Artur-J-Gvecg-P580009.tok1013</ta>
-        <ta id="Seg_11983" s="Artur-J-Gvecg-P580009.t89.w0" e="Artur-J-Gvecg-P580009.t90">Artur-J-Gvecg-P580009.tok1015Artur-J-Gvecg-P580009.tok1016Artur-J-Gvecg-P580009.tok1017Artur-J-Gvecg-P580009.tok1018Artur-J-Gvecg-P580009.tok1019Artur-J-Gvecg-P580009.tok1021Artur-J-Gvecg-P580009.tok1022Artur-J-Gvecg-P580009.tok1023Artur-J-Gvecg-P580009.tok1024Artur-J-Gvecg-P580009.tok1025Artur-J-Gvecg-P580009.tok1027Artur-J-Gvecg-P580009.tok1028Artur-J-Gvecg-P580009.tok1030Artur-J-Gvecg-P580009.tok1031Artur-J-Gvecg-P580009.tok1033Artur-J-Gvecg-P580009.tok1035Artur-J-Gvecg-P580009.tok1036Artur-J-Gvecg-P580009.tok1037Artur-J-Gvecg-P580009.tok1038</ta>
+        <ta id="Seg_11889" s="Artur-J-Gvecg-P580009.t6.w0" e="Artur-J-Gvecg-P580009.t6.w1">PU.tok38</ta>
+        <ta id="Seg_11890" s="Artur-J-Gvecg-P580009.t6.w1" e="Artur-J-Gvecg-P580009.t7">PU.tok39</ta>
+        <ta id="Seg_11891" s="Artur-J-Gvecg-P580009.t8.w0" e="Artur-J-Gvecg-P580009.t9">PU.tok53</ta>
+        <ta id="Seg_11892" s="Artur-J-Gvecg-P580009.t12.w0" e="Artur-J-Gvecg-P580009.t13">PU.tok82</ta>
+        <ta id="Seg_11893" s="Artur-J-Gvecg-P580009.t14.w0" e="Artur-J-Gvecg-P580009.t15">PU.tok84</ta>
+        <ta id="Seg_11894" s="Artur-J-Gvecg-P580009.t15.w0" e="Artur-J-Gvecg-P580009.t16">PU.tok86</ta>
+        <ta id="Seg_11895" s="Artur-J-Gvecg-P580009.t16.w0" e="Artur-J-Gvecg-P580009.t17">PU.tok103</ta>
+        <ta id="Seg_11896" s="Artur-J-Gvecg-P580009.t19.w0" e="Artur-J-Gvecg-P580009.t20">PU.tok136</ta>
+        <ta id="Seg_11897" s="Artur-J-Gvecg-P580009.t20.w0" e="Artur-J-Gvecg-P580009.t21">PU.tok149</ta>
+        <ta id="Seg_11898" s="Artur-J-Gvecg-P580009.t22.w0" e="Artur-J-Gvecg-P580009.t24">PU.tok157</ta>
+        <ta id="Seg_11899" s="Artur-J-Gvecg-P580009.t24.w0" e="Artur-J-Gvecg-P580009.t25">PU.tok174</ta>
+        <ta id="Seg_11900" s="Artur-J-Gvecg-P580009.t25.w0" e="Artur-J-Gvecg-P580009.t26">PU.tok176</ta>
+        <ta id="Seg_11901" s="Artur-J-Gvecg-P580009.t26.w0" e="Artur-J-Gvecg-P580009.t26.w5">PU.tok191</ta>
+        <ta id="Seg_11902" s="Artur-J-Gvecg-P580009.t26.w5_" e="Artur-J-Gvecg-P580009.t27">PU.tok198</ta>
+        <ta id="Seg_11903" s="Artur-J-Gvecg-P580009.t27.w0" e="Artur-J-Gvecg-P580009.t28">PU.tok211</ta>
+        <ta id="Seg_11904" s="Artur-J-Gvecg-P580009.t28.w0" e="Artur-J-Gvecg-P580009.t29">PU.tok226</ta>
+        <ta id="Seg_11905" s="Artur-J-Gvecg-P580009.t35.w0" e="Artur-J-Gvecg-P580009.t36">PU.tok305</ta>
+        <ta id="Seg_11906" s="Artur-J-Gvecg-P580009.t36.w0" e="Artur-J-Gvecg-P580009.t37">PU.tok317</ta>
+        <ta id="Seg_11907" s="Artur-J-Gvecg-P580009.t37.w0" e="Artur-J-Gvecg-P580009.t38">PU.tok323</ta>
+        <ta id="Seg_11908" s="Artur-J-Gvecg-P580009.t38.w0" e="Artur-J-Gvecg-P580009.t39">PU.tok351</ta>
+        <ta id="Seg_11909" s="Artur-J-Gvecg-P580009.t39.w0" e="Artur-J-Gvecg-P580009.t40">PU.tok354</ta>
+        <ta id="Seg_11910" s="Artur-J-Gvecg-P580009.t40.w0" e="Artur-J-Gvecg-P580009.t40.w1">PU.tok369</ta>
+        <ta id="Seg_11911" s="Artur-J-Gvecg-P580009.t40.w1_" e="Artur-J-Gvecg-P580009.t41.w8">PU.tok371</ta>
+        <ta id="Seg_11912" s="Artur-J-Gvecg-P580009.t41.w8_" e="Artur-J-Gvecg-P580009.t42">PU.tok383</ta>
+        <ta id="Seg_11913" s="Artur-J-Gvecg-P580009.t42.w0" e="Artur-J-Gvecg-P580009.t42.w11">PU.tok392</ta>
+        <ta id="Seg_11914" s="Artur-J-Gvecg-P580009.t42.w11" e="Artur-J-Gvecg-P580009.t43">PU.tok406</ta>
+        <ta id="Seg_11915" s="Artur-J-Gvecg-P580009.t43.w0" e="Artur-J-Gvecg-P580009.t44">PU.tok411</ta>
+        <ta id="Seg_11916" s="Artur-J-Gvecg-P580009.t44.w0" e="Artur-J-Gvecg-P580009.t45">PU.tok416</ta>
+        <ta id="Seg_11917" s="Artur-J-Gvecg-P580009.t45.w0" e="Artur-J-Gvecg-P580009.t46">PU.tok423</ta>
+        <ta id="Seg_11918" s="Artur-J-Gvecg-P580009.t46.w0" e="Artur-J-Gvecg-P580009.t46.w9">PU.tok440</ta>
+        <ta id="Seg_11919" s="Artur-J-Gvecg-P580009.t46.w9_" e="Artur-J-Gvecg-P580009.t47">PU.tok450</ta>
+        <ta id="Seg_11920" s="Artur-J-Gvecg-P580009.t47.w0" e="Artur-J-Gvecg-P580009.t49">PU.tok452</ta>
+        <ta id="Seg_11921" s="Artur-J-Gvecg-P580009.t49.w0" e="Artur-J-Gvecg-P580009.t50">PU.tok463</ta>
+        <ta id="Seg_11922" s="Artur-J-Gvecg-P580009.t50.w0" e="Artur-J-Gvecg-P580009.t50.w2">PU.tok481</ta>
+        <ta id="Seg_11923" s="Artur-J-Gvecg-P580009.t50.w2_" e="Artur-J-Gvecg-P580009.t51">PU.tok484</ta>
+        <ta id="Seg_11924" s="Artur-J-Gvecg-P580009.t51.w0" e="Artur-J-Gvecg-P580009.t52">PU.tok486</ta>
+        <ta id="Seg_11925" s="Artur-J-Gvecg-P580009.t56.w0" e="Artur-J-Gvecg-P580009.t56.w12">PU.tok521</ta>
+        <ta id="Seg_11926" s="Artur-J-Gvecg-P580009.t56.w12_" e="Artur-J-Gvecg-P580009.t57">PU.tok537</ta>
+        <ta id="Seg_11927" s="Artur-J-Gvecg-P580009.t57.w0" e="Artur-J-Gvecg-P580009.t58">PU.tok539</ta>
+        <ta id="Seg_11928" s="Artur-J-Gvecg-P580009.t58.w0" e="Artur-J-Gvecg-P580009.t58.w7">PU.tok542</ta>
+        <ta id="Seg_11929" s="Artur-J-Gvecg-P580009.t58.w7" e="Artur-J-Gvecg-P580009.t58.w12">PU.tok550</ta>
+        <ta id="Seg_11930" s="Artur-J-Gvecg-P580009.t58.w12" e="Artur-J-Gvecg-P580009.t59">PU.tok555</ta>
+        <ta id="Seg_11931" s="Artur-J-Gvecg-P580009.t59.w0" e="Artur-J-Gvecg-P580009.t59.w2">PU.tok584</ta>
+        <ta id="Seg_11932" s="Artur-J-Gvecg-P580009.t59.w2" e="T2">PU.tok587</ta>
+        <ta id="Seg_11933" s="Artur-J-Gvecg-P580009.t59.w12" e="Artur-J-Gvecg-P580009.t59.w17">PU.tok603</ta>
+        <ta id="Seg_11934" s="Artur-J-Gvecg-P580009.t59.w17_" e="Artur-J-Gvecg-P580009.t60">PU.tok610</ta>
+        <ta id="Seg_11935" s="Artur-J-Gvecg-P580009.t60.w0" e="Artur-J-Gvecg-P580009.t60.w4">PU.tok615</ta>
+        <ta id="Seg_11936" s="Artur-J-Gvecg-P580009.t60.w4_" e="Artur-J-Gvecg-P580009.t60.w5">PU.tok620</ta>
+        <ta id="Seg_11937" s="Artur-J-Gvecg-P580009.t60.w5_" e="Artur-J-Gvecg-P580009.t60.w7">PU.tok622</ta>
+        <ta id="Seg_11938" s="Artur-J-Gvecg-P580009.t60.w7_" e="Artur-J-Gvecg-P580009.t62">PU.tok626</ta>
+        <ta id="Seg_11939" s="Artur-J-Gvecg-P580009.t62.w0" e="Artur-J-Gvecg-P580009.t62.w6">PU.tok633</ta>
+        <ta id="Seg_11940" s="Artur-J-Gvecg-P580009.t62.w6_" e="Artur-J-Gvecg-P580009.t63">PU.tok642</ta>
+        <ta id="Seg_11941" s="Artur-J-Gvecg-P580009.t63.w0" e="T6">PU.tok645</ta>
+        <ta id="Seg_11942" s="Artur-J-Gvecg-P580009.t63.w2" e="Artur-J-Gvecg-P580009.t64">PU.tok647</ta>
+        <ta id="Seg_11943" s="Artur-J-Gvecg-P580009.t64.w0" e="Artur-J-Gvecg-P580009.t64.w1">PU.tok662</ta>
+        <ta id="Seg_11944" s="Artur-J-Gvecg-P580009.t64.w1_" e="Artur-J-Gvecg-P580009.t65">PU.tok664</ta>
+        <ta id="Seg_11945" s="Artur-J-Gvecg-P580009.t65.w0" e="Artur-J-Gvecg-P580009.t65.w5">PU.tok669</ta>
+        <ta id="Seg_11946" s="Artur-J-Gvecg-P580009.t65.w5_" e="Artur-J-Gvecg-P580009.t65.w6">PU.tok675</ta>
+        <ta id="Seg_11947" s="Artur-J-Gvecg-P580009.t65.w6_" e="Artur-J-Gvecg-P580009.t65.w12">PU.tok677</ta>
+        <ta id="Seg_11948" s="Artur-J-Gvecg-P580009.t65.w12_" e="Artur-J-Gvecg-P580009.t65.w13">PU.tok684</ta>
+        <ta id="Seg_11949" s="Artur-J-Gvecg-P580009.t65.w13_" e="Artur-J-Gvecg-P580009.t66">PU.tok686</ta>
+        <ta id="Seg_11950" s="Artur-J-Gvecg-P580009.t66.w0" e="Artur-J-Gvecg-P580009.t67">PU.tok692</ta>
+        <ta id="Seg_11951" s="Artur-J-Gvecg-P580009.t67.w0" e="Artur-J-Gvecg-P580009.t68">PU.tok694</ta>
+        <ta id="Seg_11952" s="Artur-J-Gvecg-P580009.t68.w0" e="Artur-J-Gvecg-P580009.t69">PU.tok696</ta>
+        <ta id="Seg_11953" s="Artur-J-Gvecg-P580009.t69.w0" e="Artur-J-Gvecg-P580009.t70">PU.tok705</ta>
+        <ta id="Seg_11954" s="Artur-J-Gvecg-P580009.t70.w0" e="Artur-J-Gvecg-P580009.t71">PU.tok729</ta>
+        <ta id="Seg_11955" s="Artur-J-Gvecg-P580009.t71.w0" e="Artur-J-Gvecg-P580009.t71.w8">PU.tok747</ta>
+        <ta id="Seg_11956" s="Artur-J-Gvecg-P580009.t71.w8_" e="Artur-J-Gvecg-P580009.t72">PU.tok758</ta>
+        <ta id="Seg_11957" s="Artur-J-Gvecg-P580009.t72.w0" e="Artur-J-Gvecg-P580009.t72.w1">PU.tok767</ta>
+        <ta id="Seg_11958" s="Artur-J-Gvecg-P580009.t72.w1_" e="Artur-J-Gvecg-P580009.t73">PU.tok769</ta>
+        <ta id="Seg_11959" s="Artur-J-Gvecg-P580009.t73.w0" e="Artur-J-Gvecg-P580009.t73.w8">PU.tok771</ta>
+        <ta id="Seg_11960" s="Artur-J-Gvecg-P580009.t73.w8_" e="Artur-J-Gvecg-P580009.t73.w9">PU.tok782</ta>
+        <ta id="Seg_11961" s="Artur-J-Gvecg-P580009.t73.w9_" e="Artur-J-Gvecg-P580009.t74">PU.tok784</ta>
+        <ta id="Seg_11962" s="Artur-J-Gvecg-P580009.t74.w0" e="Artur-J-Gvecg-P580009.t75">PU.tok789</ta>
+        <ta id="Seg_11963" s="Artur-J-Gvecg-P580009.t75.w0" e="Artur-J-Gvecg-P580009.t76">PU.tok813</ta>
+        <ta id="Seg_11964" s="Artur-J-Gvecg-P580009.t76.w0" e="Artur-J-Gvecg-P580009.t76.w4">PU.tok820</ta>
+        <ta id="Seg_11965" s="Artur-J-Gvecg-P580009.t76.w4_" e="Artur-J-Gvecg-P580009.t77">PU.tok826</ta>
+        <ta id="Seg_11966" s="Artur-J-Gvecg-P580009.t80.w0" e="Artur-J-Gvecg-P580009.t80.w2">PU.tok871</ta>
+        <ta id="Seg_11967" s="Artur-J-Gvecg-P580009.t80.w2_" e="Artur-J-Gvecg-P580009.t80.w4">PU.tok874</ta>
+        <ta id="Seg_11968" s="Artur-J-Gvecg-P580009.t80.w4_" e="Artur-J-Gvecg-P580009.t80.w8">PU.tok878</ta>
+        <ta id="Seg_11969" s="Artur-J-Gvecg-P580009.t80.w8_" e="Artur-J-Gvecg-P580009.t80.w13">PU.tok883</ta>
+        <ta id="Seg_11970" s="Artur-J-Gvecg-P580009.t80.w13" e="Artur-J-Gvecg-P580009.t81">PU.tok889</ta>
+        <ta id="Seg_11971" s="Artur-J-Gvecg-P580009.t81.w0" e="Artur-J-Gvecg-P580009.t81.w1">PU.tok906</ta>
+        <ta id="Seg_11972" s="Artur-J-Gvecg-P580009.t81.w1_" e="Artur-J-Gvecg-P580009.t82">PU.tok908</ta>
+        <ta id="Seg_11973" s="Artur-J-Gvecg-P580009.t82.w0" e="Artur-J-Gvecg-P580009.t83">PU.tok929</ta>
+        <ta id="Seg_11974" s="Artur-J-Gvecg-P580009.t83.w0" e="T9">PU.tok934</ta>
+        <ta id="Seg_11975" s="Artur-J-Gvecg-P580009.t83.w7" e="Artur-J-Gvecg-P580009.t83.w8">PU.tok945</ta>
+        <ta id="Seg_11976" s="Artur-J-Gvecg-P580009.t83.w8_" e="Artur-J-Gvecg-P580009.t84">PU.tok947</ta>
+        <ta id="Seg_11977" s="Artur-J-Gvecg-P580009.t84.w0" e="Artur-J-Gvecg-P580009.t84.w3">PU.tok949</ta>
+        <ta id="Seg_11978" s="Artur-J-Gvecg-P580009.t84.w3_" e="Artur-J-Gvecg-P580009.t85">PU.tok953</ta>
+        <ta id="Seg_11979" s="Artur-J-Gvecg-P580009.t85.w0" e="Artur-J-Gvecg-P580009.t86">PU.tok973</ta>
+        <ta id="Seg_11980" s="Artur-J-Gvecg-P580009.t86.w0" e="Artur-J-Gvecg-P580009.t87">PU.tok986</ta>
+        <ta id="Seg_11981" s="Artur-J-Gvecg-P580009.t87.w0" e="Artur-J-Gvecg-P580009.t88">PU.tok988</ta>
+        <ta id="Seg_11982" s="Artur-J-Gvecg-P580009.t88.w0" e="Artur-J-Gvecg-P580009.t89">PU.tok999</ta>
+        <ta id="Seg_11983" s="Artur-J-Gvecg-P580009.t89.w0" e="Artur-J-Gvecg-P580009.t90">PU.tok1015</ta>
       </annotation>
       <annotation name="dialogActsPrimary" tierref="Artur-J-G4538 [dialogActsPrimary]">
         <ta id="Seg_11984" s="Artur-J-Gvecg-P580009.t6.w0" e="Artur-J-Gvecg-P580009.t7_">socialObligationsManagement</ta>
@@ -13151,7 +13151,7 @@
         <ta id="Seg_13744" s="Artur-J-Gvecg-P580009.t29.w15" e="Artur-J-Gvecg-P580009.t29.w16">bile </ta>
         <ta id="Seg_13745" s="Artur-J-Gvecg-P580009.t31.w0" e="T5">zaka(:)j </ta>
       </annotation>
-      <annotation name="nonverbalDisfluency" tierref="3">
+      <annotation name="vocalDisfluency" tierref="3">
         <ta id="Seg_13746" s="Artur-J-Gvecg-P580009.t7.w1" e="Artur-J-Gvecg-P580009.t7.w2">lengthening </ta>
         <ta id="Seg_13747" s="Artur-J-Gvecg-P580009.t10.w0" e="Artur-J-Gvecg-P580009.t10.w1">filledPause </ta>
         <ta id="Seg_13748" s="Artur-J-Gvecg-P580009.t11" e="Artur-J-Gvecg-P580009.t11.w0">silentPause </ta>
@@ -13168,7 +13168,7 @@
       <annotation name="verbalDisfluency" tierref="4">
         <ta id="Seg_13758" s="Artur-J-Gvecg-P580009.t33.w0" e="Artur-J-Gvecg-P580009.t33.w3">disfluencyComment </ta>
       </annotation>
-      <annotation name="disfluencyStructure" tierref="5"/>
+      <annotation name="disfluencyStructure" tierref="5" />
       <annotation name="traceability" tierref="15">
         <ta id="Seg_13759" s="Artur-J-Gvecg-P580009.t0.w0" e="Artur-J-Gvecg-P580009.t0.w1">Artur-J-Gvecg-P580009.tok1 </ta>
         <ta id="Seg_13760" s="Artur-J-Gvecg-P580009.t0.w1" e="Artur-J-Gvecg-P580009.t0.w2">Artur-J-Gvecg-P580009.tok2 </ta>
@@ -14824,34 +14824,34 @@
         <ta id="Seg_15396" s="Artur-J-Gvecg-P580009.t90.w15" e="Artur-J-Gvecg-P580009.t91">conj</ta>
       </annotation>
       <annotation name="prosodicUnits" tierref="Artur-J-G4539 [prosodicUnits]">
-        <ta id="Seg_15397" s="Artur-J-Gvecg-P580009.t0.w0" e="Artur-J-Gvecg-P580009.t1">Artur-J-Gvecg-P580009.tok1Artur-J-Gvecg-P580009.tok2Artur-J-Gvecg-P580009.tok3Artur-J-Gvecg-P580009.tok4Artur-J-Gvecg-P580009.tok5Artur-J-Gvecg-P580009.tok6</ta>
-        <ta id="Seg_15398" s="Artur-J-Gvecg-P580009.t1.w0" e="Artur-J-Gvecg-P580009.t2">Artur-J-Gvecg-P580009.tok8Artur-J-Gvecg-P580009.tok9Artur-J-Gvecg-P580009.tok10Artur-J-Gvecg-P580009.tok11Artur-J-Gvecg-P580009.tok12Artur-J-Gvecg-P580009.tok13Artur-J-Gvecg-P580009.tok14Artur-J-Gvecg-P580009.tok15</ta>
-        <ta id="Seg_15399" s="Artur-J-Gvecg-P580009.t2.w0" e="Artur-J-Gvecg-P580009.t3">Artur-J-Gvecg-P580009.tok17Artur-J-Gvecg-P580009.tok18Artur-J-Gvecg-P580009.tok19</ta>
-        <ta id="Seg_15400" s="Artur-J-Gvecg-P580009.t3.w0" e="Artur-J-Gvecg-P580009.t4">Artur-J-Gvecg-P580009.tok21Artur-J-Gvecg-P580009.tok22Artur-J-Gvecg-P580009.tok23Artur-J-Gvecg-P580009.tok24Artur-J-Gvecg-P580009.tok25Artur-J-Gvecg-P580009.tok26Artur-J-Gvecg-P580009.tok27Artur-J-Gvecg-P580009.tok28</ta>
-        <ta id="Seg_15401" s="Artur-J-Gvecg-P580009.t4.w0" e="Artur-J-Gvecg-P580009.t6">Artur-J-Gvecg-P580009.tok30Artur-J-Gvecg-P580009.tok31Artur-J-Gvecg-P580009.tok33Artur-J-Gvecg-P580009.tok34Artur-J-Gvecg-P580009.tok35Artur-J-Gvecg-P580009.tok36</ta>
-        <ta id="Seg_15402" s="Artur-J-Gvecg-P580009.t7.w0" e="Artur-J-Gvecg-P580009.t8">Artur-J-Gvecg-P580009.tok41Artur-J-Gvecg-P580009.tok42Artur-J-Gvecg-P580009.tok43Artur-J-Gvecg-P580009.tok44Artur-J-Gvecg-P580009.tok45Artur-J-Gvecg-P580009.tok46Artur-J-Gvecg-P580009.tok48Artur-J-Gvecg-P580009.tok49Artur-J-Gvecg-P580009.tok50Artur-J-Gvecg-P580009.tok51</ta>
-        <ta id="Seg_15403" s="Artur-J-Gvecg-P580009.t10.w0" e="Artur-J-Gvecg-P580009.t10.w1">Artur-J-Gvecg-P580009.tok55</ta>
-        <ta id="Seg_15404" s="Artur-J-Gvecg-P580009.t10.w1_" e="Artur-J-Gvecg-P580009.t11.w5">Artur-J-Gvecg-P580009.tok57Artur-J-Gvecg-P580009.tok58Artur-J-Gvecg-P580009.tok59Artur-J-Gvecg-P580009.tok60Artur-J-Gvecg-P580009.tok61Artur-J-Gvecg-P580009.tok62Artur-J-Gvecg-P580009.tok64Artur-J-Gvecg-P580009.tok65Artur-J-Gvecg-P580009.tok66</ta>
-        <ta id="Seg_15405" s="Artur-J-Gvecg-P580009.t11.w5_" e="Artur-J-Gvecg-P580009.t12">Artur-J-Gvecg-P580009.tok68Artur-J-Gvecg-P580009.tok69Artur-J-Gvecg-P580009.tok70Artur-J-Gvecg-P580009.tok71Artur-J-Gvecg-P580009.tok73Artur-J-Gvecg-P580009.tok74Artur-J-Gvecg-P580009.tok75Artur-J-Gvecg-P580009.tok77Artur-J-Gvecg-P580009.tok78Artur-J-Gvecg-P580009.tok79Artur-J-Gvecg-P580009.tok80</ta>
-        <ta id="Seg_15406" s="Artur-J-Gvecg-P580009.t17.w0" e="Artur-J-Gvecg-P580009.t17.w10">Artur-J-Gvecg-P580009.tok115Artur-J-Gvecg-P580009.tok116Artur-J-Gvecg-P580009.tok117Artur-J-Gvecg-P580009.tok118Artur-J-Gvecg-P580009.tok119Artur-J-Gvecg-P580009.tok120Artur-J-Gvecg-P580009.tok121Artur-J-Gvecg-P580009.tok122Artur-J-Gvecg-P580009.tok123Artur-J-Gvecg-P580009.tok124</ta>
-        <ta id="Seg_15407" s="Artur-J-Gvecg-P580009.t17.w10_" e="Artur-J-Gvecg-P580009.t18">Artur-J-Gvecg-P580009.tok126Artur-J-Gvecg-P580009.tok127</ta>
-        <ta id="Seg_15408" s="Artur-J-Gvecg-P580009.t18.w0" e="Artur-J-Gvecg-P580009.t19">Artur-J-Gvecg-P580009.tok128Artur-J-Gvecg-P580009.tok129Artur-J-Gvecg-P580009.tok130Artur-J-Gvecg-P580009.tok131Artur-J-Gvecg-P580009.tok132Artur-J-Gvecg-P580009.tok133Artur-J-Gvecg-P580009.tok134</ta>
-        <ta id="Seg_15409" s="Artur-J-Gvecg-P580009.t29.w0" e="Artur-J-Gvecg-P580009.t29.w2">Artur-J-Gvecg-P580009.tok238Artur-J-Gvecg-P580009.tok239</ta>
-        <ta id="Seg_15410" s="Artur-J-Gvecg-P580009.t29.w2_" e="Artur-J-Gvecg-P580009.t29.w3">Artur-J-Gvecg-P580009.tok241</ta>
-        <ta id="Seg_15411" s="Artur-J-Gvecg-P580009.t29.w3_" e="Artur-J-Gvecg-P580009.t29.w9">Artur-J-Gvecg-P580009.tok243Artur-J-Gvecg-P580009.tok244Artur-J-Gvecg-P580009.tok245Artur-J-Gvecg-P580009.tok246Artur-J-Gvecg-P580009.tok247Artur-J-Gvecg-P580009.tok248</ta>
-        <ta id="Seg_15412" s="Artur-J-Gvecg-P580009.t29.w9" e="Artur-J-Gvecg-P580009.t30">Artur-J-Gvecg-P580009.tok249Artur-J-Gvecg-P580009.tok250Artur-J-Gvecg-P580009.tok251Artur-J-Gvecg-P580009.tok252Artur-J-Gvecg-P580009.tok253Artur-J-Gvecg-P580009.tok255Artur-J-Gvecg-P580009.tok256Artur-J-Gvecg-P580009.tok257Artur-J-Gvecg-P580009.tok258Artur-J-Gvecg-P580009.tok259Artur-J-Gvecg-P580009.tok260Artur-J-Gvecg-P580009.tok261</ta>
-        <ta id="Seg_15413" s="Artur-J-Gvecg-P580009.t30.w0" e="Artur-J-Gvecg-P580009.t31">Artur-J-Gvecg-P580009.tok262Artur-J-Gvecg-P580009.tok263Artur-J-Gvecg-P580009.tok264</ta>
-        <ta id="Seg_15414" s="Artur-J-Gvecg-P580009.t31.w0" e="Artur-J-Gvecg-P580009.t32">Artur-J-Gvecg-P580009.tok266Artur-J-Gvecg-P580009.tok267Artur-J-Gvecg-P580009.tok268Artur-J-Gvecg-P580009.tok269Artur-J-Gvecg-P580009.tok271Artur-J-Gvecg-P580009.tok272</ta>
-        <ta id="Seg_15415" s="Artur-J-Gvecg-P580009.t32.w0" e="Artur-J-Gvecg-P580009.t33">Artur-J-Gvecg-P580009.tok273Artur-J-Gvecg-P580009.tok274Artur-J-Gvecg-P580009.tok275Artur-J-Gvecg-P580009.tok276Artur-J-Gvecg-P580009.tok277</ta>
-        <ta id="Seg_15416" s="Artur-J-Gvecg-P580009.t33.w0" e="Artur-J-Gvecg-P580009.t34">Artur-J-Gvecg-P580009.tok279Artur-J-Gvecg-P580009.tok280Artur-J-Gvecg-P580009.tok281Artur-J-Gvecg-P580009.tok283Artur-J-Gvecg-P580009.tok285Artur-J-Gvecg-P580009.tok287Artur-J-Gvecg-P580009.tok288Artur-J-Gvecg-P580009.tok290Artur-J-Gvecg-P580009.tok291Artur-J-Gvecg-P580009.tok292Artur-J-Gvecg-P580009.tok293</ta>
-        <ta id="Seg_15417" s="Artur-J-Gvecg-P580009.t34.w0" e="Artur-J-Gvecg-P580009.t35">Artur-J-Gvecg-P580009.tok295Artur-J-Gvecg-P580009.tok296Artur-J-Gvecg-P580009.tok297Artur-J-Gvecg-P580009.tok298</ta>
-        <ta id="Seg_15418" s="Artur-J-Gvecg-P580009.t35.w0" e="Artur-J-Gvecg-P580009.t35.w4">Artur-J-Gvecg-P580009.tok300Artur-J-Gvecg-P580009.tok301Artur-J-Gvecg-P580009.tok302Artur-J-Gvecg-P580009.tok303</ta>
-        <ta id="Seg_15419" s="Artur-J-Gvecg-P580009.t53.w0" e="Artur-J-Gvecg-P580009.t54">Artur-J-Gvecg-P580009.tok507Artur-J-Gvecg-P580009.tok508Artur-J-Gvecg-P580009.tok509Artur-J-Gvecg-P580009.tok510Artur-J-Gvecg-P580009.tok511Artur-J-Gvecg-P580009.tok512Artur-J-Gvecg-P580009.tok513</ta>
-        <ta id="Seg_15420" s="Artur-J-Gvecg-P580009.t55.w0" e="Artur-J-Gvecg-P580009.t56">Artur-J-Gvecg-P580009.tok515Artur-J-Gvecg-P580009.tok516Artur-J-Gvecg-P580009.tok517Artur-J-Gvecg-P580009.tok518Artur-J-Gvecg-P580009.tok519</ta>
-        <ta id="Seg_15421" s="Artur-J-Gvecg-P580009.t77.w0" e="Artur-J-Gvecg-P580009.t78">Artur-J-Gvecg-P580009.tok832Artur-J-Gvecg-P580009.tok833</ta>
-        <ta id="Seg_15422" s="Artur-J-Gvecg-P580009.t78.w0" e="Artur-J-Gvecg-P580009.t79">Artur-J-Gvecg-P580009.tok834Artur-J-Gvecg-P580009.tok835Artur-J-Gvecg-P580009.tok836Artur-J-Gvecg-P580009.tok837Artur-J-Gvecg-P580009.tok838Artur-J-Gvecg-P580009.tok840Artur-J-Gvecg-P580009.tok841Artur-J-Gvecg-P580009.tok842Artur-J-Gvecg-P580009.tok843Artur-J-Gvecg-P580009.tok844Artur-J-Gvecg-P580009.tok846</ta>
-        <ta id="Seg_15423" s="Artur-J-Gvecg-P580009.t79.w0" e="Artur-J-Gvecg-P580009.t80">Artur-J-Gvecg-P580009.tok847Artur-J-Gvecg-P580009.tok849Artur-J-Gvecg-P580009.tok850Artur-J-Gvecg-P580009.tok851Artur-J-Gvecg-P580009.tok852Artur-J-Gvecg-P580009.tok853Artur-J-Gvecg-P580009.tok854Artur-J-Gvecg-P580009.tok856Artur-J-Gvecg-P580009.tok857Artur-J-Gvecg-P580009.tok859Artur-J-Gvecg-P580009.tok860Artur-J-Gvecg-P580009.tok861Artur-J-Gvecg-P580009.tok862Artur-J-Gvecg-P580009.tok863Artur-J-Gvecg-P580009.tok864Artur-J-Gvecg-P580009.tok865Artur-J-Gvecg-P580009.tok866Artur-J-Gvecg-P580009.tok867Artur-J-Gvecg-P580009.tok868Artur-J-Gvecg-P580009.tok869</ta>
-        <ta id="Seg_15424" s="Artur-J-Gvecg-P580009.t90.w0" e="Artur-J-Gvecg-P580009.t91">Artur-J-Gvecg-P580009.tok1040Artur-J-Gvecg-P580009.tok1041Artur-J-Gvecg-P580009.tok1042Artur-J-Gvecg-P580009.tok1043Artur-J-Gvecg-P580009.tok1044Artur-J-Gvecg-P580009.tok1046Artur-J-Gvecg-P580009.tok1047Artur-J-Gvecg-P580009.tok1048Artur-J-Gvecg-P580009.tok1050Artur-J-Gvecg-P580009.tok1051Artur-J-Gvecg-P580009.tok1053Artur-J-Gvecg-P580009.tok1054Artur-J-Gvecg-P580009.tok1055Artur-J-Gvecg-P580009.tok1056Artur-J-Gvecg-P580009.tok1057Artur-J-Gvecg-P580009.tok1058</ta>
+        <ta id="Seg_15397" s="Artur-J-Gvecg-P580009.t0.w0" e="Artur-J-Gvecg-P580009.t1">PU.tok1</ta>
+        <ta id="Seg_15398" s="Artur-J-Gvecg-P580009.t1.w0" e="Artur-J-Gvecg-P580009.t2">PU.tok8</ta>
+        <ta id="Seg_15399" s="Artur-J-Gvecg-P580009.t2.w0" e="Artur-J-Gvecg-P580009.t3">PU.tok17</ta>
+        <ta id="Seg_15400" s="Artur-J-Gvecg-P580009.t3.w0" e="Artur-J-Gvecg-P580009.t4">PU.tok21</ta>
+        <ta id="Seg_15401" s="Artur-J-Gvecg-P580009.t4.w0" e="Artur-J-Gvecg-P580009.t6">PU.tok30</ta>
+        <ta id="Seg_15402" s="Artur-J-Gvecg-P580009.t7.w0" e="Artur-J-Gvecg-P580009.t8">PU.tok41</ta>
+        <ta id="Seg_15403" s="Artur-J-Gvecg-P580009.t10.w0" e="Artur-J-Gvecg-P580009.t10.w1">PU.tok55</ta>
+        <ta id="Seg_15404" s="Artur-J-Gvecg-P580009.t10.w1_" e="Artur-J-Gvecg-P580009.t11.w5">PU.tok57</ta>
+        <ta id="Seg_15405" s="Artur-J-Gvecg-P580009.t11.w5_" e="Artur-J-Gvecg-P580009.t12">PU.tok68</ta>
+        <ta id="Seg_15406" s="Artur-J-Gvecg-P580009.t17.w0" e="Artur-J-Gvecg-P580009.t17.w10">PU.tok115</ta>
+        <ta id="Seg_15407" s="Artur-J-Gvecg-P580009.t17.w10_" e="Artur-J-Gvecg-P580009.t18">PU.tok126</ta>
+        <ta id="Seg_15408" s="Artur-J-Gvecg-P580009.t18.w0" e="Artur-J-Gvecg-P580009.t19">PU.tok128</ta>
+        <ta id="Seg_15409" s="Artur-J-Gvecg-P580009.t29.w0" e="Artur-J-Gvecg-P580009.t29.w2">PU.tok238</ta>
+        <ta id="Seg_15410" s="Artur-J-Gvecg-P580009.t29.w2_" e="Artur-J-Gvecg-P580009.t29.w3">PU.tok241</ta>
+        <ta id="Seg_15411" s="Artur-J-Gvecg-P580009.t29.w3_" e="Artur-J-Gvecg-P580009.t29.w9">PU.tok243</ta>
+        <ta id="Seg_15412" s="Artur-J-Gvecg-P580009.t29.w9" e="Artur-J-Gvecg-P580009.t30">PU.tok249</ta>
+        <ta id="Seg_15413" s="Artur-J-Gvecg-P580009.t30.w0" e="Artur-J-Gvecg-P580009.t31">PU.tok262</ta>
+        <ta id="Seg_15414" s="Artur-J-Gvecg-P580009.t31.w0" e="Artur-J-Gvecg-P580009.t32">PU.tok266</ta>
+        <ta id="Seg_15415" s="Artur-J-Gvecg-P580009.t32.w0" e="Artur-J-Gvecg-P580009.t33">PU.tok273</ta>
+        <ta id="Seg_15416" s="Artur-J-Gvecg-P580009.t33.w0" e="Artur-J-Gvecg-P580009.t34">PU.tok279</ta>
+        <ta id="Seg_15417" s="Artur-J-Gvecg-P580009.t34.w0" e="Artur-J-Gvecg-P580009.t35">PU.tok295</ta>
+        <ta id="Seg_15418" s="Artur-J-Gvecg-P580009.t35.w0" e="Artur-J-Gvecg-P580009.t35.w4">PU.tok300</ta>
+        <ta id="Seg_15419" s="Artur-J-Gvecg-P580009.t53.w0" e="Artur-J-Gvecg-P580009.t54">PU.tok507</ta>
+        <ta id="Seg_15420" s="Artur-J-Gvecg-P580009.t55.w0" e="Artur-J-Gvecg-P580009.t56">PU.tok515</ta>
+        <ta id="Seg_15421" s="Artur-J-Gvecg-P580009.t77.w0" e="Artur-J-Gvecg-P580009.t78">PU.tok832</ta>
+        <ta id="Seg_15422" s="Artur-J-Gvecg-P580009.t78.w0" e="Artur-J-Gvecg-P580009.t79">PU.tok834</ta>
+        <ta id="Seg_15423" s="Artur-J-Gvecg-P580009.t79.w0" e="Artur-J-Gvecg-P580009.t80">PU.tok847</ta>
+        <ta id="Seg_15424" s="Artur-J-Gvecg-P580009.t90.w0" e="Artur-J-Gvecg-P580009.t91">PU.tok1040</ta>
       </annotation>
       <annotation name="dialogActsPrimary" tierref="Artur-J-G4539 [dialogActsPrimary]">
         <ta id="Seg_15425" s="Artur-J-Gvecg-P580009.t0.w0" e="Artur-J-Gvecg-P580009.t1_">metadiscourse</ta>
@@ -14877,1190 +14877,1191 @@
   <conversion-info>
     <basic-transcription-conversion-info>
       <conversion-timeline>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t2.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t2.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t2.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t4.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t4.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t5.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t5.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t5.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t5.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t6.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t6.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t8.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t12.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t13_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t14.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w4_"/>
-        <conversion-tli id="T1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w11_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t20"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t20_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t21"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t21_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t22.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t22.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t22.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t22.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t24"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t24_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t24.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w10"/>
-        <conversion-tli id="T4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w14_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w19"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w20"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t30"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t30.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t30.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t30.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t31"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t31_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w0"/>
-        <conversion-tli id="T5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t32"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t34"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t34_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t34.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t34.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t34.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t34.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.wx0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.wx1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.wx2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t35.wx3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t36"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t36_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w11_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w18_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w19"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w20"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w21"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w21_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w22"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t38"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t38.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t38.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t38.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t40"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t40_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t40.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t40.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t40.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t40.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t43"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t43_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t43.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t43.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t43.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t43.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t44"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t44_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t47"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t47_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t47.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t47.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t50"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t50.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t50.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t50.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t50.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w17_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t52"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t52_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t54"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t54_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t57"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t57_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t57.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t57.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w15_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w19"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w19_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w20"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w21"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w22"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w22_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w23"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w23_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w24"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w24_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w25"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w25_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w26"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w27"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w28"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w28_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w29"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w29_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w30"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w31"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w11"/>
-        <conversion-tli id="T2"/>
-        <conversion-tli id="T2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w15_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w17_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w19"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w20"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t61"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t61_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t61.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t61.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t61.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t61.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w1"/>
-        <conversion-tli id="T6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t64"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t64_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w13_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w16_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t66"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t66_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t66.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t67"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t67_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t67.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t67.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t68"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w7"/>
-        <conversion-tli id="T7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t72"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t72_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t72.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t72.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t72.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t72.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w6_"/>
-        <conversion-tli id="T8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w11_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w16_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t75"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t75_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t77"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t77_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t77.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t77.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w9_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w19"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w16_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w19"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w20"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w21"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w22"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w22_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w23"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w24"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w25"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w26"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w1_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w14_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t82"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t82_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w2_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w6"/>
-        <conversion-tli id="T9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w5"/>
-        <conversion-tli id="T3"/>
-        <conversion-tli id="T3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w15_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w18_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w4_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t86"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t86.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t86.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w3_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w6_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w7_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w12_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w14_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w15_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w16"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w17"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w18"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w0"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w1"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w2"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w3"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w4"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w5"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w5_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w6"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w7"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w8"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w8_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w9"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w10"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w10_"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w11"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w12"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w13"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w14"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w15"/>
-        <conversion-tli id="Artur-J-Gvecg-P580009.t91"/>
-        <conversion-tli id="T0"/>
+        <conversion-tli id="Artur-J-Gvecg-P580009.t0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t0.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t1.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t2.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t2.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t2.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t3.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t4.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t4.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t5.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t5.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t5.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t5.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t6.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t6.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t7.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t8.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t10.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t11.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t12.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t13_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t14.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w4_" />
+        <conversion-tli id="T1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t15.w11_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t16.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t17.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t18.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t19.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t20" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t20_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t20.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t21" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t21_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t22.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t22.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t22.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t22.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t23.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t24" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t24_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t24.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w10" />
+        <conversion-tli id="T4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t25.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t26.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t27.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t28.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w14_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w19" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t29.w20" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t30" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t30.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t30.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t30.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t31" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t31_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w0" />
+        <conversion-tli id="T5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t31.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t32" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t32.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t33.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t34" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t34_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t34.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t34.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t34.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t34.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.wx0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.wx1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.wx2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t35.wx3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t36" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t36_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t36.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w11_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w18_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w19" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w20" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w21" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w21_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t37.w22" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t38" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t38.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t38.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t38.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t39.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t40" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t40_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t40.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t40.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t40.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t40.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t41.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t42.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t43" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t43_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t43.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t43.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t43.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t43.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t44" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t44_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t44.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t45.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t46.w9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t47" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t47_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t47.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t47.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t48.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t49.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t50" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t50.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t50.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t50.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t50.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t51.w17_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t52" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t52_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t53.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t54" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t54_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t55.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t56.w12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t57" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t57_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t57.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t57.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w15_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w19" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w19_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w20" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w21" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w22" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w22_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w23" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w23_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w24" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w24_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w25" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w25_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w26" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w27" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w28" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w28_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w29" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w29_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w30" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t58.w31" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w11" />
+        <conversion-tli id="T2" />
+        <conversion-tli id="T2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w15_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w17_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w19" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t59.w20" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t60.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t61" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t61_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t61.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t61.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t61.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t61.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t62.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w1" />
+        <conversion-tli id="T6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t63.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t64" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t64_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t64.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w13_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t65.w16_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t66" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t66_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t66.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t67" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t67_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t67.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t67.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t68" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t68.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w7" />
+        <conversion-tli id="T7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t69.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t70.w12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t71.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t72" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t72_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t72.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t72.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t72.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t72.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t73.w12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w6_" />
+        <conversion-tli id="T8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w11_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w16_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t74.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t75" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t75_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t75.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t76.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t77" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t77_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t77.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t77.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t78.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w9_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t79.w19" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w16_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w19" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w20" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w21" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w22" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w22_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w23" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w24" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w25" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t80.w26" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w1_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w14_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t81.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t82" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t82_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t82.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w2_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w6" />
+        <conversion-tli id="T9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t83.w8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w5" />
+        <conversion-tli id="T3" />
+        <conversion-tli id="T3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w15_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t84.w18_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w4_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t85.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t86" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t86.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t86.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t87.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w3_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w6_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w7_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t88.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w12_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w14_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w15_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w16" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w17" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t89.w18" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w0" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w1" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w2" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w3" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w4" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w5" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w5_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w6" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w7" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w8" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w8_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w9" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w10" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w10_" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w11" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w12" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w13" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w14" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t90.w15" />
+        <conversion-tli id="Artur-J-Gvecg-P580009.t91" />
+        <conversion-tli id="T0" />
       </conversion-timeline>
-      <conversion-tier segmented-tier-id="7" name="trans" category="trans" display-name="Artur-J-G4538 [word]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="SpeakerContribution_Event" category="v" display-name="Artur-J-G4538 [norm]" type="t" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="additional" category="additional" display-name="Artur-J-G4538 [additional]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="nonverbalDisfluency" category="nonverbalDisfluency" display-name="Artur-J-G4538 [nonverbalDisfluency]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="verbalDisfluency" category="verbalDisfluency" display-name="Artur-J-G4538 [verbalDisfluency]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="disfluencyStructure" category="disfluencyStructure" display-name="Artur-J-G4538 [disfluencyStructure]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="traceability" category="traceability" display-name="Artur-J-G4538 [traceability]" type="a" hidden="true"/>
-      <conversion-tier segmented-tier-id="7" name="sentenceId" category="sentenceId" display-name="Artur-J-G4538 [sentenceId]" type="a" hidden="true"/>
-      <conversion-tier segmented-tier-id="7" name="lemma" category="lemma" display-name="Artur-J-G4538 [lemma]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="upos" category="upos" display-name="Artur-J-G4538 [upos]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="xpos" category="xpos" display-name="Artur-J-G4538 [xpos]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="feats" category="feats" display-name="Artur-J-G4538 [feats]" type="a" hidden="true"/>
-      <conversion-tier segmented-tier-id="7" name="head" category="head" display-name="Artur-J-G4538 [head]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="deprel" category="deprel" display-name="Artur-J-G4538 [deprel]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="prosodicUnits" category="prosodicUnits" display-name="Artur-J-G4538 [prosodicUnits]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="7" name="dialogActsPrimary" category="dialogActsPrimary" display-name="Artur-J-G4538 [dialogActsPrimary]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="trans" category="trans" display-name="Artur-J-G4539 [word]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="SpeakerContribution_Event" category="v" display-name="Artur-J-G4539 [norm]" type="t" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="additional" category="additional" display-name="Artur-J-G4539 [additional]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="nonverbalDisfluency" category="nonverbalDisfluency" display-name="Artur-J-G4539 [nonverbalDisfluency]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="verbalDisfluency" category="verbalDisfluency" display-name="Artur-J-G4539 [verbalDisfluency]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="disfluencyStructure" category="disfluencyStructure" display-name="Artur-J-G4539 [disfluencyStructure]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="traceability" category="traceability" display-name="Artur-J-G4539 [traceability]" type="a" hidden="true"/>
-      <conversion-tier segmented-tier-id="1" name="sentenceId" category="sentenceId" display-name="Artur-J-G4539 [sentenceId]" type="a" hidden="true"/>
-      <conversion-tier segmented-tier-id="1" name="lemma" category="lemma" display-name="Artur-J-G4539 [lemma]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="upos" category="upos" display-name="Artur-J-G4539 [upos]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="xpos" category="xpos" display-name="Artur-J-G4539 [xpos]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="feats" category="feats" display-name="Artur-J-G4539 [feats]" type="a" hidden="true"/>
-      <conversion-tier segmented-tier-id="1" name="head" category="head" display-name="Artur-J-G4539 [head]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="deprel" category="deprel" display-name="Artur-J-G4539 [deprel]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="prosodicUnits" category="prosodicUnits" display-name="Artur-J-G4539 [prosodicUnits]" type="a" hidden="false"/>
-      <conversion-tier segmented-tier-id="1" name="dialogActsPrimary" category="dialogActsPrimary" display-name="Artur-J-G4539 [dialogActsPrimary]" type="a" hidden="false"/>
+      <conversion-tier segmented-tier-id="7" name="trans" category="trans" display-name="Artur-J-G4538 [word]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="SpeakerContribution_Event" category="v" display-name="Artur-J-G4538 [norm]" type="t" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="additional" category="additional" display-name="Artur-J-G4538 [additional]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="vocalDisfluency" category="vocalDisfluency" display-name="Artur-J-G4538 [vocalDisfluency]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="verbalDisfluency" category="verbalDisfluency" display-name="Artur-J-G4538 [verbalDisfluency]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="disfluencyStructure" category="disfluencyStructure" display-name="Artur-J-G4538 [disfluencyStructure]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="traceability" category="traceability" display-name="Artur-J-G4538 [traceability]" type="a" hidden="true" />
+      <conversion-tier segmented-tier-id="7" name="sentenceId" category="sentenceId" display-name="Artur-J-G4538 [sentenceId]" type="a" hidden="true" />
+      <conversion-tier segmented-tier-id="7" name="lemma" category="lemma" display-name="Artur-J-G4538 [lemma]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="upos" category="upos" display-name="Artur-J-G4538 [upos]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="xpos" category="xpos" display-name="Artur-J-G4538 [xpos]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="feats" category="feats" display-name="Artur-J-G4538 [feats]" type="a" hidden="true" />
+      <conversion-tier segmented-tier-id="7" name="head" category="head" display-name="Artur-J-G4538 [head]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="deprel" category="deprel" display-name="Artur-J-G4538 [deprel]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="prosodicUnits" category="prosodicUnits" display-name="Artur-J-G4538 [prosodicUnits]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="7" name="dialogActsPrimary" category="dialogActsPrimary" display-name="Artur-J-G4538 [dialogActsPrimary]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="trans" category="trans" display-name="Artur-J-G4539 [word]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="SpeakerContribution_Event" category="v" display-name="Artur-J-G4539 [norm]" type="t" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="additional" category="additional" display-name="Artur-J-G4539 [additional]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="vocalDisfluency" category="vocalDisfluency" display-name="Artur-J-G4539 [vocalDisfluency]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="verbalDisfluency" category="verbalDisfluency" display-name="Artur-J-G4539 [verbalDisfluency]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="disfluencyStructure" category="disfluencyStructure" display-name="Artur-J-G4539 [disfluencyStructure]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="traceability" category="traceability" display-name="Artur-J-G4539 [traceability]" type="a" hidden="true" />
+      <conversion-tier segmented-tier-id="1" name="sentenceId" category="sentenceId" display-name="Artur-J-G4539 [sentenceId]" type="a" hidden="true" />
+      <conversion-tier segmented-tier-id="1" name="lemma" category="lemma" display-name="Artur-J-G4539 [lemma]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="upos" category="upos" display-name="Artur-J-G4539 [upos]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="xpos" category="xpos" display-name="Artur-J-G4539 [xpos]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="feats" category="feats" display-name="Artur-J-G4539 [feats]" type="a" hidden="true" />
+      <conversion-tier segmented-tier-id="1" name="head" category="head" display-name="Artur-J-G4539 [head]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="deprel" category="deprel" display-name="Artur-J-G4539 [deprel]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="prosodicUnits" category="prosodicUnits" display-name="Artur-J-G4539 [prosodicUnits]" type="a" hidden="false" />
+      <conversion-tier segmented-tier-id="1" name="dialogActsPrimary" category="dialogActsPrimary" display-name="Artur-J-G4539 [dialogActsPrimary]" type="a" hidden="false" />
     </basic-transcription-conversion-info>
   </conversion-info>
 </segmented-transcription>
+
