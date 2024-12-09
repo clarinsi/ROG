@@ -1,0 +1,383 @@
+
+\documentclass[a4paper,oneside,12pt]{article}
+
+\usepackage[utf8]{inputenc}    % make čšž work on input
+\usepackage[T1]{fontenc}       % make čšž work on output
+\usepackage[english]{babel}    % slovenian language and hyphenation
+\usepackage[reqno]{amsmath}    % basic math
+\usepackage{amssymb,amsthm}    % math symbols and theorem environments
+\usepackage{graphicx}          % images
+\usepackage{enumerate}
+\usepackage[
+  paper=a4paper,
+  top=2.5cm,
+  bottom=2.5cm,
+  left=2.5cm,
+  right=2.5cm
+% textheight=24cm,
+]{geometry}  % page geomerty
+\usepackage[bookmarks,
+colorlinks=true,
+linkcolor=black,
+anchorcolor=black,
+citecolor=black,
+filecolor=black,
+menucolor=black,
+runcolor=black,
+urlcolor=black,
+pdfencoding=unicode]{hyperref}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{longtable}
+\hypersetup{pdftitle={ROG corpus documentation}, pdfauthor={Darinka Verdonik}} %To piše v pdf viewerju na vrhu! veri neat
+\title{ROG annotation layers and tags}
+\author{{}\vspace*{\fill}
+Darinka Verdonik\textsuperscript{1}, Kaja Dobrovoljc\textsuperscript{2},
+ Peter Rupnik\textsuperscript{3}, Nikola Ljubešić\textsuperscript{3},
+ \\ Simona Majhenič\textsuperscript{1}, Jaka Čibej\textsuperscript{2}
+\\ \vspace{5cm} \\
+\textsuperscript{1} University of Maribor, Faculty of Electrical Engineering
+and Computer Science \\
+\textsuperscript{2} University of Ljubljana, Faculty of Arts \\
+\textsuperscript{3} Department of Knowledge Technologies, Jožef Stefan Institute
+\\ \vspace{\fill} \\
+}
+
+
+\begin{document}
+\pagenumbering{gobble}
+\maketitle
+\pagebreak
+\pagenumbering{arabic}
+
+\section{Introduction}
+
+This document describes annotation layers and tags of the training corpus of
+spoken Slovenian ROG \cite{verdonik2024c}.
+
+
+ROG corpus consists of:
+\begin{description}
+  \item[ROG-SST,]  which includes selected Gos 2.1 transcriptions with
+    manually assigned lemmas and morphosyntactic tags according to the
+    MULTEXT-East annotation scheme, as well as annotations according to the
+    Universal Dependencies annotation scheme (i.e. part-of-speech categories,
+    morphological features and syntactic dependencies).
+    ROG-SST is distributed as CONLL-U format\footnote{
+      \url{https://universaldependencies.org/format.html}
+    } (2014-2024) (.conllu files).
+  \item[ROG-Art,] which includes all the annotation layers from the ROG-SST plus
+    additional annotation layers for prosodic units, disfluencies and dialogue
+    acts. ROG-Art is distributed as EXMARaLDA format (.EXB files)
+    \cite{schmidtworner2014}. In addition to the .EXB files, .EXS files and
+    Rog-Art.coma file are added for searching through the annotated corpus in the
+    EXMARaLDA EXAKT concordancer, .TRS files \cite{barras2001transcriber} are
+    added for viewing the transcriptions without annotations in the Transcriber,
+    and .textGrid files \cite{boersma19922022} with additional prosodic
+    annotations in the Praat (TeG folder) can be found in the ROG-Art folder.
+\end{description}
+
+This documentation provides information on annotation layers and tags for both
+ROG-SST and ROG-Art subset.
+
+\section{Data sources and file naming convention}
+
+Both ROG-SST and ROG-Art consist of data published in Gos 2.1 corpus
+\cite{verdonik2024a}\footnote{\url{
+    http://hdl.handle.net/11356/1863
+  }}, which represents a merge of the:
+\begin{itemize}
+  \item Gos 1  \cite{verdonik2013}\footnote{
+          \url{http://hdl.handle.net/11356/1863}} and
+  \item selected data from the Artur 1 corpus \cite{verdonik2024b}\footnote{
+          \url{http://hdl.handle.net/11356/1772}
+        }.
+\end{itemize}
+
+\begin{samepage}
+
+  Files preserve Gos 2.1 naming, but in order to enhance clarity and provide additional
+  context, prefixes were added to the file names to make them more informative:
+
+  \begin{center}
+    \begin{tabular}{|l|p{10cm}|}
+      \hline
+      \textbf{FILE NAME PREFIX} & \textbf{DESCRIPTION}                            \\ \hline
+      \textbf{Rog-Go1}          & The files correspond to the original version
+      of the Spoken Slovenian Treebank\cite{dobrovoljcandnivre}, which was
+      created by selecting data from the GOS1 corpus based on proportional
+      criteria. However, 22 files that were expanded and renamed using the
+      Rog-Go2 naming convention are excluded here.                                \\ \hline
+      \textbf{Rog-Go2}          & Twenty-two manually selected files containing
+      speech samples, which were excluded from the Rog-Go1 subset, were expanded
+      by adding additional data from the same speech events from the GOS1 corpus. \\ \hline
+      \textbf{Rog-Art}          & The speeches are excerpts taken from the Artur
+      speech corpus.                                                              \\ \hline
+    \end{tabular}
+  \end{center}
+\end{samepage}
+
+\section{Capitalization, punctuation, segmentation}
+\subsection{Capitalization and punctuation}
+\begin{tabular}{|p{3cm}|p{6cm}|p{6cm}|}
+  \hline
+  \textbf{FILE NAME PREFIX}                                                       &
+  \textbf{DESCRIPTION OF CAPITALIZATION AND PUNCTUATION in ROG}                   &
+  \textbf{History of capitalization and punctuation in the original corpora (GOS 1, GOS 2.1 and/or ARTUR)} \\ \hline
+  \textbf{Rog-Go1 and Rog-Go2}                                                    &
+  \multirow{2}{*}{
+  \begin{tabular}[l]{p{5.5cm}}
+      All three subsets
+      (Rog-Go1, Rog-Go2 and Rog-Art) follow identical manually checked
+      capitalization and punctuation principles: lowercased transcriptions
+      (except for proper nouns), and written-like punctuation, which includes
+      both utterance-final punctuation, such as full stops and question marks,
+      and utterance-medial punctuation, such as commas.       \\ While punctuation in
+      Rog-Art remains identical as in the original ARTUR database, it had to be
+      manually added to Rog-Go1 and Rog-Go2 data (see right). \\ Transcription
+      and punctuation principles are identical in both CONLL-U and EXB versions
+      of the ROG data.
+    \end{tabular}} &
+  Rog-Go1 and Rog-Go2 transcriptions in the original GOS 1 corpus  follow the
+  same truecasing convention (capital letters only for proper names), but a more
+  limited set of punctuation (?, !, and …). The same principles were preserved,
+  when extending GOS 1 to versions GOS 2.0 and GOS 2.1.                                                    \\ \cline{1-1} \cline{3-3}
+  \textbf{Rog-Art}                                                                &   &
+  Rog-Art transcriptions in the original ARTUR database adhered to standard
+  orthographic conventions for capitalization and punctuation. This includes
+  capitalizing both proper names and sentence-initial words, and using both
+  sentence-medial and sentence-final punctuation. When adding ARTUR data to
+  GOS 2.0, punctuation was removed, but then reintroduced in GOS 2.1, together
+  with automatic conversion to truecase capitalization.                                                    \\ \hline
+\end{tabular}
+
+
+\subsection{Segmentation}
+\begin{minipage}{\linewidth}
+  \begin{center}
+    \begin{tabular}{|p{3cm}|p{7cm}|p{7cm}|}
+      \hline
+      \textbf{FILE NAME PREFIX}                                                                     & \textbf{DESCRIPTION OF SEGMENTATION in ROG} &
+      \textbf{History of segmentation in the original corpora (GOS 1, GOS 2.1 and/or ARTUR)}                                                        \\ \hline
+      \textbf{\begin{tabular}[c]{p{2cm}}Rog-Go1 \\ and Rog-Go2\end{tabular}} &
+      Segmentation in Rog-Go1 and Rog-Go2 has been inherited from the original GOS 1
+      and 2.1 corpus (see right) and remained unchanged. The sentence IDs are
+      identical to those in GOS 1, ensuring long-term traceability and mapping
+      between the datasets.                                                                         &
+      GOS 1 was manually segmented into utterances, broadly defined as a
+      `syntactically, semantically and prosodically completed unit'. The same
+      segmentation was also preserved in GOS 2.0 and 2.1.\footnote{``Izjava je
+        osnovna enota govora, ki približno ustreza pojmu povedi v pisnem
+        jeziku. Določimo jo tako, da je prozodično, semantično in skladenjsko
+        zaokrožena
+        enota.
+        Pri zelo strnjenem govoru smo pozorni, da izjavo označimo na takem mestu, da
+        je v signalu mogoče nedvoumno označiti mejo med izjavama, ne da bi pri tem
+        odrezali konec prejšnje ali začetek nove izjave.
+        Kjer zgornji vodili omogočata različne odločitve, imajo prednost
+        krajše enote.'' \cite{ssjgos}
+      }                                                                                                                                             \\\hline
+      \textbf{Rog-Art}                                                                              &
+
+      The segmentation of Rog-Art data in EXB format  does not feature any explicit segmentation, as all words are on the same level, direct children of <tier> elements.
+
+      In CONLL-U, Rog-Art has been split into utterances (written-like sentences) to align with the segmentation of Rog-Go1 and Rog-Go2 (see above). This was performed by merging the short segments from the original corpus (see right) based on punctuation marks. Specifically, consecutive segments within each utterance were combined into a single segment until a punctuation mark '.', '?', or '...' was encountered at the end of the first segment, ensuring the segmentation better reflected syntactic structures.
+
+      These merged sentence units are traceable through sentence ID's.                              &
+      The manual segmentation in the original Artur database, which was also propagated to Gos 2.0 and Gos 2.1, was mostly prosody-based, i.e. introducing a segment split after each pause, and did not necessarily align with syntactic unit boundaries, such as syntactically complete phrases or sentences.\footnote{``Pomembno je, da segmenti niso predolge enote in da je tam, kjer naredimo mejo segmenta, dovolj premora v govoru, da lahko določimo mejo segmenta, ne da odrežemo del predhodnega ali del naslednjega fonema. /…/ Okvirno velja pravilo, da naj bo premor dolg vsaj 0,2 sekunde, lahko pa tudi manj v naslednjih primerih: (1) če bi bili sicer segmenti predolgi, tj. več kot okoli 10 sekund, (2) če se menjajo govorci ali (3) če bi v segment s hkratnim govorom tako zajeli tudi veliko nehkratnega govora. Vedno pa mora biti med segmenti vsaj malo premora, da je meja med besedami vidna tudi na signalu. /…/ Idealno je, če lahko segment sovpada s stavki ali kratkimi povedmi oz. s semantično in skladenjsko kolikor mogoče zaključenimi, smiselnimi enotami, vendar pogosto to ni mogoče. Glavni vodili za meje med segmenti sta zato:
+        • kratek premor v govoru in
+        • dolžina segmenta, ki naj ne bo predolga, tj. več kot okoli 10 sekund.'' \cite{verdonikbizjak2023}
+      }
+
+      \\ \hline
+    \end{tabular}
+  \end{center}
+\end{minipage}
+
+
+\section{Lemmas}
+Lemmas were first assigned automatically using the CLASSLA-Stanza model for
+lemmatisation of standard Slovenian 2.0~\cite{tercon2023} and then manually
+validated/corrected. The manual corrections followed the lemmatization
+guidelines available at: \url{https://wiki.cjvt.si/books/05-lemmatization}.
+
+
+\section{Universal part-of-speech categories (upos)}
+
+Universal part-of-speech categories (UPOS column in ROG-SST files) follow the
+Universal Dependencies annotation scheme, documented in the following guidelines:
+\begin{itemize}
+  \item general UD guidelines for part-of-speech (in English, online): \url{https://universaldependencies.org/u/pos/index.html}
+  \item general UD guidelines for Slovenian (in English, online): \url{https://universaldependencies.org/sl/}
+  \item detailed UD guidelines for Slovenian (in Slovene, standalone document), v1.7: \url{https://wiki.cjvt.si/books/07-universal-dependencies/page/oznacevalne-smernice}
+\end{itemize}
+\begin{samepage}
+
+  Part-of-speech tags used:
+  \begin{center}
+
+    \begin{tabular}{|l|l|}
+      \hline
+      \textbf{TAG} & \textbf{DESCRIPTION}      \\ \hline
+      ADJ          & adjective                 \\ \hline
+      ADP          & adposition                \\ \hline
+      ADV          & adverb                    \\ \hline
+      AUX          & auxiliary                 \\ \hline
+      CCONJ        & coordinating conjunction  \\ \hline
+      DET          & determiner                \\ \hline
+      INTJ         & interjection              \\ \hline
+      NOUN         & noun                      \\ \hline
+      NUM          & numeral                   \\ \hline
+      PART         & particle                  \\ \hline
+      PRON         & pronoun                   \\ \hline
+      PROPN        & proper noun               \\ \hline
+      PUNCT        & punctuation               \\ \hline
+      SCONJ        & subordinating conjunction \\ \hline
+      SYM          & symbol                    \\ \hline
+      VERB         & verb                      \\ \hline
+      X            & other                     \\ \hline
+    \end{tabular}
+  \end{center}
+\end{samepage}
+As described by Dobrovoljc~\cite{dobrovoljc2024extending}, a semi-automatic
+procedure was employed to produce UD morphological annotation, by which the
+manually validated Multext-East (JOS) morphosyntactic tags (see below) have been
+converted to UD parts-of-speech and feature combinations with the
+jos2ud\footnote{\url{https://github.com/clarinsi/jos2ud}} conversion script.
+Mistakes and inconsistencies identified during subsequent dependency annotation
+and data validation have been manually corrected.
+
+
+\section{MULTEXT-East morphosyntactic tags (xpos)}
+
+Morphosyntactic tags in ROG-Art and ROG-SST were assigned automatically using
+the The CLASSLA-Stanza model for morphosyntactic annotation of standard
+Slovenian 2.0\footnote{\url{http://hdl.handle.net/11356/1767}} and then manually
+validated/corrected. The tags follow the Slovene Multext-East Specifications
+(v6)\footnote{\url{https://nl.ijs.si/ME/V6/msd/html/msd-sl.html}}.
+
+\section{Universal morphological features (feats)}
+Universal morphological features (FEATS column in ROG-SST files) follow the
+Universal Dependencies annotation scheme, documented in the following guidelines:
+\begin{itemize}
+  \item general UD guidelines for morphological features (in English, online):
+        \url{https://universaldependencies.org/u/feat/index.html}
+  \item general UD guidelines for Slovenian (in English, online): \url{
+          https://universaldependencies.org/sl/ }
+  \item detailed UD guidelines for Slovenian (in Slovene, standalone document),
+        v1.7: \url{https://wiki.cjvt.si/books/07-universal-dependencies/page/oznacevalne-smernice}
+\end{itemize}
+\begin{samepage}
+  Tags for morphological features used (found as feature-value pairs, e.g. Tense=Pres):
+  \begin{center}
+    \begin{tabular}{|l|l|l|}
+      \hline
+      \textbf{Feature} & \textbf{Values}                   & \textbf{Description}        \\ \hline
+      Abbr             & Yes                               & abbreviation                \\ \hline
+      Animacy          & Anim, Inanim                      & animacy                     \\ \hline
+      Aspect           & Imp, Perf                         & aspect                      \\ \hline
+      Case             & Nom, Gen, Dat, Acc, Loc, Ins      & case                        \\ \hline
+      Definite         & Ind, Def                          & definiteness or state       \\ \hline
+      Degree           & Pos, Cmp, Sup                     & degree                      \\ \hline
+      Foreign          & Yes                               & foreign word                \\ \hline
+      Gender           & Masc, Fem, Neut                   & gender                      \\ \hline
+      Gender{[}psor{]} & Masc. Fem, Neut                   & possessor's gender          \\ \hline
+      Mood             & Ind, Imp, Cnd                     & mood                        \\ \hline
+      Number           & Sing, Dual, Plur                  & number                      \\ \hline
+      Number{[}psor{]} & Sing, Dual, Plur                  & possessor's number          \\ \hline
+      NumForm          & Word, Digit, Roman                & numeral form                \\ \hline
+      NumType          & Card, Ord, Mult, Sets             & numeral type                \\ \hline
+      Person           & 1, 2, 3                           & person                      \\ \hline
+      Polarity         & Neg, Pos                          & polarity                    \\ \hline
+      Poss             & Yes                               & possessive                  \\ \hline
+      PronType         & Prs, Int, Rel, Dem, Tot, Neg, Ind & pronominal type             \\ \hline
+      Reflex           & Yes                               & reflexive                   \\ \hline
+      Tense            & Pres, Fut                         & tense                       \\ \hline
+      Variant          & Bound, Short                      & alternative form of word    \\ \hline
+      VerbForm         & Fin, Inf, Sup, Part, Conv         & form of verb or deverbative \\ \hline
+    \end{tabular}
+  \end{center}
+\end{samepage}
+As described by Dobrovoljc~\cite{dobrovoljc2024extending}, a semi-automatic
+procedure was employed to produce UD morphological annotation, by which the
+manually validated Multext-East (JOS) morphosyntactic tags (see below) have been
+converted to UD parts-of-speech and feature combinations with the
+jos2ud\footnote{\url{https://github.com/clarinsi/jos2ud}} conversion script.
+Mistakes and inconsistencies identified during subsequent dependency annotation
+and data validation have been manually corrected.
+
+\section{Universal syntactic relations (head and deprel)}
+The annotation of syntactic relations between words (HEAD and DEPREL columns in
+ROG-SST files) follows the Universal Dependencies annotation scheme, documented in the following guidelines:
+\begin{itemize}
+  \item general UD guidelines for syntactic relations (in English, online):
+        \url{https://universaldependencies.org/u/dep/index.html}
+  \item general UD guidelines for Slovenian (in English, online):
+        \url{https://universaldependencies.org/sl/}
+  \item detailed UD guidelines for Slovenian (in Slovene, standalone document),
+        v1.7: \url{https://wiki.cjvt.si/books/07-universal-dependencies/page/oznacevalne-smernice }
+\end{itemize}
+\begin{samepage}
+  Tags for dependency relations used (without subtypes of the type cc:preconj):
+
+
+  \begin{longtable}{|l|l|}
+    \hline
+    \textbf{Tag} & \textbf{Description}               \\ \hline
+    \endhead
+    %
+    acl          & clausal modifier of noun           \\ \hline
+    advcl        & adverbial clause modifier          \\ \hline
+    advmod       & adverbial modifier                 \\ \hline
+    amod         & adjectival modifier                \\ \hline
+    appos        & appositional modifier              \\ \hline
+    aux          & auxiliary verb                     \\ \hline
+    case         & case marking preposition           \\ \hline
+    cc           & coordinating conjunction           \\ \hline
+    ccomp        & clausal complement                 \\ \hline
+    conj         & conjunct                           \\ \hline
+    cop          & copula verb                        \\ \hline
+    csubj        & clausal subject                    \\ \hline
+    dep          & unspecified dependency             \\ \hline
+    det          & determiner                         \\ \hline
+    discourse    & discourse element                  \\ \hline
+    dislocated   & dislocated element                 \\ \hline
+    expl         & expletive                          \\ \hline
+    fixed        & fixed multi-word expression        \\ \hline
+    flat         & flat multi word-expression         \\ \hline
+    goeswith     & disjointed token                   \\ \hline
+    iobj         & indirect object                    \\ \hline
+    list         & list                               \\ \hline
+    mark         & marker (subordinating conjunction) \\ \hline
+    nmod         & nominal modifier                   \\ \hline
+    nsubj        & nominal subject                    \\ \hline
+    nummod       & numeric modifier                   \\ \hline
+    obj          & (direct) object                    \\ \hline
+    obl          & oblique nominal (adjunct)          \\ \hline
+    orphan       & dependent of missing parent        \\ \hline
+    parataxis    & parataxis                          \\ \hline
+    punct        & punctuation symbol                 \\ \hline
+    reparandum   & overridden disfluency              \\ \hline
+    root         & root element                       \\ \hline
+    vocative     & vocative                           \\ \hline
+    xcomp        & open clausal complement            \\ \hline
+  \end{longtable}
+\end{samepage}
+As described by Dobrovoljc~\cite{dobrovoljc2024extending}, a semi-automatic
+procedure was employed to produce UD dependency annotation, involving
+automatically pre-parsed transcriptions with the customized Slovenian Trankit
+model~\cite{krsnikdobrovoljc}, which were then manually checked by 2-3
+independent annotators.
+\section{Additional}
+In this tier corrections of transcription are annotated, e.g. when a word or
+filler in the transcription is missing, e.g. `nnn' means that filler `nnn' is
+missing in the defined segment.
+
+Furthermore, lengthened phonemes in case of the lengthening are marked with
+sign~(:) after the phoneme, e.g. `o(:)d' means that phoneme `o' in the word
+`od' is lengthened.
+\section{Disfluency annotations}
+
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}
