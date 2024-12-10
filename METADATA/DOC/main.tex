@@ -94,21 +94,19 @@ represents a merge of the:
   \begin{center}
     \begin{tabular}{|l|p{10cm}|}
       \hline
-      \textbf{FILE NAME PREFIX} & \textbf{DESCRIPTION}
-      \\ \hline
+      \textbf{FILE NAME PREFIX} & \textbf{Description} \\ \hline
       \textbf{Rog-Go1}          & The files correspond to the original version
       of the Spoken Slovenian Treebank\cite{dobrovoljcandnivre}, which was
       created by selecting data from the GOS1 corpus based on proportional
       criteria. However, 22 files that were expanded and renamed using the
-      Rog-Go2 naming convention are excluded here.
-      \\ \hline
+      Rog-Go2 naming convention are excluded here. \\ \hline
       \textbf{Rog-Go2}          & Twenty-two manually selected files containing
       speech samples, which were excluded from the Rog-Go1 subset, were expanded
       by adding additional data from the same speech events from the GOS1
-      corpus.                                                                    \\ \hline
-      \textbf{Rog-Art}          & The speeches are excerpts taken from the Artur
-      speech corpus.
+      corpus.
       \\ \hline
+      \textbf{Rog-Art}          & The speeches are excerpts taken from the Artur
+      speech corpus. \\ \hline
     \end{tabular}
   \end{center}
 \end{samepage}
@@ -117,14 +115,15 @@ represents a merge of the:
 \subsection{Capitalization and punctuation}
 \begin{tabular}{|p{3cm}|p{6cm}|p{6cm}|}
   \hline
-  \textbf{FILE NAME PREFIX}                                     &
-  \textbf{DESCRIPTION OF CAPITALIZATION AND PUNCTUATION in ROG} &
+  \textbf{File Name Prefix}                                     &
+  \textbf{Description Of Capitalization And Punctuation in ROG} &
   \textbf{History of capitalization and punctuation in the original corpora (GOS
-  1, GOS 2.1 and/or ARTUR)}                                                                                                                                                                                  \\ \hline
+  1, GOS 2.1 and/or ARTUR)}
+  \\ \hline
   \textbf{Rog-Go1 and Rog-Go2}                                  &
   \multirow{2}{*}{
-    \begin{tabular}[l]{p{5.5cm}} All three subsets (Rog-Go1, Rog-Go2 and Rog-Art)
-      follow identical manually checked capitalization and punctuation
+    \begin{tabular}[l]{p{5.5cm}} All three subsets (Rog-Go1, Rog-Go2 and
+      Rog-Art) follow identical manually checked capitalization and punctuation
       principles: lowercased transcriptions (except for proper nouns), and
       written-like punctuation, which includes both utterance-final punctuation,
       such as full stops and question marks, and utterance-medial punctuation,
@@ -132,18 +131,18 @@ represents a merge of the:
       the original ARTUR database, it had to be manually added to Rog-Go1 and
       Rog-Go2 data (see right). Transcription and punctuation principles are
       identical in both CONLL-U and EXB versions of the ROG data.\end{tabular}}
-                                                                & Rog-Go1 and Rog-Go2 transcriptions in the original GOS 1 corpus  follow
-  the same truecasing convention (capital letters only for proper names),
-  but a more limited set of punctuation (?, !, and …). The same principles
-  were preserved, when extending GOS 1 to versions GOS 2.0 and GOS 2.1.
-  \\ \cline{1-1} \cline{3-3} \textbf{Rog-Art}
-                                                                &                                                                         & Rog-Art transcriptions in the original ARTUR database adhered to
-  standard orthographic conventions for capitalization and punctuation. This
-  includes capitalizing both proper names and sentence-initial words, and
-  using both sentence-medial and sentence-final punctuation. When adding
-  ARTUR data to GOS 2.0, punctuation was removed, but then reintroduced in
-  GOS 2.1, together with automatic conversion to truecase capitalization.
-  \\ \hline
+      & Rog-Go1 and Rog-Go2 transcriptions in the original GOS 1 corpus  follow
+      the same truecasing convention (capital letters only for proper names),
+      but a more limited set of punctuation (?, !, and …). The same principles
+      were preserved, when extending GOS 1 to versions GOS 2.0 and GOS 2.1. \\
+      \cline{1-1} \cline{3-3} \textbf{Rog-Art} &
+      & Rog-Art transcriptions in the original ARTUR database adhered to
+      standard orthographic conventions for capitalization and punctuation. This
+      includes capitalizing both proper names and sentence-initial words, and
+      using both sentence-medial and sentence-final punctuation. When adding
+      ARTUR data to GOS 2.0, punctuation was removed, but then reintroduced in
+      GOS 2.1, together with automatic conversion to truecase capitalization. \\
+      \hline
 \end{tabular}
 
 
@@ -152,26 +151,26 @@ represents a merge of the:
   \begin{center}
     \begin{tabular}{|p{3cm}|p{7cm}|p{7cm}|}
       \hline
-      \textbf{FILE NAME PREFIX}
-                                                                                                    & \textbf{DESCRIPTION OF SEGMENTATION in ROG}                            & \textbf{History of
-        segmentation in the original corpora (GOS 1, GOS 2.1 and/or ARTUR)}
+      \textbf{File Name Prefix}
+                                                                                                    &
+      \textbf{DEscription Of Segmentation in ROG}
+      & \textbf{History of segmentation in the original corpora (GOS 1, GOS 2.1
+      and/or ARTUR)}
       \\ \hline
       \textbf{\begin{tabular}[c]{p{2cm}}Rog-Go1 \\ and Rog-Go2\end{tabular}} &
       Segmentation in Rog-Go1 and Rog-Go2 has been inherited from the original
       GOS 1 and 2.1 corpus (see right) and remained unchanged. The sentence IDs
       are identical to those in GOS 1, ensuring long-term traceability and
-      mapping between the datasets.
-                                                                                                    & GOS 1 was manually segmented into utterances, broadly defined as a
-      `syntactically, semantically and prosodically completed unit'. The same
-      segmentation was also preserved in GOS 2.0 and 2.1.\footnote{``Izjava je
-        osnovna enota govora, ki približno ustreza pojmu povedi v pisnem jeziku.
-        Določimo jo tako, da je prozodično, semantično in skladenjsko zaokrožena
-        enota. Pri zelo strnjenem govoru smo pozorni, da izjavo označimo na takem
-        mestu, da je v signalu mogoče nedvoumno označiti mejo med izjavama, ne da
-        bi pri tem odrezali konec prejšnje ali začetek nove izjave. Kjer zgornji
-        vodili omogočata različne odločitve, imajo prednost krajše enote.''
-        \cite{ssjgos} }
-      \\\hline
+      mapping between the datasets. & GOS 1 was manually segmented into
+      utterances, broadly defined as a `syntactically, semantically and
+      prosodically completed unit'. The same segmentation was also preserved in
+      GOS 2.0 and 2.1.\footnote{``Izjava je osnovna enota govora, ki približno
+      ustreza pojmu povedi v pisnem jeziku. Določimo jo tako, da je prozodično,
+      semantično in skladenjsko zaokrožena enota. Pri zelo strnjenem govoru smo
+      pozorni, da izjavo označimo na takem mestu, da je v signalu mogoče
+      nedvoumno označiti mejo med izjavama, ne da bi pri tem odrezali konec
+      prejšnje ali začetek nove izjave. Kjer zgornji vodili omogočata različne
+      odločitve, imajo prednost krajše enote.'' \cite{ssjgos} } \\\hline
       \textbf{Rog-Art}
                                                                                                     &
 
@@ -188,25 +187,210 @@ represents a merge of the:
       first segment, ensuring the segmentation better reflected syntactic
       structures.
 
-      These merged sentence units are traceable through sentence ID's.
-                                                                                                    & The manual segmentation in the original Artur database, which was also
-      propagated to Gos 2.0 and Gos 2.1, was mostly prosody-based, i.e.
-      introducing a segment split after each pause, and did not necessarily
-      align with syntactic unit boundaries, such as syntactically complete
-      phrases or sentences.\footnote{``Pomembno je, da segmenti niso predolge
-        enote in da je tam, kjer naredimo mejo segmenta, dovolj premora v govoru,
-        da lahko določimo mejo segmenta, ne da odrežemo del predhodnega ali del
-        naslednjega fonema. /…/ Okvirno velja pravilo, da naj bo premor dolg vsaj
-        0,2 sekunde, lahko pa tudi manj v naslednjih primerih: (1) če bi bili
-        sicer segmenti predolgi, tj. več kot okoli 10 sekund, (2) če se menjajo
-        govorci ali (3) če bi v segment s hkratnim govorom tako zajeli tudi veliko
-        nehkratnega govora. Vedno pa mora biti med segmenti vsaj malo premora, da
-        je meja med besedami vidna tudi na signalu. /…/ Idealno je, če lahko
-        segment sovpada s stavki ali kratkimi povedmi oz. s semantično in
-        skladenjsko kolikor mogoče zaključenimi, smiselnimi enotami, vendar
-        pogosto to ni mogoče. Glavni vodili za meje med segmenti sta zato: •
-        kratek premor v govoru in • dolžina segmenta, ki naj ne bo predolga, tj.
-        več kot okoli 10 sekund.'' \cite{verdonikbizjak2023} }
+      These merged sentence units are traceable through sentence ID's. & The
+                                                                                                    manual
+                                                                                                    segmentation
+                                                                                                    in
+                                                                                                    the
+                                                                                                    original
+                                                                                                    Artur
+                                                                                                    database,
+                                                                                                    which
+                                                                                                    was
+                                                                                                    also
+                                                                                                    propagated
+                                                                                                    to
+                                                                                                    Gos
+                                                                                                    2.0
+                                                                                                    and
+                                                                                                    Gos
+                                                                                                    2.1,
+                                                                                                    was
+                                                                                                    mostly
+                                                                                                    prosody-based,
+                                                                                                    i.e.
+                                                                                                    introducing
+                                                                                                    a
+                                                                                                    segment
+                                                                                                    split
+                                                                                                    after
+                                                                                                    each
+                                                                                                    pause,
+                                                                                                    and
+                                                                                                    did
+                                                                                                    not
+                                                                                                    necessarily
+                                                                                                    align
+                                                                                                    with
+                                                                                                    syntactic
+                                                                                                    unit
+                                                                                                    boundaries,
+                                                                                                    such
+                                                                                                    as
+                                                                                                    syntactically
+                                                                                                    complete
+                                                                                                    phrases
+                                                                                                    or
+                                                                                                    sentences.\footnote{``Pomembno
+                                                                                                    je,
+                                                                                                    da
+                                                                                                    segmenti
+                                                                                                    niso
+                                                                                                    predolge
+                                                                                                    enote
+                                                                                                    in
+                                                                                                    da
+                                                                                                    je
+                                                                                                    tam,
+                                                                                                    kjer
+                                                                                                    naredimo
+                                                                                                    mejo
+                                                                                                    segmenta,
+                                                                                                    dovolj
+                                                                                                    premora
+                                                                                                    v
+                                                                                                    govoru,
+                                                                                                    da
+                                                                                                    lahko
+                                                                                                    določimo
+                                                                                                    mejo
+                                                                                                    segmenta,
+                                                                                                    ne
+                                                                                                    da
+                                                                                                    odrežemo
+                                                                                                    del
+                                                                                                    predhodnega
+                                                                                                    ali
+                                                                                                    del
+                                                                                                    naslednjega
+                                                                                                    fonema.
+                                                                                                    /…/
+                                                                                                    Okvirno
+                                                                                                    velja
+                                                                                                    pravilo,
+                                                                                                    da
+                                                                                                    naj
+                                                                                                    bo
+                                                                                                    premor
+                                                                                                    dolg
+                                                                                                    vsaj
+                                                                                                    0,2
+                                                                                                    sekunde,
+                                                                                                    lahko
+                                                                                                    pa
+                                                                                                    tudi
+                                                                                                    manj
+                                                                                                    v
+                                                                                                    naslednjih
+                                                                                                    primerih:
+                                                                                                    (1)
+                                                                                                    če
+                                                                                                    bi
+                                                                                                    bili
+                                                                                                    sicer
+                                                                                                    segmenti
+                                                                                                    predolgi,
+                                                                                                    tj.
+                                                                                                    več
+                                                                                                    kot
+                                                                                                    okoli
+                                                                                                    10
+                                                                                                    sekund,
+                                                                                                    (2)
+                                                                                                    če
+                                                                                                    se
+                                                                                                    menjajo
+                                                                                                    govorci
+                                                                                                    ali
+                                                                                                    (3)
+                                                                                                    če
+                                                                                                    bi
+                                                                                                    v
+                                                                                                    segment
+                                                                                                    s
+                                                                                                    hkratnim
+                                                                                                    govorom
+                                                                                                    tako
+                                                                                                    zajeli
+                                                                                                    tudi
+                                                                                                    veliko
+                                                                                                    nehkratnega
+                                                                                                    govora.
+                                                                                                    Vedno
+                                                                                                    pa
+                                                                                                    mora
+                                                                                                    biti
+                                                                                                    med
+                                                                                                    segmenti
+                                                                                                    vsaj
+                                                                                                    malo
+                                                                                                    premora,
+                                                                                                    da
+                                                                                                    je
+                                                                                                    meja
+                                                                                                    med
+                                                                                                    besedami
+                                                                                                    vidna
+                                                                                                    tudi
+                                                                                                    na
+                                                                                                    signalu.
+                                                                                                    /…/
+                                                                                                    Idealno
+                                                                                                    je,
+                                                                                                    če
+                                                                                                    lahko
+                                                                                                    segment
+                                                                                                    sovpada
+                                                                                                    s
+                                                                                                    stavki
+                                                                                                    ali
+                                                                                                    kratkimi
+                                                                                                    povedmi
+                                                                                                    oz.
+                                                                                                    s
+                                                                                                    semantično
+                                                                                                    in
+                                                                                                    skladenjsko
+                                                                                                    kolikor
+                                                                                                    mogoče
+                                                                                                    zaključenimi,
+                                                                                                    smiselnimi
+                                                                                                    enotami,
+                                                                                                    vendar
+                                                                                                    pogosto
+                                                                                                    to
+                                                                                                    ni
+                                                                                                    mogoče.
+                                                                                                    Glavni
+                                                                                                    vodili
+                                                                                                    za
+                                                                                                    meje
+                                                                                                    med
+                                                                                                    segmenti
+                                                                                                    sta
+                                                                                                    zato:
+                                                                                                    •
+                                                                                                    kratek
+                                                                                                    premor
+                                                                                                    v
+                                                                                                    govoru
+                                                                                                    in
+                                                                                                    •
+                                                                                                    dolžina
+                                                                                                    segmenta,
+                                                                                                    ki
+                                                                                                    naj
+                                                                                                    ne
+                                                                                                    bo
+                                                                                                    predolga,
+                                                                                                    tj.
+                                                                                                    več
+                                                                                                    kot
+                                                                                                    okoli
+                                                                                                    10
+                                                                                                    sekund.''
+                                                                                                    \cite{verdonikbizjak2023}
+                                                                                                    }
 
       \\ \hline
     \end{tabular}
@@ -241,7 +425,7 @@ guidelines:
 
     \begin{tabular}{|l|l|}
       \hline
-      \textbf{TAG} & \textbf{DESCRIPTION}      \\ \hline
+      \textbf{Tag} & \textbf{Description}      \\ \hline
       ADJ          & adjective                 \\ \hline
       ADP          & adposition                \\ \hline
       ADV          & adverb                    \\ \hline
@@ -298,51 +482,44 @@ guidelines:
     \begin{tabular}{|l|l|l|}
       \hline
       \textbf{Feature} & \textbf{Values}                   &
-      \textbf{Description}                                                       \\ \hline
-      Abbr             & Yes                               & abbreviation
+      \textbf{Description}
       \\ \hline
-      Animacy          & Anim, Inanim                      & animacy
-      \\ \hline
-      Aspect           & Imp, Perf                         & aspect
-      \\ \hline
-      Case             & Nom, Gen, Dat, Acc, Loc, Ins      & case
-      \\ \hline
+      Abbr             & Yes                               & abbreviation \\
+      \hline
+      Animacy          & Anim, Inanim                      & animacy \\ \hline
+      Aspect           & Imp, Perf                         & aspect \\ \hline
+      Case             & Nom, Gen, Dat, Acc, Loc, Ins      & case \\ \hline
       Definite         & Ind, Def                          & definiteness or
-      state                                                                      \\ \hline
-      Degree           & Pos, Cmp, Sup                     & degree
+      state
       \\ \hline
-      Foreign          & Yes                               & foreign word
-      \\ \hline
-      Gender           & Masc, Fem, Neut                   & gender
-      \\ \hline
+      Degree           & Pos, Cmp, Sup                     & degree \\ \hline
+      Foreign          & Yes                               & foreign word \\
+      \hline
+      Gender           & Masc, Fem, Neut                   & gender \\ \hline
       Gender{[}psor{]} & Masc. Fem, Neut                   & possessor's gender
       \\ \hline
-      Mood             & Ind, Imp, Cnd                     & mood
-      \\ \hline
-      Number           & Sing, Dual, Plur                  & number
-      \\ \hline
+      Mood             & Ind, Imp, Cnd                     & mood \\ \hline
+      Number           & Sing, Dual, Plur                  & number \\ \hline
       Number{[}psor{]} & Sing, Dual, Plur                  & possessor's number
       \\ \hline
-      NumForm          & Word, Digit, Roman                & numeral form
-      \\ \hline
-      NumType          & Card, Ord, Mult, Sets             & numeral type
-      \\ \hline
-      Person           & 1, 2, 3                           & person
-      \\ \hline
-      Polarity         & Neg, Pos                          & polarity
-      \\ \hline
-      Poss             & Yes                               & possessive
-      \\ \hline
-      PronType         & Prs, Int, Rel, Dem, Tot, Neg, Ind & pronominal type
-      \\ \hline
-      Reflex           & Yes                               & reflexive
-      \\ \hline
-      Tense            & Pres, Fut                         & tense
-      \\ \hline
+      NumForm          & Word, Digit, Roman                & numeral form \\
+      \hline
+      NumType          & Card, Ord, Mult, Sets             & numeral type \\
+      \hline
+      Person           & 1, 2, 3                           & person \\ \hline
+      Polarity         & Neg, Pos                          & polarity \\ \hline
+      Poss             & Yes                               & possessive \\
+      \hline
+      PronType         & Prs, Int, Rel, Dem, Tot, Neg, Ind & pronominal type \\
+      \hline
+      Reflex           & Yes                               & reflexive \\ \hline
+      Tense            & Pres, Fut                         & tense \\ \hline
       Variant          & Bound, Short                      & alternative form of
-      word                                                                       \\ \hline
+      word
+      \\ \hline
       VerbForm         & Fin, Inf, Sup, Part, Conv         & form of verb or
-      deverbative                                                                \\ \hline
+      deverbative
+      \\ \hline
     \end{tabular}
   \end{center}
 \end{samepage}
@@ -365,8 +542,8 @@ in the following guidelines:
           \url{https://universaldependencies.org/sl/}}
   \item detailed UD guidelines for Slovenian (in Slovene, standalone document),
         v1.7\footnote{
-          \url{https://wiki.cjvt.si/books/07-universal-dependencies/page/oznacevalne-smernice
-          }}
+        \url{https://wiki.cjvt.si/books/07-universal-dependencies/page/oznacevalne-smernice
+        }}
 \end{itemize}
 \begin{samepage}
   Tags for dependency relations used (without subtypes of the type cc:preconj):
@@ -434,8 +611,7 @@ pronunciation or non-verbal/semi-verbal expressions. Tags are:
 
 \begin{longtable}{|l|p{12cm}|}
   \hline
-  \textbf{TAG}                & \textbf{DESCRIPTION}
-  \\ \hline
+  \textbf{Tag}                & \textbf{Description} \\ \hline
   \endhead
   %
   \textbf{lengthening}        & A specific phoneme or syllable within a word may
@@ -445,7 +621,8 @@ pronunciation or non-verbal/semi-verbal expressions. Tags are:
   can be classified as disfluency. The annotation of this phenomenon largely
   depends on auditory perception and the annotator's subjective judgement
   regarding whether the prolongation indicates that the speaker is pausing to
-  gain time for speech formulation or not.                                       \\ \hline
+  gain time for speech formulation or not.
+  \\ \hline
   \textbf{silentPause}        & A silent pause in speech may or may not indicate
   disfluency. Speakers may use pauses between sentences or statements for
   rhetorical purposes, among other reasons. The boundary between these two
@@ -454,20 +631,21 @@ pronunciation or non-verbal/semi-verbal expressions. Tags are:
   considered as disfluencies, while those between statements or sentences are
   less frequently classified as such. Additionally, in slow speech, only pauses
   that are notably long are marked, whereas in fast speech, even brief pauses
-  can be perceived as disfluency.                                                \\ \hline
+  can be perceived as disfluency.
+  \\ \hline
   \textbf{filledPause}        & In the Slovenian speech, the mid-central vowel
   /\textschwa/ is frequently used, and less commonly, the voiced consonants /m/
   or /n/, in a manner perceived as filler sounds or referred to as gap fillers.
-  Such sounds are consistently annotated as filled pauses without exception.     \\
+  Such sounds are consistently annotated as filled pauses without exception.
+  \\
   \hline
   \textbf{nonlinguisticSound} & The speaker clears their throat, coughs, or
-  produces a similar sound, indicating an issue with the speech apparatus.
-  \\ \hline
+  produces a similar sound, indicating an issue with the speech apparatus. \\
+  \hline
   \textbf{block}              & A speaker does not pronounce a particular word
   entirely fluently. There may be hesitation at the beginning, or a gap may be
   perceived in the pronunciation. However, the word is still produced in the
-  correct form and the speaker does not restart the pronunciation.
-  \\ \hline
+  correct form and the speaker does not restart the pronunciation. \\ \hline
 \end{longtable}
 \subsection{verbalDisfluency}
 The inconsistencies in this group are verbal, manifested in the words spoken.
@@ -478,42 +656,47 @@ The inconsistencies in this group are verbal, manifested in the words spoken.
 % several times to get a multi-page table to line up properly
 \begin{longtable}{|l|p{12cm}|}
   \hline
-  \textbf{TAG}                     & \textbf{DESCRIPTION}
-  \\ \hline
+  \textbf{Tag}                     & \textbf{Description} \\ \hline
   \endhead
   %
   \textbf{disfluencyMarker}        & Disfluency marker is a discourse marker
   which primarily serves the role of signaling difficulties in speech
   production. Such frequent discourse markers in our data are: ne vem `I don't
-  know', bi rekel `I would say', se pravi `so to speak', mislim `I mean'         \\
+  know', bi rekel `I would say', se pravi `so to speak', mislim `I mean'
+  \\
   \hline
   \textbf{disfluencyComment}       & Expressions or sentences in a text which
   are a commentary on difficulties in speech production are annotated as
   disfluency comment. They differ from disfluency markers in that their meaning
   is expressed propositionally. Examples: se opravičujem `I appologize'; kako se
-  reče `how do you say'; kaj sem zdaj mislila reči `what was I about to say'.    \\
+  reče `how do you say'; kaj sem zdaj mislila reči `what was I about to say'.
+  \\
   \hline
   \textbf{unrepairedPronunciation} & The speaker mispronounces the word, using
   the wrong sounds, and does not repair pronunciation. Example: zuženih
-  (združenih) `nited (united)'.                                                  \\ \hline
+  (združenih) `nited (united)'.
+  \\ \hline
   \textbf{unrepairedStructure}     & A syntactic unit, such as a sentence,
   contains a mismatch that is not an established pattern, not even in
   conversation or dialect, but rather an error or a change in the expected
   continuation of the sentence. Example: hkrati se pa pojavlja tudi nove bolezni
-  `at the same time it appears new sicknesses'                                   \\ \hline
+  `at the same time it appears new sicknesses'
+  \\ \hline
   \textbf{abandoned}               & The speaker does not complete a started
   structure, nor corrects or changes it, but instead, for example, leaves the
   turn to the interlocutor; or the speaker is searching for a word, and the
   interlocutor takes the turn; or the speaker attempts to take over the turn but
   is unsuccessful; or the structure is deliberately left unfinished because a
   response from the interlocutor is already expected. Such examples are
-  annotated as abandoned.                                                        \\ \hline
+  annotated as abandoned.
+  \\ \hline
   \textbf{repetition}              & The speaker repeats a word or a phrase two
   or more times consecutively, but not for the purpose of emphasis. Repetition
   can be accompanied by silent or filled pause or lengthening or not. Examples:
   da tisti ki ki `so the one that that'; bolj ali manj v eem v `more or less in
   uhm in'; ko igram glasbo ko igram glasbo pozabim na vse probleme `when I play
-  music when I play music I forget all the problems'                             \\ \hline
+  music when I play music I forget all the problems'
+  \\ \hline
   \textbf{selfrepairPronunciation} & Speaker re-pronounces the word before it is
   fully articulated. Examples: b() bo `w() will; da() določene `spi() specific'
   \\ \hline
@@ -521,7 +704,8 @@ The inconsistencies in this group are verbal, manifested in the words spoken.
   or partially replacing, adding, and/or omitting one or more words. Examples:
   nekam | nikoli `somewhere | never'; da človek ne poškodu() | da robot ne
   poškoduje `that human does not ha() | that robot does not harm'; v tej | v
-  večini teh `in these | in most of these'                                       \\ \hline
+  večini teh `in these | in most of these'
+  \\ \hline
   \textbf{selfrepairRestart}       & The speaker abandons the initiated
   structure and restarts the sentence and/or thought. The initial structure is
   neither completed nor revised but is entirely abandoned, and the speaker
@@ -529,7 +713,8 @@ The inconsistencies in this group are verbal, manifested in the words spoken.
   manner. Examples: pa smešno je ker imajo | recimo enkrat sva hotela iti gledat
   `and it's funny because they have | for example once we wanted to go watching;
   glih je š() | letelo je mimo tega gorovja `exactly pass() | it flew right
-  above these mountains'                                                         \\ \hline
+  above these mountains'
+  \\ \hline
   \textbf{selfrepairComplex}       & Multiple disfluencies can accumulate one
   after another in a segment of text, or the speaker can change the planned
   structure of the sentence but does not correct all parts already spoken that
@@ -539,29 +724,28 @@ The inconsistencies in this group are verbal, manifested in the words spoken.
   področje medijsko no medijsko je zelo široko področje novinarsko področje
   založniško bom tako rekla novinarsko zaro() založniško `this our field of
   media well media is a very broad field the field of journalism the field of
-  publishing I'll put it this way journalist publi() publishing'.
-  \\ \hline
+  publishing I'll put it this way journalist publi() publishing'. \\ \hline
   \textbf{nonspecified}            & A disfluency that does not fit into any of
-  the specified types.                                                           \\ \hline
+  the specified types.
+  \\ \hline
 \end{longtable}
 
 \subsection{disfluencyStructure}
 Structure of the seflrepair verbal disfluency type is annotated.
 \begin{longtable}{|l|p{12cm}|}
   \hline
-  \textbf{TAG}         & \textbf{DESCRIPTION}                             \\ \hline
+  \textbf{Tag}         & \textbf{Description}                             \\
+  \hline
   \endhead
   %
-  \textbf{reparandum}  & The part of the text that will be modified.
-  \\ \hline
+  \textbf{reparandum}  & The part of the text that will be modified. \\ \hline
   \textbf{interregnum} & Anything in between the corrected part and the
   correction, including silent and filled pauses.                         \\
   \hline
   \textbf{repair}      & The part of the text that replaces the corrected
   segment. In complex and incomplete self-corrections, there may be multiple
   repair segments. They are marked to collectively represent a coherent
-  continuation of the preceding text.
-  \\ \hline
+  continuation of the preceding text. \\ \hline
 \end{longtable}
 
 \section{traceability}
@@ -597,150 +781,72 @@ Basic unit of annotation is annotated according to the ISO 24617-2 guidelines as
 a ``minimal stretch of communicative behaviour that has a communicative
 function''.
 
-\begin{longtable}{|l|p{6cm}|p{4cm}|} \hline\textbf{TAG}   & \textbf{DESCRIPTION}                                    &
-                 \textbf{Corresponding ISO 24617-2 category}                                                          \\ \hline
+\begin{longtable}{|l|p{6cm}|p{4cm}|} \hline\textbf{Tag}   & \textbf{Description}
+                 & \textbf{Corresponding ISO 24617-2 category}
+                 \\ \hline
                  \endhead
                  %
-                 {\textbf{informationProvidingFact}}      & {The speaker wants to make the
-                     addressee(s)
-                     aware of certain
-                     factual
-                     information.
-                     Examples: a
-                     fact, example,
-                     clarification,
-                     condition,
-                     cause,
-                     consequence,
-                     possibility,
-                     quatation,
-                     confirm,
-                 disconfirm…}                             &
-                 {information
-                 providing}                                                                                           \\
+                 {\textbf{informationProvidingFact}}      & {The speaker wants
+                     to make the addressee(s) aware of certain factual
+                     information. Examples: a fact, example, clarification,
+                     condition, cause, consequence, possibility, quatation,
+                     confirm, disconfirm…}                             &
+                     {information providing}
+                     \\
                  \hline
-                 {\textbf{informationProvidingOpininon}}  & {The speaker wants to make the
-                     addressee(s)
-                     aware of his/her
-                     own thoughts,
-                     opinion or
-                     evaluation.
-                     Examples: an
-                     evaluation,
-                     opinion,
-                     predict, will,
-                     belief, irony,
-                     agree, disagree,
-                     partially
-                 agree…}                                  &
-                 {information
-                 providing}                                                                                           \\
+                 {\textbf{informationProvidingOpininon}}  & {The speaker wants
+                     to make the addressee(s) aware of his/her own thoughts,
+                     opinion or evaluation. Examples: an evaluation, opinion,
+                     predict, will, belief, irony, agree, disagree, partially
+                     agree…}                                  & {information
+                     providing}
+                     \\
                  \hline
-                 {\textbf{informationProvidingSentiment}} & {The speaker wants to make the
-                     addressee(s)
-                     aware of his/her
-                     emotions.
-                     Examples:
-                     hapiness,
-                     sadness, fear,
-                     anger, disgust,
-                 surprise.}                               &
-                 {information
-                 providing}                                                                                           \\
+                 {\textbf{informationProvidingSentiment}} & {The speaker wants
+                     to make the addressee(s) aware of his/her emotions.
+                     Examples: hapiness, sadness, fear, anger, disgust,
+                     surprise.}                               & {information
+                     providing}
+                     \\
                  \hline
-                 {\textbf{informationSeeking}}            & {The speaker aims to obtain certain
-                     information from
-                     the
-                     addressee(s).
-                     Examples:
-                     different types
-                     of questions
-                     (but not
-                     rethorical
-                 questions).}                             &
-                 {information
-                 seeking}                                                                                             \\
+                 {\textbf{informationSeeking}}            & {The speaker aims to
+                     obtain certain information from the addressee(s). Examples:
+                     different types of questions (but not rethorical
+                     questions).}                             & {information
+                     seeking}
+                     \\
                  \hline
-                 {\textbf{actionDiscussion}}              & {The speaker commits himself to perform certain
-                     actions
-                     (commissive
-                     functions) or
-                     the speaker aims
-                     to make the
-                     addressee(s)
-                     perform certain
-                     actions
-                     (directive
-                     functions).
-                     Examples:
-                     promise,
-                     offer...;
-                     warning,
-                     request, demand,
-                     suggestion,
-                     advice,
-                 instruction…}                            &
-                 {comissive or
-                 directive}                                                                                           \\
+                 {\textbf{actionDiscussion}}              & {The speaker commits
+                     himself to perform certain actions (commissive functions)
+                     or the speaker aims to make the addressee(s) perform
+                     certain actions (directive functions). Examples: promise,
+                     offer...; warning, request, demand, suggestion, advice,
+                     instruction…}                            & {comissive or
+                     directive}
+                     \\
                  \hline
-                 {\textbf{socialObligationsManagement}}   & {The speaker aims to explicitly
-                     manage
-                     interpersonal
-                     relationships.
-                     Examples:
-                     greeting,
-                     introducing
-                     people,
-                     expressing
-                     feelings towards
-                     the interlocutor
-                     - gratitude,
-                     love,
-                     appritiation,
-                 regret…}                                 &
-                 {social
-                     obligation
-                 management}                                                                                          \\
+                 {\textbf{socialObligationsManagement}}   & {The speaker aims to
+                     explicitly manage interpersonal relationships. Examples:
+                     greeting, introducing people, expressing feelings towards
+                     the interlocutor - gratitude, love, appritiation, regret…}
+                     & {social obligation management}
+                     \\
                  \hline
-                 {\textbf{metadiscourse}}                 & {The speaker reveals the processes of
-                     attention/comprehension
-                     or speech
-                     production;
-                     managing the
-                     ongoing flow of
-                     interaction;
-                     referring to a
-                     previous or
-                     upcoming part of
-                     the same
-                     discourse.
-                     Examples:
-                     signalling
-                     comprehension;
-                     signalling
-                     production
-                     processes;
-                     closings and
-                     trasmissions;
-                     initiations;
-                     referring
-                     backward;
-                     referring
-                     forward;
-                     rethorical
-                 questions…}                              &
-                 {feedback or
-                     turn-management
-                     or
-                     time-management
-                     or
-                     discourse-structuring
-                     or own- and
-                     partner-management}
+                 {\textbf{metadiscourse}}                 & {The speaker reveals
+                     the processes of attention/comprehension or speech
+                     production; managing the ongoing flow of interaction;
+                     referring to a previous or upcoming part of the same
+                     discourse. Examples: signalling comprehension; signalling
+                     production processes; closings and trasmissions;
+                     initiations; referring backward; referring forward;
+                     rethorical questions…}                              &
+                     {feedback or turn-management or time-management or
+                     discourse-structuring or own- and partner-management} \\
+                     \hline
+                 {\textbf{abandoned}}                     & {The unit was
+                 abandoned and one cannot say what was its function.}
+                 & {none}
                  \\ \hline
-                 {\textbf{abandoned}}                     & {The unit was abandoned and one cannot say what was its
-                 function.}                               &
-                 {none}                                                                                               \\ \hline
 \end{longtable}
 
 
