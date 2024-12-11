@@ -18,6 +18,7 @@ urlcolor=black, pdfencoding=unicode]{hyperref}
 \usepackage{multirow}
 \usepackage{longtable}
 \usepackage{tipa}
+% \usepackage{natbib}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{5mm}
 \hypersetup{pdftitle={ROG corpus documentation}, pdfauthor={Darinka Verdonik}}
@@ -49,7 +50,7 @@ spoken Slovenian ROG \cite{verdonik2024c}.
 
 ROG corpus consists of:
 \begin{description}
-  \item[ROG-SST,]  which includes selected Gos 2.1 transcriptions with manually
+  \item[ROG-SST,]  which includes selected GOS~2.1 transcriptions with manually
     assigned lemmas and morphosyntactic tags according to the MULTEXT-East
     annotation scheme, as well as annotations according to the Universal
     Dependencies annotation scheme (i.e. part-of-speech categories,
@@ -74,11 +75,11 @@ ROG-SST and ROG-Art subset.
 
 \section{Data sources and file naming convention}
 
-Both ROG-SST and ROG-Art consist of data published in Gos 2.1 corpus
+Both ROG-SST and ROG-Art consist of data published in GOS~2.1 corpus
 \cite{verdonik2024a}\footnote{\url{ http://hdl.handle.net/11356/1863 }}, which
 represents a merge of the:
 \begin{itemize}
-  \item Gos 1  \cite{verdonik2013}\footnote{
+  \item GOS~1  \cite{verdonik2013}\footnote{
           \url{http://hdl.handle.net/11356/1863}} and
   \item selected data from the Artur 1 corpus \cite{verdonik2024b}\footnote{
           \url{http://hdl.handle.net/11356/1772}
@@ -87,26 +88,28 @@ represents a merge of the:
 
 \begin{samepage}
 
-  Files preserve Gos 2.1 naming, but in order to enhance clarity and provide
+  Files preserve GOS~2.1 naming, but in order to enhance clarity and provide
   additional context, prefixes were added to the file names to make them more
   informative:
 
   \begin{center}
     \begin{tabular}{|l|p{10cm}|}
       \hline
-      \textbf{FILE NAME PREFIX} & \textbf{Description}                           \\ \hline
+      \textbf{File Name Prefix} & \textbf{Description}
+      \\ \hline
       \textbf{Rog-Go1}          & The files correspond to the original version
-      of the Spoken Slovenian Treebank\cite{dobrovoljcandnivre}, which was
-      created by selecting data from the GOS1 corpus based on proportional
+      of the Spoken Slovenian Treebank~\cite{dobrovoljcandnivre}, which was
+      created by selecting data from the GOS~1 corpus based on proportional
       criteria. However, 22 files that were expanded and renamed using the
-      Rog-Go2 naming convention are excluded here.                               \\ \hline
+      Rog-Go2 naming convention are excluded here.
+      \\ \hline
       \textbf{Rog-Go2}          & Twenty-two manually selected files containing
       speech samples, which were excluded from the Rog-Go1 subset, were expanded
-      by adding additional data from the same speech events from the GOS1
-      corpus.
-      \\ \hline
+      by adding additional data from the same speech events from the GOS~1
+      corpus.                                                                    \\ \hline
       \textbf{Rog-Art}          & The speeches are excerpts taken from the Artur
-      speech corpus.                                                             \\ \hline
+      speech corpus.
+      \\ \hline
     \end{tabular}
   \end{center}
 \end{samepage}
@@ -117,8 +120,7 @@ represents a merge of the:
   \hline
   \textbf{File Name Prefix}                                     &
   \textbf{Description Of Capitalization And Punctuation in ROG} &
-  \textbf{History of capitalization and punctuation in the original corpora (GOS
-    1, GOS 2.1 and/or ARTUR)}
+  \textbf{History of capitalization and punctuation in the original corpora (GOS~1, GOS~2.1 and/or ARTUR)}
   \\ \hline
   \textbf{Rog-Go1 and Rog-Go2}                                  &
   \multirow{2}{*}{
@@ -131,17 +133,46 @@ represents a merge of the:
       the original ARTUR database, it had to be manually added to Rog-Go1 and
       Rog-Go2 data (see right). Transcription and punctuation principles are
       identical in both CONLL-U and EXB versions of the ROG data.\end{tabular}}
-                                                                & Rog-Go1 and Rog-Go2 transcriptions in the original GOS 1 corpus  follow
+                                                                & Rog-Go1 and Rog-Go2 transcriptions in the original GOS~1 corpus  follow
   the same truecasing convention (capital letters only for proper names),
   but a more limited set of punctuation (?, !, and …). The same principles
-  were preserved, when extending GOS 1 to versions GOS 2.0 and GOS 2.1.                                                                   \\
-  \cline{1-1} \cline{3-3} \textbf{Rog-Art}                      &
-                                                                & Rog-Art transcriptions in the original ARTUR database adhered to
-  standard orthographic conventions for capitalization and punctuation. This
-  includes capitalizing both proper names and sentence-initial words, and
-  using both sentence-medial and sentence-final punctuation. When adding
-  ARTUR data to GOS 2.0, punctuation was removed, but then reintroduced in
-  GOS 2.1, together with automatic conversion to truecase capitalization.                                                                 \\
+  were preserved, when extending GOS~1 to versions GOS~2.0 and GOS~2.1.
+  \\
+  \cline{1-1} \cline{3-3} \textbf{Rog-Art}                      &                                                                         & Rog-Art
+  transcriptions
+  in the original
+  ARTUR database
+  adhered to
+  standard
+  orthographic
+  conventions for
+  capitalization
+  and punctuation.
+  This includes
+  capitalizing
+  both proper
+  names and
+  sentence-initial
+  words, and using
+  both
+  sentence-medial
+  and
+  sentence-final
+  punctuation.
+  When adding
+  ARTUR data to
+  GOS~2.0,
+  punctuation was
+  removed, but
+  then
+  reintroduced in
+  GOS~2.1,
+  together with
+  automatic
+  conversion to
+  truecase
+  capitalization.
+  \\
   \hline
 \end{tabular}
 
@@ -153,24 +184,26 @@ represents a merge of the:
       \hline
       \textbf{File Name Prefix}
                                                                                                     &
-      \textbf{DEscription Of Segmentation in ROG}
-                                                                                                    & \textbf{History of segmentation in the original corpora (GOS 1, GOS 2.1
-        and/or ARTUR)}
-      \\ \hline
+      \textbf{Description Of Segmentation in ROG}
+                                                                                                    &
+      \textbf{History of segmentation in the original corpora (GOS~1, GOS~2.1
+      and/or ARTUR)}                                                                                                                                                         \\ \hline
       \textbf{\begin{tabular}[c]{p{2cm}}Rog-Go1 \\ and Rog-Go2\end{tabular}} &
       Segmentation in Rog-Go1 and Rog-Go2 has been inherited from the original
-      GOS 1 and 2.1 corpus (see right) and remained unchanged. The sentence IDs
-      are identical to those in GOS 1, ensuring long-term traceability and
-      mapping between the datasets.                                                                 & GOS 1 was manually segmented into
-      utterances, broadly defined as a `syntactically, semantically and
-      prosodically completed unit'. The same segmentation was also preserved in
-      GOS 2.0 and 2.1.\footnote{``Izjava je osnovna enota govora, ki približno
-        ustreza pojmu povedi v pisnem jeziku. Določimo jo tako, da je prozodično,
-        semantično in skladenjsko zaokrožena enota. Pri zelo strnjenem govoru smo
-        pozorni, da izjavo označimo na takem mestu, da je v signalu mogoče
-        nedvoumno označiti mejo med izjavama, ne da bi pri tem odrezali konec
-        prejšnje ali začetek nove izjave. Kjer zgornji vodili omogočata različne
-      odločitve, imajo prednost krajše enote.'' \cite{ssjgos} }                                                                                                               \\\hline
+      GOS~1 and 2.1 corpus (see right) and remained unchanged. The sentence IDs
+      are identical to those in GOS~1, ensuring long-term traceability and
+      mapping between the datasets.
+                                                                                                    & GOS~1 was manually segmented into utterances, broadly defined as a
+      `syntactically, semantically and prosodically completed unit'. The same
+      segmentation was also preserved in GOS~2.0 and 2.1.\footnote{``Izjava je
+        osnovna enota govora, ki približno ustreza pojmu povedi v pisnem jeziku.
+        Določimo jo tako, da je prozodično, semantično in skladenjsko zaokrožena
+        enota. Pri zelo strnjenem govoru smo pozorni, da izjavo označimo na takem
+        mestu, da je v signalu mogoče nedvoumno označiti mejo med izjavama, ne da
+        bi pri tem odrezali konec prejšnje ali začetek nove izjave. Kjer zgornji
+        vodili omogočata različne odločitve, imajo prednost krajše enote.''
+        \cite{ssjgos} }
+      \\\hline
       \textbf{Rog-Art}
                                                                                                     &
 
@@ -187,208 +220,25 @@ represents a merge of the:
       first segment, ensuring the segmentation better reflected syntactic
       structures.
 
-      These merged sentence units are traceable through sentence ID's.                              & The
-      manual
-      segmentation
-      in
-      the
-      original
-      Artur
-      database,
-      which
-      was
-      also
-      propagated
-      to
-      Gos
-      2.0
-      and
-      Gos
-      2.1,
-      was
-      mostly
-      prosody-based,
-      i.e.
-      introducing
-      a
-      segment
-      split
-      after
-      each
-      pause,
-      and
-      did
-      not
-      necessarily
-      align
-      with
-      syntactic
-      unit
-      boundaries,
-      such
-      as
-      syntactically
-      complete
-      phrases
-      or
-      sentences.\footnote{``Pomembno
-        je,
-        da
-        segmenti
-        niso
-        predolge
-        enote
-        in
-        da
-        je
-        tam,
-        kjer
-        naredimo
-        mejo
-        segmenta,
-        dovolj
-        premora
-        v
-        govoru,
-        da
-        lahko
-        določimo
-        mejo
-        segmenta,
-        ne
-        da
-        odrežemo
-        del
-        predhodnega
-        ali
-        del
-        naslednjega
-        fonema.
-        /…/
-        Okvirno
-        velja
-        pravilo,
-        da
-        naj
-        bo
-        premor
-        dolg
-        vsaj
-        0,2
-        sekunde,
-        lahko
-        pa
-        tudi
-        manj
-        v
-        naslednjih
-        primerih:
-        (1)
-        če
-        bi
-        bili
-        sicer
-        segmenti
-        predolgi,
-        tj.
-        več
-        kot
-        okoli
-        10
-        sekund,
-        (2)
-        če
-        se
-        menjajo
-        govorci
-        ali
-        (3)
-        če
-        bi
-        v
-        segment
-        s
-        hkratnim
-        govorom
-        tako
-        zajeli
-        tudi
-        veliko
-        nehkratnega
-        govora.
-        Vedno
-        pa
-        mora
-        biti
-        med
-        segmenti
-        vsaj
-        malo
-        premora,
-        da
-        je
-        meja
-        med
-        besedami
-        vidna
-        tudi
-        na
-        signalu.
-        /…/
-        Idealno
-        je,
-        če
-        lahko
-        segment
-        sovpada
-        s
-        stavki
-        ali
-        kratkimi
-        povedmi
-        oz.
-        s
-        semantično
-        in
-        skladenjsko
-        kolikor
-        mogoče
-        zaključenimi,
-        smiselnimi
-        enotami,
-        vendar
-        pogosto
-        to
-        ni
-        mogoče.
-        Glavni
-        vodili
-        za
-        meje
-        med
-        segmenti
-        sta
-        zato:
-        •
-        kratek
-        premor
-        v
-        govoru
-        in
-        •
-        dolžina
-        segmenta,
-        ki
-        naj
-        ne
-        bo
-        predolga,
-        tj.
-        več
-        kot
-        okoli
-        10
-        sekund.''
+      These merged sentence units are traceable through sentence IDs.
+                                                                                                    & The manual segmentation in the original Artur database, which was also
+      propagated to Gos 2.0 and Gos 2.1, was mostly prosody-based, i.e.
+      introducing a segment split after each pause, and did not necessarily
+      align with syntactic unit boundaries, such as syntactically complete
+      phrases or sentences.\footnote{``Pomembno je, da segmenti niso predolge
+        enote in da je tam, kjer naredimo mejo segmenta, dovolj premora v govoru,
+        da lahko določimo mejo segmenta, ne da odrežemo del predhodnega ali del
+        naslednjega fonema. /…/ Okvirno velja pravilo, da naj bo premor dolg vsaj
+        0,2 sekunde, lahko pa tudi manj v naslednjih primerih: (1) če bi bili
+        sicer segmenti predolgi, tj. več kot okoli 10 sekund, (2) če se menjajo
+        govorci ali (3) če bi v segment s hkratnim govorom tako zajeli tudi veliko
+        nehkratnega govora. Vedno pa mora biti med segmenti vsaj malo premora, da
+        je meja med besedami vidna tudi na signalu. /…/ Idealno je, če lahko
+        segment sovpada s stavki ali kratkimi povedmi oz. s semantično in
+        skladenjsko kolikor mogoče zaključenimi, smiselnimi enotami, vendar
+        pogosto to ni mogoče. Glavni vodili za meje med segmenti sta zato: •
+        kratek premor v govoru in • dolžina segmenta, ki naj ne bo predolga, tj.
+        več kot okoli 10 sekund.''
         \cite{verdonikbizjak2023}
       }
 
@@ -425,24 +275,24 @@ guidelines:
 
     \begin{tabular}{|l|l|}
       \hline
-      \textbf{Tag} & \textbf{Description}      \\ \hline
-      ADJ          & adjective                 \\ \hline
-      ADP          & adposition                \\ \hline
-      ADV          & adverb                    \\ \hline
-      AUX          & auxiliary                 \\ \hline
-      CCONJ        & coordinating conjunction  \\ \hline
-      DET          & determiner                \\ \hline
-      INTJ         & interjection              \\ \hline
-      NOUN         & noun                      \\ \hline
-      NUM          & numeral                   \\ \hline
-      PART         & particle                  \\ \hline
-      PRON         & pronoun                   \\ \hline
-      PROPN        & proper noun               \\ \hline
-      PUNCT        & punctuation               \\ \hline
-      SCONJ        & subordinating conjunction \\ \hline
-      SYM          & symbol                    \\ \hline
-      VERB         & verb                      \\ \hline
-      X            & other                     \\ \hline
+      \textbf{Tag}   & \textbf{Description}      \\ \hline
+      \textbf{ADJ}   & adjective                 \\ \hline
+      \textbf{ADP}   & adposition                \\ \hline
+      \textbf{ADV}   & adverb                    \\ \hline
+      \textbf{AUX}   & auxiliary                 \\ \hline
+      \textbf{CCONJ} & coordinating conjunction  \\ \hline
+      \textbf{DET}   & determiner                \\ \hline
+      \textbf{INTJ}  & interjection              \\ \hline
+      \textbf{NOUN}  & noun                      \\ \hline
+      \textbf{NUM}   & numeral                   \\ \hline
+      \textbf{PART}  & particle                  \\ \hline
+      \textbf{PRON}  & pronoun                   \\ \hline
+      \textbf{PROPN} & proper noun               \\ \hline
+      \textbf{PUNCT} & punctuation               \\ \hline
+      \textbf{SCONJ} & subordinating conjunction \\ \hline
+      \textbf{SYM}   & symbol                    \\ \hline
+      \textbf{VERB}  & verb                      \\ \hline
+      \textbf{X}     & other                     \\ \hline
     \end{tabular}
   \end{center}
 \end{samepage}
@@ -481,45 +331,59 @@ guidelines:
   \begin{center}
     \begin{tabular}{|l|l|l|}
       \hline
-      \textbf{Feature} & \textbf{Values}                   &
+      \textbf{Feature}          & \textbf{Values}                   &
       \textbf{Description}
       \\ \hline
-      Abbr             & Yes                               & abbreviation        \\
+      \textbf{Abbr}             & Yes                               &
+      abbreviation                                                               \\
       \hline
-      Animacy          & Anim, Inanim                      & animacy             \\ \hline
-      Aspect           & Imp, Perf                         & aspect              \\ \hline
-      Case             & Nom, Gen, Dat, Acc, Loc, Ins      & case                \\ \hline
-      Definite         & Ind, Def                          & definiteness or
-      state
+      \textbf{Animacy}          & Anim, Inanim                      & animacy
       \\ \hline
-      Degree           & Pos, Cmp, Sup                     & degree              \\ \hline
-      Foreign          & Yes                               & foreign word        \\
-      \hline
-      Gender           & Masc, Fem, Neut                   & gender              \\ \hline
-      Gender{[}psor{]} & Masc. Fem, Neut                   & possessor's gender
+      \textbf{Aspect}           & Imp, Perf                         & aspect
       \\ \hline
-      Mood             & Ind, Imp, Cnd                     & mood                \\ \hline
-      Number           & Sing, Dual, Plur                  & number              \\ \hline
-      Number{[}psor{]} & Sing, Dual, Plur                  & possessor's number
+      \textbf{Case}             & Nom, Gen, Dat, Acc, Loc, Ins      & case
       \\ \hline
-      NumForm          & Word, Digit, Roman                & numeral form        \\
-      \hline
-      NumType          & Card, Ord, Mult, Sets             & numeral type        \\
-      \hline
-      Person           & 1, 2, 3                           & person              \\ \hline
-      Polarity         & Neg, Pos                          & polarity            \\ \hline
-      Poss             & Yes                               & possessive          \\
-      \hline
-      PronType         & Prs, Int, Rel, Dem, Tot, Neg, Ind & pronominal type     \\
-      \hline
-      Reflex           & Yes                               & reflexive           \\ \hline
-      Tense            & Pres, Fut                         & tense               \\ \hline
-      Variant          & Bound, Short                      & alternative form of
-      word
+      \textbf{Definite}         & Ind, Def                          &
+      definiteness or state                                                      \\ \hline
+      \textbf{Degree}           & Pos, Cmp, Sup                     & degree
       \\ \hline
-      VerbForm         & Fin, Inf, Sup, Part, Conv         & form of verb or
-      deverbative
+      \textbf{Foreign}          & Yes                               & foreign
+      word                                                                       \\
+      \hline
+      \textbf{Gender}           & Masc, Fem, Neut                   & gender
       \\ \hline
+      \textbf{Gender{[}psor{]}} & Masc. Fem, Neut                   &
+      possessor's gender                                                         \\ \hline
+      \textbf{Mood}             & Ind, Imp, Cnd                     & mood
+      \\ \hline
+      \textbf{Number}           & Sing, Dual, Plur                  & number
+      \\ \hline
+      \textbf{Number{[}psor{]}} & Sing, Dual, Plur                  &
+      possessor's number                                                         \\ \hline
+      \textbf{NumForm}          & Word, Digit, Roman                & numeral
+      form                                                                       \\
+      \hline
+      \textbf{NumType}          & Card, Ord, Mult, Sets             & numeral
+      type                                                                       \\
+      \hline
+      \textbf{Person}           & 1, 2, 3                           & person
+      \\ \hline
+      \textbf{Polarity}         & Neg, Pos                          & polarity
+      \\ \hline
+      \textbf{Poss}             & Yes                               & possessive
+      \\
+      \hline
+      \textbf{PronType}         & Prs, Int, Rel, Dem, Tot, Neg, Ind & pronominal
+      type                                                                       \\
+      \hline
+      \textbf{Reflex}           & Yes                               & reflexive
+      \\ \hline
+      \textbf{Tense}            & Pres, Fut                         & tense
+      \\ \hline
+      \textbf{Variant}          & Bound, Short                      &
+      alternative form of word                                                   \\ \hline
+      \textbf{VerbForm}         & Fin, Inf, Sup, Part, Conv         & form of
+      verb or deverbative                                                        \\ \hline
     \end{tabular}
   \end{center}
 \end{samepage}
@@ -551,44 +415,44 @@ in the following guidelines:
 
   \begin{longtable}{|l|l|}
     \hline
-    \textbf{Tag} & \textbf{Description}               \\ \hline
+    \textbf{Tag}        & \textbf{Description}               \\ \hline
     \endhead
     %
-    acl          & clausal modifier of noun           \\ \hline
-    advcl        & adverbial clause modifier          \\ \hline
-    advmod       & adverbial modifier                 \\ \hline
-    amod         & adjectival modifier                \\ \hline
-    appos        & appositional modifier              \\ \hline
-    aux          & auxiliary verb                     \\ \hline
-    case         & case marking preposition           \\ \hline
-    cc           & coordinating conjunction           \\ \hline
-    ccomp        & clausal complement                 \\ \hline
-    conj         & conjunct                           \\ \hline
-    cop          & copula verb                        \\ \hline
-    csubj        & clausal subject                    \\ \hline
-    dep          & unspecified dependency             \\ \hline
-    det          & determiner                         \\ \hline
-    discourse    & discourse element                  \\ \hline
-    dislocated   & dislocated element                 \\ \hline
-    expl         & expletive                          \\ \hline
-    fixed        & fixed multi-word expression        \\ \hline
-    flat         & flat multi word-expression         \\ \hline
-    goeswith     & disjointed token                   \\ \hline
-    iobj         & indirect object                    \\ \hline
-    list         & list                               \\ \hline
-    mark         & marker (subordinating conjunction) \\ \hline
-    nmod         & nominal modifier                   \\ \hline
-    nsubj        & nominal subject                    \\ \hline
-    nummod       & numeric modifier                   \\ \hline
-    obj          & (direct) object                    \\ \hline
-    obl          & oblique nominal (adjunct)          \\ \hline
-    orphan       & dependent of missing parent        \\ \hline
-    parataxis    & parataxis                          \\ \hline
-    punct        & punctuation symbol                 \\ \hline
-    reparandum   & overridden disfluency              \\ \hline
-    root         & root element                       \\ \hline
-    vocative     & vocative                           \\ \hline
-    xcomp        & open clausal complement            \\ \hline
+    \textbf{acl}        & clausal modifier of noun           \\ \hline
+    \textbf{advcl}      & adverbial clause modifier          \\ \hline
+    \textbf{advmod}     & adverbial modifier                 \\ \hline
+    \textbf{amod}       & adjectival modifier                \\ \hline
+    \textbf{appos}      & appositional modifier              \\ \hline
+    \textbf{aux}        & auxiliary verb                     \\ \hline
+    \textbf{case}       & case marking preposition           \\ \hline
+    \textbf{cc}         & coordinating conjunction           \\ \hline
+    \textbf{ccomp}      & clausal complement                 \\ \hline
+    \textbf{conj}       & conjunct                           \\ \hline
+    \textbf{cop}        & copula verb                        \\ \hline
+    \textbf{csubj}      & clausal subject                    \\ \hline
+    \textbf{dep}        & unspecified dependency             \\ \hline
+    \textbf{det}        & determiner                         \\ \hline
+    \textbf{discourse}  & discourse element                  \\ \hline
+    \textbf{dislocated} & dislocated element                 \\ \hline
+    \textbf{expl}       & expletive                          \\ \hline
+    \textbf{fixed}      & fixed multi-word expression        \\ \hline
+    \textbf{flat}       & flat multi word-expression         \\ \hline
+    \textbf{goeswith}   & disjointed token                   \\ \hline
+    \textbf{iobj}       & indirect object                    \\ \hline
+    \textbf{list}       & list                               \\ \hline
+    \textbf{mark}       & marker (subordinating conjunction) \\ \hline
+    \textbf{nmod}       & nominal modifier                   \\ \hline
+    \textbf{nsubj}      & nominal subject                    \\ \hline
+    \textbf{nummod}     & numeric modifier                   \\ \hline
+    \textbf{obj}        & (direct) object                    \\ \hline
+    \textbf{obl}        & oblique nominal (adjunct)          \\ \hline
+    \textbf{orphan}     & dependent of missing parent        \\ \hline
+    \textbf{parataxis}  & parataxis                          \\ \hline
+    \textbf{punct}      & punctuation symbol                 \\ \hline
+    \textbf{reparandum} & overridden disfluency              \\ \hline
+    \textbf{root}       & root element                       \\ \hline
+    \textbf{vocative}   & vocative                           \\ \hline
+    \textbf{xcomp}      & open clausal complement            \\ \hline
   \end{longtable}
 \end{samepage}
 As described by Dobrovoljc~\cite{dobrovoljc2024extending}, a semi-automatic
@@ -611,18 +475,18 @@ pronunciation or non-verbal/semi-verbal expressions. Tags are:
 
 \begin{longtable}{|l|p{12cm}|}
   \hline
-  \textbf{Tag}                & \textbf{Description}                             \\ \hline
+  \textbf{Tag}                & \textbf{Description}                                    \\
+  \hline
   \endhead
   %
-  \textbf{lengthening}        & A specific phoneme or syllable within a word may
-  be extended beyond its typical duration, or an entire word may be articulated
+  \textbf{lengthening}        & A specific phoneme or syllable within a word may be
+  extended beyond its typical duration, or an entire word may be articulated
   more slowly and with prolongation. If such prolongation does not signal the
   end of a syntactic-semantic unit or does not serve as a rhetorical figure, it
   can be classified as disfluency. The annotation of this phenomenon largely
   depends on auditory perception and the annotator's subjective judgement
   regarding whether the prolongation indicates that the speaker is pausing to
-  gain time for speech formulation or not.
-  \\ \hline
+  gain time for speech formulation or not.                                              \\ \hline
   \textbf{silentPause}        & A silent pause in speech may or may not indicate
   disfluency. Speakers may use pauses between sentences or statements for
   rhetorical purposes, among other reasons. The boundary between these two
@@ -631,21 +495,19 @@ pronunciation or non-verbal/semi-verbal expressions. Tags are:
   considered as disfluencies, while those between statements or sentences are
   less frequently classified as such. Additionally, in slow speech, only pauses
   that are notably long are marked, whereas in fast speech, even brief pauses
-  can be perceived as disfluency.
-  \\ \hline
+  can be perceived as disfluency.                                                       \\ \hline
   \textbf{filledPause}        & In the Slovenian speech, the mid-central vowel
   /\textschwa/ is frequently used, and less commonly, the voiced consonants /m/
   or /n/, in a manner perceived as filler sounds or referred to as gap fillers.
-  Such sounds are consistently annotated as filled pauses without exception.
-  \\
+  Such sounds are consistently annotated as filled pauses without exception.            \\
   \hline
-  \textbf{nonlinguisticSound} & The speaker clears their throat, coughs, or
-  produces a similar sound, indicating an issue with the speech apparatus.       \\
+  \textbf{nonlinguisticSound} & The speaker clears their throat, coughs, or produces a
+  similar sound, indicating an issue with the speech apparatus.                         \\
   \hline
-  \textbf{block}              & A speaker does not pronounce a particular word
-  entirely fluently. There may be hesitation at the beginning, or a gap may be
-  perceived in the pronunciation. However, the word is still produced in the
-  correct form and the speaker does not restart the pronunciation.               \\ \hline
+  \textbf{block}              & A speaker does not pronounce a particular word entirely
+  fluently. There may be hesitation at the beginning, or a gap may be perceived
+  in the pronunciation. However, the word is still produced in the correct form
+  and the speaker does not restart the pronunciation.                                   \\ \hline
 \end{longtable}
 \subsection{verbalDisfluency}
 The inconsistencies in this group are verbal, manifested in the words spoken.
@@ -656,103 +518,96 @@ The inconsistencies in this group are verbal, manifested in the words spoken.
 % several times to get a multi-page table to line up properly
 \begin{longtable}{|l|p{12cm}|}
   \hline
-  \textbf{Tag}                     & \textbf{Description}                        \\ \hline
+  \textbf{Tag}                     & \textbf{Description}                                \\
+  \hline
   \endhead
   %
-  \textbf{disfluencyMarker}        & Disfluency marker is a discourse marker
-  which primarily serves the role of signaling difficulties in speech
-  production. Such frequent discourse markers in our data are: ne vem `I don't
-  know', bi rekel `I would say', se pravi `so to speak', mislim `I mean'
-  \\
+  \textbf{disfluencyMarker}        & Disfluency marker is a discourse marker which
+  primarily serves the role of signaling difficulties in speech production. Such
+  frequent discourse markers in our data are: ne vem `I don't know', bi rekel `I
+  would say', se pravi `so to speak', mislim `I mean'                                    \\
   \hline
-  \textbf{disfluencyComment}       & Expressions or sentences in a text which
-  are a commentary on difficulties in speech production are annotated as
-  disfluency comment. They differ from disfluency markers in that their meaning
-  is expressed propositionally. Examples: se opravičujem `I appologize'; kako se
-  reče `how do you say'; kaj sem zdaj mislila reči `what was I about to say'.
-  \\
+  \textbf{disfluencyComment}       & Expressions or sentences in a text which are a
+  commentary on difficulties in speech production are annotated as disfluency
+  comment. They differ from disfluency markers in that their meaning is
+  expressed propositionally. Examples: se opravičujem `I appologize'; kako se
+  reče `how do you say'; kaj sem zdaj mislila reči `what was I about to say'.            \\
   \hline
-  \textbf{unrepairedPronunciation} & The speaker mispronounces the word, using
-  the wrong sounds, and does not repair pronunciation. Example: zuženih
-  (združenih) `nited (united)'.
-  \\ \hline
-  \textbf{unrepairedStructure}     & A syntactic unit, such as a sentence,
-  contains a mismatch that is not an established pattern, not even in
-  conversation or dialect, but rather an error or a change in the expected
-  continuation of the sentence. Example: hkrati se pa pojavlja tudi nove bolezni
-  `at the same time it appears new sicknesses'
-  \\ \hline
-  \textbf{abandoned}               & The speaker does not complete a started
-  structure, nor corrects or changes it, but instead, for example, leaves the
-  turn to the interlocutor; or the speaker is searching for a word, and the
-  interlocutor takes the turn; or the speaker attempts to take over the turn but
-  is unsuccessful; or the structure is deliberately left unfinished because a
+  \textbf{unrepairedPronunciation} & The speaker mispronounces the word, using the wrong
+  sounds, and does not repair pronunciation. Example: zuženih (združenih) `nited
+  (united)'.                                                                             \\ \hline
+  \textbf{unrepairedStructure}     & A syntactic unit, such as a sentence, contains a
+  mismatch that is not an established pattern, not even in conversation or
+  dialect, but rather an error or a change in the expected continuation of the
+  sentence. Example: hkrati se pa pojavlja tudi nove bolezni `at the same time
+  it appears new sicknesses'                                                             \\ \hline
+  \textbf{abandoned}               & The speaker does not complete a started structure,
+  nor corrects or changes it, but instead, for example, leaves the turn to the
+  interlocutor; or the speaker is searching for a word, and the interlocutor
+  takes the turn; or the speaker attempts to take over the turn but is
+  unsuccessful; or the structure is deliberately left unfinished because a
   response from the interlocutor is already expected. Such examples are
-  annotated as abandoned.
-  \\ \hline
-  \textbf{repetition}              & The speaker repeats a word or a phrase two
-  or more times consecutively, but not for the purpose of emphasis. Repetition
-  can be accompanied by silent or filled pause or lengthening or not. Examples:
-  da tisti ki ki `so the one that that'; bolj ali manj v eem v `more or less in
-  uhm in'; ko igram glasbo ko igram glasbo pozabim na vse probleme `when I play
-  music when I play music I forget all the problems'
-  \\ \hline
-  \textbf{selfrepairPronunciation} & Speaker re-pronounces the word before it is
-  fully articulated. Examples: b() bo `w() will; da() določene `spi() specific'
-  \\ \hline
-  \textbf{selfrepairLexicogrammar} & The speaker revises their speech by fully
-  or partially replacing, adding, and/or omitting one or more words. Examples:
+  annotated as abandoned.                                                                \\ \hline
+  \textbf{repetition}              & The speaker repeats a word or a phrase two or more
+  times consecutively, but not for the purpose of emphasis. Repetition can be
+  accompanied by silent or filled pause or lengthening or not. Examples: da
+  tisti ki ki `so the one that that'; bolj ali manj v eem v `more or less in uhm
+  in'; ko igram glasbo ko igram glasbo pozabim na vse probleme `when I play
+  music when I play music I forget all the problems'                                     \\ \hline
+  \textbf{selfrepairPronunciation} & Speaker re-pronounces the word before it is fully
+  articulated. Examples: b() bo `w() will; da() določene `spi() specific'                \\
+  \hline
+  \textbf{selfrepairLexicogrammar} & The speaker revises their speech by fully or
+  partially replacing, adding, and/or omitting one or more words. Examples:
   nekam | nikoli `somewhere | never'; da človek ne poškodu() | da robot ne
   poškoduje `that human does not ha() | that robot does not harm'; v tej | v
-  večini teh `in these | in most of these'
-  \\ \hline
-  \textbf{selfrepairRestart}       & The speaker abandons the initiated
-  structure and restarts the sentence and/or thought. The initial structure is
-  neither completed nor revised but is entirely abandoned, and the speaker
-  proceeds with a new structure, often rephrasing the content in a different
-  manner. Examples: pa smešno je ker imajo | recimo enkrat sva hotela iti gledat
-  `and it's funny because they have | for example once we wanted to go watching;
-  glih je š() | letelo je mimo tega gorovja `exactly pass() | it flew right
-  above these mountains'
-  \\ \hline
-  \textbf{selfrepairComplex}       & Multiple disfluencies can accumulate one
-  after another in a segment of text, or the speaker can change the planned
-  structure of the sentence but does not correct all parts already spoken that
-  are structurally connected to the revision, or does not complete the repair
+  večini teh `in these | in most of these'                                               \\ \hline
+  \textbf{selfrepairRestart}       & The speaker abandons the initiated structure and
+  restarts the sentence and/or thought. The initial structure is neither
+  completed nor revised but is entirely abandoned, and the speaker proceeds with
+  a new structure, often rephrasing the content in a different manner. Examples:
+  pa smešno je ker imajo | recimo enkrat sva hotela iti gledat `and it's funny
+  because they have | for example once we wanted to go watching; glih je š() |
+  letelo je mimo tega gorovja `exactly pass() | it flew right above these
+  mountains'                                                                             \\ \hline
+  \textbf{selfrepairComplex}       & Multiple disfluencies can accumulate one after
+  another in a segment of text, or the speaker can change the planned structure
+  of the sentence but does not correct all parts already spoken that are
+  structurally connected to the revision, or does not complete the repair
   sequence. Such and other similar self-repairs that do not fit into any of the
   above categories are annotated as complex disfluencies. Example: to naše
   področje medijsko no medijsko je zelo široko področje novinarsko področje
   založniško bom tako rekla novinarsko zaro() založniško `this our field of
   media well media is a very broad field the field of journalism the field of
-  publishing I'll put it this way journalist publi() publishing'.                \\ \hline
-  \textbf{nonspecified}            & A disfluency that does not fit into any of
-  the specified types.
-  \\ \hline
+  publishing I'll put it this way journalist publi() publishing'.                        \\
+  \hline
+  \textbf{nonspecified}            & A disfluency that does not fit into any of the
+  specified types.                                                                       \\ \hline
 \end{longtable}
 
 \subsection{disfluencyStructure}
 Structure of the seflrepair verbal disfluency type is annotated.
 \begin{longtable}{|l|p{12cm}|}
   \hline
-  \textbf{Tag}         & \textbf{Description}                             \\
+  \textbf{Tag}         & \textbf{Description}                                         \\
   \hline
   \endhead
   %
-  \textbf{reparandum}  & The part of the text that will be modified.      \\ \hline
-  \textbf{interregnum} & Anything in between the corrected part and the
-  correction, including silent and filled pauses.                         \\
+  \textbf{reparandum}  & The part of the text that will be modified.                  \\ \hline
+  \textbf{interregnum} & Anything in between the corrected part and the correction,
+  including silent and filled pauses.                                                 \\
   \hline
-  \textbf{repair}      & The part of the text that replaces the corrected
-  segment. In complex and incomplete self-corrections, there may be multiple
-  repair segments. They are marked to collectively represent a coherent
-  continuation of the preceding text.                                     \\ \hline
+  \textbf{repair}      & The part of the text that replaces the corrected segment. In
+  complex and incomplete self-corrections, there may be multiple repair
+  segments. They are marked to collectively represent a coherent continuation of
+  the preceding text.                                                                 \\ \hline
 \end{longtable}
 
 \section{traceability}
-Token IDs from the original Gos 2.1 corpus~\cite{verdonik2023} are defined.
+Token IDs from the original GOS~2.1 corpus~\cite{verdonik2023} are defined.
 
 \section{sentenceId}
-Sentence IDs from the original Gos 2.1 corpus~\cite{verdonik2023} are defined.
+Sentence IDs from the original GOS~2.1 corpus~\cite{verdonik2023} are defined.
 
 \section{prosodicUnits}
 The boundaries between prosodic units were annotated manually according to
@@ -781,72 +636,66 @@ Basic unit of annotation is annotated according to the ISO 24617-2 guidelines as
 a ``minimal stretch of communicative behaviour that has a communicative
 function''.
 
-\begin{longtable}{|l|p{6cm}|p{4cm}|} \hline\textbf{Tag}   & \textbf{Description}
-                                                          & \textbf{Corresponding ISO 24617-2 category}
-                 \\ \hline
-                 \endhead
-                 %
-                 {\textbf{informationProvidingFact}}      & {The speaker wants
-                     to make the addressee(s) aware of certain factual
-                     information. Examples: a fact, example, clarification,
-                     condition, cause, consequence, possibility, quatation,
-                 confirm, disconfirm…}                    &
-                 {information providing}
-                 \\
-                 \hline
-                 {\textbf{informationProvidingOpininon}}  & {The speaker wants
-                     to make the addressee(s) aware of his/her own thoughts,
-                     opinion or evaluation. Examples: an evaluation, opinion,
-                     predict, will, belief, irony, agree, disagree, partially
-                 agree…}                                  & {information
-                     providing}
-                 \\
-                 \hline
-                 {\textbf{informationProvidingSentiment}} & {The speaker wants
-                     to make the addressee(s) aware of his/her emotions.
-                     Examples: hapiness, sadness, fear, anger, disgust,
-                 surprise.}                               & {information
-                     providing}
-                 \\
-                 \hline
-                 {\textbf{informationSeeking}}            & {The speaker aims to
-                     obtain certain information from the addressee(s). Examples:
-                     different types of questions (but not rethorical
-                 questions).}                             & {information
-                     seeking}
-                 \\
-                 \hline
-                 {\textbf{actionDiscussion}}              & {The speaker commits
-                     himself to perform certain actions (commissive functions)
-                     or the speaker aims to make the addressee(s) perform
-                     certain actions (directive functions). Examples: promise,
-                     offer...; warning, request, demand, suggestion, advice,
-                 instruction…}                            & {comissive or
-                     directive}
-                 \\
-                 \hline
-                 {\textbf{socialObligationsManagement}}   & {The speaker aims to
-                     explicitly manage interpersonal relationships. Examples:
-                     greeting, introducing people, expressing feelings towards
-                     the interlocutor - gratitude, love, appritiation, regret…}
-                                                          & {social obligation management}
-                 \\
-                 \hline
-                 {\textbf{metadiscourse}}                 & {The speaker reveals
-                     the processes of attention/comprehension or speech
-                     production; managing the ongoing flow of interaction;
-                     referring to a previous or upcoming part of the same
-                     discourse. Examples: signalling comprehension; signalling
-                     production processes; closings and trasmissions;
-                     initiations; referring backward; referring forward;
-                 rethorical questions…}                   &
-                 {feedback or turn-management or time-management or
-                 discourse-structuring or own- and partner-management}                                  \\
-                 \hline
-                 {\textbf{abandoned}}                     & {The unit was
-                     abandoned and one cannot say what was its function.}
-                                                          & {none}
-                 \\ \hline
+\begin{longtable}{|l|p{6cm}|p{4cm}|}
+  \hline\textbf{Tag}                                   & \textbf{Description}           &
+  \textbf{Corresponding
+  ISO 24617-2 category}                                                                   \\
+  \hline
+  \endhead
+  %
+  \textbf{informationProvidingFact}                    & {The speaker wants to
+      make the addressee(s) aware of certain factual information.
+      Examples: a fact, example, clarification, condition, cause,
+      consequence, possibility, quatation, confirm, disconfirm…}
+                                                       & {information providing}          \\
+  \hline
+  \textbf{informationProvidingOpininon}                & {The speaker wants to
+      make the addressee(s) aware of his/her own thoughts,
+      opinion or evaluation. Examples: an evaluation, opinion,
+      predict, will, belief, irony, agree, disagree, partially
+  agree…}                                              & {information
+  providing}                                                                              \\
+  \hline
+  \textbf{informationProvidingSentiment}               & {The speaker wants to
+      make the addressee(s) aware of his/her emotions. Examples:
+      hapiness, sadness, fear, anger, disgust, surprise.}
+                                                       & {information providing}          \\
+  \hline
+  \textbf{informationSeeking}                          & {The speaker aims to
+      obtain certain information from the addressee(s). Examples:
+      different types of questions (but not rhetorical
+  questions).}                                         & {information
+  seeking}                                                                                \\
+  \hline
+  \textbf{actionDiscussion}                            & {The speaker commits
+      himself to perform certain actions (commissive functions)
+      or the speaker aims to make the addressee(s) perform
+      certain actions (directive functions). Examples: promise,
+      offer...; warning, request, demand, suggestion, advice,
+  instruction…}                                        & {comissive or
+  directive}                                                                              \\
+  \hline
+  \textbf{socialObligationsManagement}                 & {The speaker aims to
+      explicitly manage interpersonal relationships. Examples:
+      greeting, introducing people, expressing feelings towards
+      the interlocutor - gratitude, love, appritiation, regret…}
+                                                       & {social obligation management}   \\
+  \hline
+  \textbf{metadiscourse}                               & {The speaker reveals
+      the processes of attention/comprehension or speech
+      production; managing the ongoing flow of interaction;
+      referring to a previous or upcoming part of the same
+      discourse. Examples: signalling comprehension; signalling
+      production processes; closings and trasmissions;
+      initiations; referring backward; referring forward;
+  rethorical questions…}                               & {feedback or
+      turn-management or time-management or discourse-structuring
+      or own- and partner-management}
+  \\
+  \hline
+  \textbf{abandoned}                                   & {The unit was
+  abandoned and one cannot say what was its function.} &
+  {none}                                                                                  \\ \hline
 \end{longtable}
 \section{textGrid tiers}
 
@@ -874,25 +723,25 @@ The individual tiers can be described as follows:
   \item[Tier 9] Contains the phone segmentation of the conversational speech
     form.
   \item[Tier 10]	Contains the value for the parameter pitch reset. If pitch
-    reset occurs, the value is "POS", if not, the value is "NEG". The pitch
+    reset occurs, the value is ``POS'', if not, the value is ``NEG''. The pitch
     reset values are calculated according to the syllable-level segmentation
     from Tier 8.
   \item[Tier 11]	Contains the value for the parameter intensity reset. If
-    intensity reset occurs, the value is "POS", if not, the value is "NEG". The
-    intensity reset values are calculated according to the syllable-level
+    intensity reset occurs, the value is ``POS'', if not, the value is ``NEG''.
+    The intensity reset values are calculated according to the syllable-level
     segmentation from Tier 8.
   \item[Tier 12]	Contains the value for the parameter speech rate reduction. If
-    the speech rate drops, the value is "POS", if not, the value is "NEG". The
-    speech rate reduction values are determined according to the syllable-level
-    segmentation from Tier 8.
+    the speech rate drops, the value is ``POS'', if not, the value is ``NEG''.
+    The speech rate reduction values are determined according to the
+    syllable-level segmentation from Tier 8.
   \item[Tier 13]	Contains the value for the parameter pause. If absence of
-    speech is detected, the value is "POS", if not, the value is "NEG".  The
+    speech is detected, the value is ``POS'', if not, the value is ``NEG''.  The
     pause values are determined according to the conversational word
     segmentation from Tier 7.
   \item[Tier 14]	Contains the value for the parameter speaker change. If a
-    speaker turn is detected,  the value is "POS", if not, the value is "NEG".
-    The speaker change values are determined according to the syllable-level
-    segmentation from Tier 8.
+    speaker turn is detected,  the value is ``POS'', if not, the value is
+    ``NEG''. The speaker change values are determined according to the
+    syllable-level segmentation from Tier 8.
   \item[Tier 15]	Contains the manually annotated prosodic units. Each non-empty
     segment represents one prosodic unit and contains the token IDs of all the
     tokens comprising a given prosodic unit.
