@@ -1,0 +1,95 @@
+\begin{thebibliography}{10}
+
+\bibitem{ssjgos}
+Sporazumevanje v slovenskem jeziku – govorni korpus gos. navodila za
+  transkribiranje pogovorov - javna.
+\newblock \url{https://viri.cjvt.si/gos/System/About}, 2023.
+
+\bibitem{barras2001transcriber}
+Claude Barras, Edouard Geoffrois, Zhibiao Wu, and Mark Liberman.
+\newblock Transcriber: development and use of a tool for assisting speech
+  corpora production.
+\newblock {\em Speech Communication}, 33(1-2):5--22, 2001.
+
+\bibitem{boersma19922022}
+Paul Boersma and David Weenink.
+\newblock 2022. praat: Doing phonetics by computer [computer program]. version
+  6.0. 43.
+\newblock \url{https://www.praat.org}, 1992.
+
+\bibitem{dobrovoljc2024extending}
+K.~Dobrovoljc.
+\newblock Extending the spoken slovenian treebank.
+\newblock In {\em Conference on Language Technologies and Digital Humanities
+  (JT-DH-2024)}, Ljubljana, Slovenia, 2024.
+
+\bibitem{dobrovoljcandnivre}
+Kaja Dobrovoljc and Joakim Nivre.
+\newblock The universal dependencies treebank of spoken slovenian.
+\newblock In {\em Proceedings of the Tenth International Conference on Language
+  Resources and Evaluation (LREC'16)}, pages 1566--1573, 2016.
+
+\bibitem{krsnikdobrovoljc}
+Luka Krsnik and Kaja Dobrovoljc.
+\newblock Trankit model for linguistic processing of spoken slovenian, 2024.
+\newblock Slovenian language resource repository {CLARIN}.{SI}.
+
+\bibitem{schmidtworner2014}
+Thomas Schmidt and Kai W{\"o}rner.
+\newblock Exmaralda. inj. durand, u. gut \& g. kristoffersen, 2014.
+
+\bibitem{tercon2023}
+Luka Ter{\v c}on, Jaka {\v C}ibej, and Nikola Ljube{\v s}i{\'c}.
+\newblock The {CLASSLA}-stanza model for lemmatisation of standard{ Slovenian}
+  2.0, 2023.
+\newblock Slovenian language resource repository {CLARIN}.{SI}.
+
+\bibitem{verdonikbizjak2023}
+Darinka Verdonik and Andreja Bizjak.
+\newblock {Pogovorni zapis in ozna{\v{c}}evanje govora v govorni bazi Artur
+  projekta RSDO}.
+\newblock 2023.
+
+\bibitem{verdonik2024b}
+Darinka Verdonik, Andreja Bizjak, Andrej {\v{Z}}gank, Mirjam~Sepesy
+  Mau{\v{c}}ec, Mitja Trojar, Jerneja~{\v{Z}}ganec Gros, Marko Bajec,
+  Iztok~Lebar Bajec, and Simon Dobri{\v{s}}ek.
+\newblock Strategies for managing time and costs in speech corpus creation:
+  insights from the slovenian {ARTUR} corpus.
+\newblock {\em Language Resources and Evaluation}, pages 1--26, 2024.
+
+\bibitem{verdonik2024a}
+Darinka Verdonik, Kaja Dobrovoljc, Toma{\v{z}} Erjavec, and Nikola
+  Ljube{\v{s}}i{\'c}.
+\newblock {Gos 2: A New Reference Corpus of Spoken Slovenian}.
+\newblock In {\em Proceedings of the 2024 Joint International Conference on
+  Computational Linguistics, Language Resources and Evaluation (LREC-COLING
+  2024)}, pages 7825--7830, 2024.
+
+\bibitem{verdonik2013}
+Darinka Verdonik, Iztok Kosem, Ana~Zwitter Vitez, Simon Krek, and Marko Stabej.
+\newblock Compilation, transcription and usage of a reference speech corpus:
+  The case of the slovene corpus {GOS}.
+\newblock {\em Language resources and evaluation}, 47:1031--1048, 2013.
+
+\bibitem{verdonik2024c}
+Darinka Verdonik, Nikola Ljubešić, Peter Rupnik, Kaja Dobrovoljc, and Jaka
+  Čibej.
+\newblock {IZBOR IN UREJANJE GRADIV ZA U{\v{C}}NI KORPUS GOVORJENE
+  SLOVEN{\v{S}}{\v{C}}INE ROG}.
+\newblock In {\em Zbornik konference jezikovne tehnologije in digitalna
+  humanistika 2024}, 2024.
+
+\bibitem{verdonik2023}
+Darinka Verdonik, Ana Zwitter~Vitez, Jana Zemljari{\v c}~Miklav{\v c}i{\v c},
+  Simon Krek, Marko Stabej, Toma{\v z} Erjavec, Toma{\v z} Poto{\v c}nik,
+  Mirjam Sepesy~Mau{\v c}ec, Simona Majheni{\v c}, Andrej {\v Z}gank, Andreja
+  Bizjak, Lucija Gril, Simon Dobri{\v s}ek, Janez Kri{\v z}aj, Marko Bajec,
+  Iztok Lebar~Bajec, Tja{\v s}a Jelov{\v s}ek, Mitja Trojar, Mitja Bernjak,
+  Naum Dretnik, Gregor Strle, Kaja Dobrovoljc, Nikola Ljube{\v s}i{\'c}, and
+  Peter Rupnik.
+\newblock {Spoken corpus Gos 2.1 (transcriptions)}.
+\newblock \url{http://hdl.handle.net/11356/1863}, 2023.
+\newblock Slovenian language resource repository {CLARIN}.{SI}.
+
+\end{thebibliography}

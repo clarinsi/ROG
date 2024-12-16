@@ -32,27 +32,6 @@
 27	ur	ura	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	23	obj	_	pronunciation=ur|Gos2.1_seg_id=Artur-N-G6031-P603102.s4|Gos2.1_token_id=Artur-N-G6031-P603102.tok27
 28	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s4|Gos2.1_token_id=Artur-N-G6031-P603102.tok28
 
-# sent_id = Artur-N-G6031-P603102.s24_reseg.1484
-# speaker_id = Artur-N-G6031
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s24.mp3
-# text = jed , ki si jo najraje pripravim , je riž s sirovo omako in piščancem .
-1	jed	jed	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	pronunciation=jed|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok195
-2	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok196
-3	ki	ki	SCONJ	Cs	_	7	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok197
-4	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	7	iobj	_	pronunciation=si|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok198
-5	jo	on	PRON	Pp3fsa--y	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	7	obj	_	pronunciation=jo|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok199
-6	najraje	najraje	ADV	Rgs	Degree=Sup	7	advmod	_	pronunciation=najraje|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok200
-7	pripravim	pripraviti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl	_	pronunciation=pripravim|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok201
-8	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok202
-9	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok203
-10	riž	riž	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=riž|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok204
-11	s	z	ADP	Si	Case=Ins	13	case	_	pronunciation=zə|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok205
-12	sirovo	sirov	ADJ	Aspfsi	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes	13	amod	_	pronunciation=sirovo|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok206
-13	omako	omaka	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	pronunciation=omako|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok207
-14	in	in	CCONJ	Cc	_	15	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok208
-15	piščancem	piščanec	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	13	conj	_	pronunciation=piščancom|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok209
-16	.	.	PUNCT	Z	_	10	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok210
-
 # sent_id = Artur-N-G6031-P603102.s5-s7_reseg.1478
 # speaker_id = Artur-N-G6031
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s5-s7.mp3
@@ -82,43 +61,6 @@
 23	zmaga	zmagati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	pronunciation=zmaga|Gos2.1_seg_id=Artur-N-G6031-P603102.s7|Gos2.1_token_id=Artur-N-G6031-P603102.tok51
 24	aliansa	aliansa	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	pronunciation=aliansa|Gos2.1_seg_id=Artur-N-G6031-P603102.s7|Gos2.1_token_id=Artur-N-G6031-P603102.tok52
 25	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s7|Gos2.1_token_id=Artur-N-G6031-P603102.tok53
-
-# sent_id = Artur-N-G6031-P603102.s96_reseg.1498
-# speaker_id = Artur-N-G6031
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s96.mp3
-# text = zdaj , zakaj rata vroče , ne vem .
-1	zdaj	zdaj	ADV	Rgp	Degree=Pos	8	discourse	_	pronunciation=zdej|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok795
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok796
-3	zakaj	zakaj	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=zakaj|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok797
-4	rata	ratati	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	pronunciation=rata|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok798
-5	vroče	vroč	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	xcomp	_	pronunciation=vroče|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok799
-6	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok800
-7	ne	ne	PART	Q	Polarity=Neg	8	advmod	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok801
-8	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=vem|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok802
-9	.	.	PUNCT	Z	_	8	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok803
-
-# sent_id = Artur-N-G6031-P603102.s97_reseg.1499
-# speaker_id = Artur-N-G6031
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s97.mp3
-# text = hobi , ki mi je najbolj všeč , je ustvarjanje glasbe .
-1	hobi	hobi	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	pronunciation=hobi|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok804
-2	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok805
-3	ki	ki	SCONJ	Cs	_	5	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok806
-4	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obj	_	pronunciation=mi|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok807
-5	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	acl	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok808
-6	najbolj	najbolj	ADV	Rgs	Degree=Sup	7	advmod	_	pronunciation=najbolj|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok809
-7	všeč	všeč	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=všeč|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok810
-8	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok811
-9	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok812
-10	ustvarjanje	ustvarjanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	0	root	_	pronunciation=ustvarjanje|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok813
-11	glasbe	glasba	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	pronunciation=glasbe|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok814
-12	.	.	PUNCT	Z	_	10	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok815
-
-# sent_id = Artur-N-G6031-P603102.s98_reseg.1500
-# speaker_id = Artur-N-G6031
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s98.mp3
-# text = zakaj
-1	zakaj	zakaj	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=zakaj|Gos2.1_seg_id=Artur-N-G6031-P603102.s98|Gos2.1_token_id=Artur-N-G6031-P603102.tok816
 
 # sent_id = Artur-N-G6031-P603102.s8-s10_reseg.1479
 # speaker_id = Artur-N-G6031
@@ -285,6 +227,27 @@
 33	umetnik	umetnik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	24	conj	_	pronunciation=umetnik|Gos2.1_seg_id=Artur-N-G6031-P603102.s23|Gos2.1_token_id=Artur-N-G6031-P603102.tok192
 34	hkrati	hkrati	ADV	Rgp	Degree=Pos	24	advmod	_	pronunciation=hkrati|Gos2.1_seg_id=Artur-N-G6031-P603102.s23|Gos2.1_token_id=Artur-N-G6031-P603102.tok193
 35	.	.	PUNCT	Z	_	12	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s23|Gos2.1_token_id=Artur-N-G6031-P603102.tok194
+
+# sent_id = Artur-N-G6031-P603102.s24_reseg.1484
+# speaker_id = Artur-N-G6031
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s24.mp3
+# text = jed , ki si jo najraje pripravim , je riž s sirovo omako in piščancem .
+1	jed	jed	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	pronunciation=jed|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok195
+2	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok196
+3	ki	ki	SCONJ	Cs	_	7	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok197
+4	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	7	iobj	_	pronunciation=si|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok198
+5	jo	on	PRON	Pp3fsa--y	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	7	obj	_	pronunciation=jo|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok199
+6	najraje	najraje	ADV	Rgs	Degree=Sup	7	advmod	_	pronunciation=najraje|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok200
+7	pripravim	pripraviti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl	_	pronunciation=pripravim|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok201
+8	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok202
+9	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok203
+10	riž	riž	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=riž|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok204
+11	s	z	ADP	Si	Case=Ins	13	case	_	pronunciation=zə|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok205
+12	sirovo	sirov	ADJ	Aspfsi	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes	13	amod	_	pronunciation=sirovo|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok206
+13	omako	omaka	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	10	nmod	_	pronunciation=omako|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok207
+14	in	in	CCONJ	Cc	_	15	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok208
+15	piščancem	piščanec	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	13	conj	_	pronunciation=piščancom|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok209
+16	.	.	PUNCT	Z	_	10	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s24|Gos2.1_token_id=Artur-N-G6031-P603102.tok210
 
 # sent_id = Artur-N-G6031-P603102.s25-s26_reseg.1485
 # speaker_id = Artur-N-G6031
@@ -935,6 +898,37 @@
 59	nimamo	imeti	VERB	Vmpr1p-y	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	49	parataxis	_	pronunciation=nimamo|Gos2.1_seg_id=Artur-N-G6031-P603102.s95|Gos2.1_token_id=Artur-N-G6031-P603102.tok793
 60	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s95|Gos2.1_token_id=Artur-N-G6031-P603102.tok794
 
+# sent_id = Artur-N-G6031-P603102.s96_reseg.1498
+# speaker_id = Artur-N-G6031
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s96.mp3
+# text = zdaj , zakaj rata vroče , ne vem .
+1	zdaj	zdaj	ADV	Rgp	Degree=Pos	8	discourse	_	pronunciation=zdej|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok795
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok796
+3	zakaj	zakaj	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=zakaj|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok797
+4	rata	ratati	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	pronunciation=rata|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok798
+5	vroče	vroč	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	xcomp	_	pronunciation=vroče|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok799
+6	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok800
+7	ne	ne	PART	Q	Polarity=Neg	8	advmod	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok801
+8	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=vem|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok802
+9	.	.	PUNCT	Z	_	8	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s96|Gos2.1_token_id=Artur-N-G6031-P603102.tok803
+
+# sent_id = Artur-N-G6031-P603102.s97_reseg.1499
+# speaker_id = Artur-N-G6031
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s97.mp3
+# text = hobi , ki mi je najbolj všeč , je ustvarjanje glasbe .
+1	hobi	hobi	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	pronunciation=hobi|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok804
+2	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok805
+3	ki	ki	SCONJ	Cs	_	5	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok806
+4	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obj	_	pronunciation=mi|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok807
+5	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	acl	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok808
+6	najbolj	najbolj	ADV	Rgs	Degree=Sup	7	advmod	_	pronunciation=najbolj|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok809
+7	všeč	všeč	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=všeč|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok810
+8	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok811
+9	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok812
+10	ustvarjanje	ustvarjanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	0	root	_	pronunciation=ustvarjanje|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok813
+11	glasbe	glasba	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	pronunciation=glasbe|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok814
+12	.	.	PUNCT	Z	_	10	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s97|Gos2.1_token_id=Artur-N-G6031-P603102.tok815
+
 # sent_id = Artur-N-G6031-P603102.s98-s101_reseg.1501
 # speaker_id = Artur-N-G6031
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s98-s101.mp3
@@ -975,6 +969,12 @@
 34	vse	ves	DET	Pg-mpa	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	35	det	_	pronunciation=vse|Gos2.1_seg_id=Artur-N-G6031-P603102.s101|Gos2.1_token_id=Artur-N-G6031-P603102.tok851
 35	probleme	problem	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	32	obl	_	pronunciation=probleme|Gos2.1_seg_id=Artur-N-G6031-P603102.s101|Gos2.1_token_id=Artur-N-G6031-P603102.tok852
 36	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6031-P603102.s101|Gos2.1_token_id=Artur-N-G6031-P603102.tok853
+
+# sent_id = Artur-N-G6031-P603102.s98_reseg.1500
+# speaker_id = Artur-N-G6031
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6031-P603102.s98.mp3
+# text = zakaj
+1	zakaj	zakaj	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=zakaj|Gos2.1_seg_id=Artur-N-G6031-P603102.s98|Gos2.1_token_id=Artur-N-G6031-P603102.tok816
 
 # sent_id = Artur-N-G6031-P603102.s102-s108_reseg.1502
 # speaker_id = Artur-N-G6031

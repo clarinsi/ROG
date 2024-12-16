@@ -1,13 +1,3 @@
-# sent_id = Artur-N-G6043-P604301.s4_reseg.1504
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s4.mp3
-# text = Danes sem spal dobro .
-1	Danes	danes	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=Danes|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok16
-2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok17
-3	spal	spati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=spal|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok18
-4	dobro	dobro	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=dobər|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok19
-5	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok20
-
 # newdoc id = Artur-N-G6043-P604301
 # sent_id = Artur-N-G6043-P604301.s1-s3_reseg.1503
 # speaker_id = Artur-N-G6043
@@ -28,173 +18,6 @@
 13	o	o	ADP	Sl	Case=Loc	7	orphan	_	pronunciation=o|Gos2.1_seg_id=Artur-N-G6043-P604301.s2|Gos2.1_token_id=Artur-N-G6043-P604301.tok13
 14	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	7	parataxis:discourse	_	pronunciation=rečmo|Gos2.1_seg_id=Artur-N-G6043-P604301.s3|Gos2.1_token_id=Artur-N-G6043-P604301.tok14
 15	…	…	PUNCT	Z	_	1	punct	_	pronunciation=…|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s3|Gos2.1_token_id=Artur-N-G6043-P604301.tok15
-
-# sent_id = Artur-N-G6043-P604301.s22_reseg.1508
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s22.mp3
-# text = in je šel s svojimi ljudmi letet .
-1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok198
-2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok199
-3	šel	iti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=šu|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok200
-4	s	z	ADP	Si	Case=Ins	6	case	_	pronunciation=s|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok201
-5	svojimi	svoj	DET	Px-mpi	Case=Ins|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	pronunciation=svojimi|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok202
-6	ljudmi	človek	NOUN	Ncmpi	Case=Ins|Gender=Masc|Number=Plur	7	obl	_	pronunciation=ljudmi|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok203
-7	letet	leteti	VERB	Vmpu	Aspect=Imp|VerbForm=Sup	3	xcomp	_	pronunciation=letet|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok204
-8	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok205
-
-# sent_id = Artur-N-G6043-P604301.s34_reseg.1512
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s34.mp3
-# text = in pol se jima je life spremenil .
-1	in	in	CCONJ	Cc	_	7	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok309
-2	pol	pol	DET	Rgp	PronType=Ind	7	advmod	_	pronunciation=pol|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok310
-3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok311
-4	jima	on	PRON	Pp3mdd--y	Case=Dat|Gender=Masc|Number=Dual|Person=3|PronType=Prs|Variant=Short	7	obj	_	pronunciation=jima|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok312
-5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok313
-6	life	life	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	pronunciation=lajf|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok314
-7	spremenil	spremeniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=spremenu|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok315
-8	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok316
-
-# sent_id = Artur-N-G6043-P604301.s35_reseg.1513
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s35.mp3
-# text = sta šla v Ameriko in sta se oblekla v Versace .
-1	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	pronunciation=sta|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok317
-2	šla	iti	VERB	Vmbp-dm	Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	pronunciation=šla|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok318
-3	v	v	ADP	Sa	Case=Acc	4	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok319
-4	Ameriko	Amerika	PROPN	Npfsa	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	pronunciation=Ameriko|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok320
-5	in	in	CCONJ	Cc	_	8	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok321
-6	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	pronunciation=sta|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok322
-7	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	obj	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok323
-8	oblekla	obleči	VERB	Vmep-dm	Aspect=Perf|Gender=Masc|Number=Dual|VerbForm=Part	2	conj	_	pronunciation=oblekla|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok324
-9	v	v	ADP	Sa	Case=Acc	10	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok325
-10	Versace	Versace	PROPN	Npmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	pronunciation=Versači|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok326
-11	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok327
-
-# sent_id = Artur-N-G6043-P604301.s36_reseg.1514
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s36.mp3
-# text = in sta vletela z lamborghinijem tam , sta se furala po Hollywoodu .
-1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok328
-2	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=sta|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok329
-3	vletela	vleteti	VERB	Vmep-dm	Aspect=Perf|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	pronunciation=vletela|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok330
-4	z	z	ADP	Si	Case=Ins	5	case	_	pronunciation=z|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok331
-5	lamborghinijem	lamborghini	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	pronunciation=lamordžinijem|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok332
-6	tam	tam	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=təm|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok333
-7	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok334
-8	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	pronunciation=sta|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok335
-9	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	10	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok336
-10	furala	furati	VERB	Vmbp-dm	Gender=Masc|Number=Dual|VerbForm=Part	3	parataxis	_	pronunciation=furala|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok337
-11	po	po	ADP	Sl	Case=Loc	12	case	_	pronunciation=po|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok338
-12	Hollywoodu	Hollywood	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	pronunciation=Holivudu|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok339
-13	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok340
-
-# sent_id = Artur-N-G6043-P604301.s37_reseg.1515
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s37.mp3
-# text = no , to sem sanjal danes .
-1	no	no	PART	Q	_	5	discourse	_	pronunciation=no|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok341
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok342
-3	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok343
-4	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok344
-5	sanjal	sanjati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=sanju|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok345
-6	danes	danes	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=dons|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok346
-7	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok347
-
-# sent_id = Artur-N-G6043-P604301.s38_reseg.1516
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s38.mp3
-# text = ful sanjam .
-1	ful	ful	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=ful|Gos2.1_seg_id=Artur-N-G6043-P604301.s38|Gos2.1_token_id=Artur-N-G6043-P604301.tok348
-2	sanjam	sanjati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=sanjam|Gos2.1_seg_id=Artur-N-G6043-P604301.s38|Gos2.1_token_id=Artur-N-G6043-P604301.tok349
-3	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s38|Gos2.1_token_id=Artur-N-G6043-P604301.tok350
-
-# sent_id = Artur-N-G6043-P604301.s46_reseg.1518
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s46.mp3
-# text = pač dobesedno , ko da sem res tam , ke da se teleportiram .
-1	pač	pač	PART	Q	_	2	discourse	_	pronunciation=pač|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok399
-2	dobesedno	dobesedno	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=dobesedno|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok400
-3	,	,	PUNCT	Z	_	6	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok401
-4	ko	ko	SCONJ	Cs	_	6	mark	_	pronunciation=ko|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok402
-5	da	da	SCONJ	Cs	_	4	fixed	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok403
-6	sem	biti	VERB	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	advcl	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok404
-7	res	res	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=res|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok405
-8	tam	tam	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=təm|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok406
-9	,	,	PUNCT	Z	_	13	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok407
-10	ke	ke	ADV	Rgp	Degree=Pos	13	mark	_	pronunciation=kə|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok408
-11	da	da	SCONJ	Cs	_	10	fixed	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok409
-12	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	13	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok410
-13	teleportiram	teleportirati	VERB	Vmbr1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis	_	pronunciation=teleportiram|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok411
-14	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok412
-
-# sent_id = Artur-N-G6043-P604301.s53_reseg.1521
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s53.mp3
-# text = Hudo je , no , sanjati .
-1	Hudo	hud	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=Hudo|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok446
-2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok447
-3	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok448
-4	no	no	PART	Q	_	1	discourse	_	pronunciation=no|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok449
-5	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok450
-6	sanjati	sanjati	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	1	csubj	_	pronunciation=sanjat|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok451
-7	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok452
-
-# sent_id = Artur-N-G6043-P604301.s54_reseg.1522
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s54.mp3
-# text = kaj če- , kaj če sem
-1	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	6	reparandum	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok453
-2	če-	če-	X	Xt	_	1	orphan	_	pronunciation=če…|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok454
-3	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok455
-4	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	6	obj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok456
-5	če	če	SCONJ	Cs	_	6	mark	_	pronunciation=če|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok457
-6	sem	biti	VERB	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok458
-
-# sent_id = Artur-N-G6043-P604301.s63_reseg.1526
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s63.mp3
-# text = ke da sem tam .
-1	ke	ke	ADV	Rgp	Degree=Pos	3	mark	_	pronunciation=kə|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok570
-2	da	da	SCONJ	Cs	_	1	fixed	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok571
-3	sem	biti	VERB	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok572
-4	tam	tam	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=təm|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok573
-5	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok574
-
-# sent_id = Artur-N-G6043-P604301.s66_reseg.1528
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s66.mp3
-# text = hm , sanjati .
-1	hm	hm	INTJ	I	_	3	discourse	_	pronunciation=hm|Gos2.1_seg_id=Artur-N-G6043-P604301.s66|Gos2.1_token_id=Artur-N-G6043-P604301.tok599
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s66|Gos2.1_token_id=Artur-N-G6043-P604301.tok600
-3	sanjati	sanjati	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	0	root	_	pronunciation=sanjat|Gos2.1_seg_id=Artur-N-G6043-P604301.s66|Gos2.1_token_id=Artur-N-G6043-P604301.tok601
-4	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s66|Gos2.1_token_id=Artur-N-G6043-P604301.tok602
-
-# sent_id = Artur-N-G6043-P604301.s67_reseg.1529
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s67.mp3
-# text = ne kadim že štiri leta .
-1	ne	ne	PART	Q	Polarity=Neg	2	advmod	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok603
-2	kadim	kaditi	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=kadim|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok604
-3	že	že	PART	Q	_	5	advmod	_	pronunciation=že|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok605
-4	štiri	štirje	NUM	Mlcnpa	Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	pronunciation=štiri|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok606
-5	leta	leto	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	2	obl	_	pronunciation=leta|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok607
-6	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok608
-
-# sent_id = Artur-N-G6043-P604301.s89_reseg.1538
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s89.mp3
-# text = hm .
-1	hm	hm	INTJ	I	_	0	root	_	pronunciation=hm|Gos2.1_seg_id=Artur-N-G6043-P604301.s89|Gos2.1_token_id=Artur-N-G6043-P604301.tok796
-2	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s89|Gos2.1_token_id=Artur-N-G6043-P604301.tok797
-
-# sent_id = Artur-N-G6043-P604301.s90_reseg.1539
-# speaker_id = Artur-N-G6043
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s90.mp3
-# text = v novicah .
-1	v	v	ADP	Sl	Case=Loc	2	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G6043-P604301.s90|Gos2.1_token_id=Artur-N-G6043-P604301.tok798
-2	novicah	novica	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	0	root	_	pronunciation=novicah|Gos2.1_seg_id=Artur-N-G6043-P604301.s90|Gos2.1_token_id=Artur-N-G6043-P604301.tok799
-3	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s90|Gos2.1_token_id=Artur-N-G6043-P604301.tok800
 
 # sent_id = Artur-N-G6043-P604301.s4-s12_reseg.1505
 # speaker_id = Artur-N-G6043
@@ -263,6 +86,16 @@
 61	na	na	ADP	Sa	Case=Acc	62	case	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G6043-P604301.s12|Gos2.1_token_id=Artur-N-G6043-P604301.tok81
 62	leto	leto	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	58	obl	_	pronunciation=let|Gos2.1_seg_id=Artur-N-G6043-P604301.s12|Gos2.1_token_id=Artur-N-G6043-P604301.tok82
 63	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s12|Gos2.1_token_id=Artur-N-G6043-P604301.tok83
+
+# sent_id = Artur-N-G6043-P604301.s4_reseg.1504
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s4.mp3
+# text = Danes sem spal dobro .
+1	Danes	danes	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=Danes|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok16
+2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok17
+3	spal	spati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=spal|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok18
+4	dobro	dobro	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=dobər|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok19
+5	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s4|Gos2.1_token_id=Artur-N-G6043-P604301.tok20
 
 # sent_id = Artur-N-G6043-P604301.s13-s17_reseg.1506
 # speaker_id = Artur-N-G6043
@@ -388,6 +221,19 @@
 42	denarja	denar	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	41	nmod	_	pronunciation=denarja|Gos2.1_seg_id=Artur-N-G6043-P604301.s21|Gos2.1_token_id=Artur-N-G6043-P604301.tok196
 43	.	.	PUNCT	Z	_	6	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s21|Gos2.1_token_id=Artur-N-G6043-P604301.tok197
 
+# sent_id = Artur-N-G6043-P604301.s22_reseg.1508
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s22.mp3
+# text = in je šel s svojimi ljudmi letet .
+1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok198
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok199
+3	šel	iti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=šu|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok200
+4	s	z	ADP	Si	Case=Ins	6	case	_	pronunciation=s|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok201
+5	svojimi	svoj	DET	Px-mpi	Case=Ins|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	pronunciation=svojimi|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok202
+6	ljudmi	človek	NOUN	Ncmpi	Case=Ins|Gender=Masc|Number=Plur	7	obl	_	pronunciation=ljudmi|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok203
+7	letet	leteti	VERB	Vmpu	Aspect=Imp|VerbForm=Sup	3	xcomp	_	pronunciation=letet|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok204
+8	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s22|Gos2.1_token_id=Artur-N-G6043-P604301.tok205
+
 # sent_id = Artur-N-G6043-P604301.s23-s28_reseg.1509
 # speaker_id = Artur-N-G6043
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s23-s28.mp3
@@ -506,6 +352,73 @@
 17	denarja	denar	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	pronunciation=denarja|Gos2.1_seg_id=Artur-N-G6043-P604301.s33|Gos2.1_token_id=Artur-N-G6043-P604301.tok307
 18	.	.	PUNCT	Z	_	9	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s33|Gos2.1_token_id=Artur-N-G6043-P604301.tok308
 
+# sent_id = Artur-N-G6043-P604301.s34_reseg.1512
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s34.mp3
+# text = in pol se jima je life spremenil .
+1	in	in	CCONJ	Cc	_	7	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok309
+2	pol	pol	DET	Rgp	PronType=Ind	7	advmod	_	pronunciation=pol|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok310
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok311
+4	jima	on	PRON	Pp3mdd--y	Case=Dat|Gender=Masc|Number=Dual|Person=3|PronType=Prs|Variant=Short	7	obj	_	pronunciation=jima|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok312
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok313
+6	life	life	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	pronunciation=lajf|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok314
+7	spremenil	spremeniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=spremenu|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok315
+8	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s34|Gos2.1_token_id=Artur-N-G6043-P604301.tok316
+
+# sent_id = Artur-N-G6043-P604301.s35_reseg.1513
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s35.mp3
+# text = sta šla v Ameriko in sta se oblekla v Versace .
+1	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	pronunciation=sta|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok317
+2	šla	iti	VERB	Vmbp-dm	Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	pronunciation=šla|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok318
+3	v	v	ADP	Sa	Case=Acc	4	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok319
+4	Ameriko	Amerika	PROPN	Npfsa	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	pronunciation=Ameriko|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok320
+5	in	in	CCONJ	Cc	_	8	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok321
+6	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	pronunciation=sta|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok322
+7	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	obj	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok323
+8	oblekla	obleči	VERB	Vmep-dm	Aspect=Perf|Gender=Masc|Number=Dual|VerbForm=Part	2	conj	_	pronunciation=oblekla|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok324
+9	v	v	ADP	Sa	Case=Acc	10	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok325
+10	Versace	Versace	PROPN	Npmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	pronunciation=Versači|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok326
+11	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s35|Gos2.1_token_id=Artur-N-G6043-P604301.tok327
+
+# sent_id = Artur-N-G6043-P604301.s36_reseg.1514
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s36.mp3
+# text = in sta vletela z lamborghinijem tam , sta se furala po Hollywoodu .
+1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok328
+2	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	pronunciation=sta|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok329
+3	vletela	vleteti	VERB	Vmep-dm	Aspect=Perf|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	pronunciation=vletela|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok330
+4	z	z	ADP	Si	Case=Ins	5	case	_	pronunciation=z|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok331
+5	lamborghinijem	lamborghini	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	pronunciation=lamordžinijem|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok332
+6	tam	tam	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=təm|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok333
+7	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok334
+8	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	pronunciation=sta|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok335
+9	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	10	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok336
+10	furala	furati	VERB	Vmbp-dm	Gender=Masc|Number=Dual|VerbForm=Part	3	parataxis	_	pronunciation=furala|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok337
+11	po	po	ADP	Sl	Case=Loc	12	case	_	pronunciation=po|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok338
+12	Hollywoodu	Hollywood	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	pronunciation=Holivudu|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok339
+13	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s36|Gos2.1_token_id=Artur-N-G6043-P604301.tok340
+
+# sent_id = Artur-N-G6043-P604301.s37_reseg.1515
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s37.mp3
+# text = no , to sem sanjal danes .
+1	no	no	PART	Q	_	5	discourse	_	pronunciation=no|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok341
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok342
+3	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok343
+4	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok344
+5	sanjal	sanjati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=sanju|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok345
+6	danes	danes	ADV	Rgp	Degree=Pos	5	advmod	_	pronunciation=dons|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok346
+7	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s37|Gos2.1_token_id=Artur-N-G6043-P604301.tok347
+
+# sent_id = Artur-N-G6043-P604301.s38_reseg.1516
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s38.mp3
+# text = ful sanjam .
+1	ful	ful	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=ful|Gos2.1_seg_id=Artur-N-G6043-P604301.s38|Gos2.1_token_id=Artur-N-G6043-P604301.tok348
+2	sanjam	sanjati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=sanjam|Gos2.1_seg_id=Artur-N-G6043-P604301.s38|Gos2.1_token_id=Artur-N-G6043-P604301.tok349
+3	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s38|Gos2.1_token_id=Artur-N-G6043-P604301.tok350
+
 # sent_id = Artur-N-G6043-P604301.s39-s45_reseg.1517
 # speaker_id = Artur-N-G6043
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s39-s45.mp3
@@ -559,6 +472,25 @@
 47	nogo	noga	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	45	nmod	_	pronunciation=nogo|Gos2.1_seg_id=Artur-N-G6043-P604301.s45|Gos2.1_token_id=Artur-N-G6043-P604301.tok397
 48	.	.	PUNCT	Z	_	19	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s45|Gos2.1_token_id=Artur-N-G6043-P604301.tok398
 
+# sent_id = Artur-N-G6043-P604301.s46_reseg.1518
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s46.mp3
+# text = pač dobesedno , ko da sem res tam , ke da se teleportiram .
+1	pač	pač	PART	Q	_	2	discourse	_	pronunciation=pač|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok399
+2	dobesedno	dobesedno	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=dobesedno|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok400
+3	,	,	PUNCT	Z	_	6	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok401
+4	ko	ko	SCONJ	Cs	_	6	mark	_	pronunciation=ko|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok402
+5	da	da	SCONJ	Cs	_	4	fixed	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok403
+6	sem	biti	VERB	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	advcl	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok404
+7	res	res	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=res|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok405
+8	tam	tam	ADV	Rgp	Degree=Pos	6	advmod	_	pronunciation=təm|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok406
+9	,	,	PUNCT	Z	_	13	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok407
+10	ke	ke	ADV	Rgp	Degree=Pos	13	mark	_	pronunciation=kə|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok408
+11	da	da	SCONJ	Cs	_	10	fixed	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok409
+12	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	13	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok410
+13	teleportiram	teleportirati	VERB	Vmbr1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	parataxis	_	pronunciation=teleportiram|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok411
+14	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s46|Gos2.1_token_id=Artur-N-G6043-P604301.tok412
+
 # sent_id = Artur-N-G6043-P604301.s47-s48_reseg.1519
 # speaker_id = Artur-N-G6043
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s47-s48.mp3
@@ -601,6 +533,29 @@
 15	tako	tako	CCONJ	Cc	_	11	cc	_	pronunciation=tko|Gos2.1_seg_id=Artur-N-G6043-P604301.s52|Gos2.1_token_id=Artur-N-G6043-P604301.tok443
 16	da	da	SCONJ	Cs	_	15	fixed	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6043-P604301.s52|Gos2.1_token_id=Artur-N-G6043-P604301.tok444
 17	…	…	PUNCT	Z	_	11	punct	_	pronunciation=…|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s52|Gos2.1_token_id=Artur-N-G6043-P604301.tok445
+
+# sent_id = Artur-N-G6043-P604301.s53_reseg.1521
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s53.mp3
+# text = Hudo je , no , sanjati .
+1	Hudo	hud	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	pronunciation=Hudo|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok446
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok447
+3	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok448
+4	no	no	PART	Q	_	1	discourse	_	pronunciation=no|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok449
+5	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok450
+6	sanjati	sanjati	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	1	csubj	_	pronunciation=sanjat|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok451
+7	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s53|Gos2.1_token_id=Artur-N-G6043-P604301.tok452
+
+# sent_id = Artur-N-G6043-P604301.s54_reseg.1522
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s54.mp3
+# text = kaj če- , kaj če sem
+1	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	6	reparandum	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok453
+2	če-	če-	X	Xt	_	1	orphan	_	pronunciation=če…|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok454
+3	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok455
+4	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	6	obj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok456
+5	če	če	SCONJ	Cs	_	6	mark	_	pronunciation=če|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok457
+6	sem	biti	VERB	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s54|Gos2.1_token_id=Artur-N-G6043-P604301.tok458
 
 # sent_id = Artur-N-G6043-P604301.s55-s57_reseg.1523
 # speaker_id = Artur-N-G6043
@@ -727,6 +682,16 @@
 33	res	res	ADV	Rgp	Degree=Pos	31	discourse	_	pronunciation=res|Gos2.1_seg_id=Artur-N-G6043-P604301.s62|Gos2.1_token_id=Artur-N-G6043-P604301.tok568
 34	.	.	PUNCT	Z	_	13	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s62|Gos2.1_token_id=Artur-N-G6043-P604301.tok569
 
+# sent_id = Artur-N-G6043-P604301.s63_reseg.1526
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s63.mp3
+# text = ke da sem tam .
+1	ke	ke	ADV	Rgp	Degree=Pos	3	mark	_	pronunciation=kə|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok570
+2	da	da	SCONJ	Cs	_	1	fixed	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok571
+3	sem	biti	VERB	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=səm|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok572
+4	tam	tam	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=təm|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok573
+5	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s63|Gos2.1_token_id=Artur-N-G6043-P604301.tok574
+
 # sent_id = Artur-N-G6043-P604301.s64-s65_reseg.1527
 # speaker_id = Artur-N-G6043
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s64-s65.mp3
@@ -755,6 +720,15 @@
 22	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	23	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6043-P604301.s65|Gos2.1_token_id=Artur-N-G6043-P604301.tok596
 23	jako	jak	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	parataxis	_	pronunciation=jako|Gos2.1_seg_id=Artur-N-G6043-P604301.s65|Gos2.1_token_id=Artur-N-G6043-P604301.tok597
 24	.	.	PUNCT	Z	_	10	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s65|Gos2.1_token_id=Artur-N-G6043-P604301.tok598
+
+# sent_id = Artur-N-G6043-P604301.s66_reseg.1528
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s66.mp3
+# text = hm , sanjati .
+1	hm	hm	INTJ	I	_	3	discourse	_	pronunciation=hm|Gos2.1_seg_id=Artur-N-G6043-P604301.s66|Gos2.1_token_id=Artur-N-G6043-P604301.tok599
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6043-P604301.s66|Gos2.1_token_id=Artur-N-G6043-P604301.tok600
+3	sanjati	sanjati	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	0	root	_	pronunciation=sanjat|Gos2.1_seg_id=Artur-N-G6043-P604301.s66|Gos2.1_token_id=Artur-N-G6043-P604301.tok601
+4	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s66|Gos2.1_token_id=Artur-N-G6043-P604301.tok602
 
 # sent_id = Artur-N-G6043-P604301.s67-s68_reseg.1530
 # speaker_id = Artur-N-G6043
@@ -787,6 +761,17 @@
 25	več	več	PART	Q	_	26	advmod	_	pronunciation=več|Gos2.1_seg_id=Artur-N-G6043-P604301.s68|Gos2.1_token_id=Artur-N-G6043-P604301.tok633
 26	kadil	kaditi	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	20	ccomp	_	pronunciation=kadil|Gos2.1_seg_id=Artur-N-G6043-P604301.s68|Gos2.1_token_id=Artur-N-G6043-P604301.tok634
 27	.	.	PUNCT	Z	_	13	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s68|Gos2.1_token_id=Artur-N-G6043-P604301.tok635
+
+# sent_id = Artur-N-G6043-P604301.s67_reseg.1529
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s67.mp3
+# text = ne kadim že štiri leta .
+1	ne	ne	PART	Q	Polarity=Neg	2	advmod	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok603
+2	kadim	kaditi	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=kadim|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok604
+3	že	že	PART	Q	_	5	advmod	_	pronunciation=že|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok605
+4	štiri	štirje	NUM	Mlcnpa	Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	pronunciation=štiri|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok606
+5	leta	leto	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	2	obl	_	pronunciation=leta|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok607
+6	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s67|Gos2.1_token_id=Artur-N-G6043-P604301.tok608
 
 # sent_id = Artur-N-G6043-P604301.s69-s70_reseg.1531
 # speaker_id = Artur-N-G6043
@@ -983,6 +968,13 @@
 24	he	he	INTJ	I	_	18	discourse	_	pronunciation=he|Gos2.1_seg_id=Artur-N-G6043-P604301.s88|Gos2.1_token_id=Artur-N-G6043-P604301.tok794
 25	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s88|Gos2.1_token_id=Artur-N-G6043-P604301.tok795
 
+# sent_id = Artur-N-G6043-P604301.s89_reseg.1538
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s89.mp3
+# text = hm .
+1	hm	hm	INTJ	I	_	0	root	_	pronunciation=hm|Gos2.1_seg_id=Artur-N-G6043-P604301.s89|Gos2.1_token_id=Artur-N-G6043-P604301.tok796
+2	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s89|Gos2.1_token_id=Artur-N-G6043-P604301.tok797
+
 # sent_id = Artur-N-G6043-P604301.s90-s92_reseg.1540
 # speaker_id = Artur-N-G6043
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s90-s92.mp3
@@ -1007,6 +999,14 @@
 18	prave	pravi	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	pronunciation=prave|Gos2.1_seg_id=Artur-N-G6043-P604301.s92|Gos2.1_token_id=Artur-N-G6043-P604301.tok818
 19	resnice	resnica	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	16	obl	_	pronunciation=resnice|Gos2.1_seg_id=Artur-N-G6043-P604301.s92|Gos2.1_token_id=Artur-N-G6043-P604301.tok819
 20	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s92|Gos2.1_token_id=Artur-N-G6043-P604301.tok820
+
+# sent_id = Artur-N-G6043-P604301.s90_reseg.1539
+# speaker_id = Artur-N-G6043
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6043-P604301.s90.mp3
+# text = v novicah .
+1	v	v	ADP	Sl	Case=Loc	2	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G6043-P604301.s90|Gos2.1_token_id=Artur-N-G6043-P604301.tok798
+2	novicah	novica	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	0	root	_	pronunciation=novicah|Gos2.1_seg_id=Artur-N-G6043-P604301.s90|Gos2.1_token_id=Artur-N-G6043-P604301.tok799
+3	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6043-P604301.s90|Gos2.1_token_id=Artur-N-G6043-P604301.tok800
 
 # sent_id = Artur-N-G6043-P604301.s92-s96_reseg.1541
 # speaker_id = Artur-N-G6043

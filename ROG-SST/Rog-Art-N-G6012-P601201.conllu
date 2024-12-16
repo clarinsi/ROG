@@ -18,31 +18,6 @@
 13	ne	ne	PART	Q	Polarity=Neg	11	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s1|Gos2.1_token_id=Artur-N-G6012-P601201.tok13
 14	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s1|Gos2.1_token_id=Artur-N-G6012-P601201.tok14
 
-# sent_id = Artur-N-G6012-P601201.s5_reseg.1451
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s5.mp3
-# text = u , ja .
-1	u	u	INTJ	I	_	3	discourse	_	pronunciation=u|Gos2.1_seg_id=Artur-N-G6012-P601201.s5|Gos2.1_token_id=Artur-N-G6012-P601201.tok45
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s5|Gos2.1_token_id=Artur-N-G6012-P601201.tok46
-3	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G6012-P601201.s5|Gos2.1_token_id=Artur-N-G6012-P601201.tok47
-4	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s5|Gos2.1_token_id=Artur-N-G6012-P601201.tok48
-
-# sent_id = Artur-N-G6012-P601201.s13_reseg.1454
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s13.mp3
-# text = količina informacij se v takem procesu stalno povečuje , ne .
-1	količina	količina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	pronunciation=količina|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok106
-2	informacij	informacija	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	pronunciation=informacij|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok107
-3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok108
-4	v	v	ADP	Sl	Case=Loc	6	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok109
-5	takem	tak	DET	Pd-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	pronunciation=takem|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok110
-6	procesu	proces	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	pronunciation=procesu|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok111
-7	stalno	stalno	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=stalno|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok112
-8	povečuje	povečevati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=povečuje|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok113
-9	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok114
-10	ne	ne	PART	Q	Polarity=Neg	8	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok115
-11	.	.	PUNCT	Z	_	8	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok116
-
 # sent_id = Artur-N-G6012-P601201.s2-s4_reseg.1450
 # speaker_id = Artur-N-G6012
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s2-s4.mp3
@@ -77,112 +52,6 @@
 28	pa	pa	CCONJ	Cc	_	29	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G6012-P601201.s4|Gos2.1_token_id=Artur-N-G6012-P601201.tok42
 29	evolucija	evolucija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	15	parataxis	_	pronunciation=evolucija|Gos2.1_seg_id=Artur-N-G6012-P601201.s4|Gos2.1_token_id=Artur-N-G6012-P601201.tok43
 30	.	.	PUNCT	Z	_	9	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s4|Gos2.1_token_id=Artur-N-G6012-P601201.tok44
-
-# sent_id = Artur-N-G6012-P601201.s53_reseg.1459
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s53.mp3
-# text = se to da ugotoviti .
-1	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	3	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok520
-2	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok521
-3	da	dati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok522
-4	ugotoviti	ugotoviti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	3	xcomp	_	pronunciation=ugotovit|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok523
-5	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok524
-
-# sent_id = Artur-N-G6012-P601201.s57_reseg.1461
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s57.mp3
-# text = ja , saj veš , kaj je to Dopplerjev efekt , ne .
-1	ja	ja	PART	Q	_	4	discourse	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok543
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok544
-3	saj	saj	CCONJ	Cc	_	4	advmod	_	pronunciation=sej|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok545
-4	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=veš|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok546
-5	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok547
-6	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	10	nsubj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok548
-7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok549
-8	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	expl	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok550
-9	Dopplerjev	Dopplerjev	ADJ	Aspmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes	10	amod	_	pronunciation=Doplerjev|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok551
-10	efekt	efekt	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	ccomp	_	pronunciation=efekt|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok552
-11	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok553
-12	ne	ne	PART	Q	Polarity=Neg	4	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok554
-13	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok555
-
-# sent_id = Artur-N-G6012-P601201.s79_reseg.1465
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s79.mp3
-# text = in kaj misliš , kaj so ugotovili
-1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok776
-2	kaj	kaj	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok777
-3	misliš	misliti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=misliš|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok778
-4	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok779
-5	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	7	obj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok780
-6	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=so|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok781
-7	ugotovili	ugotoviti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	3	ccomp	_	pronunciation=ugotovil|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok782
-
-# sent_id = Artur-N-G6012-P601201.s80_reseg.1466
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s80.mp3
-# text = da se hitrost povečuje .
-1	da	da	SCONJ	Cs	_	4	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok784
-2	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	4	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok785
-3	hitrost	hitrost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	pronunciation=hitrost|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok786
-4	povečuje	povečevati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=povečuje|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok787
-5	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok788
-
-# sent_id = Artur-N-G6012-P601201.s81_reseg.1467
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s81.mp3
-# text = tega nihče ni razumel dolgo .
-1	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	pronunciation=tega|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok789
-2	nihče	nihče	PRON	Pz-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	4	nsubj	_	pronunciation=nihče|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok790
-3	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=ni|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok791
-4	razumel	razumeti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=razumel|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok792
-5	dolgo	dolgo	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=dolg|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok793
-6	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok794
-
-# sent_id = Artur-N-G6012-P601201.s82_reseg.1468
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s82.mp3
-# text = ja .
-1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G6012-P601201.s82|Gos2.1_token_id=Artur-N-G6012-P601201.tok795
-2	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s82|Gos2.1_token_id=Artur-N-G6012-P601201.tok796
-
-# sent_id = Artur-N-G6012-P601201.s87_reseg.1471
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s87.mp3
-# text = okej .
-1	okej	okej	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=okej|Gos2.1_seg_id=Artur-N-G6012-P601201.s87|Gos2.1_token_id=Artur-N-G6012-P601201.tok851
-2	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s87|Gos2.1_token_id=Artur-N-G6012-P601201.tok852
-
-# sent_id = Artur-N-G6012-P601201.s91_reseg.1473
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s91.mp3
-# text = kaj , kaj je gonilo tega , ne .
-1	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	reparandum	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok903
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok904
-3	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok905
-4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok906
-5	gonilo	gonilo	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	0	root	_	pronunciation=gonilo|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok907
-6	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	pronunciation=tega|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok908
-7	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok909
-8	ne	ne	PART	Q	Polarity=Neg	5	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok910
-9	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok911
-
-# sent_id = Artur-N-G6012-P601201.s94_reseg.1475
-# speaker_id = Artur-N-G6012
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s94.mp3
-# text = na , na takrat , ko je nastalo vesolje , ne .
-1	na	na	ADP	Sa	Case=Acc	4	reparandum	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok930
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok931
-3	na	na	ADP	Sa	Case=Acc	4	reparandum	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok932
-4	takrat	takrat	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=takrat|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok933
-5	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok934
-6	ko	ko	SCONJ	Cs	_	8	mark	_	pronunciation=ko|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok935
-7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok936
-8	nastalo	nastati	VERB	Vmep-sn	Aspect=Perf|Gender=Neut|Number=Sing|VerbForm=Part	4	acl	_	pronunciation=nastalo|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok937
-9	vesolje	vesolje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	pronunciation=vesolje|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok938
-10	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok939
-11	ne	ne	PART	Q	Polarity=Neg	8	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok940
-12	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok941
 
 # sent_id = Artur-N-G6012-P601201.s5-s10_reseg.1452
 # speaker_id = Artur-N-G6012
@@ -227,6 +96,15 @@
 37	ne	ne	PART	Q	Polarity=Neg	26	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s10|Gos2.1_token_id=Artur-N-G6012-P601201.tok85
 38	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s10|Gos2.1_token_id=Artur-N-G6012-P601201.tok86
 
+# sent_id = Artur-N-G6012-P601201.s5_reseg.1451
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s5.mp3
+# text = u , ja .
+1	u	u	INTJ	I	_	3	discourse	_	pronunciation=u|Gos2.1_seg_id=Artur-N-G6012-P601201.s5|Gos2.1_token_id=Artur-N-G6012-P601201.tok45
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s5|Gos2.1_token_id=Artur-N-G6012-P601201.tok46
+3	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G6012-P601201.s5|Gos2.1_token_id=Artur-N-G6012-P601201.tok47
+4	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s5|Gos2.1_token_id=Artur-N-G6012-P601201.tok48
+
 # sent_id = Artur-N-G6012-P601201.s11-s12_reseg.1453
 # speaker_id = Artur-N-G6012
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s11-s12.mp3
@@ -250,6 +128,22 @@
 17	kvalitetno	kvaliteten	ADJ	Agpfsi	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	pronunciation=kvalitetno|Gos2.1_seg_id=Artur-N-G6012-P601201.s12|Gos2.1_token_id=Artur-N-G6012-P601201.tok103
 18	energijo	energija	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	14	nmod	_	pronunciation=energijo|Gos2.1_seg_id=Artur-N-G6012-P601201.s12|Gos2.1_token_id=Artur-N-G6012-P601201.tok104
 19	.	.	PUNCT	Z	_	14	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s12|Gos2.1_token_id=Artur-N-G6012-P601201.tok105
+
+# sent_id = Artur-N-G6012-P601201.s13_reseg.1454
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s13.mp3
+# text = količina informacij se v takem procesu stalno povečuje , ne .
+1	količina	količina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	pronunciation=količina|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok106
+2	informacij	informacija	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	pronunciation=informacij|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok107
+3	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok108
+4	v	v	ADP	Sl	Case=Loc	6	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok109
+5	takem	tak	DET	Pd-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	pronunciation=takem|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok110
+6	procesu	proces	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	pronunciation=procesu|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok111
+7	stalno	stalno	ADV	Rgp	Degree=Pos	8	advmod	_	pronunciation=stalno|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok112
+8	povečuje	povečevati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=povečuje|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok113
+9	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok114
+10	ne	ne	PART	Q	Polarity=Neg	8	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok115
+11	.	.	PUNCT	Z	_	8	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s13|Gos2.1_token_id=Artur-N-G6012-P601201.tok116
 
 # sent_id = Artur-N-G6012-P601201.s14-s16_reseg.1455
 # speaker_id = Artur-N-G6012
@@ -674,6 +568,16 @@
 270	ne	ne	PART	Q	Polarity=Neg	264	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s52|Gos2.1_token_id=Artur-N-G6012-P601201.tok518
 271	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s52|Gos2.1_token_id=Artur-N-G6012-P601201.tok519
 
+# sent_id = Artur-N-G6012-P601201.s53_reseg.1459
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s53.mp3
+# text = se to da ugotoviti .
+1	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	3	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok520
+2	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok521
+3	da	dati	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok522
+4	ugotoviti	ugotoviti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	3	xcomp	_	pronunciation=ugotovit|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok523
+5	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s53|Gos2.1_token_id=Artur-N-G6012-P601201.tok524
+
 # sent_id = Artur-N-G6012-P601201.s54-s56_reseg.1460
 # speaker_id = Artur-N-G6012
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s54-s56.mp3
@@ -696,6 +600,24 @@
 16	pa	pa	CCONJ	Cc	_	17	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G6012-P601201.s56|Gos2.1_token_id=Artur-N-G6012-P601201.tok540
 17	spreminja	spreminjati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=spreminja|Gos2.1_seg_id=Artur-N-G6012-P601201.s56|Gos2.1_token_id=Artur-N-G6012-P601201.tok541
 18	.	.	PUNCT	Z	_	17	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s56|Gos2.1_token_id=Artur-N-G6012-P601201.tok542
+
+# sent_id = Artur-N-G6012-P601201.s57_reseg.1461
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s57.mp3
+# text = ja , saj veš , kaj je to Dopplerjev efekt , ne .
+1	ja	ja	PART	Q	_	4	discourse	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok543
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok544
+3	saj	saj	CCONJ	Cc	_	4	advmod	_	pronunciation=sej|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok545
+4	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=veš|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok546
+5	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok547
+6	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	10	nsubj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok548
+7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok549
+8	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	10	expl	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok550
+9	Dopplerjev	Dopplerjev	ADJ	Aspmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes	10	amod	_	pronunciation=Doplerjev|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok551
+10	efekt	efekt	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	ccomp	_	pronunciation=efekt|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok552
+11	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok553
+12	ne	ne	PART	Q	Polarity=Neg	4	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok554
+13	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s57|Gos2.1_token_id=Artur-N-G6012-P601201.tok555
 
 # sent_id = Artur-N-G6012-P601201.s58-s62_reseg.1462
 # speaker_id = Artur-N-G6012
@@ -932,6 +854,46 @@
 96	konstantna	konstanten	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	91	conj	_	pronunciation=konstantna|Gos2.1_seg_id=Artur-N-G6012-P601201.s78|Gos2.1_token_id=Artur-N-G6012-P601201.tok774
 97	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s78|Gos2.1_token_id=Artur-N-G6012-P601201.tok775
 
+# sent_id = Artur-N-G6012-P601201.s79_reseg.1465
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s79.mp3
+# text = in kaj misliš , kaj so ugotovili
+1	in	in	CCONJ	Cc	_	3	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok776
+2	kaj	kaj	ADV	Rgp	Degree=Pos	3	advmod	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok777
+3	misliš	misliti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=misliš|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok778
+4	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok779
+5	kaj	kaj	PRON	Pq-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	7	obj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok780
+6	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	pronunciation=so|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok781
+7	ugotovili	ugotoviti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	3	ccomp	_	pronunciation=ugotovil|Gos2.1_seg_id=Artur-N-G6012-P601201.s79|Gos2.1_token_id=Artur-N-G6012-P601201.tok782
+
+# sent_id = Artur-N-G6012-P601201.s80_reseg.1466
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s80.mp3
+# text = da se hitrost povečuje .
+1	da	da	SCONJ	Cs	_	4	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok784
+2	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	4	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok785
+3	hitrost	hitrost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	pronunciation=hitrost|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok786
+4	povečuje	povečevati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=povečuje|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok787
+5	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s80|Gos2.1_token_id=Artur-N-G6012-P601201.tok788
+
+# sent_id = Artur-N-G6012-P601201.s81_reseg.1467
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s81.mp3
+# text = tega nihče ni razumel dolgo .
+1	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	pronunciation=tega|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok789
+2	nihče	nihče	PRON	Pz-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	4	nsubj	_	pronunciation=nihče|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok790
+3	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	aux	_	pronunciation=ni|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok791
+4	razumel	razumeti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=razumel|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok792
+5	dolgo	dolgo	ADV	Rgp	Degree=Pos	4	advmod	_	pronunciation=dolg|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok793
+6	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s81|Gos2.1_token_id=Artur-N-G6012-P601201.tok794
+
+# sent_id = Artur-N-G6012-P601201.s82_reseg.1468
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s82.mp3
+# text = ja .
+1	ja	ja	PART	Q	_	0	root	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G6012-P601201.s82|Gos2.1_token_id=Artur-N-G6012-P601201.tok795
+2	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s82|Gos2.1_token_id=Artur-N-G6012-P601201.tok796
+
 # sent_id = Artur-N-G6012-P601201.s83-s84_reseg.1469
 # speaker_id = Artur-N-G6012
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s83-s84.mp3
@@ -997,6 +959,13 @@
 19	povečuje	povečevati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	pronunciation=povečuje|Gos2.1_seg_id=Artur-N-G6012-P601201.s86|Gos2.1_token_id=Artur-N-G6012-P601201.tok849
 20	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s86|Gos2.1_token_id=Artur-N-G6012-P601201.tok850
 
+# sent_id = Artur-N-G6012-P601201.s87_reseg.1471
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s87.mp3
+# text = okej .
+1	okej	okej	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=okej|Gos2.1_seg_id=Artur-N-G6012-P601201.s87|Gos2.1_token_id=Artur-N-G6012-P601201.tok851
+2	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s87|Gos2.1_token_id=Artur-N-G6012-P601201.tok852
+
 # sent_id = Artur-N-G6012-P601201.s88-s91_reseg.1472
 # speaker_id = Artur-N-G6012
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s88-s91.mp3
@@ -1052,6 +1021,20 @@
 49	povečuje	povečevati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	acl	_	pronunciation=povečuje|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok901
 50	.	.	PUNCT	Z	_	14	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok902
 
+# sent_id = Artur-N-G6012-P601201.s91_reseg.1473
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s91.mp3
+# text = kaj , kaj je gonilo tega , ne .
+1	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	reparandum	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok903
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok904
+3	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok905
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok906
+5	gonilo	gonilo	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	0	root	_	pronunciation=gonilo|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok907
+6	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	pronunciation=tega|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok908
+7	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok909
+8	ne	ne	PART	Q	Polarity=Neg	5	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok910
+9	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s91|Gos2.1_token_id=Artur-N-G6012-P601201.tok911
+
 # sent_id = Artur-N-G6012-P601201.s92-s93_reseg.1474
 # speaker_id = Artur-N-G6012
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s92-s93.mp3
@@ -1074,6 +1057,23 @@
 16	big	big	X	Xf	Foreign=Yes	17	nmod	_	pronunciation=big|Gos2.1_seg_id=Artur-N-G6012-P601201.s93|Gos2.1_token_id=Artur-N-G6012-P601201.tok927
 17	bang	bang	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	15	obj	_	pronunciation=beng|Gos2.1_seg_id=Artur-N-G6012-P601201.s93|Gos2.1_token_id=Artur-N-G6012-P601201.tok928
 18	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s93|Gos2.1_token_id=Artur-N-G6012-P601201.tok929
+
+# sent_id = Artur-N-G6012-P601201.s94_reseg.1475
+# speaker_id = Artur-N-G6012
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G6012-P601201.s94.mp3
+# text = na , na takrat , ko je nastalo vesolje , ne .
+1	na	na	ADP	Sa	Case=Acc	4	reparandum	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok930
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok931
+3	na	na	ADP	Sa	Case=Acc	4	reparandum	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok932
+4	takrat	takrat	ADV	Rgp	Degree=Pos	0	root	_	pronunciation=takrat|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok933
+5	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok934
+6	ko	ko	SCONJ	Cs	_	8	mark	_	pronunciation=ko|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok935
+7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok936
+8	nastalo	nastati	VERB	Vmep-sn	Aspect=Perf|Gender=Neut|Number=Sing|VerbForm=Part	4	acl	_	pronunciation=nastalo|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok937
+9	vesolje	vesolje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	pronunciation=vesolje|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok938
+10	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok939
+11	ne	ne	PART	Q	Polarity=Neg	8	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok940
+12	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G6012-P601201.s94|Gos2.1_token_id=Artur-N-G6012-P601201.tok941
 
 # sent_id = Artur-N-G6012-P601201.s95-s100_reseg.1476
 # speaker_id = Artur-N-G6012

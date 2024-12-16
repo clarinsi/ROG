@@ -1,43 +1,3 @@
-# sent_id = Artur-N-G5083-P600080.s11_reseg.1346
-# speaker_id = Artur-N-G5083
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5083-P600080.s11.mp3
-# text = aha , no , dobro , zdaj s- to so tiste tri najosnovnejše oblike , ne .
-1	aha	aha	INTJ	I	_	14	discourse	_	pronunciation=aha|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok134
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok135
-3	no	no	PART	Q	_	14	discourse	_	pronunciation=no|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok136
-4	,	,	PUNCT	Z	_	3	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok137
-5	dobro	dober	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	discourse	_	pronunciation=dobro|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok138
-6	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok139
-7	zdaj	zdaj	ADV	Rgp	Degree=Pos	14	discourse	_	pronunciation=zej|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok140
-8	s-	s-	X	Xt	_	14	reparandum	_	pronunciation=s…|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok141
-9	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok142
-10	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok143
-11	tiste	tisti	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	pronunciation=tiste|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok144
-12	tri	trije	NUM	Mlcfpn	Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	pronunciation=tri|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok145
-13	najosnovnejše	osnoven	ADJ	Agsfpn	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	14	amod	_	pronunciation=najosnovnejše|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok146
-14	oblike	oblika	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=oblike|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok147
-15	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok148
-16	ne	ne	PART	Q	Polarity=Neg	14	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok149
-17	.	.	PUNCT	Z	_	14	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok150
-
-# sent_id = Artur-N-G5083-P600080.s11_reseg.1347
-# speaker_id = Artur-N-G5083
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5083-P600080.s11.mp3
-# text = torej kult- kulturni kapital , socialni kapital pa ekonomski kapital , ne .
-1	torej	torej	CCONJ	Cc	_	4	cc	_	pronunciation=torej|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok151
-2	kult-	kult-	X	Xt	_	3	reparandum	_	pronunciation=kult…|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok152
-3	kulturni	kulturen	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	pronunciation=kulturni|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok153
-4	kapital	kapital	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok154
-5	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok155
-6	socialni	socialen	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	pronunciation=socialni|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok156
-7	kapital	kapital	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok157
-8	pa	pa	CCONJ	Cc	_	10	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok158
-9	ekonomski	ekonomski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	pronunciation=ekonomski|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok159
-10	kapital	kapital	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok160
-11	,	,	PUNCT	Z	_	12	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok161
-12	ne	ne	PART	Q	Polarity=Neg	4	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok162
-13	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok163
-
 # newdoc id = Artur-N-G5083-P600080
 # sent_id = Artur-N-G5083-P600080.s1-s3_reseg.1343
 # speaker_id = Artur-N-G5083
@@ -76,61 +36,6 @@
 31	taki	tak	DET	Pd-fsl	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	32	obl	_	pronunciation=taki|Gos2.1_seg_id=Artur-N-G5083-P600080.s3|Gos2.1_token_id=Artur-N-G5083-P600080.tok31
 32	proizvede	proizvesti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	pronunciation=proizvede|Gos2.1_seg_id=Artur-N-G5083-P600080.s3|Gos2.1_token_id=Artur-N-G5083-P600080.tok32
 33	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s3|Gos2.1_token_id=Artur-N-G5083-P600080.tok33
-
-# sent_id = Artur-N-G5083-P600080.s30_reseg.1354
-# speaker_id = Artur-N-G5083
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5083-P600080.s30.mp3
-# text = jaz se bom pa osredotočil na subkulturni kapital .
-1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	pronunciation=jaz|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok352
-2	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok353
-3	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	pronunciation=bom|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok354
-4	pa	pa	CCONJ	Cc	_	5	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok355
-5	osredotočil	osredotočiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=osredotoču|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok356
-6	na	na	ADP	Sa	Case=Acc	8	case	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok357
-7	subkulturni	subkulturen	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	pronunciation=subkulturni|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok358
-8	kapital	kapital	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok359
-9	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok360
-
-# sent_id = Artur-N-G5083-P600080.s39_reseg.1358
-# speaker_id = Artur-N-G5083
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5083-P600080.s39.mp3
-# text = in , bom rekel , jaz se osredotočam ta na , na ta subkulturni kapital v sami osnovi , zato ker je v nekem kompleksu , kot je Pekarna , eee , zelo pomemben faktor .
-1	in	in	CCONJ	Cc	_	8	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok457
-2	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok458
-3	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	4	aux	_	pronunciation=bom|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok459
-4	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	8	parataxis:discourse	_	pronunciation=reku|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok460
-5	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok461
-6	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	pronunciation=jaz|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok462
-7	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok463
-8	osredotočam	osredotočati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=osredotočam|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok464
-9	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	reparandum	_	pronunciation=ta|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok465
-10	na	na	ADP	Sa	Case=Acc	15	reparandum	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok466
-11	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok467
-12	na	na	ADP	Sa	Case=Acc	15	case	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok468
-13	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	pronunciation=ta|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok469
-14	subkulturni	subkulturen	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	pronunciation=subkulturni|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok470
-15	kapital	kapital	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok471
-16	v	v	ADP	Sl	Case=Loc	18	case	_	pronunciation=və|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok472
-17	sami	sam	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	pronunciation=sami|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok473
-18	osnovi	osnova	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	pronunciation=osnovi|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok474
-19	,	,	PUNCT	Z	_	35	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok475
-20	zato	zato	ADV	Rgp	Degree=Pos	35	mark	_	pronunciation=zəto|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok476
-21	ker	ker	SCONJ	Cs	_	20	fixed	_	pronunciation=ker|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok477
-22	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	35	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok478
-23	v	v	ADP	Sl	Case=Loc	25	case	_	pronunciation=və|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok479
-24	nekem	nek	DET	Pi-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	25	det	_	pronunciation=nekem|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok480
-25	kompleksu	kompleks	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	35	obl	_	pronunciation=kompleksu|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok481
-26	,	,	PUNCT	Z	_	29	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok482
-27	kot	kot	SCONJ	Cs	_	29	mark	_	pronunciation=kot|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok483
-28	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	29	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok484
-29	Pekarna	pekarna	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	25	acl	_	pronunciation=Pekarna|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok485
-30	,	,	PUNCT	Z	_	29	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok486
-31	eee	eee	INTJ	I	_	35	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok487
-32	,	,	PUNCT	Z	_	31	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok488
-33	zelo	zelo	ADV	Rgp	Degree=Pos	34	advmod	_	pronunciation=zlo|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok489
-34	pomemben	pomemben	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	35	amod	_	pronunciation=pomembən|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok490
-35	faktor	faktor	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	advcl	_	pronunciation=faktor|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok491
-36	.	.	PUNCT	Z	_	8	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok492
 
 # sent_id = Artur-N-G5083-P600080.s4-s7_reseg.1344
 # speaker_id = Artur-N-G5083
@@ -241,6 +146,46 @@
 26	v	v	ADP	Sl	Case=Loc	27	case	_	pronunciation=və|Gos2.1_seg_id=Artur-N-G5083-P600080.s10|Gos2.1_token_id=Artur-N-G5083-P600080.tok131
 27	Pekarni	pekarna	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	25	nmod	_	pronunciation=Pekarni|Gos2.1_seg_id=Artur-N-G5083-P600080.s10|Gos2.1_token_id=Artur-N-G5083-P600080.tok132
 28	.	.	PUNCT	Z	_	10	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s10|Gos2.1_token_id=Artur-N-G5083-P600080.tok133
+
+# sent_id = Artur-N-G5083-P600080.s11_reseg.1346
+# speaker_id = Artur-N-G5083
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5083-P600080.s11.mp3
+# text = aha , no , dobro , zdaj s- to so tiste tri najosnovnejše oblike , ne .
+1	aha	aha	INTJ	I	_	14	discourse	_	pronunciation=aha|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok134
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok135
+3	no	no	PART	Q	_	14	discourse	_	pronunciation=no|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok136
+4	,	,	PUNCT	Z	_	3	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok137
+5	dobro	dober	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	discourse	_	pronunciation=dobro|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok138
+6	,	,	PUNCT	Z	_	5	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok139
+7	zdaj	zdaj	ADV	Rgp	Degree=Pos	14	discourse	_	pronunciation=zej|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok140
+8	s-	s-	X	Xt	_	14	reparandum	_	pronunciation=s…|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok141
+9	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	pronunciation=to|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok142
+10	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok143
+11	tiste	tisti	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	pronunciation=tiste|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok144
+12	tri	trije	NUM	Mlcfpn	Case=Nom|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	pronunciation=tri|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok145
+13	najosnovnejše	osnoven	ADJ	Agsfpn	Case=Nom|Degree=Sup|Gender=Fem|Number=Plur	14	amod	_	pronunciation=najosnovnejše|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok146
+14	oblike	oblika	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	0	root	_	pronunciation=oblike|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok147
+15	,	,	PUNCT	Z	_	16	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok148
+16	ne	ne	PART	Q	Polarity=Neg	14	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok149
+17	.	.	PUNCT	Z	_	14	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok150
+
+# sent_id = Artur-N-G5083-P600080.s11_reseg.1347
+# speaker_id = Artur-N-G5083
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5083-P600080.s11.mp3
+# text = torej kult- kulturni kapital , socialni kapital pa ekonomski kapital , ne .
+1	torej	torej	CCONJ	Cc	_	4	cc	_	pronunciation=torej|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok151
+2	kult-	kult-	X	Xt	_	3	reparandum	_	pronunciation=kult…|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok152
+3	kulturni	kulturen	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	pronunciation=kulturni|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok153
+4	kapital	kapital	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok154
+5	,	,	PUNCT	Z	_	7	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok155
+6	socialni	socialen	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	pronunciation=socialni|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok156
+7	kapital	kapital	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok157
+8	pa	pa	CCONJ	Cc	_	10	cc	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok158
+9	ekonomski	ekonomski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	pronunciation=ekonomski|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok159
+10	kapital	kapital	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok160
+11	,	,	PUNCT	Z	_	12	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok161
+12	ne	ne	PART	Q	Polarity=Neg	4	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok162
+13	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s11|Gos2.1_token_id=Artur-N-G5083-P600080.tok163
 
 # sent_id = Artur-N-G5083-P600080.s12-s14_reseg.1348
 # speaker_id = Artur-N-G5083
@@ -460,6 +405,20 @@
 30	spreminja	spreminjati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	pronunciation=spreminja|Gos2.1_seg_id=Artur-N-G5083-P600080.s29|Gos2.1_token_id=Artur-N-G5083-P600080.tok350
 31	.	.	PUNCT	Z	_	15	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s29|Gos2.1_token_id=Artur-N-G5083-P600080.tok351
 
+# sent_id = Artur-N-G5083-P600080.s30_reseg.1354
+# speaker_id = Artur-N-G5083
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5083-P600080.s30.mp3
+# text = jaz se bom pa osredotočil na subkulturni kapital .
+1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	pronunciation=jaz|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok352
+2	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	5	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok353
+3	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	pronunciation=bom|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok354
+4	pa	pa	CCONJ	Cc	_	5	advmod	_	pronunciation=pa|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok355
+5	osredotočil	osredotočiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	pronunciation=osredotoču|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok356
+6	na	na	ADP	Sa	Case=Acc	8	case	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok357
+7	subkulturni	subkulturen	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	pronunciation=subkulturni|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok358
+8	kapital	kapital	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok359
+9	.	.	PUNCT	Z	_	5	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s30|Gos2.1_token_id=Artur-N-G5083-P600080.tok360
+
 # sent_id = Artur-N-G5083-P600080.s31-s34_reseg.1355
 # speaker_id = Artur-N-G5083
 # sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5083-P600080.s31-s34.mp3
@@ -570,6 +529,47 @@
 32	,	,	PUNCT	Z	_	33	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s38|Gos2.1_token_id=Artur-N-G5083-P600080.tok454
 33	ne	ne	PART	Q	Polarity=Neg	29	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5083-P600080.s38|Gos2.1_token_id=Artur-N-G5083-P600080.tok455
 34	.	.	PUNCT	Z	_	9	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s38|Gos2.1_token_id=Artur-N-G5083-P600080.tok456
+
+# sent_id = Artur-N-G5083-P600080.s39_reseg.1358
+# speaker_id = Artur-N-G5083
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5083-P600080.s39.mp3
+# text = in , bom rekel , jaz se osredotočam ta na , na ta subkulturni kapital v sami osnovi , zato ker je v nekem kompleksu , kot je Pekarna , eee , zelo pomemben faktor .
+1	in	in	CCONJ	Cc	_	8	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok457
+2	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok458
+3	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	4	aux	_	pronunciation=bom|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok459
+4	rekel	reči	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	8	parataxis:discourse	_	pronunciation=reku|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok460
+5	,	,	PUNCT	Z	_	4	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok461
+6	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	pronunciation=jaz|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok462
+7	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	8	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok463
+8	osredotočam	osredotočati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=osredotočam|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok464
+9	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	reparandum	_	pronunciation=ta|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok465
+10	na	na	ADP	Sa	Case=Acc	15	reparandum	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok466
+11	,	,	PUNCT	Z	_	10	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok467
+12	na	na	ADP	Sa	Case=Acc	15	case	_	pronunciation=na|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok468
+13	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	pronunciation=ta|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok469
+14	subkulturni	subkulturen	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	pronunciation=subkulturni|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok470
+15	kapital	kapital	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	pronunciation=kapital|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok471
+16	v	v	ADP	Sl	Case=Loc	18	case	_	pronunciation=və|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok472
+17	sami	sam	ADJ	Agpfsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	pronunciation=sami|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok473
+18	osnovi	osnova	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	pronunciation=osnovi|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok474
+19	,	,	PUNCT	Z	_	35	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok475
+20	zato	zato	ADV	Rgp	Degree=Pos	35	mark	_	pronunciation=zəto|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok476
+21	ker	ker	SCONJ	Cs	_	20	fixed	_	pronunciation=ker|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok477
+22	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	35	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok478
+23	v	v	ADP	Sl	Case=Loc	25	case	_	pronunciation=və|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok479
+24	nekem	nek	DET	Pi-msl	Case=Loc|Gender=Masc|Number=Sing|PronType=Ind	25	det	_	pronunciation=nekem|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok480
+25	kompleksu	kompleks	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	35	obl	_	pronunciation=kompleksu|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok481
+26	,	,	PUNCT	Z	_	29	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok482
+27	kot	kot	SCONJ	Cs	_	29	mark	_	pronunciation=kot|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok483
+28	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	29	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok484
+29	Pekarna	pekarna	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	25	acl	_	pronunciation=Pekarna|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok485
+30	,	,	PUNCT	Z	_	29	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok486
+31	eee	eee	INTJ	I	_	35	discourse:filler	_	pronunciation=eee|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok487
+32	,	,	PUNCT	Z	_	31	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok488
+33	zelo	zelo	ADV	Rgp	Degree=Pos	34	advmod	_	pronunciation=zlo|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok489
+34	pomemben	pomemben	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	35	amod	_	pronunciation=pomembən|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok490
+35	faktor	faktor	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	advcl	_	pronunciation=faktor|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok491
+36	.	.	PUNCT	Z	_	8	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5083-P600080.s39|Gos2.1_token_id=Artur-N-G5083-P600080.tok492
 
 # sent_id = Artur-N-G5083-P600080.s40-s48_reseg.1359
 # speaker_id = Artur-N-G5083
