@@ -1,3 +1,27 @@
+# sent_id = Artur-N-G5082-P600080.s1-s2_reseg.1334
+# speaker_id = Artur-N-G5082
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5082-P600080.s1-s2.mp3
+# text = pač v zvezi s s Pekarno , ne , med drugim tudi , no , mislim , ja .
+1	pač	pač	PART	Q	_	3	discourse	_	pronunciation=pač|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok18
+2	v	v	ADP	Sl	Case=Loc	3	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok19
+3	zvezi	zveza	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	0	root	_	pronunciation=zvezi|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok20
+4	s	z	ADP	Si	Case=Ins	5	reparandum	_	pronunciation=s|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok21
+5	s	z	ADP	Si	Case=Ins	6	case	_	pronunciation=s|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok22
+6	Pekarno	pekarna	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	3	nmod	_	pronunciation=Pekarno|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok23
+7	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok24
+8	ne	ne	PART	Q	Polarity=Neg	3	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok25
+9	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok26
+10	med	med	ADP	Si	Case=Ins	11	case	_	pronunciation=med|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok27
+11	drugim	drug	ADJ	Mlpnsi	Case=Ins|Gender=Neut|Number=Sing	3	parataxis	_	pronunciation=drugim|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok28
+12	tudi	tudi	PART	Q	_	11	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok29
+13	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok30
+14	no	no	PART	Q	_	11	discourse	_	pronunciation=no|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok31
+15	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok32
+16	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	parataxis:discourse	_	pronunciation=mislim|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok33
+17	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok34
+18	ja	ja	PART	Q	_	11	discourse	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok35
+19	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok36
+
 # newdoc id = Artur-N-G5082-P600080
 # sent_id = Artur-N-G5082-P600080.s1_reseg.1333
 # speaker_id = Artur-N-G5082
@@ -58,6 +82,39 @@
 # text = mhm .
 1	mhm	mhm	INTJ	I	_	0	root	_	pronunciation=mhm|Gos2.1_seg_id=Artur-N-G5082-P600080.s4|Gos2.1_token_id=Artur-N-G5082-P600080.tok60
 2	.	.	PUNCT	Z	_	1	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5082-P600080.s4|Gos2.1_token_id=Artur-N-G5082-P600080.tok61
+
+# sent_id = Artur-N-G5082-P600080.s5-s6_reseg.1338
+# speaker_id = Artur-N-G5082
+# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5082-P600080.s5-s6.mp3
+# text = okej , in kaj so te razlike med temi tremi različnimi kapitali pač , če bi lahko znal tako mi malo povedati , da si lažje predstavljam .
+1	okej	okej	ADV	Rgp	Degree=Pos	4	discourse	_	pronunciation=okej|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok62
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok63
+3	in	in	CCONJ	Cc	_	4	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok64
+4	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok65
+5	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok66
+6	te	ta	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	7	det	_	pronunciation=te|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok67
+7	razlike	razlika	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	pronunciation=razlike|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok68
+8	med	med	ADP	Si	Case=Ins	12	case	_	pronunciation=med|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok69
+9	temi	ta	DET	Pd-mpi	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	pronunciation=temi|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok70
+10	tremi	trije	NUM	Mlcmpi	Case=Ins|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	pronunciation=tremi|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok71
+11	različnimi	različen	ADJ	Agpmpi	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	pronunciation=različnimi|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok72
+12	kapitali	kapital	NOUN	Ncmpi	Case=Ins|Gender=Masc|Number=Plur	7	nmod	_	pronunciation=kapitali|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok73
+13	pač	pač	PART	Q	_	4	discourse	_	pronunciation=pač|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok74
+14	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok75
+15	če	če	SCONJ	Cs	_	18	mark	_	pronunciation=če|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok76
+16	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	18	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok77
+17	lahko	lahko	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=lahko|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok78
+18	znal	znati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	4	advcl	_	pronunciation=znal|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok79
+19	tako	tako	ADV	Rgp	Degree=Pos	22	advmod	_	pronunciation=tko|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok80
+20	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	22	iobj	_	pronunciation=mi|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok81
+21	malo	malo	DET	Rgp	PronType=Ind	22	advmod	_	pronunciation=mal|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok82
+22	povedati	povedati	VERB	Vmen	Aspect=Perf|VerbForm=Inf	18	xcomp	_	pronunciation=povedat|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok83
+23	,	,	PUNCT	Z	_	27	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok84
+24	da	da	SCONJ	Cs	_	27	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok85
+25	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	27	expl	_	pronunciation=si|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok86
+26	lažje	lahko	ADV	Rgc	Degree=Cmp	27	advmod	_	pronunciation=lažje|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok87
+27	predstavljam	predstavljati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	advcl	_	pronunciation=predstavljam|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok88
+28	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok89
 
 # sent_id = Artur-N-G5082-P600080.s7_reseg.1339
 # speaker_id = Artur-N-G5082
@@ -123,61 +180,4 @@
 13	Ljubljani	Ljubljana	PROPN	Npfsl	Case=Loc|Gender=Fem|Number=Sing	11	nmod	_	pronunciation=Ljubljani|Gos2.1_seg_id=Artur-N-G5082-P600080.s10|Gos2.1_token_id=Artur-N-G5082-P600080.tok134
 14	,	,	PUNCT	Z	_	15	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s10|Gos2.1_token_id=Artur-N-G5082-P600080.tok135
 15	ne	ne	PART	Q	Polarity=Neg	6	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5082-P600080.s10|Gos2.1_token_id=Artur-N-G5082-P600080.tok136
-
-# sent_id = Artur-N-G5082-P600080.s1-s2_reseg.1334
-# speaker_id = Artur-N-G5082
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5082-P600080.s1-s2.mp3
-# text = pač v zvezi s s Pekarno , ne , med drugim tudi , no , mislim , ja .
-1	pač	pač	PART	Q	_	3	discourse	_	pronunciation=pač|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok18
-2	v	v	ADP	Sl	Case=Loc	3	case	_	pronunciation=v|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok19
-3	zvezi	zveza	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	0	root	_	pronunciation=zvezi|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok20
-4	s	z	ADP	Si	Case=Ins	5	reparandum	_	pronunciation=s|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok21
-5	s	z	ADP	Si	Case=Ins	6	case	_	pronunciation=s|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok22
-6	Pekarno	pekarna	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	3	nmod	_	pronunciation=Pekarno|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok23
-7	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok24
-8	ne	ne	PART	Q	Polarity=Neg	3	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok25
-9	,	,	PUNCT	Z	_	8	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s1|Gos2.1_token_id=Artur-N-G5082-P600080.tok26
-10	med	med	ADP	Si	Case=Ins	11	case	_	pronunciation=med|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok27
-11	drugim	drug	ADJ	Mlpnsi	Case=Ins|Gender=Neut|Number=Sing	3	parataxis	_	pronunciation=drugim|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok28
-12	tudi	tudi	PART	Q	_	11	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok29
-13	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok30
-14	no	no	PART	Q	_	11	discourse	_	pronunciation=no|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok31
-15	,	,	PUNCT	Z	_	14	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok32
-16	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	parataxis:discourse	_	pronunciation=mislim|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok33
-17	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok34
-18	ja	ja	PART	Q	_	11	discourse	_	pronunciation=ja|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok35
-19	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5082-P600080.s2|Gos2.1_token_id=Artur-N-G5082-P600080.tok36
-
-# sent_id = Artur-N-G5082-P600080.s5-s6_reseg.1338
-# speaker_id = Artur-N-G5082
-# sound_url = https://nl.ijs.si/project/iriss/Artur-N-G5082-P600080.s5-s6.mp3
-# text = okej , in kaj so te razlike med temi tremi različnimi kapitali pač , če bi lahko znal tako mi malo povedati , da si lažje predstavljam .
-1	okej	okej	ADV	Rgp	Degree=Pos	4	discourse	_	pronunciation=okej|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok62
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok63
-3	in	in	CCONJ	Cc	_	4	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok64
-4	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	pronunciation=kaj|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok65
-5	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	pronunciation=so|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok66
-6	te	ta	DET	Pd-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	7	det	_	pronunciation=te|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok67
-7	razlike	razlika	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	pronunciation=razlike|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok68
-8	med	med	ADP	Si	Case=Ins	12	case	_	pronunciation=med|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok69
-9	temi	ta	DET	Pd-mpi	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	pronunciation=temi|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok70
-10	tremi	trije	NUM	Mlcmpi	Case=Ins|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	12	nummod	_	pronunciation=tremi|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok71
-11	različnimi	različen	ADJ	Agpmpi	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	12	amod	_	pronunciation=različnimi|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok72
-12	kapitali	kapital	NOUN	Ncmpi	Case=Ins|Gender=Masc|Number=Plur	7	nmod	_	pronunciation=kapitali|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok73
-13	pač	pač	PART	Q	_	4	discourse	_	pronunciation=pač|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok74
-14	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s5|Gos2.1_token_id=Artur-N-G5082-P600080.tok75
-15	če	če	SCONJ	Cs	_	18	mark	_	pronunciation=če|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok76
-16	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	18	aux	_	pronunciation=bi|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok77
-17	lahko	lahko	ADV	Rgp	Degree=Pos	18	advmod	_	pronunciation=lahko|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok78
-18	znal	znati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	4	advcl	_	pronunciation=znal|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok79
-19	tako	tako	ADV	Rgp	Degree=Pos	22	advmod	_	pronunciation=tko|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok80
-20	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	22	iobj	_	pronunciation=mi|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok81
-21	malo	malo	DET	Rgp	PronType=Ind	22	advmod	_	pronunciation=mal|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok82
-22	povedati	povedati	VERB	Vmen	Aspect=Perf|VerbForm=Inf	18	xcomp	_	pronunciation=povedat|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok83
-23	,	,	PUNCT	Z	_	27	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok84
-24	da	da	SCONJ	Cs	_	27	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok85
-25	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	27	expl	_	pronunciation=si|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok86
-26	lažje	lahko	ADV	Rgc	Degree=Cmp	27	advmod	_	pronunciation=lažje|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok87
-27	predstavljam	predstavljati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22	advcl	_	pronunciation=predstavljam|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok88
-28	.	.	PUNCT	Z	_	4	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-N-G5082-P600080.s6|Gos2.1_token_id=Artur-N-G5082-P600080.tok89
 

@@ -1,27 +1,3 @@
-# sent_id = Artur-J-Gvecg-P500063.s125_reseg.473
-# speaker_id = Artur-J-G3134
-# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500063.s125.mp3
-# text = mislim , kolektivizacija je sigurno zelo pomembna in nudi tudi največ možnosti tako uporabnikom kot imetnikom , ne .
-1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis:discourse	_	pronunciation=misləm|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1731
-2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1732
-3	kolektivizacija	kolektivizacija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	pronunciation=kolektivizacija|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1733
-4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1734
-5	sigurno	sigurno	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=sigurno|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1735
-6	zelo	zelo	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=zlo|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1736
-7	pomembna	pomemben	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=pomembna|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1737
-8	in	in	CCONJ	Cc	_	9	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1738
-9	nudi	nuditi	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	pronunciation=nudi|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1739
-10	tudi	tudi	PART	Q	_	12	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1740
-11	največ	največ	DET	Rgs	PronType=Ind	12	det	_	pronunciation=največ|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1741
-12	možnosti	možnost	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	9	obj	_	pronunciation=možnosti|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1742
-13	tako	tako	CCONJ	Cc	_	14	parataxis:discourse	_	pronunciation=tako|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1743
-14	uporabnikom	uporabnik	NOUN	Ncmpd	Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	pronunciation=uporabnikom|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1744
-15	kot	kot	SCONJ	Cs	_	16	cc	_	pronunciation=kot|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1745
-16	imetnikom	imetnik	NOUN	Ncmpd	Case=Dat|Gender=Masc|Number=Plur	14	conj	_	pronunciation=imetnikom|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1746
-17	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1747
-18	ne	ne	PART	Q	Polarity=Neg	7	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1748
-19	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1749
-
 # newdoc id = Artur-J-Gvecg-P500063
 # sent_id = Artur-J-Gvecg-P500063.s75-s78_reseg.464
 # speaker_id = Artur-J-G3133
@@ -792,6 +768,30 @@
 110	upravljanih	upravljan	ADJ	Appfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	96	advcl	_	pronunciation=upravljenih|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s133|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1859
 111	kolektivno	kolektivno	ADV	Rgp	Degree=Pos	110	advmod	_	pronunciation=kolektivno|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s133|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1860
 112	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s133|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1861
+
+# sent_id = Artur-J-Gvecg-P500063.s125_reseg.473
+# speaker_id = Artur-J-G3134
+# sound_url = https://nl.ijs.si/project/iriss/Artur-J-Gvecg-P500063.s125.mp3
+# text = mislim , kolektivizacija je sigurno zelo pomembna in nudi tudi največ možnosti tako uporabnikom kot imetnikom , ne .
+1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis:discourse	_	pronunciation=misləm|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1731
+2	,	,	PUNCT	Z	_	1	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1732
+3	kolektivizacija	kolektivizacija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	pronunciation=kolektivizacija|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1733
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1734
+5	sigurno	sigurno	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=sigurno|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1735
+6	zelo	zelo	ADV	Rgp	Degree=Pos	7	advmod	_	pronunciation=zlo|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1736
+7	pomembna	pomemben	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	pronunciation=pomembna|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1737
+8	in	in	CCONJ	Cc	_	9	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1738
+9	nudi	nuditi	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	pronunciation=nudi|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1739
+10	tudi	tudi	PART	Q	_	12	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1740
+11	največ	največ	DET	Rgs	PronType=Ind	12	det	_	pronunciation=največ|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1741
+12	možnosti	možnost	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	9	obj	_	pronunciation=možnosti|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1742
+13	tako	tako	CCONJ	Cc	_	14	parataxis:discourse	_	pronunciation=tako|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1743
+14	uporabnikom	uporabnik	NOUN	Ncmpd	Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	pronunciation=uporabnikom|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1744
+15	kot	kot	SCONJ	Cs	_	16	cc	_	pronunciation=kot|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1745
+16	imetnikom	imetnik	NOUN	Ncmpd	Case=Dat|Gender=Masc|Number=Plur	14	conj	_	pronunciation=imetnikom|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1746
+17	,	,	PUNCT	Z	_	18	punct	_	pronunciation=,|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1747
+18	ne	ne	PART	Q	Polarity=Neg	7	discourse	_	pronunciation=ne|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1748
+19	.	.	PUNCT	Z	_	7	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-J-Gvecg-P500063.s125|Gos2.1_token_id=Artur-J-Gvecg-P500063.tok1749
 
 # sent_id = Artur-J-Gvecg-P500063.s134-s135_reseg.475
 # speaker_id = Artur-J-G3134

@@ -46,32 +46,6 @@
 29	preiskave	preiskava	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	pronunciation=preiskave|Gos2.1_seg_id=Artur-P-G7065-P701064.s8|Gos2.1_token_id=Artur-P-G7065-P701064.tok36
 30	.	.	PUNCT	Z	_	6	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-P-G7065-P701064.s8|Gos2.1_token_id=Artur-P-G7065-P701064.tok37
 
-# sent_id = Artur-P-G7065-P701064.s128_reseg.1921
-# speaker_id = Artur-P-G7065
-# sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7065-P701064.s128.mp3
-# text = seveda je niste .
-1	seveda	seveda	PART	Q	_	3	advmod	_	pronunciation=seveda|Gos2.1_seg_id=Artur-P-G7065-P701064.s128|Gos2.1_token_id=Artur-P-G7065-P701064.tok568
-2	je	on	PRON	Pp3fsg--y	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	3	obj	_	pronunciation=je|Gos2.1_seg_id=Artur-P-G7065-P701064.s128|Gos2.1_token_id=Artur-P-G7065-P701064.tok569
-3	niste	biti	VERB	Va-r2p-y	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=niste|Gos2.1_seg_id=Artur-P-G7065-P701064.s128|Gos2.1_token_id=Artur-P-G7065-P701064.tok570
-4	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-P-G7065-P701064.s128|Gos2.1_token_id=Artur-P-G7065-P701064.tok571
-
-# sent_id = Artur-P-G7065-P701064.s164_reseg.1927
-# speaker_id = Artur-P-G7065
-# sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7065-P701064.s164.mp3
-# text = seveda niso .
-1	seveda	seveda	PART	Q	_	2	advmod	_	pronunciation=seveda|Gos2.1_seg_id=Artur-P-G7065-P701064.s164|Gos2.1_token_id=Artur-P-G7065-P701064.tok743
-2	niso	biti	VERB	Va-r3p-y	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=niso|Gos2.1_seg_id=Artur-P-G7065-P701064.s164|Gos2.1_token_id=Artur-P-G7065-P701064.tok744
-3	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-P-G7065-P701064.s164|Gos2.1_token_id=Artur-P-G7065-P701064.tok745
-
-# sent_id = Artur-P-G7065-P701064.s169_reseg.1929
-# speaker_id = Artur-P-G7065
-# sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7065-P701064.s169.mp3
-# text = tudi oni niso .
-1	tudi	tudi	PART	Q	_	2	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-P-G7065-P701064.s169|Gos2.1_token_id=Artur-P-G7065-P701064.tok765
-2	oni	on	PRON	Pp3mpn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	pronunciation=oni|Gos2.1_seg_id=Artur-P-G7065-P701064.s169|Gos2.1_token_id=Artur-P-G7065-P701064.tok766
-3	niso	biti	VERB	Va-r3p-y	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=niso|Gos2.1_seg_id=Artur-P-G7065-P701064.s169|Gos2.1_token_id=Artur-P-G7065-P701064.tok767
-4	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-P-G7065-P701064.s169|Gos2.1_token_id=Artur-P-G7065-P701064.tok768
-
 # sent_id = Artur-P-G7065-P701064.s9-s11_reseg.1903
 # speaker_id = Artur-P-G7065
 # sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7065-P701064.s9-s11.mp3
@@ -690,6 +664,15 @@
 3	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	pronunciation=vi|Gos2.1_seg_id=Artur-P-G7065-P701064.s127|Gos2.1_token_id=Artur-P-G7065-P701064.tok565
 4	izkazali	izkazati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	pronunciation=iskazali|Gos2.1_seg_id=Artur-P-G7065-P701064.s128|Gos2.1_token_id=Artur-P-G7065-P701064.tok566
 
+# sent_id = Artur-P-G7065-P701064.s128_reseg.1921
+# speaker_id = Artur-P-G7065
+# sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7065-P701064.s128.mp3
+# text = seveda je niste .
+1	seveda	seveda	PART	Q	_	3	advmod	_	pronunciation=seveda|Gos2.1_seg_id=Artur-P-G7065-P701064.s128|Gos2.1_token_id=Artur-P-G7065-P701064.tok568
+2	je	on	PRON	Pp3fsg--y	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Variant=Short	3	obj	_	pronunciation=je|Gos2.1_seg_id=Artur-P-G7065-P701064.s128|Gos2.1_token_id=Artur-P-G7065-P701064.tok569
+3	niste	biti	VERB	Va-r2p-y	Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=niste|Gos2.1_seg_id=Artur-P-G7065-P701064.s128|Gos2.1_token_id=Artur-P-G7065-P701064.tok570
+4	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-P-G7065-P701064.s128|Gos2.1_token_id=Artur-P-G7065-P701064.tok571
+
 # sent_id = Artur-P-G7065-P701064.s129-s138_reseg.1922
 # speaker_id = Artur-P-G7065
 # sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7065-P701064.s129-s138.mp3
@@ -885,6 +868,14 @@
 24	javne	javen	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	pronunciation=jaune|Gos2.1_seg_id=Artur-P-G7065-P701064.s163|Gos2.1_token_id=Artur-P-G7065-P701064.tok740
 25	funkcije	funkcija	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	pronunciation=funkcije|Gos2.1_seg_id=Artur-P-G7065-P701064.s163|Gos2.1_token_id=Artur-P-G7065-P701064.tok741
 
+# sent_id = Artur-P-G7065-P701064.s164_reseg.1927
+# speaker_id = Artur-P-G7065
+# sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7065-P701064.s164.mp3
+# text = seveda niso .
+1	seveda	seveda	PART	Q	_	2	advmod	_	pronunciation=seveda|Gos2.1_seg_id=Artur-P-G7065-P701064.s164|Gos2.1_token_id=Artur-P-G7065-P701064.tok743
+2	niso	biti	VERB	Va-r3p-y	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=niso|Gos2.1_seg_id=Artur-P-G7065-P701064.s164|Gos2.1_token_id=Artur-P-G7065-P701064.tok744
+3	.	.	PUNCT	Z	_	2	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-P-G7065-P701064.s164|Gos2.1_token_id=Artur-P-G7065-P701064.tok745
+
 # sent_id = Artur-P-G7065-P701064.s165-s168_reseg.1928
 # speaker_id = Artur-P-G7065
 # sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7065-P701064.s165-s168.mp3
@@ -907,6 +898,15 @@
 16	nosilci	nosilec	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	0	root	_	pronunciation=nosilci|Gos2.1_seg_id=Artur-P-G7065-P701064.s168|Gos2.1_token_id=Artur-P-G7065-P701064.tok761
 17	javnih	javen	ADJ	Agpfpg	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	18	amod	_	pronunciation=jaunih|Gos2.1_seg_id=Artur-P-G7065-P701064.s168|Gos2.1_token_id=Artur-P-G7065-P701064.tok762
 18	funkcij	funkcija	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	pronunciation=funkcij|Gos2.1_seg_id=Artur-P-G7065-P701064.s168|Gos2.1_token_id=Artur-P-G7065-P701064.tok763
+
+# sent_id = Artur-P-G7065-P701064.s169_reseg.1929
+# speaker_id = Artur-P-G7065
+# sound_url = https://nl.ijs.si/project/iriss/Artur-P-G7065-P701064.s169.mp3
+# text = tudi oni niso .
+1	tudi	tudi	PART	Q	_	2	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-P-G7065-P701064.s169|Gos2.1_token_id=Artur-P-G7065-P701064.tok765
+2	oni	on	PRON	Pp3mpn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	pronunciation=oni|Gos2.1_seg_id=Artur-P-G7065-P701064.s169|Gos2.1_token_id=Artur-P-G7065-P701064.tok766
+3	niso	biti	VERB	Va-r3p-y	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	pronunciation=niso|Gos2.1_seg_id=Artur-P-G7065-P701064.s169|Gos2.1_token_id=Artur-P-G7065-P701064.tok767
+4	.	.	PUNCT	Z	_	3	punct	_	pronunciation=.|sentence_ending=True|Gos2.1_seg_id=Artur-P-G7065-P701064.s169|Gos2.1_token_id=Artur-P-G7065-P701064.tok768
 
 # sent_id = Artur-P-G7065-P701064.s170-s175_reseg.1930
 # speaker_id = Artur-P-G7065
