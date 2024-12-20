@@ -7,20 +7,23 @@ ROG consists of 57 manually annotated recordings from the Artur corpus (`ROG-Art
 
 ```
 ROG
-├── DOCS
+├── METADATA/
+│   ├── DOC.pdf
 │   ├── ROG-speakers.tsv
 │   └── ROG-speeches.tsv
+├── ROG-Art/
+│   ├── EXB/  [57 entries]
+│   ├── EXS/  [57 entries]
+│   ├── TeG/  [57 entries]
+│   ├── TRS/  [114 entries]
+│   ├── TXT/  [114 entries]
+│   ├── WAV/  [57 entries]
+│   ├── Rog-Art.coma
+│   └── ROG-Art-TrainDevTest-split.tsv
+├── ROG-SST/  [344 entries]
 ├── PREBERIME.md
 ├── README.md
-├── ROG-TrainDevTest-split.tsv
-├── ROG-Art
-│   ├── ROG-Art-TrainDevTest-split.tsv
-│   ├── EXB  [57 entries]
-│   ├── EXS  [58 entries]
-│   ├── TRS  [114 entries]
-│   ├── TXT  [114 entries]
-│   └── WAV  [57 entries]
-└── ROG-SST  [344 entries]
+└── ROG-TrainDevTest-split.tsv
 ```
 ROG consists of two directories: `CONLLU` and `ROG-Art`. `CONLLU` directory contains 344 conllu files, while `ROG-Art` is split in subdirectories based on the file types (AVD for audio, TXT for text, ...)
 
